@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>考研英语一 每日阅读</title>
+<style>
+  :root { --bg: #f5f5f0; --card: #ffffff; --text: #2c2c2c; --muted: #6b7280; --accent: #1e40af; --accent-light: #dbeafe; --correct: #059669; --correct-bg: #d1fae5; --wrong: #dc2626; --wrong-bg: #fee2e2; --border: #e5e7eb; --word-bg: #fef3c7; --word-hover: #fde68a; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: "Georgia", "Times New Roman", serif; background: var(--bg); color: var(--text); line-height: 1.8; font-size: 16px; }
+  .container { max-width: 780px; margin: 0 auto; padding: 20px 16px 60px; }
+  header { display: flex; align-items: center; justify-content: space-between; padding: 16px 0 24px; border-bottom: 2px solid var(--accent); margin-bottom: 28px; flex-wrap: wrap; gap: 12px; }
+  header h1 { font-size: 1.4rem; color: var(--accent); } header h1 span { font-weight: 400; color: var(--muted); font-size: 0.85rem; margin-left: 8px; }
+  .header-links a { text-decoration: none; color: var(--accent); font-size: 0.9rem; border: 1px solid var(--accent); padding: 5px 14px; border-radius: 4px; transition: all 0.2s; }
+  .header-links a:hover { background: var(--accent); color: #fff; }
+  .date-bar { display: flex; align-items: center; gap: 12px; margin-bottom: 24px; flex-wrap: wrap; }
+  .date-bar label { font-size: 0.95rem; color: var(--muted); font-weight: 600; }
+  .date-bar select { font-family: inherit; font-size: 1rem; padding: 6px 12px; border: 1px solid var(--border); border-radius: 6px; background: var(--card); }
+  .article-tag { font-size: 0.8rem; background: var(--accent-light); color: var(--accent); padding: 3px 10px; border-radius: 12px; font-weight: 600; }
+  .article-card { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 32px 28px; margin-bottom: 32px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+  .article-card h2 { font-size: 1.25rem; margin-bottom: 6px; color: var(--accent); }
+  .article-card .directions { font-size: 0.85rem; color: var(--muted); margin-bottom: 18px; font-style: italic; }
+  .article-card h3 { font-size: 1.05rem; margin: 20px 0 14px; color: var(--text); }
+  .article-text p { margin-bottom: 14px; text-indent: 2em; text-align: justify; }
+  .word-link { background: var(--word-bg); color: #92400e; padding: 1px 4px; border-radius: 3px; cursor: pointer; text-decoration: none; border-bottom: 1px dashed #b45309; font-weight: 600; }
+  .question-block { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 24px 28px; margin-bottom: 18px; }
+  .question-block.correct { border-color: var(--correct); background: #f0fdf4; }
+  .question-block.wrong { border-color: var(--wrong); background: #fef2f2; }
+  .q-header { display: flex; align-items: baseline; gap: 8px; margin-bottom: 14px; }
+  .q-num { font-weight: 700; color: var(--accent); } .q-type { font-size: 0.75rem; background: #f3f4f6; color: var(--muted); padding: 2px 8px; border-radius: 10px; }
+  .q-stem { margin-bottom: 14px; line-height: 1.7; }
+  .options { display: flex; flex-direction: column; gap: 8px; }
+  .option-label { display: flex; align-items: flex-start; gap: 10px; padding: 8px 12px; border-radius: 6px; cursor: pointer; transition: background 0.15s; }
+  .option-label:hover { background: #f9fafb; }
+  .option-label.correct-opt { background: var(--correct-bg); font-weight: 600; }
+  .option-label.wrong-opt { background: var(--wrong-bg); text-decoration: line-through; opacity: 0.7; }
+  .explanation { margin-top: 14px; padding: 14px 16px; background: #f8fafc; border-left: 3px solid var(--accent); font-size: 0.9rem; display: none; }
+  .explanation.show { display: block; }
+  .exp-item { margin-bottom: 6px; padding: 3px 0; }
+  .exp-correct { color: var(--correct); font-weight: 600; }
+  #submit-btn { font-size: 1.05rem; padding: 12px 40px; background: var(--accent); color: #fff; border: none; border-radius: 6px; cursor: pointer; font-weight: 600; margin-top: 20px; display: block; margin-left: auto; margin-right: auto; }
+  #submit-btn:disabled { background: #9ca3af; cursor: not-allowed; }
+  .score-display { margin-top: 16px; font-size: 1.2rem; font-weight: 700; text-align: center; display: none; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>考研英语一 每日阅读 <span>Reading Comprehension</span></h1>
+    <div class="header-links"><a href="words.html">词汇表</a></div>
+  </header>
+  <div class="date-bar">
+    <label>日期：</label><select id="date-select"></select>
+    <span class="article-tag">Text 1</span>
+  </div>
+  <div id="content-area"></div>
+  <footer style="text-align:center; margin-top:40px; padding-top:20px; border-top:1px solid var(--border); color:var(--muted); font-size:0.85rem;">
+    <p>考研英语一阅读理解 &middot; 每日一篇</p>
+  </footer>
+</div>
+<script src="data/article.js"></script>
+<script>
+let allArticles = {}; 
+if (typeof APRIL_ARTICLES !== 'undefined') Object.assign(allArticles, APRIL_ARTICLES);
+
+let currentArticle = null; let submitted = false;
+
+function init() {
+  const select = document.getElementById('date-select');
+  const dates = Object.keys(allArticles).sort((a, b) => {
+    const [am, ad] = a.split('-').map(Number);
+    const [bm, bd] = b.split('-').map(Number);
+    if (am !== bm) return bm - am;
+    return bd - ad;
+  });
+  dates.forEach(d => {
+    const opt = document.createElement('option'); opt.value = d; opt.textContent = allArticles[d].date; select.appendChild(opt);
+  });
+  if (dates.length > 0) renderArticle(dates[0]);
+  select.addEventListener('change', () => renderArticle(select.value));
+}
+
+function renderArticle(dateKey) {
+  const data = allArticles[dateKey]; if (!data) return;
+  currentArticle = data; submitted = false;
+  
+  const wordSet = new Set(data.words.map(w => typeof w === 'string' ? w.toLowerCase() : w.word.toLowerCase()));
+  const sortedWords = [...wordSet].sort((a, b) => b.length - a.length);
+  const pattern = new RegExp('\\b(' + sortedWords.map(w => w.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')).join('|') + ')\\b', 'gi');
+  
+  let htmlText = data.text.split('\n\n').map(p => {
+    return `<p>${p.replace(pattern, match => {
+    const lower = match.toLowerCase();
+    const wordData = data.words.find(w => (typeof w === 'string' ? w : w.word).toLowerCase() === lower);
+    const displayDef = wordData ? (typeof wordData === 'string' ? wordData : wordData.def) : match;
+    return `<span class="word-link" onclick="location.href='words.html?q=${encodeURIComponent(match)}'">${match}</span>`;
+  })}</p>`;
+  }).join('');
+  
+  let qHTML = data.questions.map((q, i) => `
+    <div class="question-block" id="qblock-${i}">
+      <div class="q-header"><span class="q-num">${q.num}.</span><span class="q-type">${q.type}</span></div>
+      <div class="q-stem">${q.stem}</div>
+      <div class="options">
+        ${['A','B','C','D'].map((l,j) => `<label class="option-label" id="opt-${i}-${j}"><input type="radio" name="q${i}" value="${l}"> <span>[${l}] ${q.options[j]}</span></label>`).join('')}
+      </div>
+      <div class="explanation" id="exp-${i}">
+        ${['A','B','C','D'].map(l => `<div class="exp-item ${l===q.answer?'exp-correct':''}">[${l}] ${q.explanation[l]}</div>`).join('')}
+      </div>
+    </div>
+  `).join('');
+  
+  document.getElementById('content-area').innerHTML = `
+    <div class="article-card">
+      <h2>${data.title}</h2>
+      <div class="directions"><strong>Directions:</strong> Read the following text. Answer the questions below.</div>
+      <h3>Text 1</h3>
+      <div class="article-text">${htmlText}</div>
+      <h3 style="margin-top:28px;">Questions 1-5 are based on Text 1.</h3>
+    </div>
+    <div class="questions-section">${qHTML}</div>
+    <button id="submit-btn" onclick="submitAnswers()">提交答案</button>
+    <div class="score-display" id="score-display"></div>
+  `;
+}
+
+function submitAnswers() {
+  if (submitted) return; submitted = true; let correct = 0;
+  currentArticle.questions.forEach((q, i) => {
+    const sel = document.querySelector(`input[name="q${i}"]:checked`);
+    const ans = sel ? sel.value : null; const isCorr = ans === q.answer; if (isCorr) correct++;
+    const block = document.getElementById(`qblock-${i}`); block.classList.add(isCorr ? 'correct' : 'wrong');
+    ['A','B','C','D'].forEach((l, j) => {
+      const lbl = document.getElementById(`opt-${i}-${j}`); const inp = lbl.querySelector('input'); inp.disabled = true;
+      if (l === q.answer) lbl.classList.add('correct-opt'); else if (ans === l) lbl.classList.add('wrong-opt');
+    }); document.getElementById(`exp-${i}`).classList.add('show');
+  });
+  const scoreEl = document.getElementById('score-display'); scoreEl.textContent = `得分：${correct} / 5`;
+  scoreEl.style.display = 'block'; scoreEl.style.color = correct >= 4 ? '#059669' : correct >= 3 ? '#d97706' : '#dc2626';
+  document.getElementById('submit-btn').disabled = true; document.getElementById('submit-btn').textContent = '已提交';
+}
+
+init();
+</script>
+</body>
+</html>

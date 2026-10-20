@@ -1,0 +1,11 @@
+cs-408/
+考研数学/
+
+# macOS
+.DS_Store
+._*
+
+# 编辑器/工具缓存
+.idea/
+.vscode/
+*.swp

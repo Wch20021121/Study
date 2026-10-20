@@ -1,0 +1,125 @@
+{
+  "date": "5/11",
+  "month": 5,
+  "day": 11,
+  "title": "Article from 5/11",
+  "text": "The proliferation of misinformation across digital platforms has emerged as a defining challenge of the information age, with profound implications for public discourse, democratic processes, and individual decision-making. Unlike traditional forms of propaganda, which typically emanated from identifiable institutional sources, contemporary disinformation operations exploit the architecture of social media to achieve unprecedented scale and speed of dissemination while maintaining plausible deniability. Research conducted at the Oxford Internet Institute found that false headlines were 70 per cent more likely to be shared on Twitter than accurate ones, and that this differential was amplified during periods of heightened public anxiety, such as disease outbreaks or political crises.\n\nThe cognitive mechanisms underlying susceptibility to misinformation constitute a subject of intense scholarly inquiry. Behavioral psychologists have identified several recurring patterns: firstly, the fluency effect—information that is easier to process mentally is often mistakenly perceived as more credible, regardless of its actual accuracy. Secondly, the confirmation bias leads individuals to accept claims that align with pre-existing beliefs while scrutinising contradictory evidence more rigorously. Thirdly, the authority heuristic causes people to credit assertions attributed to credible sources, even when those attributions are fabricated. The combination of these biases creates what researchers term an\"epistemic vulnerability,\" whereby rational evaluation of information quality becomes systematically impaired under conditions of emotional arousal or cognitive load.\n\nA particularly consequential manifestation of this phenomenon concerns public health communication. During the COVID-19 pandemic, the World Health Organisation documented what it termed an\"infodemic\"—a parallel epidemic of false or misleading health information that undermined trust in evidence-based interventions and vaccination campaigns. Studies examining vaccine hesitancy revealed that exposure to misinformation reduced willingness to vaccinate by approximately 15 percentage points among certain demographic groups, even after controlling for political ideology and prior vaccination history. Experts suggest that simply providing accurate corrections is often insufficient, as false information can exert a\"memory residue\" effect, whereby the correction paradoxically reinforces the original falsehood by increasing its accessibility in memory.\n\nCollective responses to misinformation have centred on a combination of technological and educational interventions. Platform-based approaches include algorithmic demotion of low-credibility content, transparency labels indicating verification status, and partnerships with independent fact-checking organisations. However, efficacy remains contested, as users frequently circumvent warnings by sharing content prior to reading annotations. Educational interventions emphasise the cultivation of what information literacy scholars term sourcing metacognition—the capacity to evaluate not merely whether a claim is accurate but whether attributed sources are authentic and relevant. Longitudinal studies conducted across multiple nations indicate that media literacy programmes can reduce susceptibility to misinformation by twenty to thirty per cent, though effects vary substantially depending on programme design and implementation quality.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "词义推断题",
+      "stem": "1. The word \"emanated\" (Paragraph 1) most probably means ________.",
+      "options": [
+        "originated from a particular source",
+        "was suppressed by authorities",
+        "gradually increased in intensity",
+        "was translated into multiple languages"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。emanated 意为\"源自、发出\"，指信息从特定来源产生并传播开来。",
+        "B": "错误。emanated 与 suppression（压制）意思相反。",
+        "C": "错误。emanated 描述来源，而非强度变化。",
+        "D": "错误。emanated 与翻译无关。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "细节理解题",
+      "stem": "2. According to the passage, what finding did the Oxford Internet Institute research demonstrate?",
+      "options": [
+        "Accurate headlines were more likely to be shared than false ones.",
+        "False headlines were significantly more likely to be shared than accurate ones.",
+        "Social media users preferred longer news articles over shorter ones.",
+        "Most people verified information before sharing it."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。研究发现恰恰相反——false headlines 比 accurate ones 更易被分享。",
+        "B": "正确。文中明确指出 false headlines were 70 per cent more likely to be shared on Twitter than accurate ones。",
+        "C": "错误。文中未讨论文章长度与分享率的关系。",
+        "D": "错误。研究表明人们在分享前不会验证信息，而非主动核实。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. What can be inferred about the\"memory residue\"effect from Paragraph 3?",
+      "options": [
+        "Corrections always strengthen the original true information in memory.",
+        "Providing factual corrections may unintentionally reinforce false information.",
+        "People with higher education are immune to memory residue effects.",
+        "Memory residue only occurs in health-related misinformation."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。memory residue 指纠正反而强化了错误信息，而非加强正确信息。",
+        "B": "正确。文中说明 false information can exert a\"memory residue\" effect，即纠正反而通过增加原文在记忆中的可及性而强化了错误信息。",
+        "C": "错误。文中未提及教育水平与 memory residue 的关系。",
+        "D": "错误。memory residue 是一种认知现象，文中以健康信息为例，但未说只发生在此领域。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "细节理解题",
+      "stem": "4. According to the passage, which of the following is NOT mentioned as a factor contributing to misinformation susceptibility?",
+      "options": [
+        "The fluency effect.",
+        "The authority heuristic.",
+        "Political affiliation alone.",
+        "Confirmation bias."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。fluency effect 是明确提到的因素之一。",
+        "B": "错误。authority heuristic 是文中提到的三个认知机制之一。",
+        "C": "正确。political affiliation alone 未被列为导致 misinformation susceptibility 的因素；政治意识形态只是控制变量，不是直接原因。",
+        "D": "错误。confirmation bias 是文中明确提到的三个认知机制之一。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "How Social Media Algorithms Amplify False Information",
+        "Understanding and Combating the Spread of Misinformation",
+        "The History of Propaganda in the Digital Age",
+        "Why Fact-Checking Alone Cannot Stop Misinformation"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。社交媒体算法只是虚假信息传播的一个方面，不是文章主旨。",
+        "B": "正确。全文从认知机制、健康传播影响、应对策略三个层面系统讨论虚假信息问题，该标题最全面地概括了文章内容。",
+        "C": "错误。文章重点是当代虚假信息的认知机制和应对，而非历史回顾。",
+        "D": "错误。文章讨论了技术和教育干预，但事实核查只是其中一部分，不能概括全文。"
+      }
+    }
+  ],
+  "words": [
+    {"word": "proliferation", "def": "激增，扩散"},
+    {"word": "misinformation", "def": "错误信息，虚假信息"},
+    {"word": "discourse", "def": "话语，论述"},
+    {"word": "dissemination", "def": "传播，散布"},
+    {"word": "plausible deniability", "def": "似有根据的推诿"},
+    {"word": "fluency effect", "def": "流畅性效应"},
+    {"word": "credible", "def": "可信的"},
+    {"word": "confirmation bias", "def": "确认偏误"},
+    {"word": "authority heuristic", "def": "权威启发式"},
+    {"word": "epistemic vulnerability", "def": "认知脆弱性"},
+    {"word": "cognitive load", "def": "认知负荷"},
+    {"word": "infodemic", "def": "信息疫情"},
+    {"word": "interventions", "def": "干预措施"},
+    {"word": "vaccine hesitancy", "def": "疫苗犹豫"},
+    {"word": "demographic", "def": "人口统计的"},
+    {"word": "memory residue", "def": "记忆残留效应"},
+    {"word": "paradoxically", "def": "矛盾地，自相矛盾地"},
+    {"word": "algorithmic demotion", "def": "算法降权"},
+    {"word": "transparency labels", "def": "透明度标签"},
+    {"word": "circumvent", "def": "绕过"},
+    {"word": "sourcing metacognition", "def": "来源元认知"},
+    {"word": "longitudinal", "def": "纵向的"},
+    {"word": "media literacy", "def": "媒体素养"},
+    {"word": "implementation", "def": "实施，执行"}
+  ]
+}

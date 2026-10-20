@@ -1,0 +1,217 @@
+{
+  "date": "4/17",
+  "month": 4,
+  "day": 17,
+  "title": "Article from 4/17",
+  "text": "The preservation of biodiversity has emerged as one of the most pressing environmental challenges of the twenty-first century. Scientists warn that human activities are driving species toward extinction at rates unprecedented in geological history, threatening ecosystems that sustain life on Earth. Yet despite growing scientific consensus and mounting public concern, conservation efforts remain chronically underfunded and politically marginalized. The paradox is striking: while governments and corporations routinely commit to sustainability goals, the mechanisms for protecting natural habitats remain woefully inadequate.\n\nAt the heart of this disconnect lies a fundamental tension between economic development and ecological preservation. Conservation biologists have long argued that intact ecosystems provide irreplaceable services—water filtration, carbon sequestration, pollination, and disease regulation—that underpin human well-being and economic productivity. Economists have attempted to quantify these benefits, estimating that global ecosystem services represent trillions of dollars in annual value. Nevertheless, such calculations have proven insufficient to alter policy priorities. Decision-makers confronted with immediate development pressures routinely discount future ecological benefits, prioritizing visible short-term gains over abstract long-term costs. The result has been a steady erosion of natural habitats, particularly in regions where economic imperatives appear most urgent.\n\nThe fragmentation of responsibility further complicates conservation governance. Biodiversity loss is inherently transboundary—migratory species traverse multiple jurisdictions, and ecosystem degradation in one region cascades across interconnected natural systems. Yet regulatory frameworks remain predominantly national, creating coordination failures that undermine collective action. International agreements, such as the Convention on Biological Diversity, have established aspirational targets but lack enforcement mechanisms. Meanwhile, funding disparities between wealthy and developing nations generate tensions: biodiversity-rich countries, often economically constrained, bear disproportionate responsibility for protecting global natural heritage while lacking resources to implement effective measures.\n\nCorporate commitments to environmental sustainability have similarly fallen short of transformative impact. Many corporations have adopted biodiversity pledges, integrating conservation language into sustainability reports and marketing materials. Yet implementation frequently remains superficial. Supply chains continue to drive deforestation through agricultural expansion, while extraction industries operate in ecologically sensitive regions with minimal mitigation measures. Critics argue that voluntary corporate initiatives, absent robust regulatory oversight, permit companies to claim environmental responsibility while pursuing practices that degrade habitats. The proliferation of greenwashing—marketing that exaggerates environmental credentials—has eroded public trust in corporate sustainability claims.\n\nAddressing biodiversity loss requires systemic changes that transcend incremental reforms. Some experts advocate for establishing binding international frameworks with meaningful enforcement provisions, alongside substantially increased financing for conservation in developing regions. Others propose restructuring economic incentives through mechanisms like biodiversity credits or ecotourism revenue-sharing that align local economic interests with preservation goals. More fundamentally, scholars emphasize the need to reconceptualize humanity's relationship with nature—moving from an extractive paradigm that treats ecosystems as exploitable resources toward a stewardship ethic that recognizes our dependence on ecological integrity. What remains evident is that preserving biodiversity demands not merely technical solutions but a profound transformation in how societies value and govern the natural world upon which all human prosperity ultimately depends.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "综合题",
+      "stem": "1. surprisingly effective",
+      "options": [
+        "surprisingly effective",
+        "intentionally limited",
+        "regrettably insufficient",
+        "temporarily delayed"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。surprisingly effective 与 woefully inadequate 含义相反。",
+        "B": "错误。intentionally limited 不是 woefully inadequate 的含义。",
+        "C": "正确。woefully inadequate 意为可悲地/令人遗憾地不足，即 regrettably insufficient。文中说 mechanisms for protecting natural habitats remain woefully inadequate。",
+        "D": "错误。temporarily delayed 不是 woefully inadequate 的含义。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "综合题",
+      "stem": "2. According to Paragraph 2, decision-makers prioritize short-term gains because ________.",
+      "options": [
+        "ecosystem services have no economic value",
+        "conservation biologists oppose all economic development",
+        "international regulations forbid habitat protection",
+        "future ecological benefits are abstract and distant"
+      ],
+      "answer": "D",
+      "explanation": {
+        "A": "错误。生态系统服务有巨大经济价值（trillions of dollars）。",
+        "B": "错误。保护生物学家并不反对所有经济发展。",
+        "C": "错误。国际法规不禁止栖息地保护。",
+        "D": "正确。第二段说 Decision-makers confronted with immediate development pressures routinely discount future ecological benefits, prioritizing visible short-term gains over abstract long-term costs，即未来生态效益是抽象和遥远的，决策者优先考虑短期可见收益。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "综合题",
+      "stem": "3. The author mentions the Convention on Biological Diversity (Paragraph 3) to illustrate that ________.",
+      "options": [
+        "global coordination on biodiversity remains weak",
+        "international agreements have strong enforcement mechanisms",
+        "transboundary species are easily protected",
+        "wealthy nations bear most conservation responsibility"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。第三段说 the Convention on Biological Diversity has established aspirational targets but lack enforcement mechanisms，且 regulatory frameworks remain predominantly national, creating coordination failures，即全球生物多样性协调仍然薄弱。",
+        "B": "错误。国际协议缺乏 enforcement mechanisms。",
+        "C": "错误。跨界物种不容易被保护。",
+        "D": "错误。富裕国家不承担大部分保护责任——反而是 biodiversity-rich countries 承担 disproportionate responsibility。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "综合题",
+      "stem": "4. Which of the following is true about corporate sustainability commitments according to Paragraph 4?",
+      "options": [
+        "They have fundamentally transformed supply chain practices.",
+        "They often remain superficial without regulatory oversight.",
+        "They have eliminated deforestation from agricultural expansion.",
+        "They are universally trusted by the public."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。企业承诺未根本改变供应链实践。",
+        "B": "正确。第四段说 implementation frequently remains superficial, supply chains continue to drive deforestation, voluntary corporate initiatives absent robust regulatory oversight permit companies to claim environmental responsibility while pursuing practices that degrade habitats，即缺乏监管监督时企业承诺往往流于表面。",
+        "C": "错误。毁林未被消除。",
+        "D": "错误。企业不被 universally trusted——greenwashing eroded public trust。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "综合题",
+      "stem": "5. The best title for this text would be ________.",
+      "options": [
+        "Economic Development: The Priority for Policy Decisions",
+        "International Frameworks: The Solution to Global Coordination",
+        "Biodiversity Loss: The Challenge of Effective Conservation",
+        "Corporate Sustainability: A Success Story of Environmental Action"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。经济发展不是文章主旨。",
+        "B": "错误。国际框架只是对策之一。",
+        "C": "正确。全文讨论生物多样性保护的挑战，从资金不足、治理碎片化、企业承诺空洞到需要的系统性变革，最佳标题应反映有效保护的挑战。",
+        "D": "错误。企业可持续性不是成功案例。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "biodiversity",
+      "def": "生物多样性"
+    },
+    {
+      "word": "chronically",
+      "def": "长期地"
+    },
+    {
+      "word": "marginalized",
+      "def": "边缘化的"
+    },
+    {
+      "word": "woefully",
+      "def": "极其"
+    },
+    {
+      "word": "ecological",
+      "def": "生态的"
+    },
+    {
+      "word": "intact",
+      "def": "完好无损的"
+    },
+    {
+      "word": "filtration",
+      "def": "过滤"
+    },
+    {
+      "word": "sequestration",
+      "def": "封存"
+    },
+    {
+      "word": "pollination",
+      "def": "授粉"
+    },
+    {
+      "word": "underpin",
+      "def": "支撑"
+    },
+    {
+      "word": "quantify",
+      "def": "量化"
+    },
+    {
+      "word": "imperatives",
+      "def": "紧迫之事"
+    },
+    {
+      "word": "fragmentation",
+      "def": "碎片化"
+    },
+    {
+      "word": "transboundary",
+      "def": "跨界的"
+    },
+    {
+      "word": "traverse",
+      "def": "穿越"
+    },
+    {
+      "word": "cascades",
+      "def": "级联"
+    },
+    {
+      "word": "aspirational",
+      "def": "理想的"
+    },
+    {
+      "word": "disparities",
+      "def": "差异"
+    },
+    {
+      "word": "transformative",
+      "def": "变革性的"
+    },
+    {
+      "word": "superficial",
+      "def": "表面的"
+    },
+    {
+      "word": "deforestation",
+      "def": "森林砍伐"
+    },
+    {
+      "word": "greenwashing",
+      "def": "漂绿"
+    },
+    {
+      "word": "incremental",
+      "def": "渐进的"
+    },
+    {
+      "word": "restructuring",
+      "def": "重组"
+    },
+    {
+      "word": "ecotourism",
+      "def": "生态旅游"
+    },
+    {
+      "word": "reconceptualize",
+      "def": "重新构想"
+    },
+    {
+      "word": "extractive",
+      "def": "开采的"
+    },
+    {
+      "word": "stewardship",
+      "def": "管理"
+    },
+    {
+      "word": "integrity",
+      "def": "完整性"
+    }
+  ]
+}

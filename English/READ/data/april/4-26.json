@@ -1,0 +1,197 @@
+{
+  "date": "4/26",
+  "month": 4,
+  "day": 26,
+  "title": "Article from 4/26",
+  "text": "Screen time has been linked to a bewildering array of health issues, from depression and anxiety to obesity, poor sleep, and even suicide. Headlines routinely warn parents that smartphones are rotting children's brains, while policymakers scramble to introduce bans on social media use by minors. Yet beneath this avalanche of alarming statistics lies a fundamental methodological problem that most studies fail to address: the crucial distinction between correlation and causation.\n\nThe vast majority of screen time research relies on correlational designs, which can identify associations but cannot determine directionality. Do screens cause depression, or do depressed individuals spend more time on screens? Or could a third variable—such as social isolation or academic stress—influence both? Researchers have begun conducting meta-analyses that aggregate hundreds of high-quality studies using sophisticated statistical techniques. When this is done, the purported harm often diminishes substantially. A landmark 2019 study by Amy Orben and Andrew Przybylski at the University of Oxford examined over 20,000 factors affecting adolescent well-being and found that screen use accounted for merely 0.4 per cent of the variance—a negative effect comparable in magnitude to eating potatoes. By contrast, being bullied was associated with more than four times this effect, while adequate sleep and regular breakfast consumption showed far larger positive associations.\n\nA further complication arises from the imprecise definition of \"screen time\" itself. Watching educational television, doomscrolling through social media, video-calling family members, and reading an e-book all involve staring at a screen, yet intuitively we would expect their psychological impacts to differ considerably. Most studies employ crude self-reported measures of total screen hours, which are notoriously unreliable—people systematically underestimate their usage. Even narrowing the focus to social media reveals enormous heterogeneity: engaging in heated political arguments on a public platform at 3am is qualitatively distinct from exchanging supportive messages with close friends via a private messaging application.\n\nRecent research has attempted to parse these nuances. A 2024 meta-analysis published in SSM—Mental Health found small positive correlations between well-being and using social media for meaningful communication or maintaining social connections. Conversely, it identified small negative correlations with upward social comparison and what researchers term \"problematic use\"—behavioural patterns resembling addiction. These findings, while hardly revolutionary, underscore that the relationship between technology and well-being is not monolithic but contingent upon how, why, and in what context digital tools are employed.\n\nGiven the potential for harm, some argue for adopting the precautionary principle, particularly regarding children. The UK and Australian governments have introduced or proposed restrictions on minors' access to social media platforms. Critics counter that such measures may deprive young people of the genuine benefits of digital connectivity—information access, social support, and creative expression. What the evidence suggests is that, at the population level, both the positive and negative effects of screens are modest. However, this average masks significant individual variation: a subset of users experiences disproportionately severe harms, and identifying the characteristics that render certain individuals vulnerable remains an urgent research priority.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "词义推断题",
+      "stem": "1. The word \"monolithic\" (Paragraph 4) most probably means ________.",
+      "options": [
+        "uniform and unchanging",
+        "complex and multifaceted",
+        "harmful and destructive",
+        "beneficial and progressive"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。monolithic 意为\"单一的、不变的\"，文中说科技与幸福感的关系并非单一的（not monolithic），而是取决于使用方式和语境，强调其多样性。",
+        "B": "错误。complex and multifaceted（复杂多面的）恰好与 monolithic 意思相反，是文中描述的实际情况，而非该词本身的含义。",
+        "C": "错误。harmful and destructive（有害的破坏性的）与该词无关，文中并未在此处讨论危害性。",
+        "D": "错误。beneficial and progressive（有益的进步的）同样与该词无关，属于过度引申。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "细节理解题",
+      "stem": "2. According to Paragraph 2, the Oxford study found that ________.",
+      "options": [
+        "screen use has a negligible impact on adolescent well-being",
+        "being bullied has little effect on teenagers' mental health",
+        "eating potatoes is more harmful than using screens",
+        "adequate sleep has minimal positive effects on well-being"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。Oxford 研究发现屏幕使用仅占青少年幸福感变异的 0.4%，影响微乎其微（negligible），与吃土豆的负面影响相当。",
+        "B": "错误。研究发现被欺凌的负面影响是屏幕使用的四倍以上，影响显著而非微小。",
+        "C": "错误。研究说屏幕使用的负面影响与吃土豆相当（comparable），而非吃土豆更有害，选项曲解了比较关系。",
+        "D": "错误。研究发现充足睡眠对幸福感有 far larger positive associations（大得多的正面关联），而非 minimal（微小的）。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. The author mentions the 2024 meta-analysis (Paragraph 4) to illustrate that ________.",
+      "options": [
+        "social media use is inherently harmful regardless of context",
+        "the impact of technology depends on how it is used",
+        "problematic social media use affects all users equally",
+        "researchers have reached a consensus on screen time effects"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。研究发现社交媒体用于有意义交流时甚至有小的正面关联，并非 inherently harmful（固有地有害）。",
+        "B": "正确。该研究表明社交媒体用于沟通和维持社交连接有正面关联，而向上比较和问题性使用有负面关联，说明影响取决于使用方式。",
+        "C": "错误。研究发现影响因人而异（individual variation），并非所有用户同等受影响。",
+        "D": "错误。文中提到研究仍在进行中（still-evolving research），远未达成共识。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "细节理解题",
+      "stem": "4. What does the author say about self-reported screen time data (Paragraph 3)?",
+      "options": [
+        "It is the most reliable method for measuring screen usage.",
+        "It tends to overestimate actual screen time.",
+        "It systematically underestimates actual usage.",
+        "It accurately captures qualitative differences in screen activities."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。文中明确指出自我报告数据 notoriously unreliable（ notoriously 不可靠），绝非最可靠的方法。",
+        "B": "错误。文中说 people systematically underestimate their usage（人们系统性低估使用时间），而非高估。",
+        "C": "正确。第三段明确指出自我报告的屏幕时间数据 notoriously unreliable，人们系统性地低估自己的使用量。",
+        "D": "错误。自我报告数据只计算总时长，无法捕捉不同屏幕活动的质的差异（qualitative differences）。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "The Hidden Dangers of Screen Time: What Parents Must Know",
+        "Screen Time and Health: Separating Correlation from Causation",
+        "Why Social Media Bans Are the Only Solution for Teen Mental Health",
+        "The Unstoppable Rise of Digital Technology in Modern Life"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。该标题偏向警示性，而文章核心观点是屏幕时间的影响被夸大了，并非强调\"隐藏的危险\"。",
+        "B": "正确。全文围绕屏幕时间与健康的关系展开，反复强调区分相关性和因果性的重要性，该标题准确概括了文章主旨。",
+        "C": "错误。文章讨论了社交媒体禁令的争议性，认为可能剥夺数字连接的益处，并非主张禁令是\"唯一解决方案\"。",
+        "D": "错误。该标题过于宽泛，与文章聚焦的屏幕时间健康影响这一具体议题不符。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "correlation",
+      "def": "相关性"
+    },
+    {
+      "word": "causation",
+      "def": "因果关系"
+    },
+    {
+      "word": "directionality",
+      "def": "方向性"
+    },
+    {
+      "word": "meta-analyses",
+      "def": "元分析"
+    },
+    {
+      "word": "aggregating",
+      "def": "聚合"
+    },
+    {
+      "word": "sophisticated",
+      "def": "复杂的"
+    },
+    {
+      "word": "diminishes",
+      "def": "减少，降低"
+    },
+    {
+      "word": "landmark",
+      "def": "里程碑"
+    },
+    {
+      "word": "variance",
+      "def": "方差"
+    },
+    {
+      "word": "negligible",
+      "def": "可忽略的"
+    },
+    {
+      "word": "magnitude",
+      "def": "幅度"
+    },
+    {
+      "word": "imprecise",
+      "def": "不精确的"
+    },
+    {
+      "word": "heterogeneity",
+      "def": "异质性"
+    },
+    {
+      "word": "notoriously",
+      "def": "著名地"
+    },
+    {
+      "word": "underestimate",
+      "def": "低估"
+    },
+    {
+      "word": "qualitatively",
+      "def": "定性地"
+    },
+    {
+      "word": "contingent",
+      "def": "取决于"
+    },
+    {
+      "word": "upward social comparison",
+      "def": "向上社会比较"
+    },
+    {
+      "word": "problematic use",
+      "def": "问题性使用"
+    },
+    {
+      "word": "precautionary principle",
+      "def": "预防原则"
+    },
+    {
+      "word": "deprive",
+      "def": "剥夺"
+    },
+    {
+      "word": "monolithic",
+      "def": "单一的"
+    },
+    {
+      "word": "disproportionately",
+      "def": "不成比例地"
+    },
+    {
+      "word": "vulnerable",
+      "def": "脆弱的"
+    }
+  ]
+}

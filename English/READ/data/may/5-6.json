@@ -1,0 +1,197 @@
+{
+  "date": "5/6",
+  "month": 5,
+  "day": 6,
+  "title": "Article from 5/6",
+  "text": "Most health and medical data have historically been drawn from research on male bodies, leaving women's health a largely uncharted scientific territory. Until the 1990s, women were rarely included in clinical studies for fear of harming unborn children, and female animals were excluded from studies using model organisms because of a prevailing belief that hormonal fluctuations rendered their biology too complicated. This systematic exclusion has contributed to delays in diagnosis, drugs that are less effective or dangerous for women, and a scarcity of evidence-based guidelines to address women's health needs. In 2016, the US National Institutes of Health instituted a policy mandating that NIH-funded research include sex as a biological variable — a move that sent a strong signal to the broader research community and catalyzed a transformation in scientists' understanding of women's health.\n\nA cornerstone of this renewed approach is a method known as disaggregation: separating data by sex to reveal important differences that researchers can then dig into more deeply to understand the underlying mechanisms. Rabin's team applied this approach to long-standing databases and found striking variations between the sexes in disease patterns. However, disaggregating data alone cannot explain why women's health differs from men's; it is merely the beginning of the story. According to Tannenbaum at the University of Montreal, such analyses should be followed by rigorous investigation of the underlying biological and social mechanisms producing those differences.\n\nA landmark 2024 study by Patwardhan and colleagues at the University of Washington examined Global Burden of Disease data spanning 1990 to 2021 and found striking global patterns. Men were more likely to die sooner from 13 of the top 20 causes of disease, yet women experienced a greater toll from ailments that reduce health and well-being, including depression, back pain, and musculoskeletal disorders. This female-specific burden emerged between the ages of 10 and 24 and persisted across the entire lifespan. A similar disparity was documented in cancer treatment: analyses of 202 trials involving more than 23,000 patients revealed that women endured more severe and more frequent side effects from chemotherapy and targeted therapies, partly because male and female hormones affect drug metabolism differently.\n\nDespite these findings, national health databases frequently fail to incorporate sex-disaggregated data. When COVID-19 struck, Hawkes and her colleagues at Monash University discovered that only 140 of 206 countries reported disaggregated mortality data, and more than 90 percent of countries did not incorporate a sex or gender lens into their clinical guidelines. Yet disaggregating data can save lives: a Cleveland Clinic protocol based on disaggregated analysis reduced women's in-hospital mortality from certain heart attacks by more than half. This life-saving change demonstrates that without systematic disaggregation, health inequities remain invisible and unaddressed.\n\nYet serious obstacles remain. Databases rarely distinguish between sex and gender, leaving intersex people and transgender individuals often uncaptured in analyses. According to Hawkes, gender norms also shape health through behavioural pathways — for example, unhealthy notions of masculinity may increase men's risk of high blood pressure, while social norms restricting women's mobility can prevent access to health care. Researchers emphasize that disaggregating data is a necessary precondition for equitable health outcomes. As one epidemiologist noted, \"If you don't disaggregate your data, you're assuming all human bodies are the same — you'll never be able to figure out who's benefiting and who is being left behind.\"",
+  "questions": [
+    {
+      "num": 1,
+      "type": "词义推断题",
+      "stem": "1. The word \"disaggregating\" (Paragraph 2) most probably means ________.",
+      "options": [
+        "sorting data by a particular category",
+        "discarding unreliable data points",
+        "combining data from multiple sources",
+        "translating data into different languages"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。disaggregating 源自 disaggregate（拆分），指将数据按性别（或其他类别）拆分分别统计。文章下文说 separating data by sex to reveal important differences，即按性别分类数据，与选项A含义一致。",
+        "B": "错误。disaggregating 不是丢弃数据，而是分类统计。",
+        "C": "错误。disaggregating 与 combine（合并）相反，是拆分而非组合。",
+        "D": "错误。disaggregating 与翻译无关。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "细节理解题",
+      "stem": "2. What did the 2024 study by Patwardhan and colleagues find regarding global disease patterns?",
+      "options": [
+        "Women lived longer but experienced poorer health overall.",
+        "Men suffered more from depression and back pain than women.",
+        "The disease burden was equal between men and women across all ages.",
+        "Women were more likely to die from 13 of the top 20 causes of disease."
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。研究明确指出 Men were more likely to die sooner from 13 of the top 20 causes of disease, yet women experienced a greater toll from ailments that reduce health and well-being，即男性更可能因疾病早逝，而女性虽然寿命更长但健康状况更差。",
+        "B": "错误。研究发现女性更易受抑郁、背痛和肌肉骨骼疾病困扰，而非男性。",
+        "C": "错误。研究明确指出疾病负担在男女之间分布不均，并非各年龄段平等分担。",
+        "D": "错误。是男性更可能早逝（die sooner），而非女性。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. What can be inferred from the Cleveland Clinic example in Paragraph 4?",
+      "options": [
+        "Women are generally more susceptible to heart attacks than men.",
+        "Standard protocols were previously designed without considering sex differences.",
+        "Heart attack mortality rates are higher in the United States than elsewhere.",
+        "Clinical guidelines already incorporate sex disaggregation in most countries."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文中未比较男女心脏病发作的总体易感性，重点是诊断和治疗差异。",
+        "B": "正确。克利夫兰诊所的例子说明：此前没有按性别分析数据，女性心脏病患者得到的治疗不足；实施基于数据拆分的新方案后女性死亡率大幅下降，表明之前的标准方案未考虑性别差异。",
+        "C": "错误。文中未讨论美国与其他国家心脏病死亡率的比较。",
+        "D": "错误。文中明确指出超过90%的国家未将性别视角纳入临床指南，与该选项内容相反。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "细节理解题",
+      "stem": "4. According to the passage, which of the following contributes to the delay in women's heart attack diagnosis?",
+      "options": [
+        "Women's variety of symptoms is greater than men's.",
+        "Heart disease has long been viewed as predominantly a male disease.",
+        "Female researchers are excluded from cardiovascular studies.",
+        "National databases consistently record sex-disaggregated data."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。女性心脏病发作症状确实比男性多样，但这是诊断延迟的结果表现，而非原因。",
+        "B": "正确。心血管疾病长期被视为男性疾病，导致女性心脏病发作常被误诊，文中明确提到 heart disease has long been viewed as a male disease，以及 Women are more likely to be misdiagnosed。",
+        "C": "错误。文中未提及女性研究人员被排除在心血管研究之外。",
+        "D": "错误。该选项与事实相反——文中指出各国数据库经常未能纳入性别分类数据（frequently fail to incorporate sex-disaggregated data）。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "The Rise of Telemedicine in Women's Health",
+        "Sex-Disaggregated Data: A Gateway to Health Equity",
+        "Why Men Live Shorter Lives Than Women",
+        "The History of Clinical Trials in the United States"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。远程医疗（telemedicine）不是文章讨论的主题，文章聚焦于医学研究中的性别数据问题。",
+        "B": "正确。本文围绕医学研究中对女性的系统性排斥问题展开论述，详细介绍了数据拆分（disaggregation）方法如何揭示男女健康差异，并强调这一方法对实现健康公平的重要性。",
+        "C": "错误。男性寿命更短只是文中提及的表面现象，不是文章主旨。",
+        "D": "错误。美国临床试验历史不是文章重点，文章重点在于数据拆分方法对理解女性健康差异的作用。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "disaggregation",
+      "def": "数据拆分（按性别分类统计）"
+    },
+    {
+      "word": "uncharted",
+      "def": "未探索的"
+    },
+    {
+      "word": "scarcity",
+      "def": "稀缺"
+    },
+    {
+      "word": "systematic exclusion",
+      "def": "系统性排斥"
+    },
+    {
+      "word": "preclinical",
+      "def": "临床前的"
+    },
+    {
+      "word": "catalyze",
+      "def": "催化，推动"
+    },
+    {
+      "word": "underlying mechanisms",
+      "def": "潜在机制"
+    },
+    {
+      "word": "cardiovascular",
+      "def": "心血管的"
+    },
+    {
+      "word": "musculoskeletal",
+      "def": "肌肉骨骼的"
+    },
+    {
+      "word": "epidemiologist",
+      "def": "流行病学家"
+    },
+    {
+      "word": "inequities",
+      "def": "不平等"
+    },
+    {
+      "word": "precondition",
+      "def": "先决条件"
+    },
+    {
+      "word": "disparities",
+      "def": "差异"
+    },
+    {
+      "word": "pharmacology",
+      "def": "药理学"
+    },
+    {
+      "word": "metabolism",
+      "def": "新陈代谢"
+    },
+    {
+      "word": "normative",
+      "def": "规范的"
+    },
+    {
+      "word": "intersex",
+      "def": "双性的（跨性别群体的医学描述）"
+    },
+    {
+      "word": "transgender",
+      "def": "跨性别者"
+    },
+    {
+      "word": "mortality",
+      "def": "死亡率"
+    },
+    {
+      "word": "alarming",
+      "def": "令人担忧的"
+    },
+    {
+      "word": "prevalent",
+      "def": "普遍的"
+    },
+    {
+      "word": "manifest",
+      "def": "显现"
+    },
+    {
+      "word": "aggregating",
+      "def": "聚合"
+    },
+    {
+      "word": "demographic",
+      "def": "人口统计的"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "date": "4/21",
+  "month": 4,
+  "day": 21,
+  "title": "Article from 4/21",
+  "text": "The digital transformation of recruitment processes has brought unprecedented convenience to job seekers and employers alike. Yet this technological evolution has also spawned a troubling phenomenon: recruitment scams facilitated by artificial intelligence. In an era of economic uncertainty and competitive job markets, fraudsters are increasingly exploiting AI tools to deceive vulnerable individuals seeking employment, orchestrating sophisticated schemes that extract money, personal information, or both from unsuspecting victims.\n\nThe proliferation of AI-powered scams stems largely from the technology's capacity to generate convincingly personalized content with minimal effort. Historically, fraudulent job offers were often identifiable through glaring grammatical errors, vague descriptions, or obvious mismatches between advertised positions and applicants' qualifications. Today, however, AI enables scammers to craft meticulously tailored communications that reference specific career histories, skill sets, and professional aspirations, rendering traditional detection methods increasingly ineffective. Criminals can impersonate legitimate recruiters by cloning LinkedIn profiles, fabricating corporate email signatures, and producing job descriptions that mirror authentic postings with alarming precision.\n\nRecruitment scams manifest in diverse forms, each exploiting distinct vulnerabilities. \"Task scams\" typically target younger demographics, promising compensation for simple online activities such as liking social media posts or reviewing products. Initially, victims may receive modest payments, cultivating false confidence before being coerced into paying fees ostensibly required to access earned funds or upgrade their accounts. More elaborate schemes prey upon experienced professionals, impersonating headhunters who lure applicants with positions that appear meticulously customized to their credentials. These fraudsters subsequently demand payments for purported services—CV refinement, training programs, equipment procurement, or background checks—before vanishing entirely. Even when monetary losses are avoided, victims frequently surrender sensitive data, including bank details and identification documents, enabling subsequent identity theft.\n\nThe psychological toll on victims extends beyond financial damage. Research indicates that individuals deceived by recruitment scams experience profound emotional distress, often characterized by intense self-blame and diminished confidence. Victims report feeling humiliated for falling prey to deception, despite evidence suggesting that such fraud exploits universal cognitive vulnerabilities rather than individual naivety. In particularly devastating cases, victims who transferred substantial sums face not only economic hardship but also the psychological trauma of shattered trust and prolonged anxiety about future employment searches.\n\nAddressing this challenge requires coordinated action across multiple stakeholders. Experts advocate for strengthened verification protocols on online recruitment platforms, ensuring that posted positions undergo systematic legitimacy assessments before reaching applicants. Regulatory bodies must develop more robust frameworks for pursuing cross-border fraud operations, given that perpetrators frequently operate from jurisdictions beyond local enforcement reach. For individuals, heightened vigilance remains essential: skepticism toward unsolicited approaches, scrutiny of sender credentials, and direct verification with purported employers can mitigate risks. Ultimately, combating AI-enabled recruitment fraud demands not merely technological solutions but a fundamental recognition that sophisticated deception now permeates digital spaces where job seekers once reasonably expected authenticity.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "综合题",
+      "stem": "1. eliminated a positive trend",
+      "options": [
+        "eliminated a positive trend",
+        "created a disturbing problem",
+        "resolved a complex challenge",
+        "accelerated a beneficial process"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。eliminated a positive trend 与 spawned a troubling phenomenon 含义相反。",
+        "B": "正确。spawned a troubling phenomenon 意为催生了一个令人不安的现象，即 created a disturbing problem。",
+        "C": "错误。resolved a complex challenge 与文意相反。",
+        "D": "错误。accelerated a beneficial process 与 troubling 含义相反。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "综合题",
+      "stem": "2. According to Paragraph 2, AI-powered recruitment scams are difficult to detect because ________.",
+      "options": [
+        "they employ sophisticated encryption technology",
+        "fraudsters operate exclusively from remote locations",
+        "job seekers lack adequate digital literacy skills",
+        "AI produces highly personalized and convincing content"
+      ],
+      "answer": "D",
+      "explanation": {
+        "A": "错误。诈骗不使用 sophisticated encryption technology。",
+        "B": "错误。远程位置不是难检测的原因。",
+        "C": "错误。数字素养不足不是主要原因。",
+        "D": "正确。第二段说 AI enables scammers to craft meticulously tailored communications that reference specific career histories, skill sets, and professional aspirations, rendering traditional detection methods increasingly ineffective，即 AI 产生高度个性化和令人信服的内容。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "综合题",
+      "stem": "3. The author mentions \"task scams\" in Paragraph 3 to illustrate that ________.",
+      "options": [
+        "different scam types target distinct demographic groups",
+        "young people are immune to sophisticated fraud schemes",
+        "all recruitment scams primarily seek financial extraction",
+        "initial payments guarantee subsequent legitimate earnings"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。第三段说 Task scams typically target younger demographics... More elaborate schemes prey upon experienced professionals，即不同类型的诈骗针对不同的人口群体。",
+        "B": "错误。年轻人不是 immune 的——他们是 task scams 的目标。",
+        "C": "错误。不是所有诈骗都 primarily 寻求经济榨取——有些也获取个人数据。",
+        "D": "错误。初始付款不保证后续合法收入——它们用于 cultivate false confidence。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "综合题",
+      "stem": "4. Which of the following best describes the author's attitude toward victims of recruitment scams?",
+      "options": [
+        "Critical and dismissive of their judgment",
+        "Neutral and indifferent to their plight",
+        "Sympathetic and understanding of their vulnerability",
+        "Suspicious of their claims regarding financial losses"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。作者不批判受害者的判断力。",
+        "B": "错误。作者不是中立或漠不关心的。",
+        "C": "正确。第四段说 victims report feeling humiliated for falling prey to deception, despite evidence suggesting that such fraud exploits universal cognitive vulnerabilities rather than individual naivety，即作者同情受害者并理解他们的脆弱性，认为诈骗利用的是普遍认知弱点而非个人天真。",
+        "D": "错误。作者不怀疑受害者的索赔。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "综合题",
+      "stem": "5. The best title for this text would be ________.",
+      "options": [
+        "AI-Enabled Recruitment Scams: A Growing Digital Threat",
+        "The Evolution of Online Job Markets: Benefits and Risks",
+        "Cybersecurity Measures: Protecting Personal Information",
+        "Psychological Effects: The Hidden Costs of Job Searching"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。全文讨论 AI 赋能的招聘诈骗这一新兴数字威胁，从诈骗 proliferation、多样化形式到心理影响和应对策略，最佳标题应反映 AI 招聘诈骗作为增长的数字威胁。",
+        "B": "错误。在线就业市场的演变不是文章主旨。",
+        "C": "错误。网络安全措施只是对策之一。",
+        "D": "错误。心理影响只是其中一个方面。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "spawned",
+      "def": "引发"
+    },
+    {
+      "word": "fraudsters",
+      "def": "诈骗犯"
+    },
+    {
+      "word": "orchestrating",
+      "def": "策划"
+    },
+    {
+      "word": "proliferation",
+      "def": "激增"
+    },
+    {
+      "word": "convincingly",
+      "def": "令人信服地"
+    },
+    {
+      "word": "fraudulent",
+      "def": "欺诈的"
+    },
+    {
+      "word": "meticulously",
+      "def": "细致地"
+    },
+    {
+      "word": "impersonate",
+      "def": "冒充"
+    },
+    {
+      "word": "legitimate",
+      "def": "合法的"
+    },
+    {
+      "word": "fabricating",
+      "def": "伪造"
+    },
+    {
+      "word": "authentic",
+      "def": "真实的"
+    },
+    {
+      "word": "demographics",
+      "def": "人口统计"
+    },
+    {
+      "word": "cultivating",
+      "def": "培养"
+    },
+    {
+      "word": "coerced",
+      "def": "强迫"
+    },
+    {
+      "word": "ostensibly",
+      "def": "表面上"
+    },
+    {
+      "word": "elaborate",
+      "def": "精心策划的"
+    },
+    {
+      "word": "purported",
+      "def": "声称的"
+    },
+    {
+      "word": "procurement",
+      "def": "采购"
+    },
+    {
+      "word": "humiliated",
+      "def": "感到屈辱的"
+    },
+    {
+      "word": "trauma",
+      "def": "创伤"
+    },
+    {
+      "word": "perpetrators",
+      "def": "肇事者"
+    },
+    {
+      "word": "cross-border",
+      "def": "跨境的"
+    },
+    {
+      "word": "protocols",
+      "def": "协议"
+    }
+  ]
+}

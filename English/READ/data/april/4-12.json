@@ -1,0 +1,181 @@
+{
+  "date": "4/12",
+  "month": 4,
+  "day": 12,
+  "title": "Article from 4/12",
+  "text": "The ubiquity of digital devices has transformed how we work, communicate, and consume information. Smartphones, tablets, and laptops promise unprecedented connectivity and efficiency, yet an increasing body of research suggests they may be exacting a hidden toll: digital fatigue. This phenomenon, characterized by exhaustion, diminished focus, and a sense of being perpetually overwhelmed, is emerging as a significant occupational hazard in the modern workplace.\n\nAt the heart of digital fatigue lies the constant bombardment of notifications, emails, and messages. Studies indicate that the average office worker checks their email 74 times daily, while glancing at their smartphone every six minutes. This relentless connectivity fragments attention spans, making deep, sustained concentration increasingly elusive. Neuroscientists have found that each interruption—however brief—imposes a cognitive switching cost, depleting mental energy reserves and impairing subsequent task performance. Over time, this chronic fragmentation of attention manifests as mental exhaustion.\n\nThe blurring of work-life boundaries has exacerbated the problem. Remote work, while offering flexibility, has inadvertently created an expectation of perpetual availability. Employees report feeling pressured to respond to work communications during evenings and weekends, unable to fully disengage from professional obligations. This erosion of personal time prevents the psychological restoration necessary for maintaining cognitive well-being. Research demonstrates that individuals who maintain clear boundaries between work and leisure report significantly higher levels of life satisfaction and lower burnout rates.\n\nSocial media platforms, designed to maximize engagement, compound this exhaustion. Their algorithms prioritize content that triggers emotional responses, creating information streams of variable reward that keep users compulsively scrolling. This design exploits fundamental psychological vulnerabilities, creating cycles of engagement that leave users feeling drained rather than fulfilled. Paradoxically, the platforms promising connection often leave users feeling isolated and depleted.\n\nAddressing digital fatigue requires intentional strategies at both individual and organizational levels. Some companies have implemented \"communication-free windows\" to protect employees' focus time and personal boundaries. Individuals are increasingly adopting digital minimalism—curating their online presence, disabling non-essential notifications, and scheduling regular digital detoxes. However, these measures remain reactive responses to systemic design choices that prioritize engagement metrics over human well-being. A fundamental reimagining of our digital infrastructure may be necessary—one that serves human cognitive limits rather than exploiting them.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "综合题",
+      "stem": "1. providing unexpected benefits",
+      "options": [
+        "providing unexpected benefits",
+        "causing concealed damage",
+        "demanding financial costs",
+        "requiring strict discipline"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。unexpected benefits 与 hidden toll 含义相反。",
+        "B": "正确。exacting a hidden toll 意为造成隐蔽的损害/代价。文中说设备承诺了前所未有的连接性和效率，但研究表明它们可能造成隐藏的代价——数字疲劳，即 causing concealed damage。",
+        "C": "错误。financial costs 是字面理解，文中 toll 是比喻用法。",
+        "D": "错误。strict discipline 与文意无关。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "综合题",
+      "stem": "2. According to Paragraph 2, digital fatigue is primarily caused by ________.",
+      "options": [
+        "excessive multitasking requirements",
+        "the interruption of continuous attention flow",
+        "insufficient training in digital literacy",
+        "outdated workplace communication systems"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。multitasking 不是主要原因。",
+        "B": "正确。第二段指出 constant bombardment of notifications fragments attention spans, making deep sustained concentration increasingly elusive，每次 interruption 都 impose cognitive switching cost，即连续注意力流的中断是主要原因。",
+        "C": "错误。数字素养培训不足不是原因。",
+        "D": "错误。过时的工作沟通系统不是原因。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "综合题",
+      "stem": "3. The author mentions \"cognitive switching cost\" (Paragraph 2) to illustrate that ________.",
+      "options": [
+        "multitasking improves overall work efficiency",
+        "brief interruptions have minimal impact on productivity",
+        "mental energy is consumed by frequent task transitions",
+        "employees should avoid all forms of digital communication"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。多任务处理降低效率而非提高。",
+        "B": "错误。brief interruptions 有显著影响而非 minimal impact。",
+        "C": "正确。cognitive switching cost 指每次中断（即使短暂）都消耗心理能量储备（depleting mental energy reserves），频繁任务转换消耗心理能量。",
+        "D": "错误。避免所有数字通信不现实也不是作者意图。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "综合题",
+      "stem": "4. Which of the following statements is true according to Paragraph 4?",
+      "options": [
+        "Social media algorithms intentionally prioritize neutral content.",
+        "Users of social media typically feel more connected and energized.",
+        "Social media design exploits psychological weaknesses to maintain engagement.",
+        "Information streams on social media provide consistent, predictable rewards."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。算法优先触发情感反应的内容，而非中性内容。",
+        "B": "错误。用户感到 drained 和 depleted，而非 energized。",
+        "C": "正确。第四段明确指出 This design exploits fundamental psychological vulnerabilities, creating cycles of engagement that leave users feeling drained，即社交媒体设计利用心理弱点来维持用户参与度。",
+        "D": "错误。信息流提供 variable reward（可变奖励），而非 consistent predictable rewards。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "综合题",
+      "stem": "5. The best title for this text would be ________.",
+      "options": [
+        "Digital Devices: Revolutionizing Workplace Efficiency",
+        "Remote Work: The End of Work-Life Balance",
+        "Social Media: A Threat to Human Cognition",
+        "Digital Fatigue: The Hidden Cost of Constant Connectivity"
+      ],
+      "answer": "D",
+      "explanation": {
+        "A": "错误。文章重点不在效率提升。",
+        "B": "错误。远程工作只是其中一个方面。",
+        "C": "错误。社交媒体只是问题的一部分。",
+        "D": "正确。全文讨论数字设备带来的疲劳问题，从现象、原因、影响和对策四个层面展开，最佳标题应反映持续连接的隐藏代价。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "ubiquity",
+      "def": "无处不在"
+    },
+    {
+      "word": "unprecedented",
+      "def": "史无前例的"
+    },
+    {
+      "word": "exacting",
+      "def": "费力的"
+    },
+    {
+      "word": "perpetually",
+      "def": "永恒地"
+    },
+    {
+      "word": "bombardment",
+      "def": "连续攻击"
+    },
+    {
+      "word": "relentless",
+      "def": "无情的"
+    },
+    {
+      "word": "elusive",
+      "def": "难以捉摸的"
+    },
+    {
+      "word": "cognitive",
+      "def": "认知的"
+    },
+    {
+      "word": "impairing",
+      "def": "损害"
+    },
+    {
+      "word": "exacerbated",
+      "def": "加剧"
+    },
+    {
+      "word": "inadvertently",
+      "def": "无意地"
+    },
+    {
+      "word": "disengage",
+      "def": "脱离"
+    },
+    {
+      "word": "compulsively",
+      "def": "强迫地"
+    },
+    {
+      "word": "vulnerabilities",
+      "def": "脆弱性"
+    },
+    {
+      "word": "paradoxically",
+      "def": "矛盾地"
+    },
+    {
+      "word": "minimalism",
+      "def": "极简主义"
+    },
+    {
+      "word": "reimagining",
+      "def": "重新构想"
+    },
+    {
+      "word": "systemic",
+      "def": "系统性的"
+    },
+    {
+      "word": "detoxes",
+      "def": "排毒"
+    },
+    {
+      "word": "fragmentation",
+      "def": "碎片化"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "date": "4/15",
+  "month": 4,
+  "day": 15,
+  "title": "Article from 4/15",
+  "text": "The rapid expansion of urban populations has transformed cities into epicenters of economic opportunity, cultural dynamism, and technological innovation. Yet this urbanization has also precipitated a housing affordability crisis that threatens to undermine the very promise of city life. In metropolitan areas across the globe, housing costs have soared far beyond wage growth, leaving millions of residents—particularly young professionals and essential workers—struggling to secure stable accommodation. The consequences extend beyond individual hardship: when housing becomes inaccessible, cities risk losing the diverse workforce essential to their economic vitality.\n\nAt the root of this crisis lies a fundamental imbalance between supply and demand. Regulatory constraints, including zoning restrictions and lengthy approval processes, have severely limited new construction in many desirable urban neighborhoods. Existing residents often oppose development projects, fearing that new housing will alter community character or strain local infrastructure—a phenomenon economists term \"NIMBYism\" (Not In My Backyard). These political barriers have effectively frozen housing supply in many cities, even as demand from incoming residents continues to surge. Research indicates that in the most restrictive metropolitan areas, housing prices have diverged dramatically from construction costs, suggesting that scarcity alone drives inflated valuations.\n\nThe financialization of housing has further exacerbated affordability pressures. Institutional investors, pension funds, and private equity firms have increasingly acquired residential properties, treating them as speculative assets rather than homes for occupancy. This trend has intensified in the aftermath of the 2008 financial crisis, as investors sought stable returns in an uncertain economic landscape. The result has been a proliferation of luxury developments catering to wealthy buyers, while affordable options dwindle. In some cities, vacant investment properties occupy significant portions of the housing stock, as owners prioritize capital appreciation over rental income or resident occupancy.\n\nThe displacement of lower-income residents from urban centers carries profound social implications. Essential workers—teachers, nurses, transit operators—find themselves pushed to distant suburbs, facing lengthy commutes that erode work-life balance and increase transportation costs. This geographic sorting concentrates poverty in peripheral neighborhoods while wealth clusters in city cores, reinforcing socioeconomic segregation. Studies have documented diminished educational outcomes for children in displaced families, as school quality often correlates with neighborhood affluence. The erosion of socioeconomic diversity within cities undermines the social cohesion that urban planners have long championed as a defining virtue of city life.\n\nAddressing the affordability crisis demands multifaceted policy interventions. Some jurisdictions have implemented inclusionary zoning, requiring developers to incorporate affordable units within new projects. Others have experimented with rent stabilization measures or expanded public housing programs. Yet these approaches face persistent challenges: rent controls can discourage maintenance and new construction, while public housing often suffers from funding constraints and bureaucratic inefficiencies. More radical proposals include taxing vacant properties to discourage speculative holding, or reforming zoning codes to permit denser development in underutilized areas. What remains evident is that the status quo—escalating costs combined with inadequate supply—will continue to exclude growing segments of the population from the benefits of urban life, with repercussions that extend far beyond housing markets.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "综合题",
+      "stem": "1. prevented a housing shortage",
+      "options": [
+        "prevented a housing shortage",
+        "caused a crisis in housing costs",
+        "delayed the expansion of urban areas",
+        "resolved housing market problems"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。precipitated 意为促成/加速，而非 prevented。",
+        "B": "正确。precipitated a housing affordability crisis 意为促成了住房负担能力危机，即 caused a crisis in housing costs。",
+        "C": "错误。delayed 与 precipitated 含义相反。",
+        "D": "错误。resolved 与文意完全相反。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "综合题",
+      "stem": "2. According to Paragraph 2, the imbalance between housing supply and demand is primarily caused by ________.",
+      "options": [
+        "declining demand from incoming residents",
+        "excessive construction in urban neighborhoods",
+        "regulatory constraints and political opposition",
+        "reduced construction costs in metropolitan areas"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。需求在增加而非 declining。",
+        "B": "错误。过度建设不是问题——问题是建设不足。",
+        "C": "正确。第二段指出 Regulatory constraints including zoning restrictions and lengthy approval processes severely limited new construction，加上 residents oppose development projects，即 regulatory constraints and political opposition 是主要原因。",
+        "D": "错误。建设成本降低不是原因。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "综合题",
+      "stem": "3. The author mentions \"NIMBYism\" (Paragraph 2) to illustrate that ________.",
+      "options": [
+        "existing residents support new housing projects",
+        "political barriers limit housing supply expansion",
+        "urban neighborhoods welcome infrastructure development",
+        "zoning restrictions have been eliminated in most cities"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。居民反对而非支持新住房项目。",
+        "B": "正确。NIMBYism 指居民反对开发项目，fearing new housing will alter community character or strain local infrastructure，这些 political barriers effectively frozen housing supply，即政治障碍限制了住房供应扩张。",
+        "C": "错误。社区不欢迎基础设施发展。",
+        "D": "错误。区域限制未被消除，反而 severely limited 新建设。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "综合题",
+      "stem": "4. Which of the following is true about the financialization of housing according to Paragraph 3?",
+      "options": [
+        "It has increased the availability of affordable housing options.",
+        "It treats residential properties as speculative investment assets.",
+        "It has reduced the involvement of institutional investors.",
+        "It prioritizes rental income over capital appreciation."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。经济化减少了而非增加了可负担住房。",
+        "B": "正确。第三段说 Institutional investors treating residential properties as speculative assets rather than homes for occupancy，即将住宅物业视为投机投资资产。",
+        "C": "错误。机构投资者参与度增加而非减少。",
+        "D": "错误。业主 prioritise capital appreciation over rental income，而非反过来。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "综合题",
+      "stem": "5. The best title for this text would be ________.",
+      "options": [
+        "Urbanization: The Rise of Metropolitan Economic Centers",
+        "Housing Affordability: The Crisis Excluding City Residents",
+        "Rent Control: A Solution to Urban Housing Problems",
+        "Zoning Reform: The Path to Housing Market Recovery"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。城市化只是引入背景。",
+        "B": "正确。全文讨论住房负担能力危机及其对社会的影响，从原因（供需失衡、金融化、displacement）到对策，最佳标题应反映排除城市居民的住房危机。",
+        "C": "错误。租金控制只是对策之一。",
+        "D": "错误。区域改革只是对策之一。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "epicenters",
+      "def": "中心"
+    },
+    {
+      "word": "dynamism",
+      "def": "活力"
+    },
+    {
+      "word": "precipitated",
+      "def": "引发"
+    },
+    {
+      "word": "metropolitan",
+      "def": "大城市的"
+    },
+    {
+      "word": "inaccessible",
+      "def": "难以获得的"
+    },
+    {
+      "word": "vitality",
+      "def": "活力"
+    },
+    {
+      "word": "constraints",
+      "def": "约束"
+    },
+    {
+      "word": "NIMBYism",
+      "def": "邻避效应"
+    },
+    {
+      "word": "diverged",
+      "def": "偏离"
+    },
+    {
+      "word": "scarcity",
+      "def": "稀缺"
+    },
+    {
+      "word": "inflated",
+      "def": "膨胀的"
+    },
+    {
+      "word": "financialization",
+      "def": "金融化"
+    },
+    {
+      "word": "speculative",
+      "def": "投机的"
+    },
+    {
+      "word": "proliferation",
+      "def": "激增"
+    },
+    {
+      "word": "catering",
+      "def": "迎合"
+    },
+    {
+      "word": "dwindle",
+      "def": "减少"
+    },
+    {
+      "word": "displacement",
+      "def": "流离失所"
+    },
+    {
+      "word": "segregation",
+      "def": "隔离"
+    },
+    {
+      "word": "affluence",
+      "def": "富裕"
+    },
+    {
+      "word": "cohesion",
+      "def": "凝聚力"
+    },
+    {
+      "word": "multifaceted",
+      "def": "多层面的"
+    },
+    {
+      "word": "inclusionary",
+      "def": "包容性的"
+    },
+    {
+      "word": "bureaucratic",
+      "def": "官僚的"
+    },
+    {
+      "word": "repercussions",
+      "def": "反响"
+    }
+  ]
+}

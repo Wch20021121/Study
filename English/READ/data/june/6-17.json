@@ -1,0 +1,126 @@
+{
+  "date": "6/17",
+  "month": 6,
+  "day": 17,
+  "title": "Article from 6/17",
+  "text": "The accelerating proliferation of antimicrobial resistance represents one of the most consequential yet inadequately addressed threats to global public health. According to a comprehensive assessment published by the Lancet in 2024, drug-resistant infections were directly responsible for approximately 1.27 million deaths worldwide in 2022, surpassing the annual mortality attributed to HIV/AIDS and malaria combined. The World Health Organisation has repeatedly warned that without coordinated international action, humanity is approaching a post-antibiotic era in which routine surgical procedures, cancer chemotherapy, and organ transplantation would carry mortality risks comparable to those of the pre-antibiotic era. Yet despite the gravity of these projections, investment in novel antimicrobial agents has stagnated, with only twelve new antibiotics reaching the market between 2017 and 2023.\n\nThe drivers of resistance are multifaceted and deeply embedded in contemporary agricultural and medical practices. Approximately 73 per cent of all antibiotics sold globally are administered to livestock rather than humans, primarily as growth promoters rather than therapeutic interventions. This prophylactic application creates ideal conditions for the evolution and dissemination of resistant bacterial strains, which subsequently transfer to human populations through environmental contamination and food chain transmission. In clinical settings, the overprescription of broad-spectrum antibiotics for viral infections—where they confer no therapeutic benefit—further accelerates selective pressure favouring resistant organisms. Researchers estimate that unnecessary antibiotic prescriptions constitute between 28 and 45 per cent of all outpatient dispensations in industrialised nations.\n\nThe economic disincentives surrounding antibiotic development constitute a particularly vexing structural barrier. Unlike medications for chronic conditions, which generate sustained revenue through prolonged use, novel antibiotics are prescribed sparingly to preserve their efficacy—a responsible stewardship practice that nonetheless undermines pharmaceutical companies' financial incentive to invest in research and development. The average cost of bringing a new antibiotic to market exceeds one billion US dollars, yet expected revenues rarely justify this investment. Consequently, several major pharmaceutical corporations have abandoned antimicrobial research entirely, leaving a pipeline that experts describe as insufficient to address the escalating resistance crisis.\n\nAddressing the antimicrobial resistance challenge demands coordinated interventions across multiple sectors. Infections surveillance systems require strengthening to detect resistant outbreaks in real time, agricultural practices must transition away from routine antibiotic use, and innovative financing mechanisms—such as subscription-based reimbursement models that decouple pharmaceutical revenue from prescription volume—must be implemented to revitalise the antibiotic development pipeline. Researchers emphasise that delayed action will exact an exponentially increasing toll, with projections suggesting that drug-resistant infections could account for 10 million deaths annually by 2050 if current trajectories persist. Whether the international community possesses the political resolve to implement these necessary reforms before the window of opportunity closes remains an open question of profound significance.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "细节理解题",
+      "stem": "1. According to Paragraph 1, what did the 2024 Lancet assessment reveal?",
+      "options": [
+        "Drug-resistant infections caused fewer deaths than HIV/AIDS and malaria combined.",
+        "Drug-resistant infections caused more deaths than HIV/AIDS and malaria combined.",
+        "Only twelve new antibiotics were developed between 2017 and 2023.",
+        "The post-antibiotic era has already arrived in most countries."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。原文指出耐药感染死亡人数 surpassed（超过）HIV/AIDS和malaria的总和，而非 fewer than。",
+        "B": "正确。原文明确指出 drug-resistant infections were directly responsible for approximately 1.27 million deaths... surpassing the annual mortality attributed to HIV/AIDS and malaria combined。",
+        "C": "错误。twelve antibiotics 是第二句提到的市场投放数字，不是 Lancet 评估的核心发现。",
+        "D": "错误。原文说 approaching a post-antibiotic era，是正在接近而非已经到来。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "词义推断题",
+      "stem": "2. The word 'prophylactic' (Paragraph 2) most probably means ________.",
+      "options": [
+        "therapeutic and curative in nature",
+        "preventive or protective against disease",
+        "experimental and untested",
+        "administered only after infection occurs"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。prophylactic 与 therapeutic（治疗性的）不同，侧重预防而非治疗。",
+        "B": "正确。prophylactic 意为预防性的，文中指抗生素被用作生长促进剂而非治疗，属预防性应用。",
+        "C": "错误。prophylactic 不涉及实验性或未测试的含义。",
+        "D": "错误。prophylactic 是在感染前使用，而非 infection occurs 之后。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. What can be inferred about the economic model for antibiotic development from Paragraph 3?",
+      "options": [
+        "Pharmaceutical companies earn more from antibiotics than from chronic disease medications.",
+        "Responsible stewardship practices reduce the financial incentive to develop new antibiotics.",
+        "The cost of developing new antibiotics is negligible for major pharmaceutical companies.",
+        "All major pharmaceutical companies continue to invest heavily in antimicrobial research."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。原文说慢性病药物产生 sustained revenue，而抗生素因 sparingly prescribed 而收入有限，并非 antibiotics 赚得更多。",
+        "B": "正确。文中指出 novel antibiotics are prescribed sparingly to preserve their efficacy—a responsible stewardship practice that nonetheless undermines pharmaceutical companies' financial incentive，即负责任的使用反而削弱了经济激励。",
+        "C": "错误。原文说 average cost exceeds one billion US dollars，成本极高而非 negligible。",
+        "D": "错误。原文说 several major pharmaceutical corporations have abandoned antimicrobial research entirely，并非全部继续投资。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "例证题",
+      "stem": "4. The author mentions that 73 per cent of antibiotics are administered to livestock (Paragraph 2) in order to ________.",
+      "options": [
+        "demonstrate that veterinary medicine is more advanced than human medicine",
+        "illustrate how agricultural practices contribute to the resistance crisis",
+        "prove that livestock are more susceptible to infections than humans",
+        "argue that all antibiotic use in agriculture should be banned immediately"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。原文未比较兽医和人类医学的先进程度。",
+        "B": "正确。引用73%的数据是为了说明农业实践如何加剧耐药性危机——抗生素作为生长促进剂而非治疗用途，创造了耐药菌株进化的理想条件。",
+        "C": "错误。原文讨论的是抗生素使用量，而非牲畜易感性。",
+        "D": "错误。原文虽批评农业抗生素使用，但未提出 immediately ban 的极端主张，属过度推断。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "The Success of Pharmaceutical Innovation in Combating Infections",
+        "Antimicrobial Resistance: A Looming Crisis Demanding Urgent Action",
+        "Why Agricultural Antibiotic Use Should Be Completely Prohibited",
+        "The Economic Benefits of Subscription-Based Drug Reimbursement"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文章指出抗生素研发投资停滞，多家药企退出，并非成功故事。",
+        "B": "正确。全文围绕抗生素耐药性这一迫在眉睫的危机展开，从死亡率、驱动因素、经济障碍到解决方案系统论述，标题准确概括了紧迫性和严重性。",
+        "C": "错误。农业抗生素只是文章讨论的驱动因素之一，非主旨。",
+        "D": "错误。订阅式报销模式只是文中提及的解决方案之一，非主旨。"
+      }
+    }
+  ],
+  "words": [
+    {"word": "proliferation", "def": "激增，扩散"},
+    {"word": "antimicrobial", "def": "抗微生物的"},
+    {"word": "consequential", "def": "重要的，产生重大后果的"},
+    {"word": "inadequately", "def": "不充分地"},
+    {"word": "mortality", "def": "死亡率"},
+    {"word": "surpassing", "def": "超过，超越"},
+    {"word": "projections", "def": "预测，推测"},
+    {"word": "stagnated", "def": "停滞的"},
+    {"word": "multifaceted", "def": "多层面的"},
+    {"word": "therapeutic", "def": "治疗的，疗效的"},
+    {"word": "prophylactic", "def": "预防性的"},
+    {"word": "dissemination", "def": "传播，散布"},
+    {"word": "contamination", "def": "污染"},
+    {"word": "overprescription", "def": "过度处方"},
+    {"word": "broad-spectrum", "def": "广谱的"},
+    {"word": "selective pressure", "def": "选择性压力"},
+    {"word": "dispensations", "def": "配发，发放"},
+    {"word": "disincentives", "def": "抑制因素，负激励"},
+    {"word": "stewardship", "def": "管理，负责任的使用"},
+    {"word": "reimbursement", "def": "报销，补偿"},
+    {"word": "decouple", "def": "使脱钩，使分离"},
+    {"word": "surveillance", "def": "监测，监控"},
+    {"word": "trajectories", "def": "轨迹，发展趋势"},
+    {"word": "exponentially", "def": "指数级地"},
+    {"word": "resolve", "def": "决心，决断力"}
+  ]
+}

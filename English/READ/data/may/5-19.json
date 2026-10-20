@@ -1,0 +1,126 @@
+{
+  "date": "5/19",
+  "month": 5,
+  "day": 19,
+  "title": "Article from 5/19",
+  "text": "Climate finance has emerged as a critical flashpoint in international negotiations, with developing nations demanding that wealthy emitters assume greater responsibility for the costs of climate adaptation. The principle of Common but Differentiated Responsibilities—embedded in the foundational framework of the 1992 Rio Earth Summit—recognises that countries that contributed minimally to historical emissions should not bear the same adaptation burdens as industrially advanced nations that industrialised through carbon-intensive processes. Yet as climate impacts intensify and financing gaps widen, the political viability of this framework is increasingly questioned by donor governments facing domestic fiscal constraints and voter resistance to foreign aid allocations.\n\nThe scale of estimated adaptation costs presents a formidable challenge to multilateral cooperation. According to assessments by the United Nations Environment Programme, developing nations will require between 215 and 387 billion US dollars annually by 2050 to adapt to the physical risks of a two-degree warmer world—approximately ten times the current level of international adaptation finance flows. This financing gap reflects not merely insufficient pledges, but structural barriers in the existing development finance architecture. Multilateral development banks operate under risk-averse mandates that prioritise loans over grants, and their conditionality requirements often impose macroeconomic reforms that critics argue exacerbate rather than alleviate recipient country vulnerabilities.\n\nLoss and damage—a concept denoting the irreversible harms that arise from climate impacts exceeding adaptation limits—has become the most contentious dimension of climate negotiations. For low-lying island nations facing existential threats from sea-level rise, compensation for territorial losses represents not a political bargaining chip but a matter of national survival. Conversely, major emitters resist binding financial commitments on liability grounds, contending that establishing legal liability for climate harms would create unmanageable fiscal exposures and potentially destabilise the international trade system. This impasse has blocked substantive progress at successive Conference of the Parties meetings, with delegates acknowledging that existing mechanisms are structurally incapable of addressing the magnitude of losses already incurred by the most vulnerable nations.\n\nInnovative financing mechanisms have been proposed as partial remedies, including climate damage taxes on shipping fuels, special drawing rights allocations by the International Monetary Fund, and debt relief initiatives tied to climate resilience investments. While these proposals have garnered scholarly support and civil society advocacy, their implementation faces formidable political economy obstacles. The structural power asymmetries embedded in global governance institutions continue to advantage wealthy nations in shaping the terms of climate finance, ensuring that debates over responsibility and liability remain unresolved even as climate impacts accelerate beyond the adaptive capacity of the most exposed populations.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "细节理解题",
+      "stem": "1. According to Paragraph 1, what does the principle of Common but Differentiated Responsibilities recognise?",
+      "options": [
+        "All nations should share climate adaptation costs equally.",
+        "Countries that contributed minimally to historical emissions should not bear the same burdens as industrially advanced nations.",
+        "Developing nations should industrialise through carbon-intensive processes to catch up.",
+        "Wealthy nations are solely responsible for all climate damages."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。该原则恰恰是要求差异化分担，而非平均分配。",
+        "B": "正确。原文明确指出 recognise that countries that contributed minimally to historical emissions should not bear the same adaptation burdens，即历史排放少的国家不应承担与工业化国家相同的负担。",
+        "C": "错误。该原则反对碳密集型发展路径，不是鼓励发展中国家重走这条路。",
+        "D": "错误。solely responsible 过于绝对，原则体现的是共同但有差异的责任。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "词义推断题",
+      "stem": "2. The word formidable (Paragraph 2) most probably means ________.",
+      "options": [
+        "easily accomplished with minimal effort",
+        "extremely serious and difficult to overcome",
+        "politically convenient for all parties",
+        "temporarily delaying but ultimately solvable"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。formidable 的含义是艰难的、难以应付的，与 easily accomplished 相反。",
+        "B": "正确。formidable 意为艰巨的、难以战胜的，描述适应成本规模对多边合作构成严峻挑战。",
+        "C": "错误。politically convenient 与文意无关，formidable 描述的是难度而非政治便利性。",
+        "D": "错误。temporarily delaying 暗示只是暂时性问题，与 formidable 表达的严峻持久挑战不符。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. What can be inferred about multilateral development banks from Paragraph 2?",
+      "options": [
+        "They provide primarily grants rather than loans for adaptation.",
+        "Their risk-averse policies and conditionality may worsen recipient vulnerabilities.",
+        "They have successfully closed the adaptation financing gap.",
+        "They operate independently without any conditionality requirements."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。原文明确指出它们优先提供贷款（loans over grants），而非赠款。",
+        "B": "正确。文中指出它们在 risk-averse mandates 下优先提供贷款，且 conditionality requirements 往往 imposed macroeconomic reforms that critics argue exacerbate rather than alleviate recipient country vulnerabilities。",
+        "C": "错误。原文指出存在巨大融资缺口（2150-3870亿美元 vs 当前十分之一），说明gap不但未缩小反而扩大。",
+        "D": "错误。原文明确提到 conditionality requirements，说明存在附带条件要求。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "细节理解题",
+      "stem": "4. According to the passage, why do major emitters resist binding financial commitments on loss and damage?",
+      "options": [
+        "They dispute the science of climate change entirely.",
+        "They believe island nations are not actually threatened.",
+        "They fear establishing legal liability would create unmanageable fiscal exposures.",
+        "They have already provided sufficient climate aid to developing nations."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。他们抵抗的是 liability，不是科学事实本身。",
+        "B": "错误。文中未质疑海平面上升的科学事实，而是就责任和赔偿问题产生分歧。",
+        "C": "正确。原文明确指出 major emitters resist binding financial commitments on liability grounds，理由是 creating unmanageable fiscal exposures and potentially destabilise the international trade system。",
+        "D": "错误。如果已提供足够援助，就不会有数百亿美元的融资缺口。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "The Complete Success of Climate Adaptation Finance Since Rio 1992",
+        "Climate Finance: The Widening Gap Between Pledges and Reality",
+        "Why Multilateral Development Banks Should Prioritise Grants Over Loans",
+        "How Innovative Mechanisms Will Solve the Climate Financing Crisis"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文章指出适应融资缺口持续扩大，并非成功。",
+        "B": "正确。全文围绕气候融资展开，核心矛盾是 pledges 与 reality 之间的巨大差距，以及由此产生的责任归属争议。",
+        "C": "错误。文章虽提及银行贷款优先的问题，但只是结构性障碍之一，非主旨。",
+        "D": "错误。文章指出创新融资机制面临 formidable political economy obstacles，并非能解决问题。"
+      }
+    }
+  ],
+  "words": [
+    {"word": "flashpoint", "def": "引爆点，争议焦点"},
+    {"word": "emitters", "def": "排放者，排放国"},
+    {"word": "adaptation", "def": "适应（气候适应）"},
+    {"word": "industrialised", "def": "工业化的"},
+    {"word": "carbon-intensive", "def": "碳密集型的"},
+    {"word": "fiscal", "def": "财政的"},
+    {"word": "voter resistance", "def": "选民阻力"},
+    {"word": "formidable", "def": "艰难的，艰巨的"},
+    {"word": "multilateral", "def": "多边的，多国参与的"},
+    {"word": "architecture", "def": "架构，体系"},
+    {"word": "risk-averse", "def": "规避风险的"},
+    {"word": "conditionality", "def": "条件限制，附带条件"},
+    {"word": "alleviate", "def": "减轻，舒缓"},
+    {"word": "irreversible", "def": "不可逆转的"},
+    {"word": "existential", "def": "存在性的，生存的"},
+    {"word": "territorial", "def": "领土的"},
+    {"word": "impasse", "def": "僵局，死胡同"},
+    {"word": "compensation", "def": "赔偿，补偿"},
+    {"word": "bargaining chip", "def": "谈判筹码"},
+    {"word": "substantive", "def": "实质性的"},
+    {"word": "innovative", "def": "创新的"},
+    {"word": "drawing rights", "def": "特别提款权"},
+    {"word": "resilience", "def": "韧性，恢复力"},
+    {"word": "garnered", "def": "获得（支持），赢得"},
+    {"word": "asymmetries", "def": "不对称，不平衡"}
+  ]
+}

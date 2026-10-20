@@ -1,0 +1,197 @@
+{
+  "date": "4/23",
+  "month": 4,
+  "day": 23,
+  "title": "Article from 4/23",
+  "text": "The ubiquity of plastic in contemporary society is often underestimated. From packaging materials to automotive components, from medical devices to children's toys, synthetic polymers have permeated virtually every domain of modern commerce. Yet this pervasive reliance on plastic, predominantly derived from petroleum and natural gas, exposes global supply chains to vulnerabilities that geopolitical disruptions can swiftly amplify. Recent events in the Middle East have illuminated this fragility with striking clarity, triggering cascading consequences that may ultimately reach consumers worldwide through elevated prices and product shortages.\n\nThe Strait of Hormuz, a critical maritime passage connecting petroleum-producing regions to global markets, has historically served as an indispensable conduit for transporting not merely crude oil but also the chemical derivatives essential to plastic manufacturing. Petrochemical facilities across Asia, the world's preeminent producer of plastic goods, depend substantially on feedstocks traversing this passage. When regional tensions precipitated restrictions on this vital corridor, shortages of key ingredients—including naphtha, a crude-oil derivative fundamental to polymer production—emerged almost immediately. Manufacturers across China, Taiwan, and Southeast Asia invoked emergency contractual provisions, acknowledging potential delivery failures as inventories dwindled.\n\nThe ramifications extend throughout interconnected supply networks. Asia's role as the predominant manufacturing hub for exported goods means its production disruptions inevitably propagate globally. Malaysia, which produces nearly half of the world's synthetic rubber gloves, witnessed manufacturers scaling back operations or substantially raising prices as raw material costs escalated. Similar pressures afflict tire production, clothing manufacturing, and countless other industries dependent on plastic-derived inputs. In China, prices for polyethylene, polypropylene, and other common polymers surged dramatically, compelling manufacturers to absorb costs or transmit them downstream to retailers and ultimately consumers.\n\nThe pricing dynamics have proven particularly volatile. Major petrochemical corporations in North America announced successive price increases for polyethylene—initial adjustments followed by subsequent escalations that collectively represented unprecedented market behavior. Industry analysts characterized these developments as aberrant, noting that manufacturers possessing available inventory essentially determined pricing irrespective of conventional market constraints. Such conditions particularly disadvantage smaller enterprises lacking the negotiating leverage of larger competitors, forcing them to either absorb losses or risk competitive disadvantage.\n\nThe geographic concentration of petrochemical infrastructure shapes vulnerability patterns. American producers, sourcing feedstocks domestically through hydraulic fracturing rather than Middle Eastern imports, initially benefited from supply disruptions elsewhere. Nevertheless, this advantage proves incomplete: plastics manufactured from domestic inputs predominantly serve disposable applications, whereas durable materials required for automotive components and sophisticated medical equipment typically originate from oil derivatives produced abroad. Consequently, even nations with robust domestic production capacity remain susceptible to shortages affecting critical industrial applications.\n\nThe episode underscores a fundamental lesson regarding global interdependence. Consumers have gradually recognized that gasoline prices respond to distant geopolitical developments; analogous awareness must now extend to plastic dependence. The synthetic materials underpinning contemporary life connect daily existence to supply networks spanning continents, rendering the mundane objects filling households vulnerable to disruptions occurring thousands of miles away. This realization may ultimately foster reconsideration of plastic's role in modern economies—or at minimum, heightened appreciation for the complex systems delivering these ubiquitous materials.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "综合题",
+      "stem": "1. a series of interconnected and spreading impacts",
+      "options": [
+        "a series of interconnected and spreading impacts",
+        "isolated and independent effects",
+        "temporary and reversible changes",
+        "beneficial outcomes for global markets"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。cascading consequences 意为一系列连锁反应/级联后果，即 a series of interconnected and spreading impacts。",
+        "B": "错误。不是 isolated and independent effects。",
+        "C": "错误。不是 temporary and reversible changes。",
+        "D": "错误。不是 beneficial outcomes。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "综合题",
+      "stem": "2. According to Paragraph 2, Asian petrochemical facilities face production difficulties because ________.",
+      "options": [
+        "domestic petroleum reserves have been exhausted",
+        "key chemical feedstocks from the Middle East are disrupted",
+        "regional competitors have monopolized market share",
+        "manufacturing technologies have become obsolete"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。不是因为国内石油储备耗尽。",
+        "B": "正确。第二段说 Petrochemical facilities across Asia depend substantially on feedstocks traversing this passage [Strait of Hormuz]. When regional tensions precipitated restrictions on this vital corridor, shortages of key ingredients emerged，即来自中东的关键化学原料供应被中断。",
+        "C": "错误。区域竞争者垄断市场份额不是原因。",
+        "D": "错误。制造技术未变得 obsolete。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "综合题",
+      "stem": "3. The author mentions Malaysia's rubber glove industry in Paragraph 3 to illustrate that ________.",
+      "options": [
+        "some Asian industries remain unaffected by global disruptions",
+        "Malaysian manufacturers benefit from rising polymer prices",
+        "production disruptions in Asia spread to global supply networks",
+        "Malaysian manufacturers dominate global polymer production"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。亚洲行业并非 unaffected。",
+        "B": "错误。马来西亚制造商受损而非受益。",
+        "C": "正确。第三段说 Asia's role as the predominant manufacturing hub for exported goods means its production disruptions inevitably propagate globally，马来西亚橡胶手套行业的例子说明亚洲的生产中断会 spread to global supply networks。",
+        "D": "错误。马来西亚制造商不 dominate global polymer production。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "综合题",
+      "stem": "4. It can be inferred from Paragraph 5 that American petrochemical producers ________.",
+      "options": [
+        "are completely immune to global supply disruptions",
+        "exclusively manufacture durable plastics for industrial use",
+        "depend entirely on Middle Eastern imports for feedstocks",
+        "benefit from disruptions but remain partially vulnerable"
+      ],
+      "answer": "D",
+      "explanation": {
+        "A": "错误。美国生产者并非 completely immune。",
+        "B": "错误。不 exclusively 制造 durable plastics。",
+        "C": "错误。不 depend entirely on Middle Eastern imports。",
+        "D": "正确。第五段说 American producers sourcing feedstocks domestically... initially benefited from supply disruptions elsewhere. Nevertheless, this advantage proves incomplete... plastics manufactured from domestic inputs predominantly serve disposable applications, whereas durable materials... typically originate from oil derivatives produced abroad，即美国生产者从供应中断中受益但仍部分脆弱。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "综合题",
+      "stem": "5. The best title for this text would be ________.",
+      "options": [
+        "Plastic Dependence: Global Vulnerabilities in Modern Supply Chains",
+        "Asian Manufacturing: The Backbone of Global Petrochemical Production",
+        "Strait of Hormuz: A Critical Passage for International Trade",
+        "Petroleum Prices: The Primary Driver of Consumer Cost Increases"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。全文讨论塑料依赖性导致的全球供应链脆弱性，从塑料无处不在、中东事件触发级联后果到全球 interdependence 的启示，最佳标题应反映塑料依赖性和现代供应链的全球脆弱性。",
+        "B": "错误。亚洲制造业只是其中一个方面。",
+        "C": "错误。霍尔木兹海峡只是一个关键节点。",
+        "D": "错误。石油价格只是其中一个因素。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "ubiquity",
+      "def": "无处不在"
+    },
+    {
+      "word": "permeated",
+      "def": "渗透"
+    },
+    {
+      "word": "pervasive",
+      "def": "普遍的"
+    },
+    {
+      "word": "petroleum",
+      "def": "石油"
+    },
+    {
+      "word": "geopolitical",
+      "def": "地缘政治的"
+    },
+    {
+      "word": "amplify",
+      "def": "放大"
+    },
+    {
+      "word": "indispensable",
+      "def": "不可或缺的"
+    },
+    {
+      "word": "conduit",
+      "def": "管道"
+    },
+    {
+      "word": "derivatives",
+      "def": "衍生物"
+    },
+    {
+      "word": "preeminent",
+      "def": "卓越的"
+    },
+    {
+      "word": "feedstocks",
+      "def": "原料"
+    },
+    {
+      "word": "traversing",
+      "def": "穿越"
+    },
+    {
+      "word": "naphtha",
+      "def": "石脑油"
+    },
+    {
+      "word": "provisions",
+      "def": "条款"
+    },
+    {
+      "word": "dwindled",
+      "def": "减少"
+    },
+    {
+      "word": "ramifications",
+      "def": "后果"
+    },
+    {
+      "word": "propagate",
+      "def": "传播"
+    },
+    {
+      "word": "afflict",
+      "def": "折磨"
+    },
+    {
+      "word": "volatile",
+      "def": "不稳定的"
+    },
+    {
+      "word": "aberrant",
+      "def": "异常的"
+    },
+    {
+      "word": "susceptible",
+      "def": "易受影响的"
+    },
+    {
+      "word": "fracturing",
+      "def": "压裂"
+    },
+    {
+      "word": "analogous",
+      "def": "类似的"
+    },
+    {
+      "word": "underpinning",
+      "def": "支撑"
+    }
+  ]
+}

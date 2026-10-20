@@ -1,0 +1,181 @@
+{
+  "date": "4/13",
+  "month": 4,
+  "day": 13,
+  "title": "Article from 4/13",
+  "text": "For decades, the prevailing narrative of globalization promised universal prosperity through free trade and economic integration. Yet as manufacturing jobs vanished from developed economies and wages stagnated for middle-class workers, a troubling reality emerged: the benefits of global economic integration have been distributed profoundly unequally. This disconnect between promise and outcome has fueled political polarization and calls for protectionist policies across Western democracies.\n\nThe manufacturing sector's decline in advanced economies illustrates this disparity most vividly. Between 2000 and 2010, the United States lost approximately 5.6 million manufacturing jobs, with scholars attributing a significant portion of these losses to import competition from China. While consumers benefited from cheaper goods, the costs fell disproportionately on specific communities—factory towns that experienced not just economic decline but social deterioration. Researchers have documented elevated rates of substance abuse, family dissolution, and mortality in regions hardest hit by trade-related job losses. These communities, once the backbone of industrial prosperity, found themselves stranded in an economy that no longer valued their labor.\n\nTheoretically, the \"winners\" from globalization were supposed to compensate the \"losers\" through redistribution mechanisms. In practice, such compensation rarely materialized adequately. Workers displaced by trade often lacked the skills or geographic mobility to transition into expanding sectors like technology or healthcare. Retraining programs, while well-intentioned, frequently failed to deliver meaningful employment opportunities. Meanwhile, corporate profits from globalization accrued primarily to shareholders and executives, exacerbating income inequality.\n\nThe backlash against globalization has manifested in political movements that transcend traditional left-right divisions. Voters in regions devastated by trade competition have increasingly supported candidates promising to restrict imports, renegotiate trade agreements, and bring manufacturing jobs back—a phenomenon observed across both the United States and Europe. Yet economists caution that reversing globalization carries its own significant risks: higher consumer prices, supply chain disruptions, and reduced economic efficiency could ultimately harm the very populations such policies aim to protect.\n\nThe challenge lies in crafting policies that harness globalization's benefits while cushioning its adverse effects. Some economists advocate for stronger social safety nets, wage insurance programs, and place-based development strategies that invest in struggling communities. Others emphasize the need for education reform to prepare future generations for an inevitably interconnected global economy. What remains clear is that the status quo—unequal gains combined with inadequate support for displaced workers—is unsustainable. Without meaningful policy intervention, the political ramifications of globalization's uneven distribution will continue to destabilize democratic societies.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "综合题",
+      "stem": "1. the widespread criticism of free trade policies",
+      "options": [
+        "the widespread criticism of free trade policies",
+        "the dominant belief about globalization's benefits",
+        "the economic predictions of developing nations",
+        "the political opposition to economic integration"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。prevailing narrative 是主流叙事/信念，而非批评。",
+        "B": "正确。prevailing narrative of globalization promised universal prosperity through free trade，即关于全球化好处的 dominant belief（主流信念）。",
+        "C": "错误。发展中国家的经济预测不是 prevailing narrative。",
+        "D": "错误。政治反对不是 prevailing narrative 的含义。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "综合题",
+      "stem": "2. According to Paragraph 2, the negative effects of manufacturing job losses include ________.",
+      "options": [
+        "increased competition among domestic producers",
+        "social problems in affected communities",
+        "reduced consumer purchasing power",
+        "declining profits for multinational corporations"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。国内生产者竞争增加不是主要负面影响。",
+        "B": "正确。第二段明确指出工厂城镇经历了 not just economic decline but social deterioration，包括 substance abuse, family dissolution, mortality 等社会问题。",
+        "C": "错误。消费者购买力下降与文意相反——消费者受益于更便宜的商品。",
+        "D": "错误。跨国公司利润下降不是文中讨论的内容。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "综合题",
+      "stem": "3. The author mentions redistribution mechanisms (Paragraph 3) to indicate that ________.",
+      "options": [
+        "they have successfully protected displaced workers",
+        "corporate executives opposed such compensation schemes",
+        "theoretical solutions often fail in practical implementation",
+        "workers were unwilling to accept retraining opportunities"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。再分配机制未能成功保护被取代的工人。",
+        "B": "错误。高管反对补偿方案不是作者提及再分配机制的目的。",
+        "C": "正确。第三段说 Theoretically winners were supposed to compensate losers through redistribution mechanisms. In practice, such compensation rarely materialized adequately，即理论解决方案在实践中往往失败。",
+        "D": "错误。工人不愿接受再培训不是重点。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "综合题",
+      "stem": "4. Which of the following is true about the political response to globalization?",
+      "options": [
+        "It has united voters across traditional party lines.",
+        "It has primarily benefited conservative political movements.",
+        "It reflects a growing demand for economic protectionism.",
+        "It has successfully reversed trade-related job losses."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。政治反应并未团结选民，而是 transcended traditional divisions。",
+        "B": "错误。未提及主要受益于保守运动。",
+        "C": "正确。第四段说 voters increasingly supported candidates promising to restrict imports, renegotiate trade agreements, and bring manufacturing jobs back，反映了对经济保护主义日益增长的需求。",
+        "D": "错误。贸易相关就业损失未被成功逆转。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "综合题",
+      "stem": "5. The best title for this text would be ________.",
+      "options": [
+        "The Decline of Manufacturing: A Global Perspective",
+        "Globalization's Unequal Gains: A Democratic Dilemma",
+        "Free Trade and Protectionism: An Economic Analysis",
+        "The Future of Economic Integration in Developed Nations"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。制造业 decline 只是文章的一部分内容。",
+        "B": "正确。全文讨论全球化收益不均及其对民主社会的政治影响，从现象、原因、政治反应到政策建议，最佳标题应反映全球化不平等收益的民主困境。",
+        "C": "错误。自由贸易与保护主义的分析不够聚焦文章核心。",
+        "D": "错误。经济整合的未来不是文章主旨。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "prevailing",
+      "def": "流行的"
+    },
+    {
+      "word": "prosperity",
+      "def": "繁荣"
+    },
+    {
+      "word": "stagnated",
+      "def": "停滞"
+    },
+    {
+      "word": "polarization",
+      "def": "两极分化"
+    },
+    {
+      "word": "protectionist",
+      "def": "保护主义的"
+    },
+    {
+      "word": "disparity",
+      "def": "差距"
+    },
+    {
+      "word": "disproportionately",
+      "def": "不成比例地"
+    },
+    {
+      "word": "deterioration",
+      "def": "恶化"
+    },
+    {
+      "word": "dissolution",
+      "def": "解体"
+    },
+    {
+      "word": "redistribution",
+      "def": "再分配"
+    },
+    {
+      "word": "materialized",
+      "def": "实现"
+    },
+    {
+      "word": "well-intentioned",
+      "def": "善意的"
+    },
+    {
+      "word": "accrued",
+      "def": "累积"
+    },
+    {
+      "word": "exacerbating",
+      "def": "加剧"
+    },
+    {
+      "word": "backlash",
+      "def": "强烈反应"
+    },
+    {
+      "word": "transcend",
+      "def": "超越"
+    },
+    {
+      "word": "devastated",
+      "def": "摧毁"
+    },
+    {
+      "word": "cushioning",
+      "def": "缓冲"
+    },
+    {
+      "word": "ramifications",
+      "def": "后果"
+    },
+    {
+      "word": "destabilize",
+      "def": "使不稳定"
+    }
+  ]
+}

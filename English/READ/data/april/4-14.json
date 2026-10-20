@@ -1,0 +1,197 @@
+{
+  "date": "4/14",
+  "month": 4,
+  "day": 14,
+  "title": "Article from 4/14",
+  "text": "The assumption that humans are rational decision-makers, carefully weighing costs and benefits before acting, has long underpinned economic theory and public policy. Yet decades of research in behavioral economics have exposed a more troubling reality: our decisions are systematically distorted by cognitive biases—mental shortcuts that lead us astray even when we possess ample information. These biases, deeply ingrained in human psychology, shape everything from our financial investments to our health choices, often with costly consequences.\n\nOne particularly pervasive bias is present bias, the tendency to overvalue immediate rewards while discounting future benefits. This explains why individuals struggle to save for retirement despite understanding its importance, or why patients fail to adhere to medication regimens that would prevent future illness. The immediate gratification of spending money or skipping a pill outweighs the abstract, distant promise of financial security or improved health. Researchers have found that when people are presented with choices involving delayed outcomes, their decisions become markedly inconsistent, as if two different selves were making choices—one impatient and present-focused, another more deliberative but easily overridden.\n\nConfirmation bias similarly distorts our judgment by leading us to seek information that validates our existing beliefs while dismissing contradictory evidence. In an era of information abundance, this tendency has grown particularly pernicious. Individuals curate their news sources to align with their ideological predispositions, creating echo chambers that reinforce erroneous views. Studies demonstrate that people presented with balanced evidence on contentious issues often become more polarized, not less, as they selectively absorb confirming details and rationalize away disconfirming ones. This phenomenon extends beyond politics: investors may cling to losing stocks, convinced that negative reports are exaggerated, while dismissing objective analyses suggesting otherwise.\n\nThe implications for climate policy illustrate how cognitive biases can undermine collective action. Despite overwhelming scientific consensus on anthropogenic climate change, many individuals remain skeptical, swayed by optimism bias—the belief that negative outcomes are less likely to affect them personally. This bias, combined with the abstract nature of long-term environmental threats, makes mobilizing public support for costly mitigation measures exceedingly difficult. Even those who accept climate science often resist lifestyle changes, perceiving the sacrifices as immediate and concrete while the benefits remain diffuse and temporally distant.\n\nAddressing these biases requires more than simply providing better information. Behavioral scientists advocate for \"choice architecture\"—designing decision environments that nudge people toward better outcomes without restricting their freedom. Automatic enrollment in retirement savings plans, default settings that encourage energy conservation, and simplified disclosure formats have all proven effective. Yet critics argue that such interventions, however well-intentioned, risk paternalism. The debate underscores a fundamental tension: if human irrationality is systematic rather than occasional, can we trust individuals to make optimal choices, or must institutions gently steer them toward better outcomes? Resolving this question will shape how societies address challenges from financial literacy to public health in the decades ahead.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "综合题",
+      "stem": "1. guide us toward success",
+      "options": [
+        "guide us toward success",
+        "cause us to make wrong decisions",
+        "help us find new opportunities",
+        "improve our decision-making efficiency"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。lead us astray 意为引导我们走向错误方向，而非成功。",
+        "B": "正确。lead us astray 指认知偏差使我们在拥有充足信息的情况下仍做出错误决定，即 cause us to make wrong decisions。",
+        "C": "错误。找到新机会与文意相反。",
+        "D": "错误。提高决策效率与文意相反。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "综合题",
+      "stem": "2. According to Paragraph 2, present bias refers to the tendency that ________.",
+      "options": [
+        "people prefer immediate rewards over future benefits",
+        "individuals make consistent decisions over time",
+        "patients strictly follow their medication schedules",
+        "investors focus on long-term financial planning"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。present bias 被定义为 the tendency to overvalue immediate rewards while discounting future benefits，即人们偏好即时回报而非未来收益。",
+        "B": "错误。人们做的是 inconsistent decisions 而非 consistent。",
+        "C": "错误。患者不严格遵守用药计划，而非严格遵循。",
+        "D": "错误。投资者关注短期而非长期规划。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "综合题",
+      "stem": "3. The author mentions \"echo chambers\" (Paragraph 3) to illustrate that ________.",
+      "options": [
+        "information abundance benefits rational decision-making",
+        "confirmation bias reinforces preexisting erroneous views",
+        "balanced evidence reduces polarization on contentious issues",
+        "ideological predispositions help people absorb diverse opinions"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。信息 abundance 并未 benefit 理性决策。",
+        "B": "正确。echo chambers 指人们 curate news sources to align with ideological predispositions，creating chambers that reinforce erroneous views，即确认偏误强化了先前存在的错误观点。",
+        "C": "错误。balanced evidence 并未减少 polarisation，反而使人们 more polarized。",
+        "D": "错误。ideological predispositions 帮助人们吸收 confirming details 而非 diverse opinions。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "综合题",
+      "stem": "4. Which of the following is true about optimism bias according to Paragraph 4?",
+      "options": [
+        "It enhances public support for climate mitigation measures.",
+        "It leads people to believe negative outcomes are personally unlikely.",
+        "It encourages individuals to accept scientific consensus on climate.",
+        "It motivates lifestyle changes for environmental protection."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。optimism bias 削弱而非增强公众对气候缓解措施的支持。",
+        "B": "正确。optimism bias 被定义为 the belief that negative outcomes are less likely to affect them personally，即人们相信负面结果不太可能影响自己。",
+        "C": "错误。人们 remain skeptical 而非 accept scientific consensus。",
+        "D": "错误。人们 resist lifestyle changes 而非 motivated to change。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "综合题",
+      "stem": "5. The best title for this text would be ________.",
+      "options": [
+        "Economic Theory: The Foundation of Rational Decision-Making",
+        "Cognitive Biases: How Mental Shortcuts Distort Our Choices",
+        "Climate Policy: Overcoming Public Resistance to Change",
+        "Choice Architecture: A New Approach to Behavioral Science"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。经济理论只是引入背景。",
+        "B": "正确。全文讨论认知偏差如何系统性地扭曲决策，从 present bias 到 confirmation bias 到 optimism bias，最后讨论应对策略，最佳标题应反映认知偏差如何扭曲选择。",
+        "C": "错误。气候政策只是一个例子。",
+        "D": "错误。choice architecture 是最后一段提到的应对策略之一，不是主旨。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "underpinned",
+      "def": "支撑"
+    },
+    {
+      "word": "systematically",
+      "def": "系统地"
+    },
+    {
+      "word": "distorted",
+      "def": "扭曲"
+    },
+    {
+      "word": "ingrained",
+      "def": "根深蒂固的"
+    },
+    {
+      "word": "pervasive",
+      "def": "普遍的"
+    },
+    {
+      "word": "overvalue",
+      "def": "高估"
+    },
+    {
+      "word": "discounting",
+      "def": "低估"
+    },
+    {
+      "word": "adhere",
+      "def": "遵守"
+    },
+    {
+      "word": "regimens",
+      "def": "方案"
+    },
+    {
+      "word": "gratification",
+      "def": "满足感"
+    },
+    {
+      "word": "outweighs",
+      "def": "超过"
+    },
+    {
+      "word": "deliberative",
+      "def": "深思熟虑的"
+    },
+    {
+      "word": "pernicious",
+      "def": "有害的"
+    },
+    {
+      "word": "curate",
+      "def": "筛选"
+    },
+    {
+      "word": "ideological",
+      "def": "意识形态的"
+    },
+    {
+      "word": "predispositions",
+      "def": "倾向"
+    },
+    {
+      "word": "erroneous",
+      "def": "错误的"
+    },
+    {
+      "word": "contentious",
+      "def": "有争议的"
+    },
+    {
+      "word": "rationalize",
+      "def": "合理化"
+    },
+    {
+      "word": "anthropogenic",
+      "def": "人为的"
+    },
+    {
+      "word": "mitigation",
+      "def": "缓解"
+    },
+    {
+      "word": "exceedingly",
+      "def": "极其"
+    },
+    {
+      "word": "paternalism",
+      "def": "家长式统治"
+    },
+    {
+      "word": "underscores",
+      "def": "强调"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "date": "4/25",
+  "month": 4,
+  "day": 25,
+  "title": "Article from 4/25",
+  "text": "Across the developed world, local journalism is experiencing a systematic collapse. Newspapers that once anchored communities—covering city councils, school boards, and regional courts—have shuttered at an alarming pace, leaving vast swaths of territory effectively devoid of original reporting. Research indicates that over two hundred counties in the United States now lack any dedicated news source, a figure that continues to climb as advertising revenue migrates irreversibly to digital platforms. The consequences of this erosion extend far beyond cultural nostalgia: communities without local journalism exhibit diminished civic engagement, reduced electoral participation, and heightened vulnerability to misinformation.\n\nThe economic foundations of local news have undergone radical transformation. Historically, newspapers thrived on a dual-revenue model combining subscription fees with classified and display advertising, which benefited from limited competition within geographic markets. The advent of digital platforms fractured this arrangement: tech giants captured the lion's share of advertising expenditure through sophisticated targeting capabilities, while print circulation plummeted. Attempts to transition toward digital subscriptions have yielded mixed results. Many readers, accustomed to free content online, resist paying for local coverage, particularly when national outlets offer abundant alternatives at no cost. Consequently, surviving newspapers often operate with skeletal staffs—newsrooms that once employed dozens of reporters now rely on a handful of journalists covering expansive territories.\n\nThe civic implications of this decline are profound and empirically documented. Academic studies have demonstrated a strong correlation between the disappearance of local newspapers and the deterioration of municipal governance. When journalists cease attending council meetings and investigating public expenditures, government accountability deteriorates measurably. Research examining communities that lost their primary news source found subsequent increases in municipal borrowing costs, as creditors priced in the heightened risk of unchecked financial mismanagement. Furthermore, electoral participation declines in news-desert communities, particularly in local elections where name recognition substitutes for informed deliberation. Incumbents benefit disproportionately from reduced coverage, facing fewer challengers and less scrutiny during campaigns.\n\nMisinformation flourishes in the void left by professional journalism. When authoritative local reporting vanishes, residents turn to alternative information sources—social media feeds, partisan blogs, and community rumor networks—that prioritize engagement over accuracy. These channels frequently amplify sensationalist narratives and unverified claims, distorting public understanding of local issues. Studies have documented instances where communities without newspapers experienced proliferation of conspiracy theories regarding municipal decisions, from zoning disputes to public health measures. The absence of fact-based reporting not only deprives citizens of reliable information but also erodes the shared factual foundation necessary for productive democratic discourse.\n\nAddressing this crisis demands innovative approaches that transcend conventional business models. Some jurisdictions have experimented with tax incentives supporting nonprofit news organizations, while philanthropic foundations increasingly subsidize investigative journalism initiatives. Legislative proposals including local journalism tax credits and public funding mechanisms have garnered bipartisan support in several regions. Additionally, some communities have embraced cooperative ownership structures, transforming failing newspapers into reader-supported enterprises. Yet skeptics question whether these interventions can achieve sufficient scale to reverse systemic decline. What remains evident is that preserving local journalism requires treating it not merely as a commercial enterprise but as essential civic infrastructure—comparable to libraries and public schools—whose value transcends market metrics and warrants collective investment for democratic preservation.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "综合题",
+      "stem": "1. areas where news is distributed exclusively online",
+      "options": [
+        "areas where news is distributed exclusively online",
+        "regions with abundant local newspaper circulation",
+        "communities lacking access to original local reporting",
+        "neighborhoods that heavily rely on social media for information"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。不是 exclusively online。",
+        "B": "错误。不是 abundant circulation。",
+        "C": "正确。news-desert communities 指 communities without local journalism / communities that lost their primary news source，即缺乏原创本地新闻报道的社区。",
+        "D": "错误。不是 heavily rely on social media。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "综合题",
+      "stem": "2. According to Paragraph 2, the economic decline of local newspapers is primarily attributable to ________.",
+      "options": [
+        "digital platforms capturing advertising revenue and declining circulation",
+        "rising production costs for print newspapers",
+        "government regulations restricting press freedom",
+        "readers' preference for television news over print media"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。第二段说 tech giants captured the lion's share of advertising expenditure... while print circulation plummeted，即数字平台攫取广告收入和发行量暴跌是主要原因。",
+        "B": "错误。生产成本上升不是主要原因。",
+        "C": "错误。政府限制新闻自由不是原因。",
+        "D": "错误。读者偏好电视新闻不是原因。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "综合题",
+      "stem": "3. The author cites research on municipal borrowing costs (Paragraph 3) to demonstrate that ________.",
+      "options": [
+        "local newspapers actively participate in financial management",
+        "creditors discriminate against communities without news sources",
+        "government accountability improves with reduced media scrutiny",
+        "absence of journalism correlates with weakened financial oversight"
+      ],
+      "answer": "D",
+      "explanation": {
+        "A": "错误。报纸不积极参与财务管理。",
+        "B": "错误。债权人不对社区歧视。",
+        "C": "错误。政府问责制随媒体审查减少而恶化而非改善。",
+        "D": "正确。第三段说 Research examining communities that lost their primary news source found subsequent increases in municipal borrowing costs, as creditors priced in the heightened risk of unchecked financial mismanagement，即缺乏新闻与 weakened financial oversight 相关。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "综合题",
+      "stem": "4. Which of the following best describes the author's attitude toward proposed solutions for the journalism crisis?",
+      "options": [
+        "Entirely optimistic that market forces will resolve the issue",
+        "Cautiously acknowledging efforts while recognizing their limitations",
+        "Strongly skeptical that any intervention could be effective",
+        "Indifferent to policy debates surrounding journalism funding"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。作者不 entirely optimistic。",
+        "B": "正确。最后一段提到 tax incentives, philanthropic foundations, legislative proposals, cooperative ownership 等创新方法，但同时说 skeptics question whether these interventions can achieve sufficient scale to reverse systemic decline，即作者谨慎地认可努力同时认识到其局限性。",
+        "C": "错误。作者不 strongly skeptical 所有干预。",
+        "D": "错误。作者关心政策辩论而非漠不关心。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "综合题",
+      "stem": "5. The best title for this text would be ________.",
+      "options": [
+        "Digital Platforms: The Winners of the News Industry",
+        "Municipal Governance: The Cost of Media Concentration",
+        "Local Journalism's Collapse: A Threat to Democratic Accountability",
+        "Nonprofit News: The Future of Community Reporting"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。数字平台不是文章主旨。",
+        "B": "错误。市政治理只是其中一个方面。",
+        "C": "正确。全文讨论地方新闻业的系统性崩溃及其对民主问责制的威胁，从经济转型、公民影响到虚假信息泛滥和可能的解决方案，最佳标题应反映地方新闻崩溃对民主问责的威胁。",
+        "D": "错误。非营利新闻只是对策之一。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "systematic",
+      "def": "系统的"
+    },
+    {
+      "word": "collapse",
+      "def": "崩溃"
+    },
+    {
+      "word": "anchored",
+      "def": "扎根"
+    },
+    {
+      "word": "shuttered",
+      "def": "关闭"
+    },
+    {
+      "word": "devoid",
+      "def": "缺乏"
+    },
+    {
+      "word": "irreversibly",
+      "def": "不可逆转地"
+    },
+    {
+      "word": "nostalgia",
+      "def": "怀旧"
+    },
+    {
+      "word": "civic",
+      "def": "公民的"
+    },
+    {
+      "word": "electoral",
+      "def": "选举的"
+    },
+    {
+      "word": "dual-revenue",
+      "def": "双收入"
+    },
+    {
+      "word": "advent",
+      "def": "到来"
+    },
+    {
+      "word": "fractured",
+      "def": "分裂"
+    },
+    {
+      "word": "plummeted",
+      "def": "暴跌"
+    },
+    {
+      "word": "skeletal",
+      "def": "精简的"
+    },
+    {
+      "word": "empirically",
+      "def": "经验上"
+    },
+    {
+      "word": "correlation",
+      "def": "相关性"
+    },
+    {
+      "word": "deterioration",
+      "def": "恶化"
+    },
+    {
+      "word": "municipal",
+      "def": "市政的"
+    },
+    {
+      "word": "accountability",
+      "def": "问责制"
+    },
+    {
+      "word": "mismanagement",
+      "def": "管理不善"
+    },
+    {
+      "word": "incumbents",
+      "def": "现任者"
+    },
+    {
+      "word": "sensationalist",
+      "def": "耸人听闻的"
+    },
+    {
+      "word": "unverified",
+      "def": "未经证实的"
+    },
+    {
+      "word": "conspiracy",
+      "def": "阴谋"
+    },
+    {
+      "word": "philanthropic",
+      "def": "慈善的"
+    },
+    {
+      "word": "cooperative",
+      "def": "合作的"
+    },
+    {
+      "word": "skepticism",
+      "def": "怀疑"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "date": "4/16",
+  "month": 4,
+  "day": 16,
+  "title": "Article from 4/16",
+  "text": "For generations, higher education has been heralded as the surest pathway to upward social mobility, the mechanism by which talented individuals from modest backgrounds could transcend economic circumstances and achieve professional success. Universities, particularly elite institutions, have traditionally served as gateways to lucrative careers and influential networks, promising that academic merit rather than inherited privilege would determine one's trajectory. Yet recent research has revealed a troubling paradox: while university attendance has expanded dramatically, the capacity of higher education to facilitate genuine social advancement has diminished considerably.\n\nThe expansion of higher education, often celebrated as democratization, has not produced proportional gains in mobility. Studies tracking graduates from different socioeconomic origins demonstrate that students from affluent families continue to secure substantially higher earnings and prestigious positions compared to their working-class peers, even when attending identical institutions and earning comparable credentials. This persistence of advantage stems from factors beyond academic achievement: wealthier students possess social networks that facilitate internships and job placements, receive guidance on navigating institutional cultures, and can afford unpaid experiential opportunities that enhance employability. Meanwhile, students from disadvantaged backgrounds often lack access to these informal resources, graduating with similar degrees but inferior prospects.\n\nThe financial burden of university attendance has further eroded education's mobility function. Tuition costs have escalated precipitously over recent decades, forcing many students to incur substantial debt that constrains their post-graduation choices. Graduates burdened by loans often prioritize immediate income over long-term career development, accepting positions outside their fields of study or foregoing advanced degree programmes. This creates a stratification whereby those who can afford to accumulate further qualifications continue to advance while others become trapped in cycles of relative deprivation.\n\nElite university admissions processes, though nominally meritocratic, inadvertently reproduce existing social hierarchies. Admissions committees frequently rely on indicators that correlate with socioeconomic status—extracurricular achievements, personal statements, and recommendation letters that reflect privileged upbringings rather than genuine academic potential. Consequently, students from underrepresented backgrounds face cumulative disadvantages that compound across generations. The resulting inequity undermines the foundational promise of education as a democratizing force for social renewal.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "词义推断题",
+      "stem": "1. The word \"heralded\" (Paragraph 1) most probably means ________.",
+      "options": [
+        "praised or acclaimed publicly",
+        "criticized or condemned",
+        "ignored or overlooked",
+        "questioned or doubted"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。heralded 意为\"被誉为/被宣称为\"，指公开地赞扬或吹捧。文中说 higher education has been heralded as the surest pathway to upward social mobility，即高等教育被誉为社会流动的最佳途径。",
+        "B": "错误。criticized 与 heralded 含义相反。",
+        "C": "错误。ignored 与 heralded 含义相反。",
+        "D": "错误。questioned 与 heralded 含义相反。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "细节理解题",
+      "stem": "2. According to Paragraph 2, students from affluent families achieve better outcomes because of ________.",
+      "options": [
+        "superior academic credentials only",
+        "government-supported employment programs",
+        "social networks and informal resources beyond academics",
+        "greater natural intelligence and talent"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。不仅仅是学术资质，还有其他因素。",
+        "B": "错误。政府支持的就业计划不是原因。",
+        "C": "正确。第二段指出 wealthier students possess social networks that facilitate internships and job placements，即社会网络和学术以外的非正式资源是关键因素。",
+        "D": "错误。自然智力不是文中讨论的因素。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "例证题",
+      "stem": "3. The author mentions \"unpaid internships\" (Paragraph 3) to indicate that ________.",
+      "options": [
+        "all students can equally access professional experience opportunities",
+        "financial constraints limit career development for disadvantaged students",
+        "universities provide sufficient support for job searches",
+        "employers prefer graduates from lower-income backgrounds"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。不是所有学生都能平等获得实习机会。",
+        "B": "正确。第三段说弱势背景学生无法负担无薪实习，而这是建立专业经验的机会，表明经济限制阻碍了职业发展。",
+        "C": "错误。大学提供的支持不足。",
+        "D": "错误。雇主不偏好低收入背景的毕业生。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "推理判断题",
+      "stem": "4. What can be inferred from Paragraph 4 about elite university admissions?",
+      "options": [
+        "They have successfully equalized opportunity for all applicants.",
+        "They primarily benefit students from disadvantaged communities.",
+        "They have eliminated all barriers for underrepresented students.",
+        "They inadvertently favor applicants from privileged backgrounds."
+      ],
+      "answer": "D",
+      "explanation": {
+        "A": "错误。精英大学招生未能实现机会均等。",
+        "B": "错误。主要惠及富裕背景申请者。",
+        "C": "错误。障碍未被消除。",
+        "D": "正确。第四段说 Admissions processes though nominally meritocratic inadvertently favor applicants from privileged environments，即招生过程虽名义上择优，但无意中偏向特权背景的申请者。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "Higher Education: The Broken Promise of Social Mobility",
+        "University Expansion: A Success Story of Democratization",
+        "Financial Aid: The Key to Educational Equality",
+        "Elite Institutions: Gateways to Professional Success"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。全文讨论高等教育未能兑现社会流动承诺的悖论，最佳标题应反映高等教育社会流动承诺的破灭。",
+        "B": "错误。大学扩张的成功故事与文章观点相反。",
+        "C": "错误。经济援助只是对策之一。",
+        "D": "错误。精英机构作为专业成功的门户只是引入背景。"
+      }
+    }
+  ],
+  "words": [
+    {"word": "heralded", "def": "被誉为"},
+    {"word": "transcend", "def": "超越"},
+    {"word": "lucrative", "def": "盈利丰厚的"},
+    {"word": "trajectory", "def": "轨迹"},
+    {"word": "paradox", "def": "悖论"},
+    {"word": "facilitate", "def": "促进"},
+    {"word": "democratization", "def": "民主化"},
+    {"word": "proportional", "def": "成比例的"},
+    {"word": "socioeconomic", "def": "社会经济的"},
+    {"word": "affluent", "def": "富裕的"},
+    {"word": "prestigious", "def": "有声望的"},
+    {"word": "credentials", "def": "资历"},
+    {"word": "experiential", "def": "经验的"},
+    {"word": "employability", "def": "就业能力"},
+    {"word": "disadvantaged", "def": "弱势的"},
+    {"word": "precipitously", "def": "急剧地"},
+    {"word": "constrains", "def": "限制"},
+    {"word": "stratified", "def": "分层的"},
+    {"word": "meritocratic", "def": "精英管理的"},
+    {"word": "cornerstone", "def": "基石"},
+    {"word": "underrepresented", "def": "代表不足的"},
+    {"word": "cumulative", "def": "累积的"},
+    {"word": "compound", "def": "加剧"},
+    {"word": "undermine", "def": "破坏"},
+    {"word": "renewal", "def": "更新"}
+  ]
+}

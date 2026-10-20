@@ -1,0 +1,201 @@
+{
+  "date": "5/4",
+  "month": 5,
+  "day": 4,
+  "title": "Article from 5/4",
+  "text": "An alarming trend has emerged across numerous countries: cancer rates among adults under fifty have been steadily increasing since the 1990s. In the United States, Australia, Canada, and several European nations, the incidence of bowel cancer alone has risen by approximately fifty per cent over the past three decades. This phenomenon has prompted extensive epidemiological investigations, yet researchers have thus far struggled to identify the precise factors driving this demographic shift. A comprehensive new study from the Institute of Cancer Research in London has now concluded that while obesity may account for a portion of the increase, the majority of the trend remains unexplained.\n\nTo unravel this mystery, Montserrat Garcia-Closas and her colleagues meticulously analysed cancer trends in England, correlating them with population-level data on established risk factors. Their findings revealed that eleven types of cancer are increasing among individuals aged twenty to forty-nine, with breast and bowel cancers being the most prevalent. Liver, kidney, and pancreatic cancers also showed upward trajectories, with annual increases ranging from one to six per cent. Strikingly, nine of these eleven cancers were rising at similar rates among those aged fifty and over, suggesting that common underlying causes may be affecting all age groups.\n\nThe researchers subsequently examined behavioural risk factors previously identified by the International Agency for Research on Cancer: alcohol consumption, smoking, physical inactivity, body mass index, dietary fibre intake, and the consumption of processed or red meat. Surprisingly, they found that most of these factors had remained stable or even improved over the study period. The sole exception was body mass index, which has consistently deteriorated. However, obesity alone proved insufficient as an explanation: only approximately twenty per cent of the increase in bowel cancers among young women could be attributed to rising BMI during the relevant timeframe.\n\nCurrent investigations are exploring a range of alternative hypotheses. These include the proliferating consumption of ultra-processed foods, exposure to per- and polyfluoroalkyl substances (PFAS)—persistent environmental chemicals that accumulate in the human body—and the widespread use of antibiotics that may be disrupting gut microbiomes. The researchers emphasise that the rising cancer incidence is probably attributable to a confluence of multiple interacting factors rather than a single causative agent. They also acknowledge that enhanced diagnostic capabilities and more frequent screening may have contributed to the observed increases.\n\nDespite the concerning trends, experts caution against undue alarm. In England, only approximately three thousand bowel cancer cases are diagnosed annually among those aged twenty to forty-nine, meaning that even a three per cent annual increase translates to roughly one hundred additional cases. Recent data up to 2023 indicate that the previously accelerating trends have begun to stabilise. Furthermore, the growing adoption of GLP-1 weight-loss medications may eventually help reverse obesity-related cancer trends, though researchers stress that comprehensive lifestyle interventions and continued surveillance remain essential.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "细节理解题",
+      "stem": "1. According to Paragraph 2, what did the researchers discover about cancer trends across age groups?",
+      "options": [
+        "Cancer rates were rising exclusively among young adults.",
+        "Most cancers were increasing at similar rates in both young and older populations.",
+        "Breast cancer was the only type showing an upward trajectory.",
+        "The increase was more pronounced in older age groups than in younger ones."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。研究发现大多数癌症在50岁以上人群中也以相似速度上升，并非仅年轻人增加。",
+        "B": "正确。第二段明确指出 nine of these eleven cancers were rising at similar rates among those aged fifty and over, suggesting that common underlying causes may be affecting all age groups。",
+        "C": "错误。乳腺癌是最普遍的之一，但不是唯一上升的类型。",
+        "D": "错误。上升速度在两个年龄段相似，而非老年人更明显。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "词义推断题",
+      "stem": "2. The word \"confluence\" (Paragraph 4) most probably means ________.",
+      "options": [
+        "a single dominant cause",
+        "a coming together of multiple factors",
+        "a gradual decline over time",
+        "a sudden unexpected change"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。confluence 指多种因素汇合，与 single dominant cause 含义相反。",
+        "B": "正确。confluence 原意为河流交汇，引申为多种因素汇聚/结合。文中说 rising cancer incidence is probably attributable to a confluence of multiple interacting factors rather than a single causative agent，即多种相互作用因素的共同作用。",
+        "C": "错误。与 gradual decline 无关。",
+        "D": "错误。与 sudden unexpected change 无关。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. What can be inferred from Paragraph 3 about behavioural risk factors?",
+      "options": [
+        "They have collectively worsened over the study period.",
+        "They fully explain the rising cancer rates among young people.",
+        "Most have remained stable or improved, with BMI being the exception.",
+        "Their impact on cancer has been overestimated by previous research."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。大多数行为风险因素保持稳定或改善，而非 collectively worsened。",
+        "B": "错误。研究发现肥胖只能解释约20%的增加，远非 fully explain。",
+        "C": "正确。第三段说 most of these factors had remained stable or even improved over the study period. The sole exception was body mass index, which has consistently deteriorated。",
+        "D": "错误。文章未提及先前研究高估了这些因素的影响。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "细节理解题",
+      "stem": "4. According to the passage, which of the following is NOT mentioned as a possible factor for rising cancer rates?",
+      "options": [
+        "Consumption of ultra-processed foods.",
+        "Exposure to persistent environmental chemicals.",
+        "Antibiotic use disrupting gut microbiomes.",
+        "Increased air pollution in urban areas."
+      ],
+      "answer": "D",
+      "explanation": {
+        "A": "错误。第四段提到 proliferating consumption of ultra-processed foods 是可能因素之一。",
+        "B": "错误。第四段提到 exposure to PFAS（persistent environmental chemicals）是可能因素。",
+        "C": "错误。第四段提到 widespread use of antibiotics that may be disrupting gut microbiomes 是可能因素。",
+        "D": "正确。文章未提及城市空气污染增加作为癌症上升的可能因素。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "The Definitive Link Between Obesity and Youth Cancer",
+        "Why Young People Are Developing Cancer: An Unsolved Mystery",
+        "How GLP-1 Drugs Will Eliminate Obesity-Related Cancers",
+        "The Success of Cancer Screening Programs in England"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文章指出肥胖只能解释部分增加，并非 definitive link。",
+        "B": "正确。全文讨论年轻人癌症增加的现象，分析已研究的风险因素但发现大部分原因仍不明朗，最后提到趋势开始稳定，最佳标题应反映这一未解之谜。",
+        "C": "错误。GLP-1药物可能帮助逆转趋势，但不会 eliminate 癌症，且只是最后一段提及的展望。",
+        "D": "错误。癌症筛查项目只是提及可能影响诊断率的因素之一，不是主旨。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "alarming",
+      "def": "令人担忧的"
+    },
+    {
+      "word": "incidence",
+      "def": "发生率"
+    },
+    {
+      "word": "epidemiological",
+      "def": "流行病学的"
+    },
+    {
+      "word": "demographic",
+      "def": "人口统计的"
+    },
+    {
+      "word": "unravel",
+      "def": "解开"
+    },
+    {
+      "word": "meticulously",
+      "def": "细致地"
+    },
+    {
+      "word": "correlating",
+      "def": "关联"
+    },
+    {
+      "word": "prevalent",
+      "def": "普遍的"
+    },
+    {
+      "word": "trajectories",
+      "def": "轨迹"
+    },
+    {
+      "word": "underlying",
+      "def": "潜在的"
+    },
+    {
+      "word": "subsequently",
+      "def": "随后"
+    },
+    {
+      "word": "behavioural",
+      "def": "行为的"
+    },
+    {
+      "word": "deteriorated",
+      "def": "恶化"
+    },
+    {
+      "word": "attributed",
+      "def": "归因于"
+    },
+    {
+      "word": "proliferating",
+      "def": "激增"
+    },
+    {
+      "word": "ultra-processed",
+      "def": "超加工的"
+    },
+    {
+      "word": "persistent",
+      "def": "持续的"
+    },
+    {
+      "word": "microbiomes",
+      "def": "微生物组"
+    },
+    {
+      "word": "confluence",
+      "def": "汇合"
+    },
+    {
+      "word": "causative",
+      "def": "原因的"
+    },
+    {
+      "word": "diagnostic",
+      "def": "诊断的"
+    },
+    {
+      "word": "undue",
+      "def": "过度的，不正当的"
+    },
+    {
+      "word": "stabilise",
+      "def": "稳定"
+    },
+    {
+      "word": "adoption",
+      "def": "采用"
+    },
+    {
+      "word": "surveillance",
+      "def": "监测"
+    }
+  ]
+}

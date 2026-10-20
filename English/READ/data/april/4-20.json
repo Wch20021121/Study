@@ -1,0 +1,193 @@
+{
+  "date": "4/20",
+  "month": 4,
+  "day": 20,
+  "title": "Article from 4/20",
+  "text": "The automation revolution has arrived with promises of unprecedented productivity and efficiency, transforming industries from manufacturing to healthcare with breathtaking speed. Yet beneath the optimistic projections lies a more unsettling reality: the displacement of human workers at a scale and pace that existing social structures may prove inadequate to address. While technological advancement has historically created new employment opportunities alongside those it eliminated, economists increasingly question whether this iteration of automation—driven by artificial intelligence and machine learning—will follow the same pattern or fundamentally disrupt the relationship between technology and labor.\n\nThe distinctive characteristic of contemporary automation lies in its cognitive rather than merely physical capabilities. Previous waves of technological change primarily automated manual tasks, leaving knowledge work relatively untouched. Today's systems, however, perform increasingly sophisticated intellectual labor: they analyze medical images, draft legal documents, translate languages, and even generate creative content. This expansion into domains once considered uniquely human threatens occupations across the skill spectrum, from routine administrative functions to specialized professional expertise. The implications extend beyond individual job security: entire occupational categories face potential obsolescence, raising questions about how societies will organize work and distribute income in an era when human contribution to economic production may diminish substantially.\n\nThe asymmetry of automation's benefits and costs further complicates its societal impact. Productivity gains from technology historically translated into broad wage improvements and employment expansion, but recent decades have witnessed a divergence from this pattern. Corporate profits from automation accrue predominantly to shareholders and technology providers, while displaced workers bear the immediate consequences of unemployment, skill obsolescence, and downward mobility. This concentration of gains reflects not merely technological inevitability but policy choices: weakened labor protections, diminished union influence, and tax structures that favor capital over labor have enabled automation's rewards to flow upward while its burdens cascade downward. The result has been accelerating income inequality and geographic disparities, as regions dependent on automatable industries experience economic devastation while technology hubs flourish.\n\nEducational systems designed for an industrial economy face mounting pressure to adapt. Traditional curricula emphasizing routine knowledge acquisition and standardized procedures prepare students for precisely the tasks that automation renders redundant. Meanwhile, capabilities that machines struggle to replicate—creative problem-solving, emotional intelligence, ethical reasoning, collaborative adaptability—receive inadequate attention in educational frameworks optimized for measurable outcomes and vocational efficiency. The mismatch between educational outputs and labor market demands creates a skills gap that exacerbates automation's displacement effects, leaving graduates unprepared for an economy where distinctively human competencies may constitute the only sustainable competitive advantage.\n\nAddressing automation's challenges demands policy innovation beyond conventional labor market interventions. Some economists advocate for redistributive mechanisms such as universal basic income or negative income taxes that decouple survival from employment. Others emphasize proactive workforce development, investing in continuous education and reskilling programs that enable workers to transition alongside technological change. More fundamentally, scholars argue for reconceptualizing work's role in human flourishing—recognizing that meaningful activity need not coincide with paid employment and that social arrangements distributing automation's gains broadly could liberate individuals from compulsory labor. What remains evident is that passive reliance on market adjustment will prove insufficient: without deliberate intervention, automation risks deepening existing inequalities and undermining the social contract that has historically linked economic participation to livelihood security.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "综合题",
+      "stem": "1. slow and gradual progress",
+      "options": [
+        "slow and gradual progress",
+        "carefully planned development",
+        "astonishingly rapid pace",
+        "methodical implementation"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。slow and gradual 与 breathtaking 相反。",
+        "B": "错误。carefully planned 与 breathtaking 含义不符。",
+        "C": "正确。breathtaking speed 意为惊人的速度，即 astonishingly rapid pace。",
+        "D": "错误。methodical implementation 与 breathtaking 含义不符。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "综合题",
+      "stem": "2. According to Paragraph 2, contemporary automation differs from previous technological changes because it ________.",
+      "options": [
+        "primarily targets manual and physical tasks",
+        "focuses exclusively on manufacturing industries",
+        "leaves knowledge work completely untouched",
+        "performs increasingly sophisticated intellectual labor"
+      ],
+      "answer": "D",
+      "explanation": {
+        "A": "错误。当代自动化 targeting cognitive capabilities 而非 primarily manual tasks。",
+        "B": "错误。不 exclusively 针对制造业。",
+        "C": "错误。knowledge work 被 targeting 而非 untouched。",
+        "D": "正确。第二段说 Today's systems perform increasingly sophisticated intellectual labor: they analyze medical images, draft legal documents, translate languages, and even generate creative content，即执行越来越复杂的智力劳动。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "综合题",
+      "stem": "3. The author mentions \"weakened labor protections\" (Paragraph 3) to illustrate that ________.",
+      "options": [
+        "policy choices have enabled automation's benefits to concentrate upward",
+        "workers have gained stronger bargaining positions",
+        "unions have expanded their influence significantly",
+        "tax structures now favor labor over capital"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。第三段说 weakened labor protections, diminished union influence, and tax structures that favor capital over labor have enabled automation's rewards to flow upward while its burdens cascade downward，即政策选择使自动化的好处向上集中。",
+        "B": "错误。工人谈判地位减弱而非增强。",
+        "C": "错误。工会影响力 diminished 而非 expanded。",
+        "D": "错误。税收结构 favor capital over labor 而非反过来。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "综合题",
+      "stem": "4. Which of the following is true about educational systems according to Paragraph 4?",
+      "options": [
+        "They adequately prepare students for creative problem-solving.",
+        "Traditional curricula prepare students for tasks that automation renders redundant.",
+        "Emotional intelligence receives sufficient attention in educational frameworks.",
+        "They have successfully adapted to post-industrial demands."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。教育系统 inadequately prepare students for creative problem-solving。",
+        "B": "正确。第四段说 Traditional curricula emphasizing routine knowledge acquisition and standardized procedures prepare students for precisely the tasks that automation renders redundant，即传统课程准备学生从事的正是自动化使之多余的任务。",
+        "C": "错误。情感智力 receive inadequate attention。",
+        "D": "错误。教育系统尚未成功适应后工业需求。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "综合题",
+      "stem": "5. The best title for this text would be ________.",
+      "options": [
+        "Technological Advancement: Creating New Employment Opportunities",
+        "Educational Reform: The Solution to Labor Market Challenges",
+        "Automation Revolution: The Disruption of Technology and Labor Relations",
+        "Corporate Profits: The Benefits of Productivity Gains"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。技术创造新就业机会只是引入背景。",
+        "B": "错误。教育改革只是对策之一。",
+        "C": "正确。全文讨论自动化革命对技术-劳工关系的颠覆性影响，从认知自动化、利益不对称到教育系统不适应和政策创新需求，最佳标题应反映自动化革命对技术和劳工关系的颠覆。",
+        "D": "错误。企业利润只是其中一个方面。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "breathtaking",
+      "def": "惊人的"
+    },
+    {
+      "word": "unsettling",
+      "def": "令人不安的"
+    },
+    {
+      "word": "displacement",
+      "def": "取代"
+    },
+    {
+      "word": "iteration",
+      "def": "迭代"
+    },
+    {
+      "word": "distinctive",
+      "def": "独特的"
+    },
+    {
+      "word": "cognitive",
+      "def": "认知的"
+    },
+    {
+      "word": "sophisticated",
+      "def": "复杂的"
+    },
+    {
+      "word": "obsolescence",
+      "def": "淘汰"
+    },
+    {
+      "word": "asymmetry",
+      "def": "不对称"
+    },
+    {
+      "word": "divergence",
+      "def": "分歧"
+    },
+    {
+      "word": "accrue",
+      "def": "积累"
+    },
+    {
+      "word": "predominantly",
+      "def": "主要地"
+    },
+    {
+      "word": "cascading",
+      "def": "级联的"
+    },
+    {
+      "word": "devastation",
+      "def": "毁灭"
+    },
+    {
+      "word": "curricula",
+      "def": "课程"
+    },
+    {
+      "word": "redundant",
+      "def": "多余的"
+    },
+    {
+      "word": "adaptability",
+      "def": "适应性"
+    },
+    {
+      "word": "competencies",
+      "def": "能力"
+    },
+    {
+      "word": "redistributive",
+      "def": "再分配的"
+    },
+    {
+      "word": "decouple",
+      "def": "脱钩"
+    },
+    {
+      "word": "reskilling",
+      "def": "再培训"
+    },
+    {
+      "word": "reconceptualizing",
+      "def": "重新构想"
+    },
+    {
+      "word": "compulsory",
+      "def": "强制的"
+    }
+  ]
+}

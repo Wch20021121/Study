@@ -1,0 +1,201 @@
+{
+  "date": "5/3",
+  "month": 5,
+  "day": 3,
+  "title": "Article from 5/3",
+  "text": "The global fertility decline has been nothing short of astonishing. At its peak in 1963, the worldwide birth rate stood at 5.3 children per woman; six decades later, it has plummeted to approximately 2.2. In numerous nations—including Japan, South Korea, and much of Europe—the figure has fallen well below the so-called replacement rate of roughly 2.1, the threshold required to maintain current population sizes. Alarmist headlines and political rhetoric have proliferated, yet demographers caution that simplistic narratives obscure the complex reality underlying this demographic shift.\n\nConventional explanations for declining fertility tend to emphasise economic factors: soaring childcare costs, unaffordable housing, and inadequate parental leave policies. While these considerations undoubtedly matter, Paula Sheppard, a cognitive and evolutionary anthropologist at the University of Oxford, argues that population-level analyses miss crucial nuances. By examining individual decision-making through qualitative focus groups and discrete choice experiments—a methodology rarely applied in fertility research—Sheppard has identified patterns that aggregate national statistics fail to capture.\n\nHer research reveals that the perceived cost of living, though significant, is less decisive than the availability of social support networks. Across all demographic groups surveyed, the presence of a committed co-parent and extended family assistance emerged as paramount. Higher-educated women placed particular emphasis on paternal involvement, expressing reluctance to have children unless they were confident their partners would share domestic responsibilities equitably. University-educated men, correspondingly, cited job flexibility and the ability to work from home as primary concerns—factors directly related to hands-on parenting.\n\nThe erosion of traditional community structures further compounds the challenge. Human beings are distinguished among primates by their capacity for cooperative breeding: the ability to raise multiple dependent offspring simultaneously, relying on a network of fathers, grandparents, and community members. Urbanisation has systematically dismantled this 'village,' leaving prospective parents in social isolation. The absence of nearby relatives, neighbourhood playgroups, and intergenerational solidarity renders parenting markedly more arduous than it was for previous generations.\n\nCritically, Sheppard's findings indicate that most people still desire two or three children—yet structural barriers prevent them from realising this aspiration. In the UK, for every three babies that are wanted, only two are born. The gap between desired and actual fertility is driven largely by postponement: women delay childbearing until they have achieved career stability, but biological constraints limit the window for subsequent births. Policies that merely offer financial incentives, such as tax rebates or subsidised childcare, produce only transient effects. A more fundamental recalibration is required—one that renders parenthood and employment genuinely compatible, rather than perpetuating the artificial dichotomy between the modern workplace and family life.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "词义推断题",
+      "stem": "1. The phrase \"cooperative breeding\" (Paragraph 4) most probably refers to ________.",
+      "options": [
+        "a system where multiple caregivers jointly raise offspring",
+        "government-funded childcare programmes",
+        "artificial reproductive technologies",
+        "competitive parenting practices in urban areas"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。cooperative breeding 意为\"合作繁育\"，文中指人类依赖父亲、祖父母和社区成员的网络共同抚养多个后代的能力。",
+        "B": "错误。该词指自然的社会支持网络，而非政府资助的托儿项目。",
+        "C": "错误。cooperative breeding 是进化人类学概念，与人工生殖技术无关。",
+        "D": "错误。文中描述的是合作而非竞争，与 urban competitive parenting 无关。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "细节理解题",
+      "stem": "2. According to Paragraph 3, higher-educated women differ from others in that they ________.",
+      "options": [
+        "are more concerned about neighbourhood quality",
+        "prefer to rely solely on extended family for childcare",
+        "emphasise the importance of equitable paternal involvement",
+        "are willing to have children without a committed partner"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。关注社区质量是研究中未受过大学教育的男性提到的，而非高学历女性。",
+        "B": "错误。高学历女性特别强调伴侣参与，而非仅依赖大家庭。",
+        "C": "正确。第三段指出，高学历女性特别强调父亲参与（paternal involvement），除非确信伴侣会平等分担家务，否则不愿生育。",
+        "D": "错误。文中说高学历女性在没有确信的伴侣参与时不愿生育，与选项相反。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. What can be inferred from Paragraph 5 about the gap between desired and actual fertility?",
+      "options": [
+        "It is primarily caused by people choosing to remain childless.",
+        "It results largely from delayed childbearing and biological constraints.",
+        "It could be easily closed through increased financial incentives.",
+        "It has no significant impact on future population trends."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文中说大多数人仍想要两三个孩子，gap 不是因为选择不生育。",
+        "B": "正确。第五段明确指出 gap 主要由推迟生育（postponement）驱动，而生物限制（biological constraints）限制了后续生育的窗口期。",
+        "C": "错误。文中说财务激励（financial incentives）只产生短暂效果（transient effects），无法轻易弥合差距。",
+        "D": "错误。文章讨论的正是这一 gap 对未来人口的影响，显然认为其有显著影响。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "细节理解题",
+      "stem": "4. According to Sheppard's research, what factor is less decisive than social support in fertility decisions?",
+      "options": [
+        "The presence of a committed co-parent.",
+        "Extended family assistance.",
+        "The perceived cost of living.",
+        "Paternal involvement in childcare."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。committed co-parent 是研究中最重要的因素之一，不是 less decisive。",
+        "B": "错误。extended family assistance 同样是 paramount（至关重要的）。",
+        "C": "正确。第四段明确指出，生活成本（cost of living）虽然重要，但不如社会支持网络的决定性强（less decisive than the availability of social support networks）。",
+        "D": "错误。paternal involvement 是高学历女性特别强调的因素，同样重要。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "The Economic Burden of Modern Parenthood",
+        "Fertility Decline: Beyond Simplistic Narratives",
+        "Why Government Policies Fail to Boost Birth Rates",
+        "The Role of Education in Family Planning Decisions"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。经济负担只是众多因素之一，文章核心观点是传统解释忽略了社会支持等更深层因素。",
+        "B": "正确。全文围绕生育率下降这一现象展开，反复强调简化叙事（simplistic narratives）忽视了个体决策的复杂性，该标题准确概括了文章主旨。",
+        "C": "错误。政策失败只是文章最后一部分提及的内容，并非主旨。",
+        "D": "错误。教育差异是研究发现之一，但不足以概括全文。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "fertility",
+      "def": "生育率"
+    },
+    {
+      "word": "replacement rate",
+      "def": "替代率"
+    },
+    {
+      "word": "plummeted",
+      "def": "暴跌"
+    },
+    {
+      "word": "demographic",
+      "def": "人口统计的"
+    },
+    {
+      "word": "conventional",
+      "def": "传统的，常规的"
+    },
+    {
+      "word": "inadequate",
+      "def": "不充分的"
+    },
+    {
+      "word": "aggregate",
+      "def": "聚合"
+    },
+    {
+      "word": "discrete choice experiments",
+      "def": "离散选择实验"
+    },
+    {
+      "word": "methodology",
+      "def": "方法论"
+    },
+    {
+      "word": "paramount",
+      "def": "至关重要的"
+    },
+    {
+      "word": "equitably",
+      "def": "公平地"
+    },
+    {
+      "word": "correspondingly",
+      "def": "相应地"
+    },
+    {
+      "word": "cooperative breeding",
+      "def": "合作繁育"
+    },
+    {
+      "word": "urbanisation",
+      "def": "城市化"
+    },
+    {
+      "word": "dismantled",
+      "def": "瓦解"
+    },
+    {
+      "word": "intergenerational",
+      "def": "代际的"
+    },
+    {
+      "word": "solidarity",
+      "def": "团结"
+    },
+    {
+      "word": "renders",
+      "def": "使成为"
+    },
+    {
+      "word": "arduous",
+      "def": "艰巨的"
+    },
+    {
+      "word": "aspiration",
+      "def": "愿望"
+    },
+    {
+      "word": "postponement",
+      "def": "推迟"
+    },
+    {
+      "word": "biological constraints",
+      "def": "生物限制"
+    },
+    {
+      "word": "transient",
+      "def": "短暂的"
+    },
+    {
+      "word": "recalibration",
+      "def": "重新校准"
+    },
+    {
+      "word": "dichotomy",
+      "def": "二分法"
+    }
+  ]
+}

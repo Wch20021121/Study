@@ -1,0 +1,134 @@
+{
+  "date": "5/12",
+  "month": 5,
+  "day": 12,
+  "title": "Article from 5/12",
+  "text": "The integration of artificial intelligence into healthcare systems has generated both enthusiasm and apprehension among medical professionals, policymakers, and patients alike. While AI diagnostic tools have demonstrated remarkable accuracy in identifying pathologies from medical imaging—sometimes exceeding the performance of experienced radiologists—concerns persist regarding the opacity of these systems, the vulnerability of patient data to breaches, and the potential for algorithmic bias to exacerbate existing health inequities. A comprehensive review published in The Lancet Digital Health in 2025 examined over 200 AI-based clinical decision support systems deployed across 60 countries, revealing that although these tools substantially improved diagnostic accuracy in controlled settings, their performance degraded significantly when deployed in real-world environments characterised by demographic diversity and variable data quality.\n\nThe phenomenon of algorithmic bias in healthcare AI has drawn particular scrutiny. Machine learning models trained predominantly on datasets derived from affluent populations may exhibit reduced sensitivity when processing medical information from underrepresented groups. For instance, a 2024 investigation by researchers at Stanford University found that a widely deployed commercial algorithm used to identify patients requiring intensive care management systematically underestimated disease severity among Black patients, primarily because the algorithm used healthcare costs as a proxy for health needs—a metric that correlates with structural access inequities rather than genuine physiological differences. The consequence was that Black patients were less likely to be flagged for care management programmes, perpetuating a cycle of deferred treatment and worsened outcomes.\n\nData privacy constitutes another critical dimension of the debate. AI systems require vast quantities of patient data for training and continuous refinement, raising questions about consent, data ownership, and the potential for misuse. The principle of data minimisation—collecting only the information strictly necessary for a specified purpose—often conflicts with the data-hungry nature of contemporary machine learning approaches. Experts suggest that federated learning paradigms, whereby algorithms are trained across decentralised data repositories without centralising sensitive information, may offer a partial resolution to this tension, though significant technical and governance challenges remain. Furthermore, the increasing sophistication of AI-generated synthetic patient records raises novel regulatory questions, as such data may circumvent existing consent frameworks while nonetheless encoding patterns that could be re-identified and linked to real individuals.\n\nThe regulatory landscape for medical AI remains fragmented and inadequate. Current approval pathways were designed for pharmaceutical interventions and medical devices rather than adaptive algorithmic systems that evolve continuously through exposure to new data. Consequently, AI tools may receive market authorisation based on performance at a specific point in time, yet undergo silent modifications through online updates that alter their behavioural characteristics without triggering reassessment. Researchers argue that adaptive regulatory frameworks capable of continuous post-market surveillance are essential to ensure that AI in healthcare fulfils its promise of enhancing diagnostic accuracy and reducing health disparities rather than entrenching them.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "细节理解题",
+      "stem": "1. According to Paragraph 1, what finding did the 2025 Lancet review reveal about AI clinical decision support systems?",
+      "options": [
+        "They performed better in real-world settings than in controlled environments.",
+        "They significantly improved diagnostic accuracy but only in wealthy countries.",
+        "Their performance declined when deployed in diverse real-world environments.",
+        "They completely replaced the need for human radiologists in most hospitals."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。原文指出 performance degraded in real-world environments，而非提升。",
+        "B": "错误。文中未提及只改善富裕国家的诊断准确性。",
+        "C": "正确。原文明确指出 their performance degraded significantly when deployed in real-world environments characterised by demographic diversity and variable data quality。",
+        "D": "错误。原文说AI工具'sometimes exceeding'放射科医生表现，而非完全取代。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "推理判断题",
+      "stem": "2. What can be inferred about the Stanford algorithm mentioned in Paragraph 2?",
+      "options": [
+        "It was designed to discriminate against Black patients intentionally.",
+        "It used healthcare costs as a proxy for health needs, which led to biased outcomes.",
+        "Black patients were overrepresented in its training data.",
+        "It was the only AI tool with documented racial bias in healthcare."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。算法偏见不是有意的，而是训练数据和代理指标设计不当导致的。",
+        "B": "正确。文中指出算法使用 healthcare costs as a proxy for health needs，这一指标与结构性医疗获取不平等相关联，导致了对 Black 患者的系统性低估。",
+        "C": "错误。如果Black患者在训练数据中占多数，算法不太可能低估其疾病严重程度。",
+        "D": "错误。文中只是举一个例子说明算法偏见问题，并非唯一有此类问题的工具。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "词义推断题",
+      "stem": "3. The phrase \"data minimisation\" (Paragraph 3) most probably refers to ________.",
+      "options": [
+        "collecting only the data that is absolutely necessary for a specific purpose",
+        "minimising the storage space required for patient records",
+        "reducing the number of patients whose data is collected",
+        "compressing data before it is transmitted to cloud servers"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。data minimisation 是隐私保护的核心原则，指只收集特定目的所必需的数据。",
+        "B": "错误。这是对'minimisation'的字面理解，不是技术术语含义。",
+        "C": "错误。不是减少患者数量，而是限制数据收集范围。",
+        "D": "错误。与数据传输压缩无关。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "细节理解题",
+      "stem": "4. According to the passage, which of the following is mentioned as a potential solution to data privacy concerns?",
+      "options": [
+        "Requiring patients to share all medical records with AI companies.",
+        "Storing all patient data in a centralised global database.",
+        "Federated learning approaches that train algorithms across decentralised data repositories.",
+        "Banning all AI systems from processing sensitive medical information."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。要求患者分享所有医疗记录恰恰会侵犯隐私，与数据保护原则相悖。",
+        "B": "错误。集中化数据库会增加数据泄露风险，而非解决方案。",
+        "C": "正确。文中明确提到 federated learning paradigms 作为解决方案，允许算法在去中心化数据仓库上训练而不集中敏感信息。",
+        "D": "错误。完全禁止AI处理医疗信息不现实，且会阻碍技术进步。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "AI in Healthcare: A Revolution in Diagnostic Accuracy",
+        "The Promise and Perils of AI in Healthcare: Navigating Bias, Privacy, and Regulation",
+        "How AI Will Replace Doctors in the Next Decade",
+        "The History of Medical Decision-Making: From Human Experts to Machines"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文章重点不仅在于诊断准确性提升，还讨论了偏见、隐私和监管问题。",
+        "B": "正确。全文围绕AI在医疗领域的双重性展开：诊断准确性等承诺，以及算法偏见、数据隐私和监管不足等风险。",
+        "C": "错误。文章未预测AI将在十年内取代医生。",
+        "D": "错误。文章主题不是医疗决策的历史演变，而是当代AI在医疗中应用的问题。"
+      }
+    }
+  ],
+  "words": [
+    {"word": "integration", "def": "整合，集成"},
+    {"word": "enthusiasm", "def": "热情，热忱"},
+    {"word": "apprehension", "def": "忧虑，担忧"},
+    {"word": "radiologists", "def": "放射科医生"},
+    {"word": "opacity", "def": "不透明，模糊"},
+    {"word": "vulnerability", "def": "脆弱性，易受攻击性"},
+    {"word": "breaches", "def": "漏洞，泄露"},
+    {"word": "exacerbate", "def": "加剧，使恶化"},
+    {"word": "inequities", "def": "不平等，不公正"},
+    {"word": "diagnostic", "def": "诊断的"},
+    {"word": "degraded", "def": "退化，性能下降"},
+    {"word": "demographic", "def": "人口统计的"},
+    {"word": "scrutiny", "def": "仔细审查"},
+    {"word": "underrepresented", "def": "代表不足的"},
+    {"word": "severity", "def": "严重程度"},
+    {"word": "proxy", "def": "代理指标"},
+    {"word": "structural", "def": "结构性的"},
+    {"word": "physiological", "def": "生理的"},
+    {"word": "perpetuating", "def": "使持续，使永久化"},
+    {"word": "minimisation", "def": "最小化原则"},
+    {"word": "sensitive", "def": "敏感的"},
+    {"word": "refinement", "def": "完善，改进"},
+    {"word": "federated learning", "def": "联邦学习"},
+    {"word": "decentralised", "def": "去中心化的"},
+    {"word": "repositories", "def": "存储库，仓库"},
+    {"word": "synthetic", "def": "合成的，人工的"},
+    {"word": "circumvent", "def": "绕过，规避"},
+    {"word": "encode", "def": "编码，将...编入"},
+    {"word": "re-identified", "def": "重新识别"},
+    {"word": "fragmented", "def": "碎片化的"},
+    {"word": "adaptive", "def": "适应性的"},
+    {"word": "surveillance", "def": "监测，监控"},
+    {"word": "entrenching", "def": "使...根深蒂固"}
+  ]
+}

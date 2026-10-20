@@ -1,0 +1,201 @@
+{
+  "date": "5/10",
+  "month": 5,
+  "day": 10,
+  "title": "Article from 5/10",
+  "text": "The global decline in insect populations has emerged as one of the most alarming environmental trends of the past three decades, with cascading consequences for ecosystems, agriculture, and public health. A landmark meta-analysis published in Science examined more than 1,600 studies conducted across decades and continents, revealing that insect abundance has decreased by approximately 25 per cent globally, with certain taxonomic groups—such as butterflies, bees, and beetles—experiencing declines exceeding 50 per cent in some regions. While habitat destruction and pesticide use have long been implicated as primary drivers, researchers now recognise that the interplay between multiple stressors is considerably more complex than previously understood, involving synergistic effects that amplify individual impacts.\n\nCentral to this understanding is the phenomenon of combined stressor vulnerability: when insects are exposed to multiple environmental pressures simultaneously, the resulting harm frequently exceeds the sum of individual effects. For instance, sublethal doses of neonicotinoid pesticides—which do not kill insects outright but impair their functioning—may render them significantly more susceptible to heat stress. As temperatures rise with climate change, this interaction becomes increasingly consequential. Research conducted at the University of Queensland demonstrated that bees exposed to realistic field concentrations of imidacloprid exhibited a 50 per cent reduction in heat tolerance, rendering them unable to regulate body temperature during extreme weather events. Similar synergistic dynamics have been documented between drought stress and pathogen prevalence, as well as between light pollution and predator detection.\n\nThe implications for pollination services are particularly grave. Insects provide the vast majority of pollination for both wild plants and agricultural crops, with an estimated economic value exceeding 200 billion US dollars annually. Yet pollinator declines threaten not merely the production of fruits and vegetables but the reproductive success of wild plant populations, with knock-on effects throughout food webs. Experts suggest that the stabilisation of insect populations will require a fundamental transformation in agricultural practices, moving away from prophylactic pesticide applications toward integrated pest management approaches that prioritise natural predator populations. Field studies conducted across northern Europe indicate that flower strips—marginal areas planted with native flowering plants—can increase local pollinator abundance by up to 300 per cent while simultaneously reducing pest pressure on adjacent crops.\n\nThe complexity of combined stressor effects presents significant challenges for environmental regulation, which has historically evaluated pesticides and other stressors in isolation. Current regulatory frameworks typically require extensive testing of individual compounds but rarely assess interactions between multiple agronomic stressors or between pesticides and environmental variables such as temperature and humidity. Researchers argue that this approach fails to capture ecologically realistic conditions, where insects are rarely exposed to single stressors in isolation. The development of improved assessment protocols that incorporate combined stressor dynamics represents a critical priority for safeguarding insect biodiversity and the ecosystem services it underpins.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "词义推断题",
+      "stem": "1. The word \"cascading\" (Paragraph 1) most probably means ________.",
+      "options": [
+        "gradually increasing in a linear fashion",
+        "progressively worsening and spreading to other areas",
+        "temporarily suspended or paused",
+        "suddenly reversing direction"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。cascading 不是线性增长，而是连锁性的扩散和恶化。",
+        "B": "正确。cascading 意为\"连锁性的\"，指一个事件引发一系列连锁反应。在文中表示昆虫数量下降会对生态系统、农业和公共卫生产生连锁性的负面影响。",
+        "C": "错误。与 suspended 或 paused 相反，cascading 强调持续扩散。",
+        "D": "错误。cascading 不是逆转，而是递进式的连锁反应。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "细节理解题",
+      "stem": "2. According to the passage, what did the University of Queensland study find about bees exposed to imidacloprid?",
+      "options": [
+        "Their reproduction rates declined by approximately 50 per cent.",
+        "They became significantly more vulnerable to heat stress.",
+        "They were unable to locate flowering plants for foraging.",
+        "Their lifespan was reduced by half under normal conditions."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。研究发现是热耐受性降低50%，而非繁殖率下降。",
+        "B": "正确。文中明确指出 bees exposed to realistic field concentrations of imidacloprid exhibited a 50 per cent reduction in heat tolerance，即暴露于imidacloprid的蜜蜂热耐受性降低50%。",
+        "C": "错误。文中未提及蜜蜂寻找蜜源植物的能力受损。",
+        "D": "错误。研究是在热应激条件下观察的，不是正常条件下的寿命。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. What can be inferred about current regulatory frameworks from Paragraph 4?",
+      "options": [
+        "They adequately address the combined effects of multiple stressors.",
+        "They evaluate pesticides and environmental variables together.",
+        "They fail to reflect real-world conditions where insects face multiple pressures.",
+        "They have successfully stabilised global insect populations."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。正好相反，文中指出 current regulatory frameworks 历来是单独评估，而非评估组合效应。",
+        "B": "错误。文中明确指出 current regulatory frameworks typically require extensive testing of individual compounds but rarely assess interactions，即很少评估化合物之间的相互作用。",
+        "C": "正确。末段指出现有框架评估单一化合物，而昆虫在现实中面临 multiple stressors，这使得监管未能反映 ecologically realistic conditions。",
+        "D": "错误。昆虫数量持续下降，说明现有监管框架未能成功稳定昆虫种群。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "例证题",
+      "stem": "4. The author mentions flower strips (Paragraph 3) in order to ________.",
+      "options": [
+        "demonstrate that agricultural productivity can be maintained without pollinators",
+        "illustrate an effective strategy for increasing pollinator abundance",
+        "prove that pesticide bans lead to immediate ecological recovery",
+        "compare different methods of crop pollination"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。flower strips 的例子恰恰说明昆虫授粉服务的重要性，而非证明可以不需要授粉者。",
+        "B": "正确。flower strips 作为有效策略的例子，表明通过种植本地开花植物可以显著增加本地授粉者数量（up to 300 per cent），同时减少病虫害。",
+        "C": "错误。文中未讨论禁用农药的效果，而是讨论农业管理实践的改变。",
+        "D": "错误。这个例子不是比较不同的作物授粉方法，而是说明生态恢复策略。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "Why Pesticides Alone Are Not Responsible for Insect Decline",
+        "The Hidden Threat: How Combined Stressors Accelerate Insect Loss",
+        "How Climate Change Transforms Agricultural Practices",
+        "The Economic Value of Insect Pollination Services"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文章并非为农药开脱，而是强调多种压力源的协同作用。",
+        "B": "正确。全文围绕 combined stressor vulnerability（组合压力易感性）这一核心概念展开，强调多种压力源协同作用对昆虫的致命影响。",
+        "C": "错误。气候变化只是因素之一，不是文章主旨。",
+        "D": "错误。经济价值只是授粉服务重要性的一个论据，非主旨。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "insect",
+      "def": "昆虫"
+    },
+    {
+      "word": "cascading",
+      "def": "级联的"
+    },
+    {
+      "word": "ecosystems",
+      "def": "生态系统"
+    },
+    {
+      "word": "meta-analysis",
+      "def": "元分析"
+    },
+    {
+      "word": "abundance",
+      "def": "丰富，充足"
+    },
+    {
+      "word": "taxonomic",
+      "def": "分类学的"
+    },
+    {
+      "word": "habitat destruction",
+      "def": "栖息地破坏"
+    },
+    {
+      "word": "pesticide",
+      "def": "杀虫剂"
+    },
+    {
+      "word": "synergistic",
+      "def": "协同的，增效的"
+    },
+    {
+      "word": "sublethal",
+      "def": "亚致死的"
+    },
+    {
+      "word": "neonicotinoid",
+      "def": "新烟碱类（杀虫剂）"
+    },
+    {
+      "word": "impair",
+      "def": "损害，削弱"
+    },
+    {
+      "word": "heat stress",
+      "def": "热应激"
+    },
+    {
+      "word": "heat tolerance",
+      "def": "热耐受性"
+    },
+    {
+      "word": "pollination",
+      "def": "授粉"
+    },
+    {
+      "word": "pollinator",
+      "def": "授粉者"
+    },
+    {
+      "word": "knock-on effects",
+      "def": "连锁效应"
+    },
+    {
+      "word": "food webs",
+      "def": "食物网"
+    },
+    {
+      "word": "prophylactic",
+      "def": "预防性的"
+    },
+    {
+      "word": "integrated pest management",
+      "def": "综合害虫管理"
+    },
+    {
+      "word": "natural predator",
+      "def": "天敌，自然捕食者"
+    },
+    {
+      "word": "flower strips",
+      "def": "花带"
+    },
+    {
+      "word": "assessment protocols",
+      "def": "评估方案"
+    },
+    {
+      "word": "biodiversity",
+      "def": "生物多样性"
+    },
+    {
+      "word": "underpins",
+      "def": "支撑"
+    }
+  ]
+}

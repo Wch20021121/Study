@@ -1,0 +1,201 @@
+{
+  "date": "5/5",
+  "month": 5,
+  "day": 5,
+  "title": "Article from 5/5",
+  "text": "Changing one's opinion has long been regarded as a sign of intellectual weakness, yet emerging psychological research suggests that mental flexibility is actually a hallmark of cognitive sophistication. A comprehensive review by Stephanie Dolbier at the University of California, Los Angeles, and her colleagues has synthesised decades of studies on open-minded thinking, revealing that the capacity to revise one's beliefs in light of new evidence correlates strongly with improved decision-making, enhanced predictive accuracy, and greater resistance to irrational beliefs such as conspiracy theories. Despite these demonstrated benefits, most individuals exhibit remarkable resistance to opinion change, a tendency that has been implicated in the increasing political polarisation observed over the past two decades.\n\nThe psychological barriers to changing one's mind are multifaceted and deeply rooted in human cognition. At a fundamental level, individuals often experience considerable embarrassment at admitting past errors in judgment, prompting them to cling to outdated beliefs to preserve their social standing. More profoundly, beliefs are frequently interwoven with core elements of personal identity, including religious convictions and political affiliations. When confronted with contradictory evidence, people perceive not merely a challenge to a specific viewpoint but a threat to their entire sense of self, which can provoke intense emotional discomfort.\n\nTo mitigate this discomfort, the brain engages in what psychologists term \"motivated reasoning\": a cognitive process whereby individuals selectively search for information that corroborates their existing assumptions while dismissing or rationalising away disconfirming evidence. This mechanism frequently relies on logical fallacies and can cause individuals to respond defensively or even aggressively toward those who question their beliefs. The phenomenon is particularly pronounced on social media platforms, where algorithmic curation creates echo chambers that continuously reinforce users' pre-existing views.\n\nRecent research, however, has identified several evidence-based strategies for cultivating intellectual flexibility. One approach involves developing greater emotional awareness: studies on \"wise reasoning\" have demonstrated that individuals who articulate nuanced descriptions of their emotions are significantly better equipped to consider alternative perspectives than those who merely categorise their feelings as positive or negative. Mindfulness practices have similarly been shown to help individuals recognise and suppress knee-jerk reactions to opposing viewpoints, thereby facilitating more balanced deliberation.\n\nAdditional interventions include cognitive reframing techniques, such as adopting an analytical persona when encountering disagreeable information—a method that produced measurable increases in open-mindedness regarding polarising topics, with effects persisting for at least five months. Another strategy involves self-affirmation: briefly reflecting on one's positive qualities unrelated to the point of contention can reduce the perceived threat of disagreement. Ultimately, researchers emphasise that the discomfort associated with changing one's mind should be reinterpreted not as a sign of intellectual failure but as an indicator of cognitive growth and learning.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "词义推断题",
+      "stem": "1. The phrase \"knee-jerk reactions\" (Paragraph 4) most probably refers to ________.",
+      "options": [
+        "carefully considered responses",
+        "automatic and unthinking responses",
+        "physically painful reactions",
+        "delayed but accurate judgments"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。carefully considered responses（深思熟虑的反应）与 knee-jerk 含义相反。",
+        "B": "正确。knee-jerk reactions 原指膝跳反射，引申为自动的、不加思考的反应。文中说 mindfulness helps individuals recognise and suppress knee-jerk reactions to opposing viewpoints，即正念帮助人们识别和抑制对反对观点的自动反应。",
+        "C": "错误。physically painful reactions（身体疼痛反应）与文意无关。",
+        "D": "错误。delayed but accurate judgments（延迟但准确的判断）不是 knee-jerk 的含义。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "细节理解题",
+      "stem": "2. According to Paragraph 2, what is the deeper reason people resist changing their beliefs?",
+      "options": [
+        "They lack access to contradictory evidence.",
+        "They perceive belief changes as threats to their core identity.",
+        "They are incapable of processing complex information.",
+        "They prefer to maintain social harmony at all costs."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文章未提及人们缺乏获取反面证据的途径。",
+        "B": "正确。第二段指出 beliefs are frequently interwoven with core elements of personal identity... people perceive not merely a challenge to a specific viewpoint but a threat to their entire sense of self，即人们将信念改变视为对核心身份的威胁。",
+        "C": "错误。文章未说人们无法处理复杂信息。",
+        "D": "错误。维持社会和谐不是文中讨论的原因。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. What can be inferred about \"motivated reasoning\" from Paragraph 3?",
+      "options": [
+        "It is a rational process that leads to accurate conclusions.",
+        "It helps individuals evaluate evidence objectively.",
+        "It serves as a psychological defence mechanism to protect existing beliefs.",
+        "It is primarily caused by social media algorithms."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。motivated reasoning 依赖逻辑谬误，并非理性过程。",
+        "B": "错误。它使人们 dismiss disconfirming evidence，而非客观评估证据。",
+        "C": "正确。第三段描述 motivated reasoning 为 selectively search for information that corroborates existing assumptions while dismissing disconfirming evidence，即一种保护既有信念的心理防御机制。",
+        "D": "错误。社交媒体算法加剧了这一现象，但 motivated reasoning 本身不是主要由算法引起的。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "细节理解题",
+      "stem": "4. According to the passage, which strategy has effects that lasted for at least five months?",
+      "options": [
+        "Developing emotional awareness through journaling.",
+        "Adopting an analytical persona when encountering disagreeable information.",
+        "Practising mindfulness meditation daily.",
+        "Reflecting on positive personal qualities before disagreements."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。情绪觉察的研究未提及五个月的持续效果。",
+        "B": "正确。第五段说 adopting an analytical persona when encountering disagreeable information—a method that produced measurable increases in open-mindedness... with effects persisting for at least five months。",
+        "C": "错误。正念冥想的效果持续时间未在文中具体说明。",
+        "D": "错误。自我肯定策略未提及五个月的持续效果。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "The Dangers of Political Polarisation in the Digital Age",
+        "Why Changing Your Mind Is Hard—And How to Get Better at It",
+        "The Scientific Evidence Against Conspiracy Theories",
+        "How Social Media Algorithms Shape Our Beliefs"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。政治极化只是文中提及的一个现象，不是主旨。",
+        "B": "正确。全文讨论改变主意为何困难（心理障碍、motivated reasoning）以及如何改善（情绪觉察、正念、认知重构等策略），最佳标题应反映这一主题。",
+        "C": "错误。阴谋理论只是作为开放思维益处的一个例子提及。",
+        "D": "错误。社交媒体算法只是加剧信念固化的一个因素，不是主旨。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "sophistication",
+      "def": "复杂性"
+    },
+    {
+      "word": "synthesised",
+      "def": "综合的"
+    },
+    {
+      "word": "correlates",
+      "def": "相关"
+    },
+    {
+      "word": "implicated",
+      "def": "涉及"
+    },
+    {
+      "word": "polarisation",
+      "def": "极化"
+    },
+    {
+      "word": "multifaceted",
+      "def": "多层面的"
+    },
+    {
+      "word": "corroborates",
+      "def": "证实"
+    },
+    {
+      "word": "rationalising",
+      "def": "合理化"
+    },
+    {
+      "word": "disconfirming",
+      "def": "反证的"
+    },
+    {
+      "word": "aggressively",
+      "def": "攻击性地"
+    },
+    {
+      "word": "algorithmic",
+      "def": "算法的"
+    },
+    {
+      "word": "curation",
+      "def": "筛选， curation"
+    },
+    {
+      "word": "echo chambers",
+      "def": "回音室效应"
+    },
+    {
+      "word": "cultivating",
+      "def": "培养"
+    },
+    {
+      "word": "nuanced",
+      "def": "细致的"
+    },
+    {
+      "word": "articulate",
+      "def": "清晰表达"
+    },
+    {
+      "word": "perspectives",
+      "def": "观点"
+    },
+    {
+      "word": "deliberation",
+      "def": "深思熟虑"
+    },
+    {
+      "word": "interventions",
+      "def": "干预措施"
+    },
+    {
+      "word": "analytical",
+      "def": "分析的"
+    },
+    {
+      "word": "measurable",
+      "def": "可衡量的"
+    },
+    {
+      "word": "self-affirmation",
+      "def": "自我肯定"
+    },
+    {
+      "word": "contention",
+      "def": "争论"
+    },
+    {
+      "word": "reinterpret",
+      "def": "重新解释"
+    },
+    {
+      "word": "cognitive growth",
+      "def": "认知成长"
+    }
+  ]
+}

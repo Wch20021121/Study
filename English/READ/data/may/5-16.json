@@ -1,0 +1,126 @@
+{
+  "date": "5/16",
+  "month": 5,
+  "day": 16,
+  "title": "Article from 5/16",
+  "text": "The accelerating pace of digital data collection has rendered privacy a increasingly contested concept in the twenty-first century. Every online transaction, social media interaction, and geographic movement generates data traces that can be aggregated, analysed, and monetised by corporations and governments with unprecedented efficiency. While proponents argue that data-driven technologies enhance convenience, security, and economic productivity, critics contend that the cumulative erosion of informational self-determination poses fundamental threats to individual autonomy and democratic governance. The challenge lies in reconciling the legitimate societal benefits of data utilisation with the imperative to protect citizens from surveillance capitalism's more pernicious manifestations.\n\nContemporary data aggregation techniques have achieved a level of sophistication that far exceeds what most individuals comprehend or consent to. Metadata analysis—which examines patterns of communication rather than content—can reveal sensitive information about medical conditions, political affiliations, and personal relationships even when the communications themselves remain encrypted. Research conducted at Princeton University demonstrated that behavioural patterns extracted from smartphone sensor data could predict an individual's medical conditions with remarkable accuracy, raising profound questions about the efficacy of anonymisation as a privacy safeguard. Once data is centralised in corporate repositories, it becomes vulnerable to breaches, subpoenas, and repurposing that bear no relationship to the original purposes for which it was collected.\n\nRegulatory frameworks worldwide have struggled to keep pace with these technological developments. The European Union's General Data Protection Regulation represents the most comprehensive attempt to establish binding privacy rights, yet its enforcement remains inconsistent across member states, and its extraterritorial provisions are frequently circumvented through strategic data localisation. Experts suggest that meaningful privacy protection requires not merely data minimisation and consent mechanisms, but a fundamental reconceptualisation of data ownership rights that recognises individuals as rightful proprietors of their personal information rather than mere subjects of data processing.\n\nThe geopolitical dimensions of data governance have further complicated the regulatory landscape. Conflicting jurisdictional claims over digital data—exemplified by ongoing disputes between the United States and the European Union regarding the transfer of European citizens' data to American servers—reflect deeper tensions between competing conceptions of state authority and individual rights. The emergence of quantum computing capabilities promises to render current encryption standards obsolete, potentially exposing vast repositories of previously secure data to unprecedented vulnerabilities. Researchers and policymakers concur that adaptive, multilateral approaches to data governance are urgently required to navigate the complex interplay between technological innovation, commercial interests, and the preservation of fundamental human rights.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "词义推断题",
+      "stem": "1. The word \"contested\" (Paragraph 1) most probably means ________.",
+      "options": [
+        "universally accepted without dispute",
+        "vigorously debated or disputed",
+        "systematically ignored by authorities",
+        "gradually becoming irrelevant"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。contested 的含义是争论的、争议的，而非 universally accepted。",
+        "B": "正确。contested 意为\"被争夺的、有争议的\"，指 privacy 作为概念引发广泛争议，各方对其定义和边界存在分歧。",
+        "C": "错误。ignored 与 contested 的含义无关。",
+        "D": "错误。becoming irrelevant 与文意相反，隐私问题正变得越来越重要。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "细节理解题",
+      "stem": "2. According to Paragraph 2, what did the Princeton University research demonstrate?",
+      "options": [
+        "Encrypted communications are completely secure from surveillance.",
+        "Metadata analysis can reveal sensitive personal information despite encryption.",
+        "Smartphone sensors cannot be used for privacy violations.",
+        "Anonymisation effectively protects all users' privacy."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。恰恰相反，研究表明即使是加密通信，通过元数据分析也能揭示敏感信息。",
+        "B": "正确。文中指出 metadata analysis can reveal sensitive information about medical conditions, political affiliations, and personal relationships even when communications themselves remain encrypted。",
+        "C": "错误。研究证明智能手机传感器数据可被用于隐私侵犯。",
+        "D": "错误。anonymisation 作为隐私保护措施的有效性受到质疑。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. What can be inferred about GDPR from Paragraph 3?",
+      "options": [
+        "It has been fully successful in protecting privacy across all EU states.",
+        "Its provisions are sometimes evaded through data localisation strategies.",
+        "It explicitly defines individuals as owners of their personal data.",
+        "It has been adopted by all countries worldwide."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文中明确说 enforcement remains inconsistent across member states。",
+        "B": "正确。文中提到 its extraterritorial provisions are frequently circumvented through strategic data localisation。",
+        "C": "错误。专家建议需要 fundamental reconceptualisation，说明 GDPR 尚未明确界定个人为数据所有者。",
+        "D": "错误。GDPR 是欧盟法规，不是全球性法规。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "例证题",
+      "stem": "4. The author mentions the US-EU data transfer dispute (Paragraph 4) in order to ________.",
+      "options": [
+        "illustrate how trade agreements resolve privacy conflicts",
+        "demonstrate the geopolitical dimensions of data governance",
+        "prove that privacy protection is impossible in democratic societies",
+        "show that encryption standards are universally respected"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。争议的存在恰恰说明贸易协定未能解决隐私冲突。",
+        "B": "正确。引用 US-EU 数据传输争议是为了说明数据治理的地缘政治复杂性——各国对数据主权和个人权利的不同理解导致监管分歧。",
+        "C": "错误。原文并未声称民主社会中隐私保护是不可能的。",
+        "D": "错误。争议涉及的是数据传输管辖权，而非加密标准本身。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "The Complete Security of Modern Encryption Technologies",
+        "Privacy in the Digital Age: Competing Interests and Unresolved Challenges",
+        "How Social Media Companies Collect Your Personal Data",
+        "The History of Data Protection Legislation in Europe"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文章指出当前加密技术面临量子计算的颠覆威胁，并非讨论加密的安全性。",
+        "B": "正确。全文围绕数字时代的隐私权展开，讨论了数据聚合技术、监管困境和地缘政治挑战，标题准确概括了这些竞争性利益和未解决的问题。",
+        "C": "错误。社交媒体数据收集只是文章涉及的众多方面之一，非主旨。",
+        "D": "错误。GDPR 只是文章讨论监管框架的一部分，不是主旨。"
+      }
+    }
+  ],
+  "words": [
+    {"word": "accelerating", "def": "加速的"},
+    {"word": "contested", "def": "争议的，争夺的"},
+    {"word": "aggregated", "def": "聚合的，汇总的"},
+    {"word": "monetised", "def": "货币化的"},
+    {"word": "proponents", "def": "支持者，倡导者"},
+    {"word": "erosion", "def": "侵蚀，削弱"},
+    {"word": "informational self-determination", "def": "信息自决"},
+    {"word": "autonomy", "def": "自主权"},
+    {"word": "pernicious", "def": "有害的，恶性的"},
+    {"word": "reconciling", "def": "调和，使一致"},
+    {"word": "metadata", "def": "元数据"},
+    {"word": "aggregation", "def": "聚合，汇总"},
+    {"word": "anonymisation", "def": "匿名化"},
+    {"word": "safeguard", "def": "保障措施"},
+    {"word": "centralised", "def": "集中化的"},
+    {"word": "repositories", "def": "存储库，数据仓库"},
+    {"word": "subpoenas", "def": "传票，要求提交证据"},
+    {"word": "jurisdictional", "def": "管辖权的"},
+    {"word": "extraterritorial", "def": "治外法权的"},
+    {"word": "circumvented", "def": "被规避的"},
+    {"word": "localisation", "def": "本地化"},
+    {"word": "multilateral", "def": "多边的，多国参与的"},
+    {"word": "encryption", "def": "加密"},
+    {"word": "obsolete", "def": "过时的，淘汰的"},
+    {"word": "quantum computing", "def": "量子计算"}
+  ]
+}

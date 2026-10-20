@@ -1,0 +1,130 @@
+{
+  "date": "6/4",
+  "month": 6,
+  "day": 4,
+  "title": "Article from 6/4",
+  "text": "Social isolation and loneliness have emerged as significant yet underappreciated determinants of public health, with consequences that researchers now compare to those of smoking or obesity. A comprehensive meta-analysis published in the Proceedings of the National Academy of Sciences synthesised data from over 90 longitudinal studies encompassing more than two million participants, finding that individuals reporting persistent loneliness faced a 26 per cent higher mortality risk than their socially integrated counterparts, even after controlling for socioeconomic status and pre-existing health conditions. The magnitude of this association suggests that addressing social disconnection may yield substantial public health dividends, yet policy responses have lagged far behind the accumulation of empirical evidence.\n\nThe biological mechanisms linking loneliness to adverse health outcomes operate through multiple interconnected pathways. Chronic social isolation appears to amplify stress hormone production, particularly cortisol, while simultaneously suppressing immune function. A 2023 study at the University of California demonstrated that lonely individuals exhibited markedly elevated inflammatory markers, with C-reactive protein levels averaging 17 per cent higher than those of socially connected peers. Researchers suggest that sustained inflammatory activation contributes to the development of cardiovascular disease, type 2 diabetes, and certain neurodegenerative conditions. Furthermore, neuroimaging investigations have revealed that social rejection activates the same brain regions as physical pain, providing a neurobiological basis for the emotional anguish that accompanies prolonged isolation.\n\nThe contemporary prevalence of loneliness constitutes a paradox in an era of unprecedented digital connectivity. Approximately 36 per cent of adults in industrialised nations report frequent feelings of loneliness, with rates rising most steeply among adolescents and young adults—a demographic group for whom virtual social interactions have largely supplanted face-to-face engagement. Experts caution that digital communication platforms, while offering superficial connectivity, frequently fail to satisfy the deeper psychological needs for intimacy and authentic recognition that characterise meaningful human bonds. Quantitative analyses indicate that each additional hour of daily social media use correlates with measurable increases in perceived isolation, though causality remains contested.\n\nEfforts to ameliorate the loneliness epidemic have yielded mixed results. Large-scale interventions predicated on expanding social opportunities—communal dining programmes, hobby clubs, befriending services—have demonstrated modest efficacy in clinical trials but face substantial challenges in scalability and sustained engagement. Researchers argue that more promising approaches target the structural determinants of disconnection, including urban design features that foster spontaneous social encounters, workplace cultures that prioritise relational depth over transactional efficiency, and healthcare systems that systematically screen for and address social isolation as a vital sign. Whether societies possess the political will to implement such fundamental reforms remains uncertain, yet the cumulative evidence leaves little doubt that the silent epidemic of loneliness demands urgent and sustained attention.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "细节理解题",
+      "stem": "1. According to Paragraph 1, what did the comprehensive meta-analysis in PNAS find?",
+      "options": [
+        "Lonely individuals face a 26 per cent higher mortality risk than socially integrated people.",
+        "Social isolation has no measurable impact on mortality rates.",
+        "Socioeconomic status is the primary determinant of mortality risk.",
+        "Loneliness affects fewer than 90 longitudinal studies worldwide."
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。原文明确指出 individuals reporting persistent loneliness faced a 26 per cent higher mortality risk。",
+        "B": "错误。原文指出存在显著的死亡风险关联，而非 no measurable impact。",
+        "C": "错误。研究在控制社会经济地位后仍发现孤独感的独立影响，非 socioeconomic status 的主要决定作用。",
+        "D": "错误。原文指 90 项纵向研究为样本量，非受影响范围。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "词义推断题",
+      "stem": "2. The word 'synthesised' (Paragraph 1) most probably means ________.",
+      "options": [
+        "randomly selected without clear criteria",
+        "combined and analysed together from multiple sources",
+        "translated into different languages for broader access",
+        "criticised for methodological limitations"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。synthesised 强调系统性的综合分析，非随机选取。",
+        "B": "正确。synthesised 意为综合分析、汇总，文中指 meta-analysis 从 90 多项纵向研究中汇集数据并系统分析。",
+        "C": "错误。翻译与 synthesised 无关。",
+        "D": "错误。批评方法论局限与 synthesised 的含义无关。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. What can be inferred about digital communication from Paragraph 3?",
+      "options": [
+        "It fully satisfies the psychological need for intimacy.",
+        "It has completely eliminated loneliness in industrialised nations.",
+        "It may offer connectivity but often fails to meet deeper psychological needs.",
+        "More social media use directly causes less perceived isolation."
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。原文指出数字交流 frequently fail to satisfy the deeper psychological needs for intimacy。",
+        "B": "错误。孤独感在工业化国家呈上升趋势，并未消除。",
+        "C": "正确。文中明确指出数字平台提供的是 superficial connectivity，无法满足 intimacy and authentic recognition 等深层次需求。",
+        "D": "错误。原文说 each additional hour correlates with increases in perceived isolation，方向相反；且 causality remains contested。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "例证题",
+      "stem": "4. The author mentions the UC study (Paragraph 2) in order to ________.",
+      "options": [
+        "prove that lonely people always have pre-existing illnesses.",
+        "illustrate the biological mechanism linking loneliness to inflammation.",
+        "argue that C-reactive protein is the cause of all diseases.",
+        "show that cortisol levels decrease in lonely individuals."
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。研究未涉及既往疾病是孤独感原因的论点。",
+        "B": "正确。引用 UC 研究是为了说明孤独感与炎症标志物的关联，展示生物机制（biological mechanism linking loneliness to inflammation）。",
+        "C": "错误。研究只显示相关性，non-causal。",
+        "D": "错误。原文说孤独感 amplify stress hormone production，而非 cortisol levels decrease。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "Digital Media: The Complete Solution to Modern Loneliness",
+        "The Loneliness Epidemic: A Hidden but Serious Public Health Crisis",
+        "Why Individual Therapy Always Solves Social Isolation",
+        "The Decline of Cardiovascular Disease in Connected Societies"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。原文批评数字媒体浅层连接，未能解决孤独问题。",
+        "B": "正确。全文围绕孤独感作为隐匿而严重的公共健康危机展开，从流行率、生物机制、政策应对三方面系统论述。",
+        "C": "错误。原文强调结构性改革，非个人心理治疗。",
+        "D": "错误。原文讨论孤独感与心血管疾病等慢性病的关联，未讨论心血管疾病下降。"
+      }
+    }
+  ],
+  "words": [
+    {"word": "underappreciated", "def": "未被充分重视的"},
+    {"word": "determinants", "def": "决定因素"},
+    {"word": "comprehensive", "def": "全面的，综合的"},
+    {"word": "meta-analysis", "def": "元分析（对多项研究的综合分析）"},
+    {"word": "synthesised", "def": "综合分析的"},
+    {"word": "longitudinal", "def": "纵向的"},
+    {"word": "encompassing", "def": "包含，涵盖"},
+    {"word": "persistent", "def": "持续的，顽固的"},
+    {"word": "mortality", "def": "死亡率"},
+    {"word": "counterparts", "def": "对应的人或物"},
+    {"word": "socioeconomic", "def": "社会经济的"},
+    {"word": "dividends", "def": "回报，收益"},
+    {"word": "pathways", "def": "路径，途径"},
+    {"word": "interconnected", "def": "相互关联的"},
+    {"word": "cortisol", "def": "皮质醇（压力激素）"},
+    {"word": "suppressing", "def": "抑制，压制"},
+    {"word": "inflammatory", "def": "炎症性的"},
+    {"word": "markers", "def": "标志物，指标"},
+    {"word": "neurodegenerative", "def": "神经退行性的"},
+    {"word": "neuroimaging", "def": "神经影像学"},
+    {"word": "neurobiological", "def": "神经生物学的"},
+    {"word": "angst", "def": "焦虑，痛苦"},
+    {"word": "paradox", "def": "悖论，矛盾"},
+    {"word": "intimacy", "def": "亲密，亲近"},
+    {"word": "authenticity", "def": "真实性"},
+    {"word": "ameliorate", "def": "改善，减轻"},
+    {"word": "predicated", "def": "以...为基础，源自"},
+    {"word": "transactional", "def": "交易性的"},
+    {"word": "systematically", "def": "系统地"}
+  ]
+}

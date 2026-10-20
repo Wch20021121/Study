@@ -1,0 +1,181 @@
+{
+  "date": "4/11",
+  "month": 4,
+  "day": 11,
+  "title": "Article from 4/11",
+  "text": "The rise of large language models (LLMs) has been nothing short of revolutionary. From drafting emails to composing poetry, these AI systems now permeate daily digital life, their outputs often indistinguishable from human creation. Yet beneath this veneer of fluency lies a critical, underappreciated flaw: these models are fundamentally confabulation engines. They do not \"know\" facts or \"understand\" context in the human sense; instead, they predict the statistically most probable next word, generating coherent-sounding text that is often entirely fabricated.\n\nThis phenomenon, commonly called \"hallucination,\" is not a bug but a feature of how LLMs are trained. Trained on petabytes of human text, they learn patterns, correlations, and linguistic structures, but not truth or causality. When prompted with a question outside their training data or one requiring precise factual recall, they do not admit ignorance. Instead, they synthesize plausible-sounding but false information, seamlessly weaving invented data, quotes, and even entire events into their responses. For instance, an LLM might confidently cite a non-existent study to support a claim, or invent historical details to fill gaps in its knowledge.\n\nThe consequences of AI hallucination extend far beyond minor inconveniences. In high-stakes domains such as healthcare, law, and journalism, these fabrications can have severe real-world impacts. A doctor relying on an AI-generated diagnosis citing fictitious medical research could endanger a patient's life. A lawyer using AI to draft legal briefs might unknowingly reference non-existent case law, undermining their client's position. Journalists, too, risk spreading misinformation by inadvertently publishing AI-created false stories as fact.\n\nEfforts to mitigate hallucinations are underway but remain deeply challenging. Techniques like retrieval-augmented generation (RAG) attempt to ground models in verified external data sources, reducing their tendency to invent facts. However, this adds complexity and latency. Other approaches focus on fine-tuning models to express uncertainty or say \"I don't know,\" but training AI to be reliably humble is an uphill battle. The core issue persists: as long as LLMs optimize for linguistic coherence over factual accuracy, hallucinations will be an inherent risk.\n\nSome experts argue that the obsession with eliminating hallucinations entirely is misplaced. Instead, they advocate for a paradigm shift: designing systems that transparently communicate their confidence levels and sources. Users must be educated to treat AI outputs as tentative suggestions, not definitive truths. The ultimate solution may not be perfect AI, but a more discerning human-AI partnership, one where we leverage the machine's creativity while maintaining constant vigilance over its veracity.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "综合题",
+      "stem": "1. intentional deception",
+      "options": [
+        "intentional deception",
+        "creative storytelling",
+        "spontaneous fabrication",
+        "logical deduction"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。intentional deception 指故意欺骗，但文中 confabulation 是 AI 无意识生成的虚假内容，非故意行为。",
+        "B": "错误。creative storytelling 偏向创作性叙事，与文中描述的无根据编造不符。",
+        "C": "正确。confabulation 在心理学中指无意识的虚构/编造。文中说 AI 是 fundamentally confabulation engines，预测最可能的下一个词，生成听起来合理但完全虚构的内容，即 spontaneous fabrication。",
+        "D": "错误。logical deduction 是逻辑推理，与 confabulation 含义完全相反。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "综合题",
+      "stem": "2. According to Paragraph 2, hallucinations occur because LLMs ________.",
+      "options": [
+        "lack access to sufficient training data",
+        "prioritize plausibility over factual correctness",
+        "are programmed to avoid admitting errors",
+        "fail to recognize complex linguistic patterns"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文中说 AI 是在大量数据上训练的，并非缺乏训练数据。",
+        "B": "正确。第二段明确指出 AI 学习 patterns, correlations, and linguistic structures, but not truth or causality，当被问到训练数据之外的问题时，它们不会承认无知，而是 synthesize plausible-sounding but false information，即优先考虑合理性而非事实准确性。",
+        "C": "错误。文中说 AI do not admit ignorance 是因为训练方式导致的，而非被编程避免承认错误。",
+        "D": "错误。文中说 AI 能识别 linguistic structures，问题不在于无法识别复杂语言模式。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "综合题",
+      "stem": "3. The examples in Paragraph 3 are cited to illustrate that ________.",
+      "options": [
+        "AI technology is not yet ready for professional use",
+        "misinformation spreads rapidly in the digital age",
+        "the public is overly trusting of AI-generated content",
+        "AI hallucinations can lead to serious detrimental effects"
+      ],
+      "answer": "D",
+      "explanation": {
+        "A": "错误。文章并未说 AI 技术尚未准备好用于专业领域。",
+        "B": "错误。misinformation 传播速度不是该段重点。",
+        "C": "错误。公众过度信任不是该段核心论点。",
+        "D": "正确。第三段列举了医生、律师、记者三个例子，说明 AI hallucination 在 healthcare, law, journalism 等高利益领域可以 have severe real-world impacts，即导致严重的负面影响。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "综合题",
+      "stem": "4. To solve the problem of hallucinations, some experts suggest that we should ________.",
+      "options": [
+        "focus on making AI systems more factually accurate",
+        "develop AI that can clearly indicate its reliability",
+        "restrict the use of LLMs to low-stakes applications",
+        "improve human literacy in digital technology"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文章指出消除幻觉的执着是 misplaced 的，不认为应专注于提高事实准确性。",
+        "B": "正确。最后一段说 experts advocate for a paradigm shift: designing systems that transparently communicate their confidence levels and sources，即开发能清楚表明其可靠性的 AI。",
+        "C": "错误。限制使用不是专家建议的解决方案。",
+        "D": "错误。提高数字素养是用户教育的一部分，但不是核心解决方案。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "综合题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "AI Hallucinations: A Bug We Must Eliminate",
+        "Large Language Models: The Future of Creativity",
+        "The Hidden Risk of AI: When Machines Make Up Facts",
+        "Human-AI Partnership: Overcoming Digital Illiteracy"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。文章说 obsession with eliminating hallucinations entirely is misplaced。",
+        "B": "错误。文章重点不在 AI 的创造力。",
+        "C": "正确。全文围绕 AI 幻觉问题展开，指出这是 fundamental flaw，讨论其危害、缓解努力和最终建议，最佳标题应反映 AI 编造事实的隐藏风险。",
+        "D": "错误。人机合作是最后一段提到的建议，但不是全文主旨。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "confabulation",
+      "def": "虚构杜撰"
+    },
+    {
+      "word": "permeate",
+      "def": "渗透"
+    },
+    {
+      "word": "veneer",
+      "def": "表象"
+    },
+    {
+      "word": "indistinguishable",
+      "def": "难以区分的"
+    },
+    {
+      "word": "fabricated",
+      "def": "编造的"
+    },
+    {
+      "word": "hallucination",
+      "def": "幻觉"
+    },
+    {
+      "word": "petabytes",
+      "def": "拍字节"
+    },
+    {
+      "word": "causality",
+      "def": "因果关系"
+    },
+    {
+      "word": "synthesize",
+      "def": "综合"
+    },
+    {
+      "word": "plausible",
+      "def": "貌似合理的"
+    },
+    {
+      "word": "fictitious",
+      "def": "虚构的"
+    },
+    {
+      "word": "undermining",
+      "def": "削弱"
+    },
+    {
+      "word": "misinformation",
+      "def": "错误信息"
+    },
+    {
+      "word": "inadvertently",
+      "def": "无意地"
+    },
+    {
+      "word": "mitigate",
+      "def": "减轻"
+    },
+    {
+      "word": "latency",
+      "def": "延迟"
+    },
+    {
+      "word": "paradigm",
+      "def": "范式"
+    },
+    {
+      "word": "discerning",
+      "def": "识别"
+    },
+    {
+      "word": "veracity",
+      "def": "真实性"
+    },
+    {
+      "word": "vigilance",
+      "def": "警惕"
+    }
+  ]
+}

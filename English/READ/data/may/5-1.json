@@ -1,0 +1,197 @@
+{
+  "date": "5/1",
+  "month": 5,
+  "day": 1,
+  "title": "Article from 5/1",
+  "text": "The world's largest meat and dairy corporations have flooded the public sphere with ambitious pledges to combat climate change, yet a comprehensive new analysis reveals that the overwhelming majority of these commitments amount to little more than greenwashing. Animal agriculture accounts for at least 16.5 per cent of global greenhouse gas emissions, prompting intense scrutiny from environmental groups and policymakers. In response, the industry has issued a proliferation of sustainability promises, but researchers now question whether these declarations reflect genuine transformation or merely sophisticated public relations manoeuvres.\n\nTo evaluate the substance of these corporate claims, Jennifer Jacquet at the University of Miami and her colleagues systematically examined the sustainability reports and consumer-facing websites of 33 of the world's largest meat and dairy companies between 2021 and 2024. The team identified 1,233 distinct environmental assertions. Strikingly, 98 per cent of these could be classified as greenwashing—claims that are deceptive or deliberately misleading, such as offering vague promises of future climate action without presenting concrete implementation strategies. More than two-thirds of the statements lacked any supporting evidence whatsoever, and merely three were substantiated by peer-reviewed scientific literature.\n\nCurrently, 17 of the 33 evaluated companies have established net-zero emissions targets. However, much like the fossil fuel sector, these aspirations typically project decades into the future and rely predominantly on carbon offsetting rather than genuine emissions reduction at source. The few concrete measures promoted by firms pale in comparison to their grandiose future-facing claims. One widely publicised regenerative agriculture pilot programme encompassed merely 24 farms, representing a microscopic 0.0019 per cent of the company's total global operations. Another firm highlighted a negligible packaging modification: reducing the width of adhesive tape on sausage packs by a mere three millimetres.\n\nThe implications extend beyond corporate accountability. Experts warn that this pervasive pattern of misleading environmental communication undermines public trust in sustainability initiatives more broadly. Marco Springmann at the University of Oxford observes that the authors convincingly demonstrate how many industry claims constitute little beyond superficial window dressing. Tim Benton at the University of Leeds adds that the structural constraints within current market frameworks incentivise companies to overstate their environmental progress while simultaneously lobbying to preserve the regulatory status quo.\n\nAddressing this systemic problem requires robust regulatory intervention rather than voluntary self-assessment. Several researchers have advocated for mandatory disclosure standards that would compel companies to substantiate their environmental claims with independently verified data. Without such measures, consumers and investors remain unable to distinguish between authentic sustainability efforts and carefully crafted marketing narratives—a distinction that becomes increasingly consequential as the urgency of climate action intensifies.",
+  "questions": [
+    {
+      "num": 1,
+      "type": "词义推断题",
+      "stem": "1. The word \"greenwashing\" (Paragraph 1) most probably refers to ________.",
+      "options": [
+        "misleading claims about environmental responsibility",
+        "government regulations on corporate emissions",
+        "scientific research on agricultural sustainability",
+        "genuine efforts to protect the environment"
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。greenwashing 意为\"绿色洗牌\"，指企业做出误导性或欺骗性的环保声明以改善公众形象，文中明确定义为 deceptive or deliberately misleading claims。",
+        "B": "错误。该词与企业自我宣传有关，而非 government regulations（政府法规）。",
+        "C": "错误。greenwashing 不是科学研究，而是企业的公关行为。",
+        "D": "错误。greenwashing 指的是虚假的环保承诺，而非 genuine efforts（真正的努力）。"
+      }
+    },
+    {
+      "num": 2,
+      "type": "细节理解题",
+      "stem": "2. According to Paragraph 2, the study found that ________.",
+      "options": [
+        "peer-reviewed literature confirmed the majority of corporate claims",
+        "the 33 companies had made significant progress in sustainability",
+        "nearly all identified claims could be classified as greenwashing",
+        "most environmental claims were supported by scientific evidence"
+      ],
+      "answer": "C",
+      "explanation": {
+        "A": "错误。仅有 3 项声明有同行评议科学文献支持，远非 majority（大多数）。",
+        "B": "错误。研究表明这些公司并未取得实质性进展，大多数承诺是空洞的。",
+        "C": "正确。第二段明确指出 98% 的声明可被归类为 greenwashing。",
+        "D": "错误。研究发现超过 2/3 的声明缺乏任何支持证据，与选项相反。"
+      }
+    },
+    {
+      "num": 3,
+      "type": "推理判断题",
+      "stem": "3. The author mentions the regenerative agriculture pilot programme (Paragraph 3) to illustrate that ________.",
+      "options": [
+        "the agricultural sector leads in environmental innovation",
+        "small-scale pilot programmes are the most effective approach",
+        "companies are making substantial investments in sustainable farming",
+        "concrete measures are often negligible compared to grand claims"
+      ],
+      "answer": "D",
+      "explanation": {
+        "A": "错误。文章批评农业企业在环保方面的虚假承诺，而非赞扬其创新。",
+        "B": "错误。文中并未表达小规模试点最有效，反而暗示其规模微乎其微。",
+        "C": "错误。该试点项目仅涉及 24 个农场，占公司全球运营的 0.0019%，远非 substantial investment（大量投资）。",
+        "D": "正确。作者用此例说明公司宣传的具体措施与其宏大的未来承诺相比微不足道（pale in comparison）。"
+      }
+    },
+    {
+      "num": 4,
+      "type": "细节理解题",
+      "stem": "4. According to Paragraph 4, what do experts say about the industry's behaviour?",
+      "options": [
+        "Market incentives encourage firms to exaggerate their environmental progress.",
+        "The regulatory status quo effectively prevents greenwashing.",
+        "Public trust in sustainability initiatives has significantly increased.",
+        "Companies are genuinely constrained by technological limitations."
+      ],
+      "answer": "A",
+      "explanation": {
+        "A": "正确。第四段 Tim Benton 指出，当前市场框架中的结构性约束激励公司夸大其环保进展（incentivise companies to overstate their environmental progress）。",
+        "B": "错误。专家恰恰认为监管现状需要改变，而非有效防止绿色洗牌。",
+        "C": "错误。文中说 pervasive pattern of misleading communication undermines public trust（误导信息的普遍模式破坏公众信任）。",
+        "D": "错误。专家指出约束来自市场框架（market frameworks），而非技术限制。"
+      }
+    },
+    {
+      "num": 5,
+      "type": "主旨大意题",
+      "stem": "5. Which of the following would be the best title for the text?",
+      "options": [
+        "The Meat Industry's Genuine Commitment to Sustainability",
+        "Corporate Greenwashing: Empty Promises in the Food Sector",
+        "How Carbon Offsetting Solves the Climate Crisis",
+        "Regenerative Agriculture: A Model for Environmental Progress"
+      ],
+      "answer": "B",
+      "explanation": {
+        "A": "错误。文章核心观点是企业承诺大多为虚假的绿色洗牌，而非 genuine commitment（真正的承诺）。",
+        "B": "正确。全文围绕肉类和乳业企业的环境承诺大多是绿色洗牌这一主题展开，该标题准确概括了文章主旨。",
+        "C": "错误。文章批评碳抵消是逃避实际减排的手段，而非解决方案。",
+        "D": "错误。再生农业试点仅作为反面例子提及（规模微不足道），并非文章主旨。"
+      }
+    }
+  ],
+  "words": [
+    {
+      "word": "greenwashing",
+      "def": "漂绿（虚假环保宣传）"
+    },
+    {
+      "word": "proliferation",
+      "def": "激增"
+    },
+    {
+      "word": "manoeuvres",
+      "def": "策略"
+    },
+    {
+      "word": "substantiate",
+      "def": "证实"
+    },
+    {
+      "word": "peer-reviewed",
+      "def": "同行评审的"
+    },
+    {
+      "word": "aspirations",
+      "def": "抱负"
+    },
+    {
+      "word": "offsetting",
+      "def": "抵消"
+    },
+    {
+      "word": "grandiose",
+      "def": "宏大的"
+    },
+    {
+      "word": "regenerative",
+      "def": "再生的"
+    },
+    {
+      "word": "microscopic",
+      "def": "微小的"
+    },
+    {
+      "word": "negligible",
+      "def": "可忽略的"
+    },
+    {
+      "word": "adhesive",
+      "def": "粘合剂"
+    },
+    {
+      "word": "accountability",
+      "def": "问责制"
+    },
+    {
+      "word": "pervasive",
+      "def": "普遍的"
+    },
+    {
+      "word": "superficial",
+      "def": "表面的"
+    },
+    {
+      "word": "incentivise",
+      "def": "激励"
+    },
+    {
+      "word": "status quo",
+      "def": "现状"
+    },
+    {
+      "word": "mandatory disclosure",
+      "def": "强制披露"
+    },
+    {
+      "word": "compel",
+      "def": "强迫"
+    },
+    {
+      "word": "substantiate",
+      "def": "证实"
+    },
+    {
+      "word": "narratives",
+      "def": "叙事"
+    },
+    {
+      "word": "consequential",
+      "def": "重要的"
+    },
+    {
+      "word": "scrutiny",
+      "def": "审查"
+    },
+    {
+      "word": "window dressing",
+      "def": "门面装饰"
+    }
+  ]
+}
