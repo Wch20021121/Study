@@ -527,36 +527,106 @@ docker compose up -d --build math
 
 ---
 
-## 10. 阿里云部署摘要
+## 10. 阿里云部署攻略
 
 完整步骤、安全组、防火墙、HTTPS 和排错见 [README-408-DEPLOY.md](README-408-DEPLOY.md)。
 
+### 10.1 首次部署
+
+服务器安全组入方向先放行 TCP `22`、`40810`、`5001`，然后：
+
 ```bash
-# 服务器上
+ssh root@你的服务器IP
+mkdir -p /opt/study
+git clone https://github.com/Wch20021121/Study.git /opt/study
 cd /opt/study
-sudo bash deploy.sh --install-docker   # 首次：装 Docker + Compose，再启动两站
-# 或者 Docker 已装好：
+sudo bash deploy.sh --install-docker
+```
+
+如果 Docker 已经装好：
+
+```bash
+cd /opt/study
 sudo bash deploy.sh
 ```
 
-访问：
+### 10.2 日常更新（推荐）
+
+服务器只部署 `main`，不要拉 `408` 或 `english` 分支：
+
+```bash
+cd /opt/study
+git switch main
+git pull
+sudo bash deploy.sh
+```
+
+`deploy.sh` 会重新构建两个镜像、启动两个容器并检查 `/healthz`。
+
+### 10.3 只更新一个服务
+
+代码已经从 `main` 拉取后，可以只重建一个站点：
+
+```bash
+cd /opt/study
+
+# 只更新 408
+sudo docker compose up -d --build exam408
+
+# 只更新英语
+sudo docker compose up -d --build english
+```
+
+单独启动/停止：
+
+```bash
+sudo docker compose up -d exam408
+sudo docker compose stop english
+sudo docker compose logs -f --tail=100 exam408
+```
+
+### 10.4 验证部署
+
+```bash
+cd /opt/study
+sudo bash deploy.sh status
+
+curl -I http://127.0.0.1:40810/
+curl -I http://127.0.0.1:5001/
+curl http://127.0.0.1:40810/healthz
+curl http://127.0.0.1:5001/healthz
+
+docker compose ps
+```
+
+浏览器再访问：
 
 ```text
 http://服务器公网IP:40810/
 http://服务器公网IP:5001/
 ```
 
-阿里云安全组入方向需要放行 TCP `40810`、`5001`。如果本机 `curl` 正常、公网打不开，优先查安全组。
+本机 `curl` 正常、公网打不开，优先查阿里云安全组和服务器防火墙。
 
-常用维护：
+### 10.5 回滚
+
+推荐用 `git revert` 保留历史：
 
 ```bash
 cd /opt/study
-sudo bash deploy.sh status
-sudo bash deploy.sh logs
-sudo bash deploy.sh restart
-sudo bash deploy.sh down
+git log --oneline -5
+git revert <要回滚的commit>
+sudo bash deploy.sh
 ```
+
+不要在服务器上直接改容器里的文件；容器重建后这些改动会丢失。
+
+### 10.6 部署原则
+
+- **开发在 `408` / `english`，发布只走 `main`**；
+- 两个服务可以独立启动，但生产入口统一由 `main` 的 `compose.yaml` 管理；
+- 端口变更属于共享契约，要同时改 `.env`、`config.js` 和文档，并在 `main` 提交；
+- 部署后至少检查一次 `docker compose ps` 和两个 `/healthz`。
 
 ---
 
@@ -589,6 +659,8 @@ Study/
 ├── .env.example                 # 端口配置示例
 ├── deploy.sh                    # 一键部署/状态/日志/停止
 ├── 408-exam/
+│   ├── README.md               # 408 模块开发说明
+│   ├── dev.sh                  # 只启动 408 的开发脚本
 │   ├── Dockerfile
 │   ├── .dockerignore
 │   ├── deploy/nginx.conf
@@ -600,6 +672,8 @@ Study/
 │       ├── map.html
 │       └── assets/
 ├── English/
+│   ├── DEV.md                   # 英语模块开发说明
+│   ├── dev.sh                   # 只启动英语的开发脚本
 │   ├── Dockerfile
 │   ├── .dockerignore
 │   ├── deploy/nginx.conf
@@ -614,6 +688,8 @@ Study/
 
 - 阿里云 ECS、安全组、防火墙、Caddy HTTPS：[README-408-DEPLOY.md](README-408-DEPLOY.md)
 - 分支、worktree、合并与部署边界：[BRANCHING.md](BRANCHING.md)
+- 408 模块开发：[408-exam/README.md](408-exam/README.md)
+- 英语模块开发：[English/DEV.md](English/DEV.md)
 - 408 知识线路图：[408-exam/site/map.html](408-exam/site/map.html)
 - 408 首页：[408-exam/site/index.html](408-exam/site/index.html)
 - 英语站：[English/README.md](English/README.md)

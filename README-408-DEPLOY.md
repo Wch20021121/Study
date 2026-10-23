@@ -220,7 +220,7 @@ docker compose up -d --build
 docker compose ps
 ```
 
-> 注意：`English/compose.yaml` 是英语单站原来的编排，默认容器名 `kaoyan-english`、端口 5000；根目录 `compose.yaml` 是两站统一编排，容器名 `study-english`、端口 5001。**只选一套启动**，避免重复容器和端口混乱；如果确实要同时跑，先确认两套编排的宿主机端口不冲突。
+> 注意：`English/compose.yaml` 是英语单站原来的编排，默认项目名 `kaoyan-english`、端口 5000，且已不固定容器名；根目录 `compose.yaml` 是两站统一编排，默认端口 5001。**只选一套启动**，避免重复容器和端口混乱；如果确实要同时跑，先确认两套编排的宿主机端口不冲突。
 
 ### 3.4 只启动一个站点
 
@@ -246,6 +246,11 @@ docker compose up -d --build exam408
 ```
 
 启动顺序没有依赖，先启哪个都可以。`deploy.sh` 默认会处理两个站点；要单独操作，直接用上面的 Compose 命令。
+
+开发分支的 worktree、独立项目名和模块脚本见 [BRANCHING.md](BRANCHING.md)；
+408 模块说明见 [408-exam/README.md](408-exam/README.md)，英语模块说明见 [English/DEV.md](English/DEV.md)。
+
+> 上面的手动 `docker run --name ...` 示例只适用于“不用 Compose”的单容器模式；使用根目录 Compose 时不要固定容器名，交给项目名自动生成，才能支持多个 worktree 并行。
 
 ---
 
