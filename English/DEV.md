@@ -109,23 +109,33 @@ docker compose up -d --build
 
 ## 5. 提交与合并
 
-开始开发前：
+### 用 worktree 时
+
+在 `Study-English/` 里，你已经在 `english` 分支，直接同步和提交：
 
 ```bash
-git switch english
 git merge main
-```
-
-提交：
-
-```bash
 git add English
 git commit -m "feat(english): ..."
 ```
 
-合并到 `main`：
+合并到 `main` 要回到主目录（不要在英语 worktree 里 `git switch main`）：
 
 ```bash
+cd ../Study
+git switch main
+git merge --no-ff english
+```
+
+### 不用 worktree 时
+
+```bash
+git switch english
+git merge main
+# 改 English/**
+git add English
+git commit -m "feat(english): ..."
+
 git switch main
 git merge --no-ff english
 ```
