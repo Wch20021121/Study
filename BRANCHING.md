@@ -213,6 +213,16 @@ ENGLISH_PORT=5002
 
 但换端口后，408 页面右上角的英语链接也要同步改 `408-exam/site/assets/config.js`。
 
+另外，如果本地 main 的 `study-sites` 项目已经在运行，它已经占用 40810/5001。启动 worktree 前可以：
+
+```bash
+# 只停 main 的 408
+docker compose -p study-sites stop exam408
+
+# 或者直接给 worktree 换端口
+EXAM408_PORT=40811 ./408-exam/dev.sh
+```
+
 ---
 
 ## 5. 模块开发脚本
