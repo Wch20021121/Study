@@ -24,6 +24,18 @@ COMPOSE_PROJECT_NAME=study-english docker compose up -d --build english
 http://127.0.0.1:5001/
 ```
 
+> 如果本地 `main` 的 `study-sites` 项目已经占用了 5001，先停掉它的英语服务：
+>
+> ```bash
+> docker compose -p study-sites stop english
+> ```
+>
+> 或者给这个 worktree 换端口：
+>
+> ```bash
+> ENGLISH_PORT=5002 ./English/dev.sh
+> ```
+
 常用命令：
 
 ```bash
