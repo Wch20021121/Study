@@ -98,6 +98,8 @@ python3 temp/build.py
 
 ## 部署到 Linux / 5000 端口
 
+> 分支开发、worktree、只启动英语：见 [DEV.md](DEV.md) 和 [../BRANCHING.md](../BRANCHING.md)。
+>
 > 如果使用仓库根目录的统一编排 `compose.yaml`，英语站映射到宿主机 **5001**、408 站映射到 **40810**，请优先看根目录的 [`README-408-DEPLOY.md`](../README-408-DEPLOY.md)。本章下面的 5000 是英语单站单独部署的默认值。
 
 ### 快速预览：run_english.sh
