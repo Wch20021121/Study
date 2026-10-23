@@ -20,6 +20,11 @@ main
 | `english` | `English/**` | 英语页面、真题数据、英语 Dockerfile、英语的模块开发脚本 |
 | `main` | 根目录共享文件 | `compose.yaml`、`deploy.sh`、`.env.example`、README、端口契约 |
 
+模块自己的开发细节：
+
+- 408：[408-exam/README.md](408-exam/README.md)
+- 英语：[English/DEV.md](English/DEV.md)
+
 ### main 负责的共享文件
 
 - `compose.yaml`
