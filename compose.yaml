@@ -3,13 +3,14 @@
 # 端口：408 -> 宿主机 40810；英语 -> 宿主机 5001
 name: study-sites
 
+# 不固定 container_name：Compose 会按项目名自动生成容器名，
+# 这样多个 worktree 可以用不同 COMPOSE_PROJECT_NAME 并行开发。
 services:
   exam408:
     build:
       context: ./408-exam
       dockerfile: Dockerfile
     image: study-408-exam:local
-    container_name: study-408-exam
     ports:
       - "${EXAM408_PORT:-40810}:80"
     restart: unless-stopped
@@ -32,7 +33,6 @@ services:
       context: ./English
       dockerfile: Dockerfile
     image: kaoyan-english:local
-    container_name: study-english
     ports:
       - "${ENGLISH_PORT:-5001}:80"
     restart: unless-stopped

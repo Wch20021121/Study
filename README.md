@@ -77,7 +77,7 @@ docker compose up -d exam408
 docker compose up -d english
 ```
 
-`exam408` 和 `english` 是 **Compose 的服务名**；`study-408-exam` 和 `study-english` 是**容器名**，不要混用。
+`exam408` 和 `english` 是 **Compose 的服务名**。容器名由 Compose 按项目名自动生成，例如 `study-sites-exam408-1`；日常操作统一用服务名，不要依赖固定容器名。
 
 ---
 
@@ -88,12 +88,13 @@ docker compose up -d english
 | | 408 | 英语 |
 | --- | --- | --- |
 | Compose service | `exam408` | `english` |
-| 容器名 | `study-408-exam` | `study-english` |
+| 容器名 | Compose 自动生成 | Compose 自动生成 |
 | 镜像 | `study-408-exam:local` | `kaoyan-english:local` |
 | 宿主机端口 | `40810` | `5001` |
 | 容器内端口 | `80` | `80` |
 | 构建目录 | `408-exam/` | `English/` |
 | 数据卷 | 无 | 无 |
+| 默认项目名 | `study-sites` | `study-sites` |
 
 ### 独立的部分
 
@@ -105,7 +106,7 @@ docker compose up -d english
 
 ### 仍然耦合的部分
 
-- 它们在同一个 Compose 项目 `study-sites` 里；
+- 默认部署时它们在同一个 Compose 项目 `study-sites` 里；worktree 可以用 `COMPOSE_PROJECT_NAME` 换成独立项目名；
 - `docker compose up -d` 默认启动两个；
 - `docker compose down` 默认删除两个容器和共享网络；
 - 共用一个 Compose 默认网络，但彼此不依赖这个网络通信。
@@ -119,6 +120,45 @@ docker compose stop exam408            # 只停 408
 docker compose restart english         # 只重启英语
 docker compose logs -f --tail=100 exam408
 ```
+
+### 3.1 分支与 worktree
+
+仓库现在有三条线：
+
+| 分支 | 负责范围 |
+| --- | --- |
+| `main` | 共享 compose、deploy、文档、端口契约 |
+| `408` | 只改 `408-exam/**` |
+| `english` | 只改 `English/**` |
+
+两个模块分支可以同时用 `git worktree` 检出：
+
+```bash
+git worktree add ../Study-408 408
+git worktree add ../Study-English english
+```
+
+在 408 目录只启动 408：
+
+```bash
+cd ../Study-408
+COMPOSE_PROJECT_NAME=study-408 docker compose up -d --build exam408
+# 或者
+./408-exam/dev.sh
+```
+
+在英语目录只启动英语：
+
+```bash
+cd ../Study-English
+COMPOSE_PROJECT_NAME=study-english docker compose up -d --build english
+# 或者
+./English/dev.sh
+```
+
+项目名不同，Compose 自动生成的容器名也不同，所以两边不会撞名。两个模块都只启动自己负责的服务，端口也不会冲突。
+
+完整的合并、worktree、共享文件边界、部署策略见 [BRANCHING.md](BRANCHING.md)。
 
 ---
 
@@ -261,7 +301,6 @@ services:
       context: ./408-exam
       dockerfile: Dockerfile
     image: study-408-exam:local
-    container_name: study-408-exam
     ports:
       - "${EXAM408_PORT:-40810}:80"
     restart: unless-stopped
@@ -286,7 +325,7 @@ services:
 | `build.context` | 构建上下文目录 |
 | `build.dockerfile` | Dockerfile 文件名 |
 | `image` | 构建后打的镜像标签 |
-| `container_name` | 固定容器名（方便 `docker logs`，但会限制 `--scale`） |
+| `container_name` | 可选；本项目故意不写，让 Compose 自动命名以支持 worktree 并行 |
 | `ports` | `宿主机:容器`；`${VAR:-默认值}` 从 `.env` 读取 |
 | `restart: unless-stopped` | 开机/崩溃自动重启；手动 stop 后不自动拉起 |
 | `security_opt` | 禁止容器获得新特权 |
@@ -391,8 +430,8 @@ Docker 原生命令：
 ```bash
 docker image ls                 # 镜像
 docker container ls -a          # 所有容器
-docker logs study-408-exam      # 容器日志
-docker inspect study-408-exam   # 容器详情
+docker compose logs exam408     # 408 日志
+docker compose ps               # 408/英语容器状态
 docker stats --no-stream        # 资源占用
 docker system df                # Docker 磁盘占用
 ```
@@ -466,7 +505,6 @@ HEALTHCHECK --interval=30s --timeout=3s \
       context: ./math-site
       dockerfile: Dockerfile
     image: study-math:local
-    container_name: study-math
     ports:
       - "40820:80"
     restart: unless-stopped
@@ -545,6 +583,7 @@ sudo bash deploy.sh down
 Study/
 ├── README.md                    # 本文件：项目总览 + Docker 入门
 ├── README-408-DEPLOY.md         # 阿里云部署详细说明
+├── BRANCHING.md                 # 分支、worktree、合并与部署边界
 ├── compose.yaml                 # 两个站点的统一编排
 ├── compose.dev.yaml             # 本地开发挂载覆盖
 ├── .env.example                 # 端口配置示例
@@ -574,6 +613,7 @@ Study/
 ## 13. 继续阅读
 
 - 阿里云 ECS、安全组、防火墙、Caddy HTTPS：[README-408-DEPLOY.md](README-408-DEPLOY.md)
+- 分支、worktree、合并与部署边界：[BRANCHING.md](BRANCHING.md)
 - 408 知识线路图：[408-exam/site/map.html](408-exam/site/map.html)
 - 408 首页：[408-exam/site/index.html](408-exam/site/index.html)
 - 英语站：[English/README.md](English/README.md)

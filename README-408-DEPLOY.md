@@ -4,10 +4,12 @@
 
 这个目录现在有两套独立站点，用两个容器、两个宿主机端口运行：
 
-| 站点 | 容器名 | 宿主机端口 | 容器内端口 | 目录 |
+| 站点 | Compose 服务名 | 宿主机端口 | 容器内端口 | 目录 |
 | --- | --- | --- | --- | --- |
-| 408 大题工位 | `study-408-exam` | **40810** | 80 | `408-exam/` |
-| 英语真题档案 | `study-english` | **5001** | 80 | `English/` |
+| 408 大题工位 | `exam408` | **40810** | 80 | `408-exam/` |
+| 英语真题档案 | `english` | **5001** | 80 | `English/` |
+
+> Compose 不再固定 `container_name`，容器名由项目名自动生成（例如 `study-sites-exam408-1`）。日常用 `docker compose ... exam408` / `english` 操作，不要依赖固定容器名。
 
 > **关于 408100**：TCP 端口范围是 1—65535，`408100` 超出范围，Docker 和操作系统都无法把宿主机端口映射到 408100。本项目用 **40810** 作为默认端口。如果你确实喜欢 408100 这个数字，只能用域名/反向代理路径来实现类似 `https://你的域名/408100/` 的效果，不能作为真实端口监听。
 >
@@ -166,6 +168,21 @@ rsync -avz \
 ```
 
 不要传 `cs-408/` 和 `考研数学/` 的几 GB PDF；它们和这两个站点无关。`408-exam/`、`English/frontend/`、`English/deploy/`、根目录的 `compose.yaml`、`deploy.sh` 是必须的。
+
+### 2.5 分支部署策略
+
+服务器永远只部署 `main`：
+
+```bash
+cd /opt/study
+git switch main
+git pull
+sudo bash deploy.sh
+```
+
+不要从服务器直接拉 `408` 或 `english` 分支部署。分支用于开发，`main` 是发布入口。
+
+两个分支各自只改自己的目录；worktree、合并、共享文件边界见根目录 [BRANCHING.md](BRANCHING.md)。
 
 ---
 
@@ -346,7 +363,7 @@ study.example.com {
 | 公网打不开，本机 curl 正常 | 优先查阿里云安全组，再查 ufw/firewalld。 |
 | `permission denied while trying to connect to Docker` | `sudo usermod -aG docker $USER && newgrp docker`，或命令前加 `sudo`。 |
 | `docker compose` 找不到 | 安装 `docker-compose-plugin`；本项目 `deploy.sh --install-docker` 会尝试补装。 |
-| 容器启动但页面 404 | 确认 `408-exam/site/index.html` 存在；`docker exec study-408-exam ls /usr/share/nginx/html`。 |
+| 容器启动但页面 404 | 确认 `408-exam/site/index.html` 存在；`docker compose exec exam408 ls /usr/share/nginx/html`。 |
 | 改了 HTML 不生效 | 静态文件已打进镜像，执行 `sudo bash deploy.sh` 重新 build；或使用 `compose.dev.yaml` 挂载。 |
 | 5000 端口被占用 | macOS AirPlay 接收器；英语已改用 5001。 |
 | 英语端口想换 | 根目录 `.env` 写 `ENGLISH_PORT=新端口`，重新 `sudo bash deploy.sh`；同时改 `408-exam/site/assets/config.js` 里的 `englishPort`，让 408 页面右上角的英语链接跳转到正确端口。 |
