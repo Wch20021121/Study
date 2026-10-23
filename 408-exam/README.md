@@ -85,23 +85,33 @@ study-408-exam408-1
 
 ## 4. 提交与合并
 
-开始开发前：
+### 用 worktree 时
+
+在 `Study-408/` 里，你已经在 `408` 分支，直接同步和提交：
 
 ```bash
-git switch 408
 git merge main
-```
-
-提交：
-
-```bash
 git add 408-exam
 git commit -m "feat(408): ..."
 ```
 
-合并到 `main`：
+合并到 `main` 要回到主目录（不要在 408 worktree 里 `git switch main`）：
 
 ```bash
+cd ../Study
+git switch main
+git merge --no-ff 408
+```
+
+### 不用 worktree 时
+
+```bash
+git switch 408
+git merge main
+# 改 408-exam/**
+git add 408-exam
+git commit -m "feat(408): ..."
+
 git switch main
 git merge --no-ff 408
 ```
