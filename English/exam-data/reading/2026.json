@@ -1,0 +1,4421 @@
+{
+  "meta": {
+    "year": 2026,
+    "exam": "2026 年全国硕士研究生招生考试",
+    "subject": "英语（一）",
+    "title": "2026 英语（一）阅读精讲",
+    "overview": "- 主题：四篇文章依次讨论驴的驯化史及基因研究价值、好莱坞影视制作外流与加州的应对、无线电带来的偶然收获及数字时代的技术反思，以及低强度火灾的生态益处与计划性燃烧的必要性。\n- 行文逻辑：各篇分别从动物驯化之谜、影视行业衰退、早期无线电理想和森林灭火经验切入，继而借助基因证据、产业数据、历史材料或树轮研究揭示变化及影响，最后落脚于动物管理、产业激励、理性看待创新或恢复有益火灾等现实启示。",
+    "topics": [
+      "驴的驯化史及基因研究价值",
+      "好莱坞影视制作外流与加州的应对",
+      "无线电带来的偶然收获及数字时代的技术反思",
+      "低强度火灾的生态益处与计划性燃烧的必要性"
+    ],
+    "stats": {
+      "sentences": 57,
+      "vocab": 271
+    }
+  },
+  "reading": [
+    {
+      "id": "text1",
+      "kicker": "Section II · Part A",
+      "title": "Text 1",
+      "en_title": "For thousands of years, donkeys have been critical for propelling huma…",
+      "cn_title": "驴的驯化史及基因研究价值",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "驴的驯化史及基因研究价值",
+      "intro": "本篇主题：驴的驯化史及基因研究价值。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "For thousands of years, donkeys have been critical for propelling human civilizations forward. They’ve helped pull wheeled vehicles, carry travelers and move goods across the world. But where and when these animals first became intertwined with humans has been a mystery. Now, researchers have used genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa — about 3,000 years before humans tamed horses. The team published their findings in the journal *Science* this month.",
+          "zh": "数千年来，驴一直是推动人类文明向前发展的重要力量。 它们帮助人类拉动车辆、搭载旅客，并把货物运往世界各地。 但这些动物最初在何地、何时与人类交织在一起，始终是个谜。 如今，研究人员利用 200 多头驴的基因组，将它们的驯化史追溯到大约 7000 年前东非发生的一次事件，这比人类驯服马早了约 3000 年。 研究团队本月在《科学》杂志上发表了他们的研究发现。"
+        },
+        {
+          "en": "“Through their DNA, the animals are telling their history themselves,” co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement. “We usually only get the human’s side of history through written accounts, but of course written history does not always record exactly how something happened. Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.”",
+          "zh": "佛罗里达大学的马科动物研究员、共同作者萨曼莎·布鲁克斯在一份声明中说：“通过它们的 DNA，这些动物正在亲自讲述自己的历史。” 我们通常只能通过文字记载获得人类一方的历史；但当然，文字历史并不总能准确记录某件事究竟是如何发生的。 通过观察这些 DNA 序列，我们能够获得关于这些动物所处环境以及它们经历并挺过的种种遭遇的生物学证据。"
+        },
+        {
+          "en": "The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe. They also looked at genomes from 15 wild equids and 31 earlier donkeys that lived between about 4,000 and 100 years ago. The team reconstructed the animals’ evolutionary tree and used computer models to pinpoint the domestication event when herders in Kenya and the Horn of Africa tamed wild asses. They then traced how the animals spread across the rest of the continent into Europe and Asia about 2,500 years later.",
+          "zh": "研究人员研究了来自全球 31 个国家、现今生活着的驴的 207 个基因组。 他们还研究了 15 个野生马科动物和 31 个早期驴的基因组；这些动物生活在大约 4000 年前至 100 年前之间。 研究团队重建了这些动物的进化树，并利用计算机模型精确确定了那次驯化事件：当时肯尼亚和非洲之角的牧民驯服了野驴。 随后，他们追踪了这些动物如何在约 2500 年后扩散到非洲大陆的其他地区，并进入欧洲和亚洲。"
+        },
+        {
+          "en": "Though it’s still unclear why the original domestication happened, *Science News*’ Freda Kreier reports that the event coincided with the Sahara growing larger and drier. “Donkeys are champions when it comes to carrying stuff and are good at going at deserts,” co-author Ludovic Orlando, an evolutionary biologist at Paul Sabin University in France, tells the publication. Prehistoric humans may have tamed donkeys to help navigate the expanding Sahara.",
+          "zh": "尽管最初的驯化为何发生仍不清楚，《科学新闻》的弗雷达·克雷尔报道说，这一事件恰逢撒哈拉变得更大、更干旱。 共同作者、法国保罗·萨宾大学的进化生物学家卢多维克·奥兰多对该刊物说：“说到搬运东西，驴可是佼佼者，而且很适合在沙漠中行动。” 史前人类可能驯服驴来帮助自己穿越不断扩大的撒哈拉沙漠。"
+        },
+        {
+          "en": "Researchers say these findings could help put donkeys in the spotlight. The animals could benefit from more research: Currently, there are no published genomes from donkeys located south of the Equator in Africa. But understanding where the animals were first domesticated could guide archaeologists to a narrow region to search for insights about the original tamed donkeys.",
+          "zh": "研究人员表示，这些发现可能有助于让驴受到更多关注。 这些动物可能会从更多研究中受益： 目前，还没有发表过来自非洲赤道以南地区驴的基因组数据。 但弄清这些动物最初在哪里被驯化，可能会引导考古学家把搜索范围缩小到一个较小的区域，从而寻找有关最初被驯化的驴的线索。"
+        },
+        {
+          "en": "Not only does understanding the equines’ genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as climate change alters the planet’s environment, write the authors.",
+          "zh": "作者写道，了解马科动物的遗传构成不仅有助于揭示它们对人类历史的贡献，而且随着气候变化改变地球环境，这种了解也可能改善人们未来对它们的管理。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 21,
+          "stem": "What can be learned about donkeys from Paragraph 1?",
+          "options": [
+            "They seemed mysterious to human ancestors.",
+            "They underwent multiple domestication events.",
+            "They were tamed at an earlier time than horses.",
+            "They were vividly portrayed by ancient travelers."
+          ],
+          "answer": "C",
+          "explain": "正确项：They were tamed at an earlier time than horses. 定位句明确说，驴在约 7000 年前已经在东非被驯化，比人类驯马早约 3000 年，因此 C 准确概括了段落中的时间对比。\n其他选项：A. They seemed mysterious to human ancestors.：原文说驴何时何地与人类建立联系对研究者来说是个谜，并没有说古代人类觉得驴神秘。；B. They underwent multiple domestication events.：原文明确说驯化可以追溯到 a single event，与“多次驯化”相反。；D. They were vividly portrayed by ancient travelers.：第一段没有提到古代旅行者对驴的生动描绘，属于无中生有。",
+          "evidence": "Now, researchers have used genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa — about 3,000 years before humans tamed horses.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 22,
+          "stem": "What message is conveyed in Brooks’ statement?",
+          "options": [
+            "The earliest habitats of donkeys are hardly traceable.",
+            "It is increasingly easy to read donkeys’ DNA sequences.",
+            "Written accounts contain vital clues for donkey research.",
+            "Genetic analysis offers insight into the history of donkeys."
+          ],
+          "answer": "D",
+          "explain": "正确项：Genetic analysis offers insight into the history of donkeys. Brooks 将 DNA 称为动物历史的“生物学证词”，说明对基因序列的分析能够揭示驴生活过的环境和经历，从而帮助认识驴的历史。D 正是这一信息的概括。\n其他选项：A. The earliest habitats of donkeys are hardly traceable.：Brooks 的重点是 DNA 能提供关于生活环境的证据，而不是说最早栖息地难以追溯。；B. It is increasingly easy to read donkeys’ DNA sequences.：原文没有讨论基因测序技术是否越来越容易，属于偷换重点。；C. Written accounts contain vital clues for donkey research.：Brooks 恰恰指出文字历史不总能准确记录事件，文章强调的是基因分析对文字记载的补充作用。",
+          "evidence": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.”",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 23,
+          "stem": "In their study, the researchers investigated how donkeys ____",
+          "options": [
+            "dispersed widely in the world.",
+            "survived with the help of herders.",
+            "developed certain behavioral traits.",
+            "adapted to the changing environment."
+          ],
+          "answer": "A",
+          "explain": "正确项：dispersed widely in the world. 研究团队追踪了驴从非洲起源地扩散到非洲其他地区，并进入欧洲和亚洲的路径，研究的是驴的广泛传播过程，A 与定位句中的 spread 对应。\n其他选项：B. survived with the help of herders.：原文只说非洲牧民驯服了野驴，没有说牧民帮助驴存活。；C. developed certain behavioral traits.：文章没有研究或列举驴形成了哪些行为特征。；D. adapted to the changing environment.：撒哈拉变大、变干是对驯化原因的可能解释，不等于研究追踪了驴如何适应环境。",
+          "evidence": "They then traced how the animals spread across the rest of the continent into Europe and Asia about 2,500 years later.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 24,
+          "stem": "As to why the original domestication of donkeys happened, Orlando ____",
+          "options": [
+            "challenges conventional ideas.",
+            "provides a possible explanation.",
+            "calls for evidence from the Sahara.",
+            "holds a different view from Kreier."
+          ],
+          "answer": "B",
+          "explain": "正确项：provides a possible explanation. 文章先说明驯化原因仍不确定，随后引用 Orlando 对驴搬运能力和沙漠活动能力的说明，并推测史前人类可能借助驴穿越扩大的撒哈拉。这构成一个合理但带有 may have 的可能解释。\n其他选项：A. challenges conventional ideas.：Orlando 没有提出与既有观点相冲突的新观点，只是从驴的能力出发解释驯化的可能动机。；C. calls for evidence from the Sahara.：他没有要求从撒哈拉寻找证据，文章只是说明环境变化与驯化事件相吻合。；D. holds a different view from Kreier.：Kreier 报道撒哈拉变大变干与事件同时发生，Orlando 进一步说明驴适合沙漠环境，两者并非不同观点。",
+          "evidence": "“Donkeys are champions when it comes to carrying stuff and are good at going at deserts,” co-author Ludovic Orlando, an evolutionary biologist at Paul Sabin University in France, tells the publication.\nPrehistoric humans may have tamed donkeys to help navigate the expanding Sahara.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 25,
+          "stem": "The authors think that their research could help with ____",
+          "options": [
+            "greater protection of wildlife.",
+            "better management of donkeys.",
+            "recovering early types of donkeys.",
+            "raising awareness of climate change."
+          ],
+          "answer": "B",
+          "explain": "正确项：better management of donkeys. 句中 might improve their management in the future 直接说明，了解马科动物的遗传构成可能改善未来对驴的管理；B 与原文表达完全对应。\n其他选项：A. greater protection of wildlife.：文章没有提出保护野生动物的具体措施，属于范围扩大。；C. recovering early types of donkeys.：研究起源可以帮助考古学家缩小寻找早期驯化驴线索的范围，但不等于“找回”或恢复早期驴种。；D. raising awareness of climate change.：气候变化是未来管理的背景，研究目的不是提高气候变化意识。",
+          "evidence": "Not only does understanding the equines’ genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as climate change alters the planet’s environment, write the authors.",
+          "trap": "",
+          "type": "观点"
+        }
+      ]
+    },
+    {
+      "id": "text2",
+      "kicker": "Section II · Part A",
+      "title": "Text 2",
+      "en_title": "There’s no business like show business — but in Los Angeles, it feels …",
+      "cn_title": "好莱坞影视制作外流与加州的应对",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "好莱坞影视制作外流与加州的应对",
+      "intro": "本篇主题：好莱坞影视制作外流与加州的应对。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "There’s no business like show business — but in Los Angeles, it feels like there’s no business at all.",
+          "zh": "没有哪个行业像演艺业这样独特——但在洛杉矶，演艺业却让人感觉几乎已经没有生意可做了。"
+        },
+        {
+          "en": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a statement explaining that “we cannot in good conscience encourage you to pursue our profession” This is a reaction to Hollywood’s decline, which is reaching a critical point for the industry and Southern California.",
+          "zh": "如果这听起来有些戏剧化，请看这样的事实：代表约 3000 名电影从业者的艺术指导工会暂停了一项培训项目，并发表声明说：“凭良心，我们无法鼓励你从事我们的职业。” 这反映的是好莱坞的衰退，而这种衰退正对整个影视业和南加州造成越来越严重的影响，已经到了关键阶段。"
+        },
+        {
+          "en": "Production has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present. Other regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust. Georgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Georgia promotional logo.",
+          "zh": "自 20 世纪 50 年代以来，影视制作一直在逐渐离开好莱坞，但其影响从未像现在这样明显。 美国其他地区、加拿大和欧洲一直在稳步增加吸引电视节目和电影制作的优惠措施，使加州逐渐落在了后面。 乔治亚州为电影和电视制作成本提供最高 30% 的可转让税收抵免；如果项目包含乔治亚州的宣传标识，还会在基础税收抵免上额外增加 10%。"
+        },
+        {
+          "en": "Even as California lost a huge volume of production to other locations, there was still plenty of film production taking place in Los Angeles before this year. We were kept afloat by “peak TV” the glut of content that was required by the explosion of streaming services.",
+          "zh": "尽管加州有大量影视制作流失到其他地方，但在今年之前，洛杉矶仍然有大量电影制作在进行。 流媒体服务爆发式增长所必需的大量内容（即“剧集巅峰潮”），让我们得以勉强维持下去。"
+        },
+        {
+          "en": "But 2022 was the peak of peak TV. Back then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series being released that year. As the streamers’ emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023, with the number expected to dip into the 300s within a few years.",
+          "zh": "但 2022 年才是“电视内容热潮”的最高峰。 当时，Netflix、亚马逊和 Apple TV 等平台为了制作内容、吸引新订阅者，烧掉了数十亿美元，结果当年共有 633 部剧本类电视剧上线。 随着流媒体平台的重点从增加订阅者转向实现盈利，这些服务的价格上涨了，新剧数量则下降到 2023 年发布的 481 部；预计几年内这一数字还会降至 300 多部。"
+        },
+        {
+          "en": "If productions in Southern California dip below a critical level for too long, the industry’s essential talent will drift away along with enormous sums of revenue. Persuading studios to film here would become much more challenging if we couldn’t offer a deep bench of local film workers, on-screen talent and local businesses that support the entertainment industry.",
+          "zh": "如果南加州的制作量长时间低于临界水平，影视业不可或缺的人才就会流失，大量收入也会随之流走。 如果我们无法提供一支实力雄厚的本地电影工作者、银幕人才以及支持娱乐业的本地企业队伍，说服制片厂来这里拍摄就会困难得多。"
+        },
+        {
+          "en": "That’s why the California Film Commission and its Los Angeles counterpart, Film LA, now should act, before it’s too late. These agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles. Let’s go on with the show...and make sure the show doesn’t go on without us.",
+          "zh": "这就是为什么加州电影委员会及其在洛杉矶的对应机构 Film LA 现在就应该采取行动，不能等到为时已晚。 这些机构和其他政府部门应大幅改善激励措施，以留住当前的影视项目，并吸引新的制作项目来到洛杉矶。 让演出继续下去……并确保这场演出不会在没有我们的情况下继续。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "stem": "The Art Directors Guild’s statement reveals ____",
+          "options": [
+            "people’s reduced interest in film.",
+            "film workers’ nostalgia for the past.",
+            "the appeal of Southern California.",
+            "the gloomy situation of Hollywood."
+          ],
+          "answer": "D",
+          "explain": "正确项：the gloomy situation of Hollywood. 工会暂停培训并表示不能凭良心鼓励新人从业，紧接着原文明确说明这是对好莱坞衰退的回应，而且衰退已达到关键阶段。因此，这份声明揭示的是好莱坞严峻、低迷的处境。\n其他选项：A. people’s reduced interest in film.：原文讨论制作项目和产业环境的恶化，并未说观众对电影的兴趣下降。；B. film workers’ nostalgia for the past.：声明不是怀念过去，而是对当前职业前景的悲观判断。；C. the appeal of Southern California.：原文说南加州正受到好莱坞衰退的影响，并非在说明其吸引力。",
+          "evidence": "This is a reaction to Hollywood’s decline, which is reaching a critical point for the industry and Southern California.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 27,
+          "stem": "The example of Georgia is used to illustrate the efforts to ____",
+          "options": [
+            "lure production with tax incentives.",
+            "drive improvements in film facilities.",
+            "stimulate competition among states.",
+            "collect funds for film and TV making."
+          ],
+          "answer": "A",
+          "explain": "正确项：lure production with tax incentives. 乔治亚州用制作成本税收抵免和宣传标识附加优惠吸引电影、电视项目落地，例子直接说明了用税收激励争取影视制作的做法。\n其他选项：B. drive improvements in film facilities.：例子没有提到摄影棚、设备等设施升级，重点是税收优惠。；C. stimulate competition among states.：不同地区确实在竞争项目，但乔治亚州例子的直接功能是说明其如何用优惠政策吸引制作，不能把竞争这一背景当作例证目的。；D. collect funds for film and TV making.：税收抵免是给制作方的优惠，不是政府筹集影视制作资金。",
+          "evidence": "Georgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Georgia promotional logo.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 28,
+          "stem": "Peak TV passed its peak as ____",
+          "options": [
+            "streamers lost their technical advantages.",
+            "streamers changed their strategic priorities.",
+            "subscribers grew wary of large platforms.",
+            "subscribers were unhappy with new shows."
+          ],
+          "answer": "B",
+          "explain": "正确项：streamers changed their strategic priorities. 原文将剧集数量下降与平台重点从争取订阅用户转向追求盈利直接联系起来，说明“peak TV”退潮的原因是流媒体平台战略重点发生变化。\n其他选项：A. streamers lost their technical advantages.：文章没有提到流媒体平台的技术优势或其丧失。；C. subscribers grew wary of large platforms.：原文没有说订阅者变得警惕或主动离开大型平台。；D. subscribers were unhappy with new shows.：剧集数量减少的原因是平台调整战略，不是订阅者对新剧不满。",
+          "evidence": "As the streamers’ emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023, with the number expected to dip into the 300s within a few years.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 29,
+          "stem": "According to Paragraph 6, California’s entertainment industry might face ____",
+          "options": [
+            "a decline in product quality.",
+            "a demand for foreign talent.",
+            "a brain drain to other places.",
+            "a dramatic rise in labor costs."
+          ],
+          "answer": "C",
+          "explain": "正确项：a brain drain to other places. essential talent will drift away 表示产业所需的关键人才会离开南加州，形成“人才流失”；brain drain 正好概括了这种人才向其他地方转移的后果。\n其他选项：A. a decline in product quality.：文章没有直接讨论作品质量下降，属于把可能的间接后果当成原文结论。；B. a demand for foreign talent.：原文说本地人才会流失，并未提出对外国人才的需求。；D. a dramatic rise in labor costs.：原文提到的是收入随人才流失而流走，没有提及劳动力成本上涨。",
+          "evidence": "If productions in Southern California dip below a critical level for too long, the industry’s essential talent will drift away along with enormous sums of revenue.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 30,
+          "stem": "The author concludes the text by emphasizing that California should strive to ____",
+          "options": [
+            "maintain its position in the industry.",
+            "attract more investment than it had.",
+            "pursue a higher standard of production.",
+            "strengthen coordination with other states."
+          ],
+          "answer": "A",
+          "explain": "正确项：maintain its position in the industry. 结尾要求加州通过改善激励措施留住现有项目并吸引新项目，最后又说要确保演艺业不能在没有加州的情况下继续，核心目标是保持加州在影视产业中的地位。\n其他选项：B. attract more investment than it had.：文章说要吸引新的制作项目，但没有要求投资额必须超过过去的水平，范围和表述都不准确。；C. pursue a higher standard of production.：作者强调的是项目数量、人才和激励措施，不是提高作品制作标准。；D. strengthen coordination with other states.：文章没有提出加强与其他州协调，重点是加州自身改善政策。",
+          "evidence": "These agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles.\nLet’s go on with the show...and make sure the show doesn’t go on without us.",
+          "trap": "",
+          "type": "观点"
+        }
+      ]
+    },
+    {
+      "id": "text3",
+      "kicker": "Section II · Part A",
+      "title": "Text 3",
+      "en_title": "The pioneers of wireless saw it as a gift to all the people. Sir John …",
+      "cn_title": "无线电带来的偶然收获及数字时代的技术反思",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "无线电带来的偶然收获及数字时代的技术反思",
+      "intro": "本篇主题：无线电带来的偶然收获及数字时代的技术反思。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "The pioneers of wireless saw it as a gift to all the people. Sir John Reith said that it would end “isolation of the spirit” and rejoiced: “It does not matter how many thousands may be listening, there is always enough for others...the genius and the fool, the wealthy and the poor listen simultaneously.”",
+          "zh": "无线电的先驱者把它看作一份属于所有人的礼物。 约翰·里思爵士说，无线电将终结“精神上的孤独”，并欣喜地表示：“无论有成千上万的人在收听，都总有足够的内容留给其他人……天才和愚者、富人和穷人都能同时收听。”"
+        },
+        {
+          "en": "Between two great wars this technological innovation built a new kind of national consciousness. Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939. She draws on letters, diaries and fiction, and a 1939 field notebook of verbatim audience research by Winifred Gill.",
+          "zh": "在两次世界大战之间，这项技术创新塑造了一种新的民族共同意识。 本周在牛津大学博德利图书馆开幕的一场展览及其配套书籍，由贝蒂·鲁本斯策划，记录了 1922 年至 1939 年间无线电如何改变日常生活。 她参考了书信、日记和小说，以及温妮弗雷德·吉尔在 1939 年记录的一本逐字呈现观众调查的田野笔记。"
+        },
+        {
+          "en": "There’s fun in testimonies of people enjoying the sheer newness. A cartoon mocks a group failing to converse because they’re all in headphones. People report that broadcast music made workmen whistle new tunes. A woman says there have been fewer street fights since the arrival of the wireless but also less stopping and “talking on the brush handle”.",
+          "zh": "人们享受这种纯粹的新鲜感，他们留下的讲述也很有趣。 一幅漫画嘲弄了一群无法交谈的人，因为他们都戴着耳机。 人们说，广播里的音乐让工人们哼唱起新的曲调。 一位女士说，自从无线电出现后，街头打架少了，但人们停下来“靠着扫帚柄聊天”的情况也少了。"
+        },
+        {
+          "en": "By and large the wireless was welcome. I loved the man from the Thirties research who found that wireless suddenly offered “a lot of variety...things I thought I’d never be interested in...ice hockey perhaps”. True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task. In my own book about radio I recorded how, on one drive: “I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious programme on the history of the stethoscope.”",
+          "zh": "总的来说，人们欢迎无线电。 我很喜欢三十年代那项调查中一位男子的说法；他发现，无线电突然提供了“丰富得多的选择……一些我原以为自己永远不会感兴趣的东西……比如冰球”。 的确，在长达 80 多年的数字化时代之前，线性语音广播带来了“意外发现”的礼物，让驾车旅程或枯燥的体力劳动不时随机变得有趣起来。 在我自己那本关于无线电的书中，我记录过一次驾车经历：“我了解了新闻，学到了一些 17 世纪的历史，还被一档朴实无华的听诊器历史节目意外地上了一课。”"
+        },
+        {
+          "en": "But radio’s enriching serendipity is ebbing. With multiple networks and countless podcasts, a smartphone user selects what to hear and when. And while it is wonderful to take a walk with anything in your headphones, infinite choice encourages us to shrink into niche interests and sympathetic beliefs.",
+          "zh": "但广播所带来的、能够丰富生活的这种意外收获正在逐渐消退。 面对多个广播网络和数不清的播客，智能手机用户可以自行选择听什么以及什么时候听。 尽管戴着耳机听任何内容去散步很美好，但无穷无尽的选择会促使我们缩进狭窄的兴趣和与自己相投的信念之中。"
+        },
+        {
+          "en": "A hundred years on from Marconi and Reith, is the art of mere listening endangered? Some will say the audiobook boom revives it, though I suppose you can then worry about the decline of reading. But inventions shape all of us and it is worth noticing when techno-social habits do change, and asking whether to control them a bit or shield the youngest. Whatever we do, innovation will happen. Today we fret about the isolating culture of smartphone-staring and selfie-vanity, but already in 1939 there was that lady regretting how, when all her street got wirelesses, it lost the neighbourly habit of “talking on the brush handle”. It’s enough to make a person put down the smartphone and go out front with a yard broom.",
+          "zh": "距马可尼和里思的时代过去一百年后，单纯倾听的艺术是否正受到威胁？ 有人会说，有声书的兴起正在让这种能力复苏，不过我想，这样一来人们又可以担心阅读的衰落了。 但发明会塑造我们所有人；当技术与社会习惯确实发生变化时，值得注意这种变化，并思考是否应稍加控制这些习惯，或保护年纪最小的人。 无论我们做什么，创新都会发生。 如今，我们为盯着智能手机和沉溺自拍所造成的隔绝文化而烦恼；但早在 1939 年，就有一位女士在惋惜：当她所在街区的人家都装上收音机后，邻里间“靠着扫帚柄聊天”的习惯就消失了。 这足以让人放下智能手机，拿着院子里的扫帚走到门前去。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 31,
+          "stem": "What can be learnt about wireless from Sir John Reith?",
+          "options": [
+            "It was accessible to everyone.",
+            "It improved interpersonal relations.",
+            "It was a miracle of human ingenuity.",
+            "It led to a new era of isolating culture."
+          ],
+          "answer": "A",
+          "explain": "正确项：It was accessible to everyone. Reith 强调无论听众有多少、身份是天才还是普通人、富人还是穷人，都可以同时收听无线电。因此，A 概括了无线电面向所有人的可及性。\n其他选项：B. It improved interpersonal relations.：文章后文恰恰提到无线电减少了人们停下来聊天的机会，不能概括为改善人际关系。；C. It was a miracle of human ingenuity.：原文称无线电是给所有人的礼物，但没有评价其为人类智慧的奇迹。；D. It led to a new era of isolating culture.：Reith 认为无线电会终结精神孤独，D 与其观点相反；隔绝文化是后文对智能手机的担忧。",
+          "evidence": "Sir John Reith said that it would end “isolation of the spirit” and rejoiced: “It does not matter how many thousands may be listening, there is always enough for others...the genius and the fool, the wealthy and the poor listen simultaneously.”",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 32,
+          "stem": "What is the theme of the exhibition at the Bodleian in Oxford?",
+          "options": [
+            "The impact of radio on its early audience.",
+            "The role of radio in public music education.",
+            "The innovation process of radio technology.",
+            "The eminent pioneers in radio broadcasting."
+          ],
+          "answer": "A",
+          "explain": "正确项：The impact of radio on its early audience. 展览记录 1922 至 1939 年间无线电如何改变日常生活，并使用书信、日记和观众调查等材料，主题是无线电对早期听众及其生活的影响。\n其他选项：B. The role of radio in public music education.：文章只举到广播音乐使工人哼唱新曲调，没有把公共音乐教育作为展览主题。；C. The innovation process of radio technology.：展览关注无线电带来的生活变化，不是无线电技术本身的研发过程。；D. The eminent pioneers in radio broadcasting.：第一段提到先驱者，但展览的核心是 1922-1939 年的日常生活和听众体验，不是人物传记。",
+          "evidence": "Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 33,
+          "stem": "It is indicated in Paragraph 4 that ____",
+          "options": [
+            "the research on radio used to be inadequate.",
+            "the charm of radio remains in the digital age.",
+            "radio listeners could make unexpected gains.",
+            "radio shows have changed little over the years."
+          ],
+          "answer": "C",
+          "explain": "正确项：radio listeners could make unexpected gains. serendipity 表示听众偶然获得原本没有主动寻找的内容；作者又举例说明一次驾车时同时获得新闻、历史和科普知识，说明听众能够意外收获多方面益处。\n其他选项：A. the research on radio used to be inadequate.：作者称三十年代有受众研究，并未批评过去的研究不充分。；B. the charm of radio remains in the digital age.：第四段赞美的是数字化以前线性广播的偶然性，下一段反而说这种魅力正在消退。；D. radio shows have changed little over the years.：段落强调广播带来的生活体验和偶然收获，没有比较节目形式是否变化不大。",
+          "evidence": "True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task.\nIn my own book about radio I recorded how, on one drive: “I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious programme on the history of the stethoscope.”",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 34,
+          "stem": "The expression “talking on the brush handle” in Paragraphs 3 and 6 refers to the act of ____",
+          "options": [
+            "making a loud noise.",
+            "having a casual chat.",
+            "starting a trivial quarrel.",
+            "humming a popular song."
+          ],
+          "answer": "B",
+          "explain": "正确项：having a casual chat. 两处语境都把该表达与 stopping、neighbourly habit 联系起来，指邻里在日常生活中停下来随意聊天的行为，B 是恰当释义。\n其他选项：A. making a loud noise.：表达中虽有 brush，但上下文强调的是停下来交谈，不是制造噪音。；C. starting a trivial quarrel.：原文将它与街头打架区分开来，说明它不是争吵。；D. humming a popular song.：第三段另有广播音乐让工人哼唱新曲调的内容，该表达与唱歌无关。",
+          "evidence": "A woman says there have been fewer street fights since the arrival of the wireless but also less stopping and “talking on the brush handle”.\nToday we fret about the isolating culture of smartphone-staring and selfie-vanity, but already in 1939 there was that lady regretting how, when all her street got wirelesses, it lost the neighbourly habit of “talking on the brush handle”.",
+          "trap": "",
+          "type": "指代"
+        },
+        {
+          "n": 35,
+          "stem": "In the last paragraph, the author intends to express the opinion that ____",
+          "options": [
+            "technology should be aimed at benefiting humans.",
+            "actions should be taken to revive the art of listening.",
+            "adolescents should form healthy social media habits.",
+            "people should adopt a sensible attitude to innovations."
+          ],
+          "answer": "D",
+          "explain": "正确项：people should adopt a sensible attitude to innovations. 作者承认创新不可避免，同时主张留意技术习惯造成的变化，并思考适度控制或保护年轻人的方式。这是一种既不盲目拒绝、也不毫无防范的理性态度，D 最准确。\n其他选项：A. technology should be aimed at benefiting humans.：文章没有要求技术必须以某一明确目标开发，重点是如何面对技术带来的社会变化。；B. actions should be taken to revive the art of listening.：作者提出倾听可能衰退的担忧，但没有明确主张采取行动复兴倾听艺术。；C. adolescents should form healthy social media habits.：作者提到保护年幼者和智能手机文化，但没有把建议限定为青少年社交媒体习惯。",
+          "evidence": "But inventions shape all of us and it is worth noticing when techno-social habits do change, and asking whether to control them a bit or shield the youngest.\nWhatever we do, innovation will happen.",
+          "trap": "",
+          "type": "观点"
+        }
+      ]
+    },
+    {
+      "id": "text4",
+      "kicker": "Section II · Part A",
+      "title": "Text 4",
+      "en_title": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mand…",
+      "cn_title": "低强度火灾的生态益处与计划性燃烧的必要性",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "低强度火灾的生态益处与计划性燃烧的必要性",
+      "intro": "本篇主题：低强度火灾的生态益处与计划性燃烧的必要性。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mandate was to “put everything out,” he recalled. But when Swetnam enrolled in graduate school at the University of Arizona’s Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating back hundreds of years before European colonists arrived on the continent. Some of the trees he analyzed bore more than 20 fire scars among their rings.",
+          "zh": "汤姆·斯韦特南回忆说，20 世纪 70 年代他加入美国林务局时，自己的任务是“把所有火都扑灭”。 但当斯韦特南进入亚利桑那大学树轮研究实验室读研究生时，他惊讶地发现，在欧洲殖民者抵达这片大陆之前数百年，这里就有反复发生火灾的记录。 他分析的一些树木的年轮中带有 20 多处火灾留下的疤痕。"
+        },
+        {
+          "en": "The fact that fires happened so often meant they couldn’t have been severe enough to kill most trees. Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier. They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease. Because flammable material couldn’t build up on the landscape, blazes tended to move Slowly and peter out when they reached the footprints of previous burns.",
+          "zh": "火灾如此频繁这一事实意味着，它们不可能严重到足以杀死大多数树木。 相反，越来越多的研究表明，频繁但低强度的火灾反而让许多生态系统更加健康。 这些火灾清除了森林中的枯树和病树，减少了树木之间的竞争，并遏制了疾病的传播。 由于易燃物无法在地表不断积累，火势往往蔓延得较慢，并在到达此前火灾留下的区域时逐渐熄灭。"
+        },
+        {
+          "en": "In 2022, Swetnam and other scientists teamed up to compile a database of fire-scarred trees from across the continent. Their North American tree-ring fire-scar network (NAFSN) provided the basis for a study published last month. In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall. The NAFSN sites experienced less than a quarter of the number of fires that would have been expected without fire suppression.",
+          "zh": "2022 年，斯韦特南与其他科学家合作，汇编了一份涵盖整个大陆、记录有火灾痕迹树木的数据库。 他们建立的北美树轮火灾痕迹网络（NAFSN）为上个月发表的一项研究提供了基础。 在这项研究中，研究人员将历史上的火灾频率与过去几十年记录的野火进行比较，发现火灾数量出现了惊人的短缺。 如果没有人为扑火，NAFSN 这些地点本应发生的火灾数量，实际发生的还不到其四分之一。"
+        },
+        {
+          "en": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire. “Yet the combined consequences of suppression and climate change have eroded humanity’s ability to suppress fires, particularly those that ignite under the most dangerous weather conditions.”",
+          "zh": "国际野地火灾协会前主席凯莉·马丁说，这一缺口证明了现代消防工作的有效性。 然而，灭火措施与气候变化叠加产生的后果已经削弱了人类扑灭火灾的能力，尤其是扑灭那些在最危险天气条件下燃起的火灾的能力。"
+        },
+        {
+          "en": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it. At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient. These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had built up around the important park’s facilities. Research shows that these prescribed burns make subsequent wildfires less severe, even if later fires happen under the most dangerous weather conditions.",
+          "zh": "马丁说，为了防止整个生态系统毁于大火，人们必须把有益的火重新带回那些需要它的地方。 在约塞米蒂国家公园，马丁负责监督使用所谓的计划性燃烧，以增强景观抵御火灾的能力。 这些火灾经过周密计划，并在天气条件使火势易于控制的时期被有意点燃；它们还帮助清除了重要公园设施周围积累的一部分可燃物。 研究表明，即使后来的火灾发生在最危险的天气条件下，这些计划性燃烧也会使随后发生的野火不那么猛烈。"
+        },
+        {
+          "en": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts said. “It’s a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challenging,” said Susan Prichard, a fire ecologist at the University of Washington.",
+          "zh": "然而，尽管科学家和政府官员越来越认同森林需要更多火灾，气候变化却让这种做法变得更具挑战性，专家们说。 华盛顿大学火灾生态学家苏珊·普里查德说：“这是一把双刃剑，因为在气候变化影响下，野火正变得更猛烈、规模更大，我们比以前更需要这项工作，但与此同时，这项工作也变得更困难。”"
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "stem": "According to Paragraph 1, Swetnam was surprised by ____",
+          "options": [
+            "the scarcity of tree-ring research in the U.S.",
+            "the firefighting measures in ancient Europe.",
+            "the forest management practices in the 1970s.",
+            "the number of wildfires in precolonial times."
+          ],
+          "answer": "D",
+          "explain": "正确项：the number of wildfires in precolonial times. 斯韦特南惊讶的是，在欧洲殖民者到来之前数百年就已有反复火灾的记录，且树木年轮中有 20 多处火痕。这说明前殖民时期的野火数量和频率超出了他的预期，D 与段落事实对应。\n其他选项：A. the scarcity of tree-ring research in the U.S.：他是在树轮研究实验室发现火灾记录，并没有惊讶于美国树轮研究稀少。；B. the firefighting measures in ancient Europe.：文章没有介绍古代欧洲的灭火措施，火灾记录的时间参照是殖民者抵达大陆之前。；C. the forest management practices in the 1970s.：20 世纪 70 年代的“扑灭一切火灾”只是他的工作背景，不是他后来惊讶的对象。",
+          "evidence": "But when Swetnam enrolled in graduate school at the University of Arizona’s Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating back hundreds of years before European colonists arrived on the continent.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 37,
+          "stem": "Paragraph 2 mainly focuses on ____",
+          "options": [
+            "the causes of previous burns.",
+            "the treatment of diseased trees.",
+            "the benefits of low-severity fires.",
+            "the importance of forest ecosystems."
+          ],
+          "answer": "C",
+          "explain": "正确项：the benefits of low-severity fires. 第二段先提出低强度火灾能使生态系统更健康，随后列出清除枯病树、减少竞争、遏制疾病和限制火势等具体益处，因此段落重点是低强度火灾的生态作用。\n其他选项：A. the causes of previous burns.：本段解释的是火灾带来的效果，没有分析过去火灾为何发生。；B. the treatment of diseased trees.：清除病树只是低强度火灾产生的一个结果，不能代表全段重点。；D. the importance of forest ecosystems.：文章讨论的是火灾如何改善生态系统，而非泛泛论述生态系统的重要性。",
+          "evidence": "Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier.\nThey rid the forest of dead and sick trees, reducing competition and curbing the spread of disease.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 38,
+          "stem": "What did the study find about the wildfires over the past few decades?",
+          "options": [
+            "Their intensity has vastly fluctuated.",
+            "Their frequency has markedly decreased.",
+            "Their threats have been underestimated.",
+            "Their records have been misinterpreted."
+          ],
+          "answer": "B",
+          "explain": "正确项：Their frequency has markedly decreased. 研究把历史火灾频率与近几十年的记录比较，发现实际火灾数不到没有人为压火时预期数量的四分之一，说明火灾发生频率显著下降。\n其他选项：A. Their intensity has vastly fluctuated.：原文比较的是火灾发生数量或频率，不是强度的大幅波动。；C. Their threats have been underestimated.：文章没有说过去低估了野火威胁，重点是火灾数量出现缺口。；D. Their records have been misinterpreted.：研究重新比较记录，但没有说既有记录被误读或误释。",
+          "evidence": "In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall.\nThe NAFSN sites experienced less than a quarter of the number of fires that would have been expected without fire suppression.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 39,
+          "stem": "What can be inferred about modern firefighting?",
+          "options": [
+            "Its workforce needs more training.",
+            "Its effectiveness is questioned by the public.",
+            "It may render traditional tactics useless.",
+            "It may make severe fires harder to put out."
+          ],
+          "answer": "D",
+          "explain": "正确项：It may make severe fires harder to put out. 现代灭火有效地减少了日常火灾，但长期压火会让可燃物积累；再叠加气候变化，极端天气下的火灾更严重，也更难扑灭。因此可以推断现代灭火政策可能增加控制严重火灾的难度。\n其他选项：A. Its workforce needs more training.：文章没有讨论消防人员培训不足。；B. Its effectiveness is questioned by the public.：Martin 明确把火灾缺口视为现代消防有效的证明，没有提到公众质疑。；C. It may render traditional tactics useless.：原文说压火和气候变化削弱了灭火能力，并提出恢复计划性燃烧，没有说传统策略完全失效。",
+          "evidence": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire.\n“Yet the combined consequences of suppression and climate change have eroded humanity’s ability to suppress fires, particularly those that ignite under the most dangerous weather conditions.”",
+          "trap": "",
+          "type": "推断"
+        },
+        {
+          "n": 40,
+          "stem": "Both Martin and Prichard would agree that ____",
+          "options": [
+            "it is challenging to predict large wildfires.",
+            "it is urgent to assess the use of planned fires.",
+            "it is necessary to introduce prescribed burns.",
+            "it is rewarding to double fire detection efforts."
+          ],
+          "answer": "C",
+          "explain": "正确项：it is necessary to introduce prescribed burns. Martin 主张把有益火灾带回需要它的森林，并介绍了约塞米蒂的计划性燃烧；Prichard 也说随着野火变得更猛烈，人们“更加需要这项工作”。两人都认可引入计划性燃烧的必要性，只是同时承认气候变化使实施更难。\n其他选项：A. it is challenging to predict large wildfires.：两人讨论的是火灾管理和计划性燃烧的必要性，没有谈预测大型野火。；B. it is urgent to assess the use of planned fires.：文章强调要使用和恢复有益火灾，但没有把重点表述为评估计划性用火。；D. it is rewarding to double fire detection efforts.：原文没有提出加倍火灾探测，也没有讨论其回报。",
+          "evidence": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it.\nAt Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient.\nYet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts said.\n“It’s a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challenging,” said Susan Prichard, a fire ecologist at the University of Washington.",
+          "trap": "",
+          "type": "细节"
+        }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "id": "2026-T1-P1-S03",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "But where and when these animals first became intertwined with humans has been a mystery.",
+      "core": "where and when ... has been a mystery，即“何时何地发生这件事一直是个谜”。",
+      "structure": "where and when these animals first became intertwined with humans 是由两个疑问副词引导的主语从句；从句内部的 these animals 作主语，became intertwined 作系动结构。",
+      "key": "intertwined with：本义为“缠绕在一起”，此处指驴与人类生活、历史形成了密切联系。",
+      "zh": "但这些动物最初在何地、何时与人类交织在一起，始终是个谜。",
+      "tip": "where and when 整体作主语，谓语用单数 has；不能把 where 误看成地点状语而漏掉主句主语。"
+    },
+    {
+      "id": "2026-T1-P1-S04",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Now, researchers have used genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa — about 3,000 years before humans tamed horses.",
+      "core": "researchers have used genomes ... to trace their domestication back to a single event。",
+      "structure": "of over 200 donkeys 修饰 genomes；to trace ... 是目的状语；破折号后的 about 3,000 years before humans tamed horses 补充说明该事件相对于人类驯马的时间。",
+      "key": "genome：基因组，指一个生物体全部的遗传物质。；trace ... back to ...：把……追溯到……。；domestication：驯化，指野生动物逐渐被人类驯养和利用的过程。",
+      "zh": "如今，研究人员利用 200 多头驴的基因组，将它们的驯化史追溯到大约 7000 年前东非发生的一次事件，这比人类驯服马早了约 3000 年。",
+      "tip": "their 指 donkeys；before humans tamed horses 的比较基准是驴的驯化事件，而不是研究人员使用基因组的时间。"
+    },
+    {
+      "id": "2026-T1-P2-S06",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "“Through their DNA, the animals are telling their history themselves,” co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.",
+      "core": "引语的主干是 the animals are telling their history；整句的叙述主干是 Samantha Brooks says in a statement。",
+      "structure": "Through their DNA 是方式状语；an equine researcher at the University of Florida 是同位语，补充说明 Samantha Brooks；引语置于主句前，逗号后接说话者和谓语。",
+      "key": "tell their history themselves：不是字面上的“动物自己开口讲述”，而是说基因信息能够直接提供动物历史的证据。；statement：此处指机构或研究人员发布的声明，而不是普通的“陈述句”。；co-author：共同作者。；equine：马科动物的；范围包括马、驴等马科动物。",
+      "zh": "佛罗里达大学的马科动物研究员、共同作者萨曼莎·布鲁克斯在一份声明中说：“通过它们的 DNA，这些动物正在亲自讲述自己的历史。”",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T1-P2-S07",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "“We usually only get the human’s side of history through written accounts, but of course written history does not always record exactly how something happened.",
+      "core": "前半句为 We get the human’s side of history；后半句为 written history does not record exactly ...。",
+      "structure": "through written accounts 是方式状语；but 连接前后两个分句；how something happened 是 record 的宾语从句，说明被记录的具体内容。",
+      "key": "the human’s side of history：指从人类视角记录的历史，而不是“人类历史的一边”。；account：常见义为“账户”，此处指记载、叙述或史料。",
+      "zh": "我们通常只能通过文字记载获得人类一方的历史；但当然，文字历史并不总能准确记录某件事究竟是如何发生的。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T1-P2-S08",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.”",
+      "core": "we get a biological testimony。",
+      "structure": "Looking at these DNA sequences 是现在分词短语作方式或条件背景状语，逻辑主语是 we；to the environment ... and the experiences ... 说明证据指向什么；两个关系从句分别修饰 environment 和 experiences。",
+      "key": "testimony：常见义为“证词、证言”；此处指 DNA 提供的生物学证据，并非人在法庭上的证词。；survive：此处作及物动词，意为“经历……并幸存下来”，不是简单的“活着”。；look at：分析、考察；在科研语境中不只是“看一眼”。；the environment ... lived in：它们生活于其中的环境；介词 in 置于关系从句末尾。",
+      "zh": "通过观察这些 DNA 序列，我们能够获得关于这些动物所处环境以及它们经历并挺过的种种遭遇的生物学证据。",
+      "tip": "these animals lived in 中 in 与 lived 搭配，不能把 in 误接到后面的 and；they survived 修饰 experiences，表示经历过并挺过的遭遇。"
+    },
+    {
+      "id": "2026-T1-P3-S09",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe.",
+      "core": "The researchers examined 207 genomes.",
+      "structure": "from modern donkeys 说明基因组的来源；living in 31 countries 是现在分词短语，修饰 modern donkeys；across the globe 强调这些国家的分布范围。",
+      "key": "examine：研究、分析；在科研语境中比普通的“检查”更正式。；across the globe：遍布全球、来自世界各地。",
+      "zh": "研究人员研究了来自全球 31 个国家、现今生活着的驴的 207 个基因组。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T1-P3-S10",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "They also looked at genomes from 15 wild equids and 31 earlier donkeys that lived between about 4,000 and 100 years ago.",
+      "core": "They looked at genomes from 15 wild equids and 31 earlier donkeys.",
+      "structure": "that lived between about 4,000 and 100 years ago 修饰前面的这些动物，说明样本年代；also 表示研究对象在现代驴之外还有两类历史样本。",
+      "key": "earlier donkeys：指年代更早的驴或古代驴样本，不是“较早到达的驴”。；wild equid：野生马科动物；equid 是马、驴、斑马等动物所属的科名。",
+      "zh": "他们还研究了 15 个野生马科动物和 31 个早期驴的基因组；这些动物生活在大约 4000 年前至 100 年前之间。",
+      "tip": "between about 4,000 and 100 years ago 表示从约 4000 年前到约 100 年前这一时间跨度，不是“生活了 3900 年”。"
+    },
+    {
+      "id": "2026-T1-P3-S11",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "The team reconstructed the animals’ evolutionary tree and used computer models to pinpoint the domestication event when herders in Kenya and the Horn of Africa tamed wild asses.",
+      "core": "The team reconstructed the evolutionary tree and used computer models to pinpoint the domestication event.",
+      "structure": "reconstructed 和 used 是并列谓语；to pinpoint ... 是 used computer models 的目的；when herders ... tamed wild asses 是关系副词 when 引导的定语从句，修饰 event。",
+      "key": "pinpoint：常见义为“指出准确位置”；此处指通过模型精确确定某一历史事件的时间和起点。；ass：此处是“驴、野驴”，不是骂人的粗俗用语。；evolutionary tree：进化树，用来表示物种或样本之间的演化关系。；the Horn of Africa：非洲之角，指非洲东北部的区域。",
+      "zh": "研究团队重建了这些动物的进化树，并利用计算机模型精确确定了那次驯化事件：当时肯尼亚和非洲之角的牧民驯服了野驴。",
+      "tip": "when 不是单纯的时间状语从句，而是具体说明这次事件中发生了什么；in Kenya and the Horn of Africa 修饰 herders 的所在地。"
+    },
+    {
+      "id": "2026-T1-P3-S12",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "They then traced how the animals spread across the rest of the continent into Europe and Asia about 2,500 years later.",
+      "core": "They traced how the animals spread ...。",
+      "structure": "how the animals spread ... 是 traced 的宾语从句；across the rest of the continent 和 into Europe and Asia 依次说明扩散范围和跨洲方向；about 2,500 years later 表示相对于最初驯化事件的时间。",
+      "key": "trace how ...：追踪、还原……的过程。；spread across ... into ...：扩散到……各处并进入……。",
+      "zh": "随后，他们追踪了这些动物如何在约 2500 年后扩散到非洲大陆的其他地区，并进入欧洲和亚洲。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T1-P4-S13",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Though it’s still unclear why the original domestication happened, *Science News*’ Freda Kreier reports that the event coincided with the Sahara growing larger and drier.",
+      "core": "主句为 Freda Kreier reports that the event coincided with ...。",
+      "structure": "Though it’s still unclear why ... happened 是让步状语从句，其中 why ... happened 作 unclear 的主语；that 引导 reports 的宾语从句；the Sahara growing larger and drier 是动名词复合结构，作 with 的宾语。",
+      "key": "coincide with：与……同时发生、恰好相合；这里说明时间上的吻合，并不直接证明撒哈拉变干是驯化的唯一原因。；the original domestication：最初的驯化事件。；grow larger and drier：变得更大、更干燥；growing 后接形容词作状态变化的补语。",
+      "zh": "尽管最初的驯化为何发生仍不清楚，《科学新闻》的弗雷达·克雷尔报道说，这一事件恰逢撒哈拉变得更大、更干旱。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T1-P4-S14",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "“Donkeys are champions when it comes to carrying stuff and are good at going at deserts,” co-author Ludovic Orlando, an evolutionary biologist at Paul Sabin University in France, tells the publication.",
+      "core": "引语中为 Donkeys are champions ... and are good at ...；全句的引述主干是 Ludovic Orlando tells the publication。",
+      "structure": "when it comes to carrying stuff 是介词短语，说明讨论范围；an evolutionary biologist ... 是 Orlando 的同位语；说话者和谓语置于引语之后。",
+      "key": "champion：常见义为“冠军”，此处作名词比喻“佼佼者、能手”。；stuff：非正式用语，指东西、物品；这里突出驴适合承担搬运任务。；go at deserts：原文中的非正式表达，结合上下文指在沙漠环境中行进、活动。；when it comes to：说到、涉及……时。",
+      "zh": "共同作者、法国保罗·萨宾大学的进化生物学家卢多维克·奥兰多对该刊物说：“说到搬运东西，驴可是佼佼者，而且很适合在沙漠中行动。”",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T1-P5-S19",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "But understanding where the animals were first domesticated could guide archaeologists to a narrow region to search for insights about the original tamed donkeys.",
+      "core": "understanding ... could guide archaeologists to a narrow region。",
+      "structure": "where the animals were first domesticated 是 understanding 的宾语从句；to a narrow region 是 guide 的方向补语；第二个 to search ... 是目的状语，说明考古学家前往该区域做什么；where 引导的从句为被动结构。",
+      "key": "insight：此处指有助于理解过去情况的线索或认识，不是“洞察力”这一抽象能力本身。",
+      "zh": "但弄清这些动物最初在哪里被驯化，可能会引导考古学家把搜索范围缩小到一个较小的区域，从而寻找有关最初被驯化的驴的线索。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T1-P6-S20",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Not only does understanding the equines’ genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as climate change alters the planet’s environment, write the authors.",
+      "core": "understanding the equines’ genetic makeup helps reveal their contribution ... and might improve their management ...。",
+      "structure": "Not only 置于句首引起部分倒装，正常语序是 understanding ... does help；but it also 引出第二个并列效果；as climate change alters ... 是背景状语从句；write the authors 是句末倒装的引述语。",
+      "key": "makeup：常见义为“化妆品、化妆”，此处指构成、组成，genetic makeup 即遗传构成。；management：此处指对动物的照料、养护和管理，不是企业管理。；genetic makeup：遗传构成、基因组成。；reveal one’s contribution to：揭示某物对……所作的贡献。",
+      "zh": "作者写道，了解马科动物的遗传构成不仅有助于揭示它们对人类历史的贡献，而且随着气候变化改变地球环境，这种了解也可能改善人们未来对它们的管理。",
+      "tip": "does ... help 中的 does 是强调并参与倒装，不要把 not only 后的 does 误当成实义动词；it 指代前面的 understanding ...，而 their 指马科动物。"
+    },
+    {
+      "id": "2026-T2-P1-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "There’s no business like show business — but in Los Angeles, it feels like there’s no business at all.",
+      "core": "前半句是 There’s no business like show business；后半句是 it feels like there’s no business at all。",
+      "structure": "破折号连接一个广为人知的判断和对洛杉矶现状的转折；like show business 表示“像演艺业一样”；there’s no business at all 是 feels like 后的表语从句。",
+      "key": "business：前一个 business 指行业，show business 指演艺业；后一个 business 指实际的商业活动或制作业务，不能都机械译成“生意”。；show business：演艺业、娱乐业。；at all：用于否定句，加强语气，意为“根本、丝毫”。",
+      "zh": "没有哪个行业像演艺业这样独特——但在洛杉矶，演艺业却让人感觉几乎已经没有生意可做了。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T2-P2-S02",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a statement explaining that “we cannot in good conscience encourage you to pursue our profession”",
+      "core": "The Art Directors Guild has suspended a training program and issued a statement。",
+      "structure": "a labor union representing about 3,000 film workers 是工会的同位语，其中 representing ... 修饰 union；explaining that ... 是现在分词短语，说明声明的内容；引号内是 explaining 的宾语从句。",
+      "key": "melodramatic：本义与“情节剧”有关，此处指言辞过于煽情、夸张。；in good conscience：凭良心、问心无愧地；不是“在良好的意识中”。；pursue：此处指从事、追求某种职业道路，不只是“追赶”。；labor union：劳工工会。",
+      "zh": "如果这听起来有些戏剧化，请看这样的事实：代表约 3000 名电影从业者的艺术指导工会暂停了一项培训项目，并发表声明说：“凭良心，我们无法鼓励你从事我们的职业。”",
+      "tip": "representing 修饰工会，不是修饰电影从业者；we 指工会及其成员，而非文章作者本人。"
+    },
+    {
+      "id": "2026-T2-P2-S03",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "This is a reaction to Hollywood’s decline, which is reaching a critical point for the industry and Southern California.",
+      "core": "This is a reaction to Hollywood’s decline。",
+      "structure": "which is reaching a critical point ... 是非限制性定语从句，补充说明 Hollywood’s decline；for the industry and Southern California 说明衰退影响的对象。",
+      "key": "reaction：此处指针对某种局势采取的回应行动，不是生理上的“反应”。；critical point：危急关头、关键节点；这里强调形势严重，而不是“批评的观点”。；a reaction to：对……的反应或回应。；reach a critical point：达到危急或关键阶段。",
+      "zh": "这反映的是好莱坞的衰退，而这种衰退正对整个影视业和南加州造成越来越严重的影响，已经到了关键阶段。",
+      "tip": "which 指 Hollywood’s decline，不是指前面的培训项目或声明；for 表示“对……而言”，不是原因。"
+    },
+    {
+      "id": "2026-T2-P3-S04",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Production has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present.",
+      "core": "前半句 Production has been slipping away from Hollywood；后半句 the effects have never been more apparent than at present。",
+      "structure": "since the 1950s 与现在完成进行时搭配，强调从过去持续到现在的变化；but 连接制作外流这一过程和其当前后果。",
+      "key": "slip away from：逐渐离开、慢慢流失；不是突然“滑走”。；apparent：明显的、显而易见的；此处不是“表面上的”。；at present：目前、现在。；have never been more ... than ...：从未像……时这样……，是强调最高程度的比较结构。",
+      "zh": "自 20 世纪 50 年代以来，影视制作一直在逐渐离开好莱坞，但其影响从未像现在这样明显。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T2-P3-S05",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Other regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust.",
+      "core": "Other regions ... have increased incentives。",
+      "structure": "in the United States, Canada and Europe 说明地区范围；to attract ... 是目的状语；leaving California in the dust 是现在分词短语，表示前一行动造成的结果。",
+      "key": "leave somebody in the dust：把某人远远甩在后面；这里是比喻其他地区在争夺影视制作方面超过了加州。；steadily increase：持续、稳步增加。；incentive：激励措施、优惠政策，常指税收或补贴等吸引投资的手段。；attract TV shows and movies：吸引电视节目和电影项目来本地制作。",
+      "zh": "美国其他地区、加拿大和欧洲一直在稳步增加吸引电视节目和电影制作的优惠措施，使加州逐渐落在了后面。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T2-P3-S06",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Georgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Georgia promotional logo.",
+      "core": "Georgia offers tax credits ... plus an additional increase ...。",
+      "structure": "on film and TV production costs 说明税收抵免针对的成本；if the project includes ... 是条件状语从句，限定额外 10% 增加的适用条件；promotional logo 是州政府宣传标识。",
+      "key": "credit：此处是税收抵免额，不是“信用”或“学分”。；base tax credit：基础税收抵免额，即未计算额外优惠前的基准额度。；up to：最高达，表示上限而非固定比例。；transferable tax credit：可转让的税收抵免。",
+      "zh": "乔治亚州为电影和电视制作成本提供最高 30% 的可转让税收抵免；如果项目包含乔治亚州的宣传标识，还会在基础税收抵免上额外增加 10%。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T2-P4-S07",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Even as California lost a huge volume of production to other locations, there was still plenty of film production taking place in Los Angeles before this year.",
+      "core": "主句为 there was still plenty of film production taking place in Los Angeles。",
+      "structure": "Even as California lost ... 是让步或伴随背景从句；to other locations 说明制作流向；taking place in Los Angeles 是现在分词短语修饰 film production。",
+      "key": "volume：此处指数量或规模，不是“音量”。；take place：发生、进行；production taking place 指制作活动正在开展。",
+      "zh": "尽管加州有大量影视制作流失到其他地方，但在今年之前，洛杉矶仍然有大量电影制作在进行。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T2-P4-S08",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "We were kept afloat by “peak TV” the glut of content that was required by the explosion of streaming services.",
+      "core": "We were kept afloat by “peak TV”.",
+      "structure": "the glut of content ... 与 peak TV 构成同位解释，说明这里所说的电视高峰具体是大量内容；that was required by ... 修饰 content。",
+      "key": "keep afloat：使……维持运转、避免陷入困境；本义是让东西漂浮在水面上。；glut：过量、过剩，此处指流媒体平台为争夺用户而制造的大量内容。；peak TV：电视内容产量异常高的时期，文中指流媒体推动的剧集制作热潮。；the explosion of：……的爆发式增长。",
+      "zh": "流媒体服务爆发式增长所必需的大量内容（即“剧集巅峰潮”），让我们得以勉强维持下去。",
+      "tip": "required by 表示流媒体服务爆发带来了对大量内容的需求，不是说内容“被要求必须爆炸”。原文该处标点未加逗号，阅读时应按同位语理解。"
+    },
+    {
+      "id": "2026-T2-P5-S10",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Back then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series being released that year.",
+      "core": "platforms ... hemorrhaged billions of dollars。",
+      "structure": "such as ... 举例说明平台；两个 to generate 和 to attract 不定式依次表示投入资金的目的；resulting in ... 是现在分词短语，说明结果；being released 是动名词的被动形式。",
+      "key": "hemorrhage：本义为“大出血”，此处作夸张用法，指资金大量流出、烧掉巨额资金。；scripted series：有预先编写剧本的系列剧，通常指剧情类剧集，不是“被操纵的系列”。；generate content：制作、生产内容。；subscriber：订阅者、付费用户。",
+      "zh": "当时，Netflix、亚马逊和 Apple TV 等平台为了制作内容、吸引新订阅者，烧掉了数十亿美元，结果当年共有 633 部剧本类电视剧上线。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T2-P5-S11",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "As the streamers’ emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023, with the number expected to dip into the 300s within a few years.",
+      "core": "prices ... went up and the number of new shows went down to 481。",
+      "structure": "As ... changed ... 是原因或时间背景从句；from subscriber growth to profitability 说明战略重点的转变；released in 2023 修饰 481 所指的剧集；with the number expected ... 是独立主格结构，补充未来预测。",
+      "key": "profitability：盈利能力、获利状况，不只是一次性的“利润”。；dip into the 300s：下降到 300 多的区间；dip 表示下探、下降，不是“蘸入”。；change from A to B：从 A 转向 B。；subscriber growth：订阅用户增长。",
+      "zh": "随着流媒体平台的重点从增加订阅者转向实现盈利，这些服务的价格上涨了，新剧数量则下降到 2023 年发布的 481 部；预计几年内这一数字还会降至 300 多部。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T2-P6-S12",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "If productions in Southern California dip below a critical level for too long, the industry’s essential talent will drift away along with enormous sums of revenue.",
+      "core": "条件成立时，主句为 the industry’s essential talent will drift away along with enormous sums of revenue。",
+      "structure": "If productions ... dip below ... 是条件状语从句；in Southern California 修饰 productions；for too long 修饰 dip 所表示的状态持续时间；along with ... 表示人才流失和收入流失同步发生。",
+      "key": "drift away：逐渐流失、离开；强调人才并非一夜之间消失，而是随着机会减少慢慢转移。；essential talent：关键人才、不可或缺的专业人才，不是“有天赋的人才”这一泛泛概念。；dip below：下降到……以下。；for too long：持续太久。",
+      "zh": "如果南加州的制作量长时间低于临界水平，影视业不可或缺的人才就会流失，大量收入也会随之流走。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T2-P6-S13",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Persuading studios to film here would become much more challenging if we couldn’t offer a deep bench of local film workers, on-screen talent and local businesses that support the entertainment industry.",
+      "core": "Persuading studios to film here would become much more challenging。",
+      "structure": "Persuading studios ... 是动名词短语作主语；if we couldn’t offer ... 是条件状语从句；that support the entertainment industry 修饰 local businesses，不是修饰前面的全部名词。",
+      "key": "a deep bench：本义指板凳阵容，体育语境中指替补力量充足；此处比喻某领域拥有数量充足、经验丰富的人才和配套力量。；on-screen talent：出现在镜头前的演员或主持等人才，不是幕后技术人员。；persuade somebody to do：说服某人做某事。；film here：在这里拍摄。",
+      "zh": "如果我们无法提供一支实力雄厚的本地电影工作者、银幕人才以及支持娱乐业的本地企业队伍，说服制片厂来这里拍摄就会困难得多。",
+      "tip": "deep bench 不是实际的长凳，而是“人才储备充足”；local 分别修饰电影工作者、银幕人才和企业。"
+    },
+    {
+      "id": "2026-T2-P7-S15",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "These agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles.",
+      "core": "These agencies and other government bodies should improve incentives。",
+      "structure": "to keep ... and attract ... 是目的状语，其中 keep 与 attract 并列；our current shows 和 new productions 分别是两个动词的宾语；to Los Angeles 表示新项目的目的地。",
+      "key": "government body：政府机构或政府部门。；keep current shows：留住正在本地制作的影视项目。；attract new productions：吸引新的影视制作项目。",
+      "zh": "这些机构和其他政府部门应大幅改善激励措施，以留住当前的影视项目，并吸引新的制作项目来到洛杉矶。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T2-P7-S16",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Let’s go on with the show...and make sure the show doesn’t go on without us.",
+      "core": "Let’s go on with the show and make sure ...。",
+      "structure": "Let’s 引出号召；make sure 与 go on 并列；the show doesn’t go on without us 是 make sure 的宾语从句。",
+      "key": "go on with：继续进行；这里既指继续影视制作，也呼应 show business 的修辞。；keep somebody afloat：使某人或某事维持下去。；a glut of content：内容过剩、大量内容。；change the emphasis from A to B：把重点从 A 转向 B。",
+      "zh": "让演出继续下去……并确保这场演出不会在没有我们的情况下继续。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T3-P1-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Sir John Reith said that it would end “isolation of the spirit” and rejoiced: “It does not matter how many thousands may be listening, there is always enough for others...the genius and the fool, the wealthy and the poor listen simultaneously.”",
+      "core": "外层主干为 Sir John Reith said ... and rejoiced；said 后的宾语从句为 it would end isolation。",
+      "structure": "冒号后的直接引语解释 Reith 为什么欣喜；引语中 It does not matter ... 是让步式表达，后面的 the genius and the fool, the wealthy and the poor listen simultaneously 说明不同人群可以共享同一广播。",
+      "key": "isolation of the spirit：精神上的隔绝或孤独，不是物理意义上的隔离。；rejoice：欣喜、欢庆；比普通的 be happy 语气更强。；the genius and the fool：用两类极端人物代表所有不同社会群体，突出无线电的普及范围。；it does not matter how ...：无论……都无关紧要，后面强调真正重要的结果。",
+      "zh": "约翰·里思爵士说，无线电将终结“精神上的孤独”，并欣喜地表示：“无论有成千上万的人在收听，都总有足够的内容留给其他人……天才和愚者、富人和穷人都能同时收听。”",
+      "tip": "there is always enough for others 指广播内容可以被所有人共同接收，不是说听众越多资源越少。"
+    },
+    {
+      "id": "2026-T3-P2-S04",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939.",
+      "core": "a book and exhibition records how radio changed everyday life。",
+      "structure": "Opening this week 是现在分词短语，说明展览开幕时间；curated by Beatty Rubens 是过去分词短语，修饰 a book and exhibition；at the Bodleian in Oxford 说明地点；how radio changed ... 是 records 的宾语从句。",
+      "key": "opening：此处作现在分词，意为“开幕、开始展出”，不是“打开”。；curate：策划、编选展览或资料，不只是“照料”。；everyday life：日常生活。；from 1922 to 1939：从 1922 年到 1939 年这一历史时期。",
+      "zh": "本周在牛津大学博德利图书馆开幕的一场展览及其配套书籍，由贝蒂·鲁本斯策划，记录了 1922 年至 1939 年间无线电如何改变日常生活。",
+      "tip": "句首 Opening 的逻辑主语是展览，而不是贝蒂·鲁本斯；a book and exhibition 是并列的两项成果。"
+    },
+    {
+      "id": "2026-T3-P2-S05",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "She draws on letters, diaries and fiction, and a 1939 field notebook of verbatim audience research by Winifred Gill.",
+      "core": "She draws on letters, diaries and fiction, and a field notebook。",
+      "structure": "and 连接两组资料：前三项书信、日记和小说，以及一本田野笔记；of verbatim audience research 说明笔记记录的内容；by Winifred Gill 说明调查或笔记的记录者。",
+      "key": "draw on：利用、参考；不是“画在……上”。；verbatim：逐字的、原话记录的，强调没有改写或概括。；field notebook：田野笔记、实地记录本。；audience research：观众调查、受众研究。",
+      "zh": "她参考了书信、日记和小说，以及温妮弗雷德·吉尔在 1939 年记录的一本逐字呈现观众调查的田野笔记。",
+      "tip": "verbatim 修饰 audience research 的记录方式，表示原话调查资料，不是某人的姓名或地名。"
+    },
+    {
+      "id": "2026-T3-P3-S07",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "A cartoon mocks a group failing to converse because they’re all in headphones.",
+      "core": "A cartoon mocks a group。",
+      "structure": "failing to converse 是现在分词短语，补充说明这群人的状态；because they’re all in headphones 是原因状语从句，解释无法交谈的原因。",
+      "key": "mock：嘲弄、讽刺；不只是中性的“模仿”。；converse：交谈、对话；此处作动词，不是“相反的”。",
+      "zh": "一幅漫画嘲弄了一群无法交谈的人，因为他们都戴着耳机。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T3-P3-S09",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "A woman says there have been fewer street fights since the arrival of the wireless but also less stopping and “talking on the brush handle”.",
+      "core": "A woman says there have been fewer street fights but also less stopping and talking ...。",
+      "structure": "there have been ... 是 says 后的宾语从句；since the arrival of the wireless 是时间状语；but also 连接两个并列结果，分别是街头打架减少和邻里停留聊天减少。",
+      "key": "the arrival of：……的到来或出现。；talking on the brush handle：字面是“靠着扫帚柄聊天”，实际指邻里间停下来进行随意闲聊；后文再次用这个表达对比智能手机时代的人际交往。",
+      "zh": "一位女士说，自从无线电出现后，街头打架少了，但人们停下来“靠着扫帚柄聊天”的情况也少了。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T3-P4-S11",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "I loved the man from the Thirties research who found that wireless suddenly offered “a lot of variety...things I thought I’d never be interested in...ice hockey perhaps”.",
+      "core": "I loved the man ... who found that wireless offered variety。",
+      "structure": "who found ... 是定语从句，修饰 the man；that wireless ... offered 是 found 的宾语从句；引语中的两个省略号表示说话者举例和思考时的停顿。",
+      "key": "variety：此处指内容的多样性和选择范围，不是“品种”这一具体分类。；interest：此处作动词，意为“使……感兴趣”。；the Thirties：20 世纪 30 年代。；a lot of variety：丰富多样的内容。",
+      "zh": "我很喜欢三十年代那项调查中一位男子的说法；他发现，无线电突然提供了“丰富得多的选择……一些我原以为自己永远不会感兴趣的东西……比如冰球”。",
+      "tip": "the Thirties research 指三十年代的调查，不是“来自三十年代的研究人员”；things I thought I’d never be interested in 中 I 是说话者本人。"
+    },
+    {
+      "id": "2026-T3-P4-S12",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task.",
+      "core": "linear speech broadcasting brought the gift of serendipity。",
+      "structure": "for more than 80 pre-digital years 是时间范围状语；random enlivening of a car journey or dull manual task 是对 the gift of serendipity 的同位解释，说明这种礼物具体带来的效果。",
+      "key": "serendipity：意外发现有价值或有趣事物的幸运；此处指听众没有主动寻找，却偶然听到有用或有趣的内容。；enliven：使变得有趣、使增添活力；不是简单的“点亮”。；linear broadcasting：按固定编排顺序连续播出的广播。；a dull manual task：枯燥的体力劳动。",
+      "zh": "的确，在长达 80 多年的数字化时代之前，线性语音广播带来了“意外发现”的礼物，让驾车旅程或枯燥的体力劳动不时随机变得有趣起来。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T3-P4-S13",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "In my own book about radio I recorded how, on one drive: “I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious programme on the history of the stethoscope.”",
+      "core": "主句为 I recorded how ...；引语内部三个并列谓语是 caught up、learnt 和 was educated。",
+      "structure": "on one drive 是具体经历的时间背景；how 引导 recorded 的宾语从句；by an unpretentious programme 是被动结构中的施动者。",
+      "key": "catch up with the news：了解最新新闻，而不是“追上新闻”。；startlingly：出人意料地、令人吃惊地。；unpretentious：朴实的、不矫饰的；此处形容节目内容平实却很有教育意义。；17th-century history：17 世纪历史；复合形容词中的连字符不能省略。",
+      "zh": "在我自己那本关于无线电的书中，我记录过一次驾车经历：“我了解了新闻，学到了一些 17 世纪的历史，还被一档朴实无华的听诊器历史节目意外地上了一课。”",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T3-P5-S15",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "With multiple networks and countless podcasts, a smartphone user selects what to hear and when.",
+      "core": "a smartphone user selects what to hear and when。",
+      "structure": "With multiple networks and countless podcasts 是介词短语，说明选择增多的背景；what to hear 是“听什么”，when 省略了与前文相同的 to hear。",
+      "key": "countless：数不清的、无数的。；select what to hear and when：选择听什么以及在什么时候听；what 和 when 分别引导选择内容和时间。",
+      "zh": "面对多个广播网络和数不清的播客，智能手机用户可以自行选择听什么以及什么时候听。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T3-P5-S16",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "And while it is wonderful to take a walk with anything in your headphones, infinite choice encourages us to shrink into niche interests and sympathetic beliefs.",
+      "core": "infinite choice encourages us to shrink into niche interests and sympathetic beliefs。",
+      "structure": "while it is wonderful to take a walk ... 是让步状语从句，其中 to take a walk 是真正主语；主句中 encourage somebody to do 后接 to shrink；in your headphones 说明散步时通过耳机听内容。",
+      "key": "shrink into：缩进、退缩到某个狭小范围中；此处是比喻用法。；sympathetic beliefs：与自己同调、相互支持的信念，不是“富有同情心的信仰”。；niche interest：小众、狭窄而专门的兴趣。；infinite choice：无限的选择；这里暗含选择过多也可能造成封闭。",
+      "zh": "尽管戴着耳机听任何内容去散步很美好，但无穷无尽的选择会促使我们缩进狭窄的兴趣和与自己相投的信念之中。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T3-P6-S18",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Some will say the audiobook boom revives it, though I suppose you can then worry about the decline of reading.",
+      "core": "主句为 Some will say ...，其中宾语从句是 the audiobook boom revives it。",
+      "structure": "though I suppose ... 是让步插入，作者用略带调侃的方式提出另一种担忧；then 表示如果转向有声书，新的问题可能随之出现。",
+      "key": "boom：迅速发展、繁荣；这里指有声书市场或使用的兴盛。；revive：使恢复、重新焕发生机。",
+      "zh": "有人会说，有声书的兴起正在让这种能力复苏，不过我想，这样一来人们又可以担心阅读的衰落了。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T3-P6-S19",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "But inventions shape all of us and it is worth noticing when techno-social habits do change, and asking whether to control them a bit or shield the youngest.",
+      "core": "前半句为 inventions shape all of us；后半句为 it is worth noticing ... and asking ...。",
+      "structure": "when techno-social habits do change 是 noticing 的时间背景从句，do 用于强调；whether to control them a bit or shield the youngest 是 asking 的宾语，包含二选一的思考。",
+      "key": "shield：保护、使……免受影响；此处不是“盾牌”。；the youngest：年龄最小的人，语境中主要指儿童和青少年。；techno-social habits：由技术塑造、又影响社会交往的习惯。；it is worth doing：做某事是值得的。",
+      "zh": "但发明会塑造我们所有人；当技术与社会习惯确实发生变化时，值得注意这种变化，并思考是否应稍加控制这些习惯，或保护年纪最小的人。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T3-P6-S21",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Today we fret about the isolating culture of smartphone-staring and selfie-vanity, but already in 1939 there was that lady regretting how, when all her street got wirelesses, it lost the neighbourly habit of “talking on the brush handle”.",
+      "core": "转折前为 we fret about ...；转折后为 there was that lady regretting ...。",
+      "structure": "regretting how ... 是现在分词短语，说明女士在惋惜什么；when all her street got wirelesses 是时间状语从句；it lost ... 中 it 指她所在的街区，lost 的宾语是邻里聊天习惯。",
+      "key": "fret about：为……烦恼、忧虑；不是“用 fret 品格演奏”。；smartphone-staring：长时间盯着智能手机的行为。；selfie-vanity：沉溺自拍、以自拍满足自我关注的状态。；wirelesses：wireless 的复数，指收音机或无线电设备。",
+      "zh": "如今，我们为盯着智能手机和沉溺自拍所造成的隔绝文化而烦恼；但早在 1939 年，就有一位女士在惋惜：当她所在街区的人家都装上收音机后，邻里间“靠着扫帚柄聊天”的习惯就消失了。",
+      "tip": "all her street 指整条街上的居民或家庭，不是街道这个物体安装了收音机；talking on the brush handle 与第三段同义，都是邻里随意聊天。"
+    },
+    {
+      "id": "2026-T3-P6-S22",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "It’s enough to make a person put down the smartphone and go out front with a yard broom.",
+      "core": "It’s enough to make a person put down the smartphone and go out front。",
+      "structure": "to make ... 是结果或程度补充；put down 和 go out 是 make 后并列的无 to 不定式；with a yard broom 说明拿着什么。",
+      "key": "It’s enough to make somebody do：足以使某人做某事；这里是带有幽默色彩的感叹。；put down：放下；不是“批评、贬低”。；the art of mere listening：单纯倾听的能力或习惯。；the audiobook boom：有声书热潮。",
+      "zh": "这足以让人放下智能手机，拿着院子里的扫帚走到门前去。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P1-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mandate was to “put everything out,” he recalled.",
+      "core": "his mandate was to “put everything out”。",
+      "structure": "When Tom Swetnam joined ... 是时间状语从句；to put everything out 是系动词 was 后的不定式表语；he recalled 是句末引述语。",
+      "key": "mandate：常见义为“任期、授权”，此处指上级规定的任务或政策要求。；put everything out：此处 put out 指扑灭火灾，everything 指所有火情，而不是把所有东西拿出去。；join the U.S. Forest Service：加入美国林务局。；recall：回忆、回想；比 remember 更正式。",
+      "zh": "汤姆·斯韦特南回忆说，20 世纪 70 年代他加入美国林务局时，自己的任务是“把所有火都扑灭”。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P1-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "But when Swetnam enrolled in graduate school at the University of Arizona’s Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating back hundreds of years before European colonists arrived on the continent.",
+      "core": "he was surprised to find a record of repeated blazes。",
+      "structure": "when Swetnam enrolled ... 是时间状语从句；to find ... 是 was surprised 的结果或具体内容；dating back ... 是现在分词短语，修饰 repeated blazes；before European colonists arrived ... 说明火灾记录早于殖民者到来。",
+      "key": "enroll in：注册进入、入学；不是“登记某个项目”这么简单。；blaze：猛烈的火焰或火灾；此处是森林火灾。；date back：追溯到、始于某一时间。；tree-ring research：树轮研究，通过年轮等信息研究树木和历史环境。",
+      "zh": "但当斯韦特南进入亚利桑那大学树轮研究实验室读研究生时，他惊讶地发现，在欧洲殖民者抵达这片大陆之前数百年，这里就有反复发生火灾的记录。",
+      "tip": "dating back 修饰火灾发生的年代，不是树轮研究“追溯”了几百年；before 的参照点是欧洲殖民者抵达大陆。"
+    },
+    {
+      "id": "2026-T4-P2-S04",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The fact that fires happened so often meant they couldn’t have been severe enough to kill most trees.",
+      "core": "The fact ... meant they couldn’t have been severe enough to kill most trees。",
+      "structure": "that fires happened so often 是 The fact 的同位语从句；severe enough to kill ... 是“足够严重以至于……”的结构；they 指反复发生的火灾。",
+      "key": "severe：严重的、猛烈的；此处描述火灾强度，而不是人的严厉态度。；couldn’t have been：对过去情况的否定推断，意为“不可能曾经是……”。",
+      "zh": "火灾如此频繁这一事实意味着，它们不可能严重到足以杀死大多数树木。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P2-S05",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier.",
+      "core": "a growing body of research showed that frequent, low-severity fires made many ecosystems healthier。",
+      "structure": "that 引导 showed 的宾语从句；frequent, low-severity 并列修饰 fires；make + 宾语 + 形容词 表示“使……变得……”；Instead 与上一句构成转折。",
+      "key": "a growing body of research：不断增加的研究成果或研究证据，不是“正在生长的研究身体”。；low-severity：低强度的，指火灾造成的破坏程度较低。；instead：相反、反而，用于推翻前面可能的直觉。；make ecosystems healthier：使生态系统更健康。",
+      "zh": "相反，越来越多的研究表明，频繁但低强度的火灾反而让许多生态系统更加健康。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P2-S06",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease.",
+      "core": "They rid the forest of dead and sick trees。",
+      "structure": "reducing competition 和 curbing the spread of disease 是两个现在分词短语，说明清除枯病树木产生的结果；三个动词短语共同解释低强度火灾的生态益处。",
+      "key": "rid ... of：使……摆脱、清除……；不是普通的 remove 的机械替换。；curb：抑制、遏制；此处不是“路缘石”。；dead and sick trees：枯死树木和患病树木。；reduce competition：减少竞争；这里指树木之间对资源的竞争。",
+      "zh": "这些火灾清除了森林中的枯树和病树，减少了树木之间的竞争，并遏制了疾病的传播。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P2-S07",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Because flammable material couldn’t build up on the landscape, blazes tended to move Slowly and peter out when they reached the footprints of previous burns.",
+      "core": "主句为 blazes tended to move Slowly and peter out。",
+      "structure": "Because flammable material couldn’t build up ... 是原因状语从句；move Slowly 和 peter out 是并列谓语；when they reached ... 是时间状语从句，they 指火势或火灾。",
+      "key": "build up：积累、逐渐增多；不是“建立起来”。；peter out：逐渐减弱并最终停止；此处指火势慢慢熄灭。；footprint：本义为“脚印”，此处指此前火灾留下的范围或痕迹。；flammable material：易燃物。",
+      "zh": "由于易燃物无法在地表不断积累，火势往往蔓延得较慢，并在到达此前火灾留下的区域时逐渐熄灭。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P3-S10",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall.",
+      "core": "the researchers compared ... and uncovered ...。",
+      "structure": "In the study 是范围状语；with the wildfires recorded ... 中 recorded 是过去分词，修饰 wildfires；compared 和 uncovered 是并列谓语。",
+      "key": "cadence：本义可指节奏、韵律，此处指火灾发生的频率或周期。；shortfall：不足、缺口；这里指实际火灾数量比历史预期少很多。；over the past few decades：在过去几十年中。；a striking shortfall：明显而惊人的缺口。",
+      "zh": "在这项研究中，研究人员将历史上的火灾频率与过去几十年记录的野火进行比较，发现火灾数量出现了惊人的短缺。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P3-S11",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The NAFSN sites experienced less than a quarter of the number of fires that would have been expected without fire suppression.",
+      "core": "The NAFSN sites experienced less than a quarter of the number of fires。",
+      "structure": "that would have been expected without fire suppression 是定语从句，修饰 the number of fires；without fire suppression 构成反事实条件背景，说明预期数量是在没有人为压火的情况下计算的。",
+      "key": "experience fires：经历、发生火灾；不是“体验火灾”这一主观体验。；fire suppression：人为灭火、压制火灾的措施。；less than a quarter of：不到……的四分之一。；would have been expected：本来预计会发生，带有与现实情况比较的假设意味。",
+      "zh": "如果没有人为扑火，NAFSN 这些地点本应发生的火灾数量，实际发生的还不到其四分之一。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P4-S12",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire.",
+      "core": "This deficit is a testament to the effectiveness of modern firefighting。",
+      "structure": "said Kelly Martin ... 是句末引述语；a past president ... 是 Kelly Martin 的同位语。",
+      "key": "deficit：不足、缺口；此处指实际火灾数与原本预期数量之间的差额。；testament：证明、明证；不是宗教意义上的“圣经旧约”。；a testament to：……的证明、明证。；modern firefighting：现代消防或现代灭火工作。",
+      "zh": "国际野地火灾协会前主席凯莉·马丁说，这一缺口证明了现代消防工作的有效性。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P4-S13",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "“Yet the combined consequences of suppression and climate change have eroded humanity’s ability to suppress fires, particularly those that ignite under the most dangerous weather conditions.”",
+      "core": "the combined consequences ... have eroded humanity’s ability to suppress fires。",
+      "structure": "of suppression and climate change 修饰 consequences；particularly those that ignite ... 对 fires 作进一步限定；that ignite ... 是定语从句。",
+      "key": "erode：逐渐削弱、侵蚀；不是只表示物理表面的磨损。；ignite：点燃、着火；此处是不及物意义“燃起”。；combined consequences of：……共同造成的后果。；particularly those that ...：尤其是那些……的火灾；those 指 fires。",
+      "zh": "然而，灭火措施与气候变化叠加产生的后果已经削弱了人类扑灭火灾的能力，尤其是扑灭那些在最危险天气条件下燃起的火灾的能力。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P5-S14",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it.",
+      "core": "people must bring healthy fire back to places。",
+      "structure": "To prevent ... 是目的状语；from going up in smoke 是 prevent 后的介词结构；that need it 修饰 places，it 指 healthy fire。",
+      "key": "go up in smoke：化为乌有、被大火毁掉；这里是形象表达，不是字面上的“升入烟雾”。；healthy fire：有益于生态系统的、可控制的火，而不是任何一场自然野火。；prevent ... from doing：防止……做某事。；bring ... back to：把……重新带回……。",
+      "zh": "马丁说，为了防止整个生态系统毁于大火，人们必须把有益的火重新带回那些需要它的地方。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P5-S15",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient.",
+      "core": "Martin oversaw the use of prescribed burns to make the landscape more resilient。",
+      "structure": "what is known as prescribed burns 是 the use of 的宾语，what 引导名词性从句；to make ... 是目的状语；地点短语置于句首。",
+      "key": "prescribed burn：计划性燃烧、处方性燃烧，指由专业人员在可控条件下有意点燃的火。；resilient：有韧性的、恢复力强的；此处指景观更能承受和恢复火灾影响。；oversee the use of：监督……的使用或实施。；what is known as：所谓的、被称为……的。",
+      "zh": "在约塞米蒂国家公园，马丁负责监督使用所谓的计划性燃烧，以增强景观抵御火灾的能力。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P5-S16",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had built up around the important park’s facilities.",
+      "core": "These fires were carefully planned and intentionally ignited ... and helped eliminate some of the fuel ...。",
+      "structure": "were planned、were ignited 与 helped eliminate 共同描述这些计划性燃烧；during periods when ... 说明点火时机；that had built up ... 修饰 fuel，过去完成时表示可燃物在计划性燃烧前已经积累。",
+      "key": "fuel：此处指可供火灾燃烧的枯枝、灌木等可燃物，不是交通工具使用的燃料。；facilities：设施、建筑等配套设施，不是“能力”。；be intentionally ignited：被有意点燃。；keep the blazes easy to control：使火势保持在易于控制的状态。",
+      "zh": "这些火灾经过周密计划，并在天气条件使火势易于控制的时期被有意点燃；它们还帮助清除了重要公园设施周围积累的一部分可燃物。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P5-S17",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Research shows that these prescribed burns make subsequent wildfires less severe, even if later fires happen under the most dangerous weather conditions.",
+      "core": "Research shows that these prescribed burns make subsequent wildfires less severe。",
+      "structure": "that 引导 shows 的宾语从句；even if later fires happen ... 是让步状语从句，说明即便未来火灾条件恶劣，计划性燃烧的减灾效果仍然存在。",
+      "key": "subsequent：随后发生的、后续的；不是“次要的”。；make wildfires less severe：使野火的严重程度降低。；even if：即使、哪怕，引导让步条件。；later fires：之后发生的火灾。",
+      "zh": "研究表明，即使后来的火灾发生在最危险的天气条件下，这些计划性燃烧也会使随后发生的野火不那么猛烈。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P6-S18",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts said.",
+      "core": "climate change is making this tactic more challenging。",
+      "structure": "even as scientists and public officials ... 是让步或伴随背景从句；on the need for more fires 说明达成共识的内容；this tactic 指前文的计划性燃烧或恢复有益火灾的策略。",
+      "key": "tactic：此处指通过计划性燃烧恢复有益火灾的策略，不是军事战术。；challenging：困难的、棘手的；不是单纯的“具有挑战性”口号。；agree on the need for：就需要……达成共识。；public official：政府官员。",
+      "zh": "然而，尽管科学家和政府官员越来越认同森林需要更多火灾，气候变化却让这种做法变得更具挑战性，专家们说。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2026-T4-P6-S19",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "“It’s a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challenging,” said Susan Prichard, a fire ecologist at the University of Washington.",
+      "core": "引语的核心结构是 wildfires are getting more severe and larger ... and we need this work even more, but then the work gets more challenging。",
+      "structure": "because 引出解释；其中 and 连接野火变化与工作需求增加，but 再转出实施难度上升；said Susan Prichard ... 是句末引述语。",
+      "key": "double-edged sword：双刃剑，指同一情况同时带来必要性和风险、好处和困难。；this work：指前文通过计划性燃烧等方式恢复有益火灾、降低燃料负荷的工作。；get more severe and larger：变得更猛烈、规模更大。；under climate change：在气候变化影响下。",
+      "zh": "华盛顿大学火灾生态学家苏珊·普里查德说：“这是一把双刃剑，因为在气候变化影响下，野火正变得更猛烈、规模更大，我们比以前更需要这项工作，但与此同时，这项工作也变得更困难。”",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    }
+  ],
+  "vocab": [
+    {
+      "w": "propel",
+      "pos": "词",
+      "cn": "常见义为“推进、推动”；此处是比喻用法，指驴为人类运输和生产提供动力，推动文明发展。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "For thousands of years, donkeys have been critical for propelling human civilizations forward.",
+      "forms": [
+        "propel"
+      ],
+      "note": "常见义为“推进、推动”；此处是比喻用法，指驴为人类运输和生产提供动力，推动文明发展。"
+    },
+    {
+      "w": "be critical for",
+      "pos": "phr.",
+      "cn": "对……至关重要。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "For thousands of years, donkeys have been critical for propelling human civilizations forward.",
+      "forms": [
+        "be critical for"
+      ],
+      "note": "对……至关重要。"
+    },
+    {
+      "w": "propel ... forward",
+      "pos": "phr.",
+      "cn": "推动……向前发展。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "For thousands of years, donkeys have been critical for propelling human civilizations forward.",
+      "forms": [
+        "propel ... forward"
+      ],
+      "note": "推动……向前发展。"
+    },
+    {
+      "w": "wheeled vehicle",
+      "pos": "phr.",
+      "cn": "轮式车辆。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "They’ve helped pull wheeled vehicles, carry travelers and move goods across the world.",
+      "forms": [
+        "wheeled vehicle"
+      ],
+      "note": "轮式车辆。"
+    },
+    {
+      "w": "move goods",
+      "pos": "phr.",
+      "cn": "运输货物；move 此处不是“移动一下”，而是指运送。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "They’ve helped pull wheeled vehicles, carry travelers and move goods across the world.",
+      "forms": [
+        "move goods"
+      ],
+      "note": "运输货物；move 此处不是“移动一下”，而是指运送。"
+    },
+    {
+      "w": "intertwined with",
+      "pos": "phr.",
+      "cn": "本义为“缠绕在一起”，此处指驴与人类生活、历史形成了密切联系。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "But where and when these animals first became intertwined with humans has been a mystery.",
+      "forms": [
+        "intertwined with"
+      ],
+      "note": "本义为“缠绕在一起”，此处指驴与人类生活、历史形成了密切联系。"
+    },
+    {
+      "w": "genome",
+      "pos": "词",
+      "cn": "基因组，指一个生物体全部的遗传物质。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Now, researchers have used genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa — about 3,000 years befor",
+      "forms": [
+        "genome"
+      ],
+      "note": "基因组，指一个生物体全部的遗传物质。"
+    },
+    {
+      "w": "trace ... back to ...",
+      "pos": "phr.",
+      "cn": "把……追溯到……。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Now, researchers have used genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa — about 3,000 years befor",
+      "forms": [
+        "trace ... back to ..."
+      ],
+      "note": "把……追溯到……。"
+    },
+    {
+      "w": "domestication",
+      "pos": "n.",
+      "cn": "驯化，指野生动物逐渐被人类驯养和利用的过程。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Now, researchers have used genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa — about 3,000 years befor",
+      "forms": [
+        "domestication"
+      ],
+      "note": "驯化，指野生动物逐渐被人类驯养和利用的过程。"
+    },
+    {
+      "w": "publish findings",
+      "pos": "phr.",
+      "cn": "发表研究发现或研究结果。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The team published their findings in the journal *Science* this month.",
+      "forms": [
+        "publish findings"
+      ],
+      "note": "发表研究发现或研究结果。"
+    },
+    {
+      "w": "tell their history themselves",
+      "pos": "phr.",
+      "cn": "不是字面上的“动物自己开口讲述”，而是说基因信息能够直接提供动物历史的证据。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Through their DNA, the animals are telling their history themselves,” co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.",
+      "forms": [
+        "tell their history themselves"
+      ],
+      "note": "不是字面上的“动物自己开口讲述”，而是说基因信息能够直接提供动物历史的证据。"
+    },
+    {
+      "w": "statement",
+      "pos": "n.",
+      "cn": "此处指机构或研究人员发布的声明，而不是普通的“陈述句”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Through their DNA, the animals are telling their history themselves,” co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.",
+      "forms": [
+        "statement"
+      ],
+      "note": "此处指机构或研究人员发布的声明，而不是普通的“陈述句”。"
+    },
+    {
+      "w": "co-author",
+      "pos": "词",
+      "cn": "共同作者。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Through their DNA, the animals are telling their history themselves,” co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.",
+      "forms": [
+        "co-author"
+      ],
+      "note": "共同作者。"
+    },
+    {
+      "w": "equine",
+      "pos": "词",
+      "cn": "马科动物的；范围包括马、驴等马科动物。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Through their DNA, the animals are telling their history themselves,” co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.",
+      "forms": [
+        "equine"
+      ],
+      "note": "马科动物的；范围包括马、驴等马科动物。"
+    },
+    {
+      "w": "the human’s side of history",
+      "pos": "phr.",
+      "cn": "指从人类视角记录的历史，而不是“人类历史的一边”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“We usually only get the human’s side of history through written accounts, but of course written history does not always record exactly how something happened.",
+      "forms": [
+        "the human’s side of history"
+      ],
+      "note": "指从人类视角记录的历史，而不是“人类历史的一边”。"
+    },
+    {
+      "w": "account",
+      "pos": "词",
+      "cn": "常见义为“账户”，此处指记载、叙述或史料。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“We usually only get the human’s side of history through written accounts, but of course written history does not always record exactly how something happened.",
+      "forms": [
+        "account"
+      ],
+      "note": "常见义为“账户”，此处指记载、叙述或史料。"
+    },
+    {
+      "w": "testimony",
+      "pos": "词",
+      "cn": "常见义为“证词、证言”；此处指 DNA 提供的生物学证据，并非人在法庭上的证词。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.”",
+      "forms": [
+        "testimony"
+      ],
+      "note": "常见义为“证词、证言”；此处指 DNA 提供的生物学证据，并非人在法庭上的证词。"
+    },
+    {
+      "w": "survive",
+      "pos": "adj.",
+      "cn": "此处作及物动词，意为“经历……并幸存下来”，不是简单的“活着”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.”",
+      "forms": [
+        "survive"
+      ],
+      "note": "此处作及物动词，意为“经历……并幸存下来”，不是简单的“活着”。"
+    },
+    {
+      "w": "look at",
+      "pos": "phr.",
+      "cn": "分析、考察；在科研语境中不只是“看一眼”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.”",
+      "forms": [
+        "look at"
+      ],
+      "note": "分析、考察；在科研语境中不只是“看一眼”。"
+    },
+    {
+      "w": "the environment ... lived in",
+      "pos": "phr.",
+      "cn": "它们生活于其中的环境；介词 in 置于关系从句末尾。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.”",
+      "forms": [
+        "the environment ... lived in"
+      ],
+      "note": "它们生活于其中的环境；介词 in 置于关系从句末尾。"
+    },
+    {
+      "w": "examine",
+      "pos": "词",
+      "cn": "研究、分析；在科研语境中比普通的“检查”更正式。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe.",
+      "forms": [
+        "examine"
+      ],
+      "note": "研究、分析；在科研语境中比普通的“检查”更正式。"
+    },
+    {
+      "w": "across the globe",
+      "pos": "phr.",
+      "cn": "遍布全球、来自世界各地。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe.",
+      "forms": [
+        "across the globe"
+      ],
+      "note": "遍布全球、来自世界各地。"
+    },
+    {
+      "w": "earlier donkeys",
+      "pos": "phr.",
+      "cn": "指年代更早的驴或古代驴样本，不是“较早到达的驴”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "They also looked at genomes from 15 wild equids and 31 earlier donkeys that lived between about 4,000 and 100 years ago.",
+      "forms": [
+        "earlier donkeys"
+      ],
+      "note": "指年代更早的驴或古代驴样本，不是“较早到达的驴”。"
+    },
+    {
+      "w": "wild equid",
+      "pos": "phr.",
+      "cn": "野生马科动物；equid 是马、驴、斑马等动物所属的科名。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "They also looked at genomes from 15 wild equids and 31 earlier donkeys that lived between about 4,000 and 100 years ago.",
+      "forms": [
+        "wild equid"
+      ],
+      "note": "野生马科动物；equid 是马、驴、斑马等动物所属的科名。"
+    },
+    {
+      "w": "pinpoint",
+      "pos": "词",
+      "cn": "常见义为“指出准确位置”；此处指通过模型精确确定某一历史事件的时间和起点。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The team reconstructed the animals’ evolutionary tree and used computer models to pinpoint the domestication event when herders in Kenya and the Horn of Africa tamed wild",
+      "forms": [
+        "pinpoint"
+      ],
+      "note": "常见义为“指出准确位置”；此处指通过模型精确确定某一历史事件的时间和起点。"
+    },
+    {
+      "w": "ass",
+      "pos": "词",
+      "cn": "此处是“驴、野驴”，不是骂人的粗俗用语。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The team reconstructed the animals’ evolutionary tree and used computer models to pinpoint the domestication event when herders in Kenya and the Horn of Africa tamed wild",
+      "forms": [
+        "ass"
+      ],
+      "note": "此处是“驴、野驴”，不是骂人的粗俗用语。"
+    },
+    {
+      "w": "evolutionary tree",
+      "pos": "phr.",
+      "cn": "进化树，用来表示物种或样本之间的演化关系。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The team reconstructed the animals’ evolutionary tree and used computer models to pinpoint the domestication event when herders in Kenya and the Horn of Africa tamed wild",
+      "forms": [
+        "evolutionary tree"
+      ],
+      "note": "进化树，用来表示物种或样本之间的演化关系。"
+    },
+    {
+      "w": "the Horn of Africa",
+      "pos": "phr.",
+      "cn": "非洲之角，指非洲东北部的区域。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The team reconstructed the animals’ evolutionary tree and used computer models to pinpoint the domestication event when herders in Kenya and the Horn of Africa tamed wild",
+      "forms": [
+        "the Horn of Africa"
+      ],
+      "note": "非洲之角，指非洲东北部的区域。"
+    },
+    {
+      "w": "tame wild asses",
+      "pos": "phr.",
+      "cn": "驯服野驴。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The team reconstructed the animals’ evolutionary tree and used computer models to pinpoint the domestication event when herders in Kenya and the Horn of Africa tamed wild",
+      "forms": [
+        "tame wild asses"
+      ],
+      "note": "驯服野驴。"
+    },
+    {
+      "w": "trace how ...",
+      "pos": "phr.",
+      "cn": "追踪、还原……的过程。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "They then traced how the animals spread across the rest of the continent into Europe and Asia about 2,500 years later.",
+      "forms": [
+        "trace how ..."
+      ],
+      "note": "追踪、还原……的过程。"
+    },
+    {
+      "w": "spread across ... into ...",
+      "pos": "phr.",
+      "cn": "扩散到……各处并进入……。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "They then traced how the animals spread across the rest of the continent into Europe and Asia about 2,500 years later.",
+      "forms": [
+        "spread across ... into ..."
+      ],
+      "note": "扩散到……各处并进入……。"
+    },
+    {
+      "w": "coincide with",
+      "pos": "phr.",
+      "cn": "与……同时发生、恰好相合；这里说明时间上的吻合，并不直接证明撒哈拉变干是驯化的唯一原因。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Though it’s still unclear why the original domestication happened, *Science News*’ Freda Kreier reports that the event coincided with the Sahara growing larger and drier.",
+      "forms": [
+        "coincide with"
+      ],
+      "note": "与……同时发生、恰好相合；这里说明时间上的吻合，并不直接证明撒哈拉变干是驯化的唯一原因。"
+    },
+    {
+      "w": "the original domestication",
+      "pos": "phr.",
+      "cn": "最初的驯化事件。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Though it’s still unclear why the original domestication happened, *Science News*’ Freda Kreier reports that the event coincided with the Sahara growing larger and drier.",
+      "forms": [
+        "the original domestication"
+      ],
+      "note": "最初的驯化事件。"
+    },
+    {
+      "w": "grow larger and drier",
+      "pos": "phr.",
+      "cn": "变得更大、更干燥；growing 后接形容词作状态变化的补语。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Though it’s still unclear why the original domestication happened, *Science News*’ Freda Kreier reports that the event coincided with the Sahara growing larger and drier.",
+      "forms": [
+        "grow larger and drier"
+      ],
+      "note": "变得更大、更干燥；growing 后接形容词作状态变化的补语。"
+    },
+    {
+      "w": "champion",
+      "pos": "词",
+      "cn": "常见义为“冠军”，此处作名词比喻“佼佼者、能手”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Donkeys are champions when it comes to carrying stuff and are good at going at deserts,” co-author Ludovic Orlando, an evolutionary biologist at Paul Sabin University in",
+      "forms": [
+        "champion"
+      ],
+      "note": "常见义为“冠军”，此处作名词比喻“佼佼者、能手”。"
+    },
+    {
+      "w": "stuff",
+      "pos": "词",
+      "cn": "非正式用语，指东西、物品；这里突出驴适合承担搬运任务。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Donkeys are champions when it comes to carrying stuff and are good at going at deserts,” co-author Ludovic Orlando, an evolutionary biologist at Paul Sabin University in",
+      "forms": [
+        "stuff"
+      ],
+      "note": "非正式用语，指东西、物品；这里突出驴适合承担搬运任务。"
+    },
+    {
+      "w": "go at deserts",
+      "pos": "phr.",
+      "cn": "原文中的非正式表达，结合上下文指在沙漠环境中行进、活动。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Donkeys are champions when it comes to carrying stuff and are good at going at deserts,” co-author Ludovic Orlando, an evolutionary biologist at Paul Sabin University in",
+      "forms": [
+        "go at deserts"
+      ],
+      "note": "原文中的非正式表达，结合上下文指在沙漠环境中行进、活动。"
+    },
+    {
+      "w": "when it comes to",
+      "pos": "phr.",
+      "cn": "说到、涉及……时。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Donkeys are champions when it comes to carrying stuff and are good at going at deserts,” co-author Ludovic Orlando, an evolutionary biologist at Paul Sabin University in",
+      "forms": [
+        "when it comes to"
+      ],
+      "note": "说到、涉及……时。"
+    },
+    {
+      "w": "be good at doing",
+      "pos": "phr.",
+      "cn": "擅长或适合做某事。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Donkeys are champions when it comes to carrying stuff and are good at going at deserts,” co-author Ludovic Orlando, an evolutionary biologist at Paul Sabin University in",
+      "forms": [
+        "be good at doing"
+      ],
+      "note": "擅长或适合做某事。"
+    },
+    {
+      "w": "tell the publication",
+      "pos": "phr.",
+      "cn": "向该刊物表示、对该刊物说。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Donkeys are champions when it comes to carrying stuff and are good at going at deserts,” co-author Ludovic Orlando, an evolutionary biologist at Paul Sabin University in",
+      "forms": [
+        "tell the publication"
+      ],
+      "note": "向该刊物表示、对该刊物说。"
+    },
+    {
+      "w": "navigate",
+      "pos": "v.",
+      "cn": "常见义为“导航”；此处指在复杂或陌生的地域中行进、穿越，并非一定使用导航设备。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Prehistoric humans may have tamed donkeys to help navigate the expanding Sahara.",
+      "forms": [
+        "navigate"
+      ],
+      "note": "常见义为“导航”；此处指在复杂或陌生的地域中行进、穿越，并非一定使用导航设备。"
+    },
+    {
+      "w": "may have done",
+      "pos": "phr.",
+      "cn": "可能已经做过某事，表示对过去情况的推测。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Prehistoric humans may have tamed donkeys to help navigate the expanding Sahara.",
+      "forms": [
+        "may have done"
+      ],
+      "note": "可能已经做过某事，表示对过去情况的推测。"
+    },
+    {
+      "w": "the expanding Sahara",
+      "pos": "phr.",
+      "cn": "不断扩大的撒哈拉沙漠；现在分词强调变化过程。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Prehistoric humans may have tamed donkeys to help navigate the expanding Sahara.",
+      "forms": [
+        "the expanding Sahara"
+      ],
+      "note": "不断扩大的撒哈拉沙漠；现在分词强调变化过程。"
+    },
+    {
+      "w": "put ... in the spotlight",
+      "pos": "phr.",
+      "cn": "使……成为关注焦点。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Researchers say these findings could help put donkeys in the spotlight.",
+      "forms": [
+        "put ... in the spotlight"
+      ],
+      "note": "使……成为关注焦点。"
+    },
+    {
+      "w": "benefit from",
+      "pos": "phr.",
+      "cn": "从……中获益；这里的受益主体是驴，而不是研究人员。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The animals could benefit from more research:",
+      "forms": [
+        "benefit from"
+      ],
+      "note": "从……中获益；这里的受益主体是驴，而不是研究人员。"
+    },
+    {
+      "w": "located south of the Equator",
+      "pos": "phr.",
+      "cn": "位于赤道以南；过去分词短语修饰 donkeys。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Currently, there are no published genomes from donkeys located south of the Equator in Africa.",
+      "forms": [
+        "located south of the Equator"
+      ],
+      "note": "位于赤道以南；过去分词短语修饰 donkeys。"
+    },
+    {
+      "w": "published genome",
+      "pos": "phr.",
+      "cn": "已发表的基因组数据或研究结果。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Currently, there are no published genomes from donkeys located south of the Equator in Africa.",
+      "forms": [
+        "published genome"
+      ],
+      "note": "已发表的基因组数据或研究结果。"
+    },
+    {
+      "w": "insight",
+      "pos": "词",
+      "cn": "此处指有助于理解过去情况的线索或认识，不是“洞察力”这一抽象能力本身。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "But understanding where the animals were first domesticated could guide archaeologists to a narrow region to search for insights about the original tamed donkeys.",
+      "forms": [
+        "insight"
+      ],
+      "note": "此处指有助于理解过去情况的线索或认识，不是“洞察力”这一抽象能力本身。"
+    },
+    {
+      "w": "makeup",
+      "pos": "词",
+      "cn": "常见义为“化妆品、化妆”，此处指构成、组成，genetic makeup 即遗传构成。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Not only does understanding the equines’ genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as clim",
+      "forms": [
+        "makeup"
+      ],
+      "note": "常见义为“化妆品、化妆”，此处指构成、组成，genetic makeup 即遗传构成。"
+    },
+    {
+      "w": "management",
+      "pos": "n.",
+      "cn": "此处指对动物的照料、养护和管理，不是企业管理。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Not only does understanding the equines’ genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as clim",
+      "forms": [
+        "management"
+      ],
+      "note": "此处指对动物的照料、养护和管理，不是企业管理。"
+    },
+    {
+      "w": "genetic makeup",
+      "pos": "phr.",
+      "cn": "遗传构成、基因组成。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Not only does understanding the equines’ genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as clim",
+      "forms": [
+        "genetic makeup"
+      ],
+      "note": "遗传构成、基因组成。"
+    },
+    {
+      "w": "reveal one’s contribution to",
+      "pos": "phr.",
+      "cn": "揭示某物对……所作的贡献。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Not only does understanding the equines’ genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as clim",
+      "forms": [
+        "reveal one’s contribution to"
+      ],
+      "note": "揭示某物对……所作的贡献。"
+    },
+    {
+      "w": "as climate change alters ...",
+      "pos": "phr.",
+      "cn": "随着气候变化改变……；as 表示伴随的时间或背景关系。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Not only does understanding the equines’ genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as clim",
+      "forms": [
+        "as climate change alters ..."
+      ],
+      "note": "随着气候变化改变……；as 表示伴随的时间或背景关系。"
+    },
+    {
+      "w": "business",
+      "pos": "n.",
+      "cn": "前一个 business 指行业，show business 指演艺业；后一个 business 指实际的商业活动或制作业务，不能都机械译成“生意”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "There’s no business like show business — but in Los Angeles, it feels like there’s no business at all.",
+      "forms": [
+        "business"
+      ],
+      "note": "前一个 business 指行业，show business 指演艺业；后一个 business 指实际的商业活动或制作业务，不能都机械译成“生意”。"
+    },
+    {
+      "w": "show business",
+      "pos": "phr.",
+      "cn": "演艺业、娱乐业。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "There’s no business like show business — but in Los Angeles, it feels like there’s no business at all.",
+      "forms": [
+        "show business"
+      ],
+      "note": "演艺业、娱乐业。"
+    },
+    {
+      "w": "at all",
+      "pos": "phr.",
+      "cn": "用于否定句，加强语气，意为“根本、丝毫”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "There’s no business like show business — but in Los Angeles, it feels like there’s no business at all.",
+      "forms": [
+        "at all"
+      ],
+      "note": "用于否定句，加强语气，意为“根本、丝毫”。"
+    },
+    {
+      "w": "melodramatic",
+      "pos": "adj.",
+      "cn": "本义与“情节剧”有关，此处指言辞过于煽情、夸张。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a st",
+      "forms": [
+        "melodramatic"
+      ],
+      "note": "本义与“情节剧”有关，此处指言辞过于煽情、夸张。"
+    },
+    {
+      "w": "in good conscience",
+      "pos": "phr.",
+      "cn": "凭良心、问心无愧地；不是“在良好的意识中”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a st",
+      "forms": [
+        "in good conscience"
+      ],
+      "note": "凭良心、问心无愧地；不是“在良好的意识中”。"
+    },
+    {
+      "w": "pursue",
+      "pos": "词",
+      "cn": "此处指从事、追求某种职业道路，不只是“追赶”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a st",
+      "forms": [
+        "pursue"
+      ],
+      "note": "此处指从事、追求某种职业道路，不只是“追赶”。"
+    },
+    {
+      "w": "labor union",
+      "pos": "phr.",
+      "cn": "劳工工会。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a st",
+      "forms": [
+        "labor union"
+      ],
+      "note": "劳工工会。"
+    },
+    {
+      "w": "suspend a training program",
+      "pos": "phr.",
+      "cn": "暂停培训项目。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a st",
+      "forms": [
+        "suspend a training program"
+      ],
+      "note": "暂停培训项目。"
+    },
+    {
+      "w": "issue a statement",
+      "pos": "phr.",
+      "cn": "发表声明。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "If that sounds melodramatic, consider this: The Art Directors Guild, a labor union representing about 3,000 film workers, has suspended a training program and issued a st",
+      "forms": [
+        "issue a statement"
+      ],
+      "note": "发表声明。"
+    },
+    {
+      "w": "reaction",
+      "pos": "n.",
+      "cn": "此处指针对某种局势采取的回应行动，不是生理上的“反应”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "This is a reaction to Hollywood’s decline, which is reaching a critical point for the industry and Southern California.",
+      "forms": [
+        "reaction"
+      ],
+      "note": "此处指针对某种局势采取的回应行动，不是生理上的“反应”。"
+    },
+    {
+      "w": "critical point",
+      "pos": "phr.",
+      "cn": "危急关头、关键节点；这里强调形势严重，而不是“批评的观点”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "This is a reaction to Hollywood’s decline, which is reaching a critical point for the industry and Southern California.",
+      "forms": [
+        "critical point"
+      ],
+      "note": "危急关头、关键节点；这里强调形势严重，而不是“批评的观点”。"
+    },
+    {
+      "w": "a reaction to",
+      "pos": "phr.",
+      "cn": "对……的反应或回应。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "This is a reaction to Hollywood’s decline, which is reaching a critical point for the industry and Southern California.",
+      "forms": [
+        "a reaction to"
+      ],
+      "note": "对……的反应或回应。"
+    },
+    {
+      "w": "reach a critical point",
+      "pos": "phr.",
+      "cn": "达到危急或关键阶段。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "This is a reaction to Hollywood’s decline, which is reaching a critical point for the industry and Southern California.",
+      "forms": [
+        "reach a critical point"
+      ],
+      "note": "达到危急或关键阶段。"
+    },
+    {
+      "w": "slip away from",
+      "pos": "phr.",
+      "cn": "逐渐离开、慢慢流失；不是突然“滑走”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Production has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present.",
+      "forms": [
+        "slip away from"
+      ],
+      "note": "逐渐离开、慢慢流失；不是突然“滑走”。"
+    },
+    {
+      "w": "apparent",
+      "pos": "词",
+      "cn": "明显的、显而易见的；此处不是“表面上的”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Production has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present.",
+      "forms": [
+        "apparent"
+      ],
+      "note": "明显的、显而易见的；此处不是“表面上的”。"
+    },
+    {
+      "w": "at present",
+      "pos": "phr.",
+      "cn": "目前、现在。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Production has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present.",
+      "forms": [
+        "at present"
+      ],
+      "note": "目前、现在。"
+    },
+    {
+      "w": "have never been more ... than ...",
+      "pos": "phr.",
+      "cn": "从未像……时这样……，是强调最高程度的比较结构。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Production has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present.",
+      "forms": [
+        "have never been more ... than ..."
+      ],
+      "note": "从未像……时这样……，是强调最高程度的比较结构。"
+    },
+    {
+      "w": "leave somebody in the dust",
+      "pos": "phr.",
+      "cn": "把某人远远甩在后面；这里是比喻其他地区在争夺影视制作方面超过了加州。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Other regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust.",
+      "forms": [
+        "leave somebody in the dust"
+      ],
+      "note": "把某人远远甩在后面；这里是比喻其他地区在争夺影视制作方面超过了加州。"
+    },
+    {
+      "w": "steadily increase",
+      "pos": "phr.",
+      "cn": "持续、稳步增加。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Other regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust.",
+      "forms": [
+        "steadily increase"
+      ],
+      "note": "持续、稳步增加。"
+    },
+    {
+      "w": "incentive",
+      "pos": "adj.",
+      "cn": "激励措施、优惠政策，常指税收或补贴等吸引投资的手段。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Other regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust.",
+      "forms": [
+        "incentive"
+      ],
+      "note": "激励措施、优惠政策，常指税收或补贴等吸引投资的手段。"
+    },
+    {
+      "w": "attract TV shows and movies",
+      "pos": "phr.",
+      "cn": "吸引电视节目和电影项目来本地制作。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Other regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust.",
+      "forms": [
+        "attract TV shows and movies"
+      ],
+      "note": "吸引电视节目和电影项目来本地制作。"
+    },
+    {
+      "w": "credit",
+      "pos": "词",
+      "cn": "此处是税收抵免额，不是“信用”或“学分”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Georgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Geo",
+      "forms": [
+        "credit"
+      ],
+      "note": "此处是税收抵免额，不是“信用”或“学分”。"
+    },
+    {
+      "w": "base tax credit",
+      "pos": "phr.",
+      "cn": "基础税收抵免额，即未计算额外优惠前的基准额度。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Georgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Geo",
+      "forms": [
+        "base tax credit"
+      ],
+      "note": "基础税收抵免额，即未计算额外优惠前的基准额度。"
+    },
+    {
+      "w": "up to",
+      "pos": "phr.",
+      "cn": "最高达，表示上限而非固定比例。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Georgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Geo",
+      "forms": [
+        "up to"
+      ],
+      "note": "最高达，表示上限而非固定比例。"
+    },
+    {
+      "w": "transferable tax credit",
+      "pos": "phr.",
+      "cn": "可转让的税收抵免。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Georgia offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Geo",
+      "forms": [
+        "transferable tax credit"
+      ],
+      "note": "可转让的税收抵免。"
+    },
+    {
+      "w": "volume",
+      "pos": "词",
+      "cn": "此处指数量或规模，不是“音量”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Even as California lost a huge volume of production to other locations, there was still plenty of film production taking place in Los Angeles before this year.",
+      "forms": [
+        "volume"
+      ],
+      "note": "此处指数量或规模，不是“音量”。"
+    },
+    {
+      "w": "take place",
+      "pos": "phr.",
+      "cn": "发生、进行；production taking place 指制作活动正在开展。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Even as California lost a huge volume of production to other locations, there was still plenty of film production taking place in Los Angeles before this year.",
+      "forms": [
+        "take place"
+      ],
+      "note": "发生、进行；production taking place 指制作活动正在开展。"
+    },
+    {
+      "w": "keep afloat",
+      "pos": "phr.",
+      "cn": "使……维持运转、避免陷入困境；本义是让东西漂浮在水面上。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "We were kept afloat by “peak TV” the glut of content that was required by the explosion of streaming services.",
+      "forms": [
+        "keep afloat"
+      ],
+      "note": "使……维持运转、避免陷入困境；本义是让东西漂浮在水面上。"
+    },
+    {
+      "w": "glut",
+      "pos": "词",
+      "cn": "过量、过剩，此处指流媒体平台为争夺用户而制造的大量内容。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "We were kept afloat by “peak TV” the glut of content that was required by the explosion of streaming services.",
+      "forms": [
+        "glut"
+      ],
+      "note": "过量、过剩，此处指流媒体平台为争夺用户而制造的大量内容。"
+    },
+    {
+      "w": "peak TV",
+      "pos": "phr.",
+      "cn": "电视内容产量异常高的时期，文中指流媒体推动的剧集制作热潮。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "We were kept afloat by “peak TV” the glut of content that was required by the explosion of streaming services.",
+      "forms": [
+        "peak TV"
+      ],
+      "note": "电视内容产量异常高的时期，文中指流媒体推动的剧集制作热潮。"
+    },
+    {
+      "w": "the explosion of",
+      "pos": "phr.",
+      "cn": "……的爆发式增长。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "We were kept afloat by “peak TV” the glut of content that was required by the explosion of streaming services.",
+      "forms": [
+        "the explosion of"
+      ],
+      "note": "……的爆发式增长。"
+    },
+    {
+      "w": "the peak of ...",
+      "pos": "phr.",
+      "cn": "……的最高峰。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But 2022 was the peak of peak TV.",
+      "forms": [
+        "the peak of ..."
+      ],
+      "note": "……的最高峰。"
+    },
+    {
+      "w": "hemorrhage",
+      "pos": "n.",
+      "cn": "本义为“大出血”，此处作夸张用法，指资金大量流出、烧掉巨额资金。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Back then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series ",
+      "forms": [
+        "hemorrhage"
+      ],
+      "note": "本义为“大出血”，此处作夸张用法，指资金大量流出、烧掉巨额资金。"
+    },
+    {
+      "w": "scripted series",
+      "pos": "phr.",
+      "cn": "有预先编写剧本的系列剧，通常指剧情类剧集，不是“被操纵的系列”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Back then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series ",
+      "forms": [
+        "scripted series"
+      ],
+      "note": "有预先编写剧本的系列剧，通常指剧情类剧集，不是“被操纵的系列”。"
+    },
+    {
+      "w": "generate content",
+      "pos": "phr.",
+      "cn": "制作、生产内容。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Back then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series ",
+      "forms": [
+        "generate content"
+      ],
+      "note": "制作、生产内容。"
+    },
+    {
+      "w": "subscriber",
+      "pos": "词",
+      "cn": "订阅者、付费用户。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Back then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series ",
+      "forms": [
+        "subscriber"
+      ],
+      "note": "订阅者、付费用户。"
+    },
+    {
+      "w": "result in",
+      "pos": "phr.",
+      "cn": "导致、结果是。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Back then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series ",
+      "forms": [
+        "result in"
+      ],
+      "note": "导致、结果是。"
+    },
+    {
+      "w": "profitability",
+      "pos": "n.",
+      "cn": "盈利能力、获利状况，不只是一次性的“利润”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "As the streamers’ emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023,",
+      "forms": [
+        "profitability"
+      ],
+      "note": "盈利能力、获利状况，不只是一次性的“利润”。"
+    },
+    {
+      "w": "dip into the 300s",
+      "pos": "phr.",
+      "cn": "下降到 300 多的区间；dip 表示下探、下降，不是“蘸入”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "As the streamers’ emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023,",
+      "forms": [
+        "dip into the 300s"
+      ],
+      "note": "下降到 300 多的区间；dip 表示下探、下降，不是“蘸入”。"
+    },
+    {
+      "w": "change from A to B",
+      "pos": "phr.",
+      "cn": "从 A 转向 B。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "As the streamers’ emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023,",
+      "forms": [
+        "change from A to B"
+      ],
+      "note": "从 A 转向 B。"
+    },
+    {
+      "w": "subscriber growth",
+      "pos": "phr.",
+      "cn": "订阅用户增长。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "As the streamers’ emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023,",
+      "forms": [
+        "subscriber growth"
+      ],
+      "note": "订阅用户增长。"
+    },
+    {
+      "w": "with ... expected to ...",
+      "pos": "phr.",
+      "cn": "独立主格结构，表示附带的预期情况。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "As the streamers’ emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023,",
+      "forms": [
+        "with ... expected to ..."
+      ],
+      "note": "独立主格结构，表示附带的预期情况。"
+    },
+    {
+      "w": "drift away",
+      "pos": "phr.",
+      "cn": "逐渐流失、离开；强调人才并非一夜之间消失，而是随着机会减少慢慢转移。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "If productions in Southern California dip below a critical level for too long, the industry’s essential talent will drift away along with enormous sums of revenue.",
+      "forms": [
+        "drift away"
+      ],
+      "note": "逐渐流失、离开；强调人才并非一夜之间消失，而是随着机会减少慢慢转移。"
+    },
+    {
+      "w": "essential talent",
+      "pos": "phr.",
+      "cn": "关键人才、不可或缺的专业人才，不是“有天赋的人才”这一泛泛概念。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "If productions in Southern California dip below a critical level for too long, the industry’s essential talent will drift away along with enormous sums of revenue.",
+      "forms": [
+        "essential talent"
+      ],
+      "note": "关键人才、不可或缺的专业人才，不是“有天赋的人才”这一泛泛概念。"
+    },
+    {
+      "w": "dip below",
+      "pos": "phr.",
+      "cn": "下降到……以下。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "If productions in Southern California dip below a critical level for too long, the industry’s essential talent will drift away along with enormous sums of revenue.",
+      "forms": [
+        "dip below"
+      ],
+      "note": "下降到……以下。"
+    },
+    {
+      "w": "for too long",
+      "pos": "phr.",
+      "cn": "持续太久。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "If productions in Southern California dip below a critical level for too long, the industry’s essential talent will drift away along with enormous sums of revenue.",
+      "forms": [
+        "for too long"
+      ],
+      "note": "持续太久。"
+    },
+    {
+      "w": "along with",
+      "pos": "phr.",
+      "cn": "连同……一起、随着……一同。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "If productions in Southern California dip below a critical level for too long, the industry’s essential talent will drift away along with enormous sums of revenue.",
+      "forms": [
+        "along with"
+      ],
+      "note": "连同……一起、随着……一同。"
+    },
+    {
+      "w": "a deep bench",
+      "pos": "phr.",
+      "cn": "本义指板凳阵容，体育语境中指替补力量充足；此处比喻某领域拥有数量充足、经验丰富的人才和配套力量。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Persuading studios to film here would become much more challenging if we couldn’t offer a deep bench of local film workers, on-screen talent and local businesses that sup",
+      "forms": [
+        "a deep bench"
+      ],
+      "note": "本义指板凳阵容，体育语境中指替补力量充足；此处比喻某领域拥有数量充足、经验丰富的人才和配套力量。"
+    },
+    {
+      "w": "on-screen talent",
+      "pos": "phr.",
+      "cn": "出现在镜头前的演员或主持等人才，不是幕后技术人员。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Persuading studios to film here would become much more challenging if we couldn’t offer a deep bench of local film workers, on-screen talent and local businesses that sup",
+      "forms": [
+        "on-screen talent"
+      ],
+      "note": "出现在镜头前的演员或主持等人才，不是幕后技术人员。"
+    },
+    {
+      "w": "persuade somebody to do",
+      "pos": "phr.",
+      "cn": "说服某人做某事。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Persuading studios to film here would become much more challenging if we couldn’t offer a deep bench of local film workers, on-screen talent and local businesses that sup",
+      "forms": [
+        "persuade somebody to do"
+      ],
+      "note": "说服某人做某事。"
+    },
+    {
+      "w": "film here",
+      "pos": "phr.",
+      "cn": "在这里拍摄。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Persuading studios to film here would become much more challenging if we couldn’t offer a deep bench of local film workers, on-screen talent and local businesses that sup",
+      "forms": [
+        "film here"
+      ],
+      "note": "在这里拍摄。"
+    },
+    {
+      "w": "support the entertainment industry",
+      "pos": "phr.",
+      "cn": "为娱乐业提供支持。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Persuading studios to film here would become much more challenging if we couldn’t offer a deep bench of local film workers, on-screen talent and local businesses that sup",
+      "forms": [
+        "support the entertainment industry"
+      ],
+      "note": "为娱乐业提供支持。"
+    },
+    {
+      "w": "counterpart",
+      "pos": "词",
+      "cn": "对应机构、相应的 counterpart；不是“相反的一方”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "That’s why the California Film Commission and its Los Angeles counterpart, Film LA, now should act, before it’s too late.",
+      "forms": [
+        "counterpart"
+      ],
+      "note": "对应机构、相应的 counterpart；不是“相反的一方”。"
+    },
+    {
+      "w": "act",
+      "pos": "词",
+      "cn": "此处指采取行动，而不是出演或扮演。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "That’s why the California Film Commission and its Los Angeles counterpart, Film LA, now should act, before it’s too late.",
+      "forms": [
+        "act"
+      ],
+      "note": "此处指采取行动，而不是出演或扮演。"
+    },
+    {
+      "w": "That’s why",
+      "pos": "phr.",
+      "cn": "这就是……的原因，因此。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "That’s why the California Film Commission and its Los Angeles counterpart, Film LA, now should act, before it’s too late.",
+      "forms": [
+        "That’s why"
+      ],
+      "note": "这就是……的原因，因此。"
+    },
+    {
+      "w": "before it’s too late",
+      "pos": "phr.",
+      "cn": "趁还来得及、在为时已晚之前。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "That’s why the California Film Commission and its Los Angeles counterpart, Film LA, now should act, before it’s too late.",
+      "forms": [
+        "before it’s too late"
+      ],
+      "note": "趁还来得及、在为时已晚之前。"
+    },
+    {
+      "w": "government body",
+      "pos": "phr.",
+      "cn": "政府机构或政府部门。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "These agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles.",
+      "forms": [
+        "government body"
+      ],
+      "note": "政府机构或政府部门。"
+    },
+    {
+      "w": "keep current shows",
+      "pos": "phr.",
+      "cn": "留住正在本地制作的影视项目。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "These agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles.",
+      "forms": [
+        "keep current shows"
+      ],
+      "note": "留住正在本地制作的影视项目。"
+    },
+    {
+      "w": "attract new productions",
+      "pos": "phr.",
+      "cn": "吸引新的影视制作项目。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "These agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles.",
+      "forms": [
+        "attract new productions"
+      ],
+      "note": "吸引新的影视制作项目。"
+    },
+    {
+      "w": "go on with",
+      "pos": "phr.",
+      "cn": "继续进行；这里既指继续影视制作，也呼应 show business 的修辞。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Let’s go on with the show...and make sure the show doesn’t go on without us.",
+      "forms": [
+        "go on with"
+      ],
+      "note": "继续进行；这里既指继续影视制作，也呼应 show business 的修辞。"
+    },
+    {
+      "w": "wireless",
+      "pos": "adj.",
+      "cn": "本文中指早期的无线电广播或收音机技术，不是泛指所有“无线”技术。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The pioneers of wireless saw it as a gift to all the people.",
+      "forms": [
+        "wireless"
+      ],
+      "note": "本文中指早期的无线电广播或收音机技术，不是泛指所有“无线”技术。"
+    },
+    {
+      "w": "pioneer",
+      "pos": "词",
+      "cn": "先驱者、开创者。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The pioneers of wireless saw it as a gift to all the people.",
+      "forms": [
+        "pioneer"
+      ],
+      "note": "先驱者、开创者。"
+    },
+    {
+      "w": "a gift to all the people",
+      "pos": "phr.",
+      "cn": "给所有人的礼物，强调技术的公共性和普惠性。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The pioneers of wireless saw it as a gift to all the people.",
+      "forms": [
+        "a gift to all the people"
+      ],
+      "note": "给所有人的礼物，强调技术的公共性和普惠性。"
+    },
+    {
+      "w": "isolation of the spirit",
+      "pos": "phr.",
+      "cn": "精神上的隔绝或孤独，不是物理意义上的隔离。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Sir John Reith said that it would end “isolation of the spirit” and rejoiced: “It does not matter how many thousands may be listening, there is always enough for others..",
+      "forms": [
+        "isolation of the spirit"
+      ],
+      "note": "精神上的隔绝或孤独，不是物理意义上的隔离。"
+    },
+    {
+      "w": "rejoice",
+      "pos": "词",
+      "cn": "欣喜、欢庆；比普通的 be happy 语气更强。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Sir John Reith said that it would end “isolation of the spirit” and rejoiced: “It does not matter how many thousands may be listening, there is always enough for others..",
+      "forms": [
+        "rejoice"
+      ],
+      "note": "欣喜、欢庆；比普通的 be happy 语气更强。"
+    },
+    {
+      "w": "the genius and the fool",
+      "pos": "phr.",
+      "cn": "用两类极端人物代表所有不同社会群体，突出无线电的普及范围。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Sir John Reith said that it would end “isolation of the spirit” and rejoiced: “It does not matter how many thousands may be listening, there is always enough for others..",
+      "forms": [
+        "the genius and the fool"
+      ],
+      "note": "用两类极端人物代表所有不同社会群体，突出无线电的普及范围。"
+    },
+    {
+      "w": "it does not matter how ...",
+      "pos": "phr.",
+      "cn": "无论……都无关紧要，后面强调真正重要的结果。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Sir John Reith said that it would end “isolation of the spirit” and rejoiced: “It does not matter how many thousands may be listening, there is always enough for others..",
+      "forms": [
+        "it does not matter how ..."
+      ],
+      "note": "无论……都无关紧要，后面强调真正重要的结果。"
+    },
+    {
+      "w": "listen simultaneously",
+      "pos": "phr.",
+      "cn": "同时收听。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Sir John Reith said that it would end “isolation of the spirit” and rejoiced: “It does not matter how many thousands may be listening, there is always enough for others..",
+      "forms": [
+        "listen simultaneously"
+      ],
+      "note": "同时收听。"
+    },
+    {
+      "w": "consciousness",
+      "pos": "n.",
+      "cn": "此处指共同意识、认同感，不是“清醒状态”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Between two great wars this technological innovation built a new kind of national consciousness.",
+      "forms": [
+        "consciousness"
+      ],
+      "note": "此处指共同意识、认同感，不是“清醒状态”。"
+    },
+    {
+      "w": "between two great wars",
+      "pos": "phr.",
+      "cn": "在两次世界大战之间，特指两次世界大战之间的时期。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Between two great wars this technological innovation built a new kind of national consciousness.",
+      "forms": [
+        "between two great wars"
+      ],
+      "note": "在两次世界大战之间，特指两次世界大战之间的时期。"
+    },
+    {
+      "w": "national consciousness",
+      "pos": "phr.",
+      "cn": "民族或国家共同意识。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Between two great wars this technological innovation built a new kind of national consciousness.",
+      "forms": [
+        "national consciousness"
+      ],
+      "note": "民族或国家共同意识。"
+    },
+    {
+      "w": "opening",
+      "pos": "v./n.",
+      "cn": "此处作现在分词，意为“开幕、开始展出”，不是“打开”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939.",
+      "forms": [
+        "opening"
+      ],
+      "note": "此处作现在分词，意为“开幕、开始展出”，不是“打开”。"
+    },
+    {
+      "w": "curate",
+      "pos": "v.",
+      "cn": "策划、编选展览或资料，不只是“照料”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939.",
+      "forms": [
+        "curate"
+      ],
+      "note": "策划、编选展览或资料，不只是“照料”。"
+    },
+    {
+      "w": "everyday life",
+      "pos": "phr.",
+      "cn": "日常生活。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939.",
+      "forms": [
+        "everyday life"
+      ],
+      "note": "日常生活。"
+    },
+    {
+      "w": "from 1922 to 1939",
+      "pos": "phr.",
+      "cn": "从 1922 年到 1939 年这一历史时期。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939.",
+      "forms": [
+        "from 1922 to 1939"
+      ],
+      "note": "从 1922 年到 1939 年这一历史时期。"
+    },
+    {
+      "w": "draw on",
+      "pos": "phr.",
+      "cn": "利用、参考；不是“画在……上”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "She draws on letters, diaries and fiction, and a 1939 field notebook of verbatim audience research by Winifred Gill.",
+      "forms": [
+        "draw on"
+      ],
+      "note": "利用、参考；不是“画在……上”。"
+    },
+    {
+      "w": "verbatim",
+      "pos": "词",
+      "cn": "逐字的、原话记录的，强调没有改写或概括。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "She draws on letters, diaries and fiction, and a 1939 field notebook of verbatim audience research by Winifred Gill.",
+      "forms": [
+        "verbatim"
+      ],
+      "note": "逐字的、原话记录的，强调没有改写或概括。"
+    },
+    {
+      "w": "field notebook",
+      "pos": "phr.",
+      "cn": "田野笔记、实地记录本。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "She draws on letters, diaries and fiction, and a 1939 field notebook of verbatim audience research by Winifred Gill.",
+      "forms": [
+        "field notebook"
+      ],
+      "note": "田野笔记、实地记录本。"
+    },
+    {
+      "w": "audience research",
+      "pos": "phr.",
+      "cn": "观众调查、受众研究。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "She draws on letters, diaries and fiction, and a 1939 field notebook of verbatim audience research by Winifred Gill.",
+      "forms": [
+        "audience research"
+      ],
+      "note": "观众调查、受众研究。"
+    },
+    {
+      "w": "sheer",
+      "pos": "词",
+      "cn": "此处意为“纯粹的、完全的”，用来加强 newness，不是“陡峭的”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "There’s fun in testimonies of people enjoying the sheer newness.",
+      "forms": [
+        "sheer"
+      ],
+      "note": "此处意为“纯粹的、完全的”，用来加强 newness，不是“陡峭的”。"
+    },
+    {
+      "w": "enjoy the newness",
+      "pos": "phr.",
+      "cn": "享受新鲜感。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "There’s fun in testimonies of people enjoying the sheer newness.",
+      "forms": [
+        "enjoy the newness"
+      ],
+      "note": "享受新鲜感。"
+    },
+    {
+      "w": "testimonies of people",
+      "pos": "phr.",
+      "cn": "人们的亲身讲述或见证。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "There’s fun in testimonies of people enjoying the sheer newness.",
+      "forms": [
+        "testimonies of people"
+      ],
+      "note": "人们的亲身讲述或见证。"
+    },
+    {
+      "w": "mock",
+      "pos": "词",
+      "cn": "嘲弄、讽刺；不只是中性的“模仿”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "A cartoon mocks a group failing to converse because they’re all in headphones.",
+      "forms": [
+        "mock"
+      ],
+      "note": "嘲弄、讽刺；不只是中性的“模仿”。"
+    },
+    {
+      "w": "converse",
+      "pos": "词",
+      "cn": "交谈、对话；此处作动词，不是“相反的”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "A cartoon mocks a group failing to converse because they’re all in headphones.",
+      "forms": [
+        "converse"
+      ],
+      "note": "交谈、对话；此处作动词，不是“相反的”。"
+    },
+    {
+      "w": "report that ...",
+      "pos": "phr.",
+      "cn": "报告、讲述……情况。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "People report that broadcast music made workmen whistle new tunes.",
+      "forms": [
+        "report that ..."
+      ],
+      "note": "报告、讲述……情况。"
+    },
+    {
+      "w": "make somebody do",
+      "pos": "phr.",
+      "cn": "使某人做某事；made 后接不带 to 的不定式 whistle。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "People report that broadcast music made workmen whistle new tunes.",
+      "forms": [
+        "make somebody do"
+      ],
+      "note": "使某人做某事；made 后接不带 to 的不定式 whistle。"
+    },
+    {
+      "w": "whistle a tune",
+      "pos": "phr.",
+      "cn": "吹口哨或哼唱一支曲调。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "People report that broadcast music made workmen whistle new tunes.",
+      "forms": [
+        "whistle a tune"
+      ],
+      "note": "吹口哨或哼唱一支曲调。"
+    },
+    {
+      "w": "the arrival of",
+      "pos": "phr.",
+      "cn": "……的到来或出现。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "A woman says there have been fewer street fights since the arrival of the wireless but also less stopping and “talking on the brush handle”.",
+      "forms": [
+        "the arrival of"
+      ],
+      "note": "……的到来或出现。"
+    },
+    {
+      "w": "talking on the brush handle",
+      "pos": "phr.",
+      "cn": "字面是“靠着扫帚柄聊天”，实际指邻里间停下来进行随意闲聊；后文再次用这个表达对比智能手机时代的人际交往。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "A woman says there have been fewer street fights since the arrival of the wireless but also less stopping and “talking on the brush handle”.",
+      "forms": [
+        "talking on the brush handle"
+      ],
+      "note": "字面是“靠着扫帚柄聊天”，实际指邻里间停下来进行随意闲聊；后文再次用这个表达对比智能手机时代的人际交往。"
+    },
+    {
+      "w": "by and large",
+      "pos": "phr.",
+      "cn": "总的来说、大体上。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "By and large the wireless was welcome.",
+      "forms": [
+        "by and large"
+      ],
+      "note": "总的来说、大体上。"
+    },
+    {
+      "w": "be welcome",
+      "pos": "phr.",
+      "cn": "受到欢迎；这里是评价无线电整体社会反响。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "By and large the wireless was welcome.",
+      "forms": [
+        "be welcome"
+      ],
+      "note": "受到欢迎；这里是评价无线电整体社会反响。"
+    },
+    {
+      "w": "variety",
+      "pos": "词",
+      "cn": "此处指内容的多样性和选择范围，不是“品种”这一具体分类。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "I loved the man from the Thirties research who found that wireless suddenly offered “a lot of variety...things I thought I’d never be interested in...ice hockey perhaps”.",
+      "forms": [
+        "variety"
+      ],
+      "note": "此处指内容的多样性和选择范围，不是“品种”这一具体分类。"
+    },
+    {
+      "w": "interest",
+      "pos": "词",
+      "cn": "此处作动词，意为“使……感兴趣”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "I loved the man from the Thirties research who found that wireless suddenly offered “a lot of variety...things I thought I’d never be interested in...ice hockey perhaps”.",
+      "forms": [
+        "interest"
+      ],
+      "note": "此处作动词，意为“使……感兴趣”。"
+    },
+    {
+      "w": "the Thirties",
+      "pos": "phr.",
+      "cn": "20 世纪 30 年代。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "I loved the man from the Thirties research who found that wireless suddenly offered “a lot of variety...things I thought I’d never be interested in...ice hockey perhaps”.",
+      "forms": [
+        "the Thirties"
+      ],
+      "note": "20 世纪 30 年代。"
+    },
+    {
+      "w": "a lot of variety",
+      "pos": "phr.",
+      "cn": "丰富多样的内容。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "I loved the man from the Thirties research who found that wireless suddenly offered “a lot of variety...things I thought I’d never be interested in...ice hockey perhaps”.",
+      "forms": [
+        "a lot of variety"
+      ],
+      "note": "丰富多样的内容。"
+    },
+    {
+      "w": "be interested in",
+      "pos": "phr.",
+      "cn": "对……感兴趣。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "I loved the man from the Thirties research who found that wireless suddenly offered “a lot of variety...things I thought I’d never be interested in...ice hockey perhaps”.",
+      "forms": [
+        "be interested in"
+      ],
+      "note": "对……感兴趣。"
+    },
+    {
+      "w": "serendipity",
+      "pos": "n.",
+      "cn": "意外发现有价值或有趣事物的幸运；此处指听众没有主动寻找，却偶然听到有用或有趣的内容。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task.",
+      "forms": [
+        "serendipity"
+      ],
+      "note": "意外发现有价值或有趣事物的幸运；此处指听众没有主动寻找，却偶然听到有用或有趣的内容。"
+    },
+    {
+      "w": "enliven",
+      "pos": "词",
+      "cn": "使变得有趣、使增添活力；不是简单的“点亮”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task.",
+      "forms": [
+        "enliven"
+      ],
+      "note": "使变得有趣、使增添活力；不是简单的“点亮”。"
+    },
+    {
+      "w": "linear broadcasting",
+      "pos": "phr.",
+      "cn": "按固定编排顺序连续播出的广播。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task.",
+      "forms": [
+        "linear broadcasting"
+      ],
+      "note": "按固定编排顺序连续播出的广播。"
+    },
+    {
+      "w": "a dull manual task",
+      "pos": "phr.",
+      "cn": "枯燥的体力劳动。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task.",
+      "forms": [
+        "a dull manual task"
+      ],
+      "note": "枯燥的体力劳动。"
+    },
+    {
+      "w": "random enlivening of",
+      "pos": "phr.",
+      "cn": "偶然使……变得有趣或生动。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task.",
+      "forms": [
+        "random enlivening of"
+      ],
+      "note": "偶然使……变得有趣或生动。"
+    },
+    {
+      "w": "catch up with the news",
+      "pos": "phr.",
+      "cn": "了解最新新闻，而不是“追上新闻”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "In my own book about radio I recorded how, on one drive: “I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious pr",
+      "forms": [
+        "catch up with the news"
+      ],
+      "note": "了解最新新闻，而不是“追上新闻”。"
+    },
+    {
+      "w": "startlingly",
+      "pos": "adv.",
+      "cn": "出人意料地、令人吃惊地。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "In my own book about radio I recorded how, on one drive: “I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious pr",
+      "forms": [
+        "startlingly"
+      ],
+      "note": "出人意料地、令人吃惊地。"
+    },
+    {
+      "w": "unpretentious",
+      "pos": "adj.",
+      "cn": "朴实的、不矫饰的；此处形容节目内容平实却很有教育意义。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "In my own book about radio I recorded how, on one drive: “I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious pr",
+      "forms": [
+        "unpretentious"
+      ],
+      "note": "朴实的、不矫饰的；此处形容节目内容平实却很有教育意义。"
+    },
+    {
+      "w": "17th-century history",
+      "pos": "phr.",
+      "cn": "17 世纪历史；复合形容词中的连字符不能省略。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "In my own book about radio I recorded how, on one drive: “I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious pr",
+      "forms": [
+        "17th-century history"
+      ],
+      "note": "17 世纪历史；复合形容词中的连字符不能省略。"
+    },
+    {
+      "w": "a programme on",
+      "pos": "phr.",
+      "cn": "一档关于……的节目。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "In my own book about radio I recorded how, on one drive: “I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious pr",
+      "forms": [
+        "a programme on"
+      ],
+      "note": "一档关于……的节目。"
+    },
+    {
+      "w": "the history of the stethoscope",
+      "pos": "phr.",
+      "cn": "听诊器的历史。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "In my own book about radio I recorded how, on one drive: “I caught up with the news, learnt some 17th-century history, and was startlingly educated by an unpretentious pr",
+      "forms": [
+        "the history of the stethoscope"
+      ],
+      "note": "听诊器的历史。"
+    },
+    {
+      "w": "ebb",
+      "pos": "词",
+      "cn": "本义指潮水退去，此处指某种影响力或现象逐渐减弱、衰退。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But radio’s enriching serendipity is ebbing.",
+      "forms": [
+        "ebb"
+      ],
+      "note": "本义指潮水退去，此处指某种影响力或现象逐渐减弱、衰退。"
+    },
+    {
+      "w": "enriching serendipity",
+      "pos": "phr.",
+      "cn": "能够丰富生活的意外发现或偶然收获。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But radio’s enriching serendipity is ebbing.",
+      "forms": [
+        "enriching serendipity"
+      ],
+      "note": "能够丰富生活的意外发现或偶然收获。"
+    },
+    {
+      "w": "be ebbing",
+      "pos": "phr.",
+      "cn": "正在减弱、消退。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But radio’s enriching serendipity is ebbing.",
+      "forms": [
+        "be ebbing"
+      ],
+      "note": "正在减弱、消退。"
+    },
+    {
+      "w": "countless",
+      "pos": "adj.",
+      "cn": "数不清的、无数的。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "With multiple networks and countless podcasts, a smartphone user selects what to hear and when.",
+      "forms": [
+        "countless"
+      ],
+      "note": "数不清的、无数的。"
+    },
+    {
+      "w": "select what to hear and when",
+      "pos": "phr.",
+      "cn": "选择听什么以及在什么时候听；what 和 when 分别引导选择内容和时间。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "With multiple networks and countless podcasts, a smartphone user selects what to hear and when.",
+      "forms": [
+        "select what to hear and when"
+      ],
+      "note": "选择听什么以及在什么时候听；what 和 when 分别引导选择内容和时间。"
+    },
+    {
+      "w": "shrink into",
+      "pos": "phr.",
+      "cn": "缩进、退缩到某个狭小范围中；此处是比喻用法。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "And while it is wonderful to take a walk with anything in your headphones, infinite choice encourages us to shrink into niche interests and sympathetic beliefs.",
+      "forms": [
+        "shrink into"
+      ],
+      "note": "缩进、退缩到某个狭小范围中；此处是比喻用法。"
+    },
+    {
+      "w": "sympathetic beliefs",
+      "pos": "phr.",
+      "cn": "与自己同调、相互支持的信念，不是“富有同情心的信仰”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "And while it is wonderful to take a walk with anything in your headphones, infinite choice encourages us to shrink into niche interests and sympathetic beliefs.",
+      "forms": [
+        "sympathetic beliefs"
+      ],
+      "note": "与自己同调、相互支持的信念，不是“富有同情心的信仰”。"
+    },
+    {
+      "w": "niche interest",
+      "pos": "phr.",
+      "cn": "小众、狭窄而专门的兴趣。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "And while it is wonderful to take a walk with anything in your headphones, infinite choice encourages us to shrink into niche interests and sympathetic beliefs.",
+      "forms": [
+        "niche interest"
+      ],
+      "note": "小众、狭窄而专门的兴趣。"
+    },
+    {
+      "w": "infinite choice",
+      "pos": "phr.",
+      "cn": "无限的选择；这里暗含选择过多也可能造成封闭。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "And while it is wonderful to take a walk with anything in your headphones, infinite choice encourages us to shrink into niche interests and sympathetic beliefs.",
+      "forms": [
+        "infinite choice"
+      ],
+      "note": "无限的选择；这里暗含选择过多也可能造成封闭。"
+    },
+    {
+      "w": "a hundred years on from",
+      "pos": "phr.",
+      "cn": "从……算起一百年后；不是“在……上方一百年”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "A hundred years on from Marconi and Reith, is the art of mere listening endangered?",
+      "forms": [
+        "a hundred years on from"
+      ],
+      "note": "从……算起一百年后；不是“在……上方一百年”。"
+    },
+    {
+      "w": "mere",
+      "pos": "词",
+      "cn": "仅仅的、单纯的，强调不伴随主动筛选或其他操作。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "A hundred years on from Marconi and Reith, is the art of mere listening endangered?",
+      "forms": [
+        "mere"
+      ],
+      "note": "仅仅的、单纯的，强调不伴随主动筛选或其他操作。"
+    },
+    {
+      "w": "the art of listening",
+      "pos": "phr.",
+      "cn": "倾听的能力或习惯。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "A hundred years on from Marconi and Reith, is the art of mere listening endangered?",
+      "forms": [
+        "the art of listening"
+      ],
+      "note": "倾听的能力或习惯。"
+    },
+    {
+      "w": "be endangered",
+      "pos": "phr.",
+      "cn": "受到威胁、面临消失风险。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "A hundred years on from Marconi and Reith, is the art of mere listening endangered?",
+      "forms": [
+        "be endangered"
+      ],
+      "note": "受到威胁、面临消失风险。"
+    },
+    {
+      "w": "boom",
+      "pos": "词",
+      "cn": "迅速发展、繁荣；这里指有声书市场或使用的兴盛。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Some will say the audiobook boom revives it, though I suppose you can then worry about the decline of reading.",
+      "forms": [
+        "boom"
+      ],
+      "note": "迅速发展、繁荣；这里指有声书市场或使用的兴盛。"
+    },
+    {
+      "w": "revive",
+      "pos": "adj.",
+      "cn": "使恢复、重新焕发生机。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Some will say the audiobook boom revives it, though I suppose you can then worry about the decline of reading.",
+      "forms": [
+        "revive"
+      ],
+      "note": "使恢复、重新焕发生机。"
+    },
+    {
+      "w": "shield",
+      "pos": "词",
+      "cn": "保护、使……免受影响；此处不是“盾牌”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But inventions shape all of us and it is worth noticing when techno-social habits do change, and asking whether to control them a bit or shield the youngest.",
+      "forms": [
+        "shield"
+      ],
+      "note": "保护、使……免受影响；此处不是“盾牌”。"
+    },
+    {
+      "w": "the youngest",
+      "pos": "phr.",
+      "cn": "年龄最小的人，语境中主要指儿童和青少年。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But inventions shape all of us and it is worth noticing when techno-social habits do change, and asking whether to control them a bit or shield the youngest.",
+      "forms": [
+        "the youngest"
+      ],
+      "note": "年龄最小的人，语境中主要指儿童和青少年。"
+    },
+    {
+      "w": "techno-social habits",
+      "pos": "phr.",
+      "cn": "由技术塑造、又影响社会交往的习惯。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But inventions shape all of us and it is worth noticing when techno-social habits do change, and asking whether to control them a bit or shield the youngest.",
+      "forms": [
+        "techno-social habits"
+      ],
+      "note": "由技术塑造、又影响社会交往的习惯。"
+    },
+    {
+      "w": "it is worth doing",
+      "pos": "phr.",
+      "cn": "做某事是值得的。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But inventions shape all of us and it is worth noticing when techno-social habits do change, and asking whether to control them a bit or shield the youngest.",
+      "forms": [
+        "it is worth doing"
+      ],
+      "note": "做某事是值得的。"
+    },
+    {
+      "w": "control ... a bit",
+      "pos": "phr.",
+      "cn": "稍加控制，语气比完全禁止温和。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But inventions shape all of us and it is worth noticing when techno-social habits do change, and asking whether to control them a bit or shield the youngest.",
+      "forms": [
+        "control ... a bit"
+      ],
+      "note": "稍加控制，语气比完全禁止温和。"
+    },
+    {
+      "w": "whatever we do",
+      "pos": "phr.",
+      "cn": "无论我们做什么；whatever 引导让步状语从句。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Whatever we do, innovation will happen.",
+      "forms": [
+        "whatever we do"
+      ],
+      "note": "无论我们做什么；whatever 引导让步状语从句。"
+    },
+    {
+      "w": "fret about",
+      "pos": "phr.",
+      "cn": "为……烦恼、忧虑；不是“用 fret 品格演奏”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Today we fret about the isolating culture of smartphone-staring and selfie-vanity, but already in 1939 there was that lady regretting how, when all her street got wireles",
+      "forms": [
+        "fret about"
+      ],
+      "note": "为……烦恼、忧虑；不是“用 fret 品格演奏”。"
+    },
+    {
+      "w": "smartphone-staring",
+      "pos": "adj.",
+      "cn": "长时间盯着智能手机的行为。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Today we fret about the isolating culture of smartphone-staring and selfie-vanity, but already in 1939 there was that lady regretting how, when all her street got wireles",
+      "forms": [
+        "smartphone-staring"
+      ],
+      "note": "长时间盯着智能手机的行为。"
+    },
+    {
+      "w": "selfie-vanity",
+      "pos": "n.",
+      "cn": "沉溺自拍、以自拍满足自我关注的状态。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Today we fret about the isolating culture of smartphone-staring and selfie-vanity, but already in 1939 there was that lady regretting how, when all her street got wireles",
+      "forms": [
+        "selfie-vanity"
+      ],
+      "note": "沉溺自拍、以自拍满足自我关注的状态。"
+    },
+    {
+      "w": "wirelesses",
+      "pos": "词",
+      "cn": "wireless 的复数，指收音机或无线电设备。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Today we fret about the isolating culture of smartphone-staring and selfie-vanity, but already in 1939 there was that lady regretting how, when all her street got wireles",
+      "forms": [
+        "wirelesses"
+      ],
+      "note": "wireless 的复数，指收音机或无线电设备。"
+    },
+    {
+      "w": "It’s enough to make somebody do",
+      "pos": "phr.",
+      "cn": "足以使某人做某事；这里是带有幽默色彩的感叹。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "It’s enough to make a person put down the smartphone and go out front with a yard broom.",
+      "forms": [
+        "It’s enough to make somebody do"
+      ],
+      "note": "足以使某人做某事；这里是带有幽默色彩的感叹。"
+    },
+    {
+      "w": "put down",
+      "pos": "phr.",
+      "cn": "放下；不是“批评、贬低”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "It’s enough to make a person put down the smartphone and go out front with a yard broom.",
+      "forms": [
+        "put down"
+      ],
+      "note": "放下；不是“批评、贬低”。"
+    },
+    {
+      "w": "mandate",
+      "pos": "v.",
+      "cn": "常见义为“任期、授权”，此处指上级规定的任务或政策要求。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mandate was to “put everything out,” he recalled.",
+      "forms": [
+        "mandate"
+      ],
+      "note": "常见义为“任期、授权”，此处指上级规定的任务或政策要求。"
+    },
+    {
+      "w": "put everything out",
+      "pos": "phr.",
+      "cn": "此处 put out 指扑灭火灾，everything 指所有火情，而不是把所有东西拿出去。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mandate was to “put everything out,” he recalled.",
+      "forms": [
+        "put everything out"
+      ],
+      "note": "此处 put out 指扑灭火灾，everything 指所有火情，而不是把所有东西拿出去。"
+    },
+    {
+      "w": "join the U.S. Forest Service",
+      "pos": "phr.",
+      "cn": "加入美国林务局。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mandate was to “put everything out,” he recalled.",
+      "forms": [
+        "join the U.S. Forest Service"
+      ],
+      "note": "加入美国林务局。"
+    },
+    {
+      "w": "recall",
+      "pos": "词",
+      "cn": "回忆、回想；比 remember 更正式。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mandate was to “put everything out,” he recalled.",
+      "forms": [
+        "recall"
+      ],
+      "note": "回忆、回想；比 remember 更正式。"
+    },
+    {
+      "w": "enroll in",
+      "pos": "phr.",
+      "cn": "注册进入、入学；不是“登记某个项目”这么简单。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "But when Swetnam enrolled in graduate school at the University of Arizona’s Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating ",
+      "forms": [
+        "enroll in"
+      ],
+      "note": "注册进入、入学；不是“登记某个项目”这么简单。"
+    },
+    {
+      "w": "blaze",
+      "pos": "词",
+      "cn": "猛烈的火焰或火灾；此处是森林火灾。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "But when Swetnam enrolled in graduate school at the University of Arizona’s Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating ",
+      "forms": [
+        "blaze"
+      ],
+      "note": "猛烈的火焰或火灾；此处是森林火灾。"
+    },
+    {
+      "w": "date back",
+      "pos": "phr.",
+      "cn": "追溯到、始于某一时间。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "But when Swetnam enrolled in graduate school at the University of Arizona’s Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating ",
+      "forms": [
+        "date back"
+      ],
+      "note": "追溯到、始于某一时间。"
+    },
+    {
+      "w": "tree-ring research",
+      "pos": "phr.",
+      "cn": "树轮研究，通过年轮等信息研究树木和历史环境。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "But when Swetnam enrolled in graduate school at the University of Arizona’s Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating ",
+      "forms": [
+        "tree-ring research"
+      ],
+      "note": "树轮研究，通过年轮等信息研究树木和历史环境。"
+    },
+    {
+      "w": "European colonist",
+      "pos": "phr.",
+      "cn": "欧洲殖民者。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "But when Swetnam enrolled in graduate school at the University of Arizona’s Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating ",
+      "forms": [
+        "European colonist"
+      ],
+      "note": "欧洲殖民者。"
+    },
+    {
+      "w": "arrive on the continent",
+      "pos": "phr.",
+      "cn": "抵达这片大陆。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "But when Swetnam enrolled in graduate school at the University of Arizona’s Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating ",
+      "forms": [
+        "arrive on the continent"
+      ],
+      "note": "抵达这片大陆。"
+    },
+    {
+      "w": "bear",
+      "pos": "词",
+      "cn": "常见义为“熊”或“忍受”，此处意为“带有、留下（痕迹）”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Some of the trees he analyzed bore more than 20 fire scars among their rings.",
+      "forms": [
+        "bear"
+      ],
+      "note": "常见义为“熊”或“忍受”，此处意为“带有、留下（痕迹）”。"
+    },
+    {
+      "w": "fire scar",
+      "pos": "phr.",
+      "cn": "火灾疤痕，指树木经历火灾后在年轮上留下的痕迹。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Some of the trees he analyzed bore more than 20 fire scars among their rings.",
+      "forms": [
+        "fire scar"
+      ],
+      "note": "火灾疤痕，指树木经历火灾后在年轮上留下的痕迹。"
+    },
+    {
+      "w": "among their rings",
+      "pos": "phr.",
+      "cn": "在它们的年轮之间或年轮中。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Some of the trees he analyzed bore more than 20 fire scars among their rings.",
+      "forms": [
+        "among their rings"
+      ],
+      "note": "在它们的年轮之间或年轮中。"
+    },
+    {
+      "w": "more than 20",
+      "pos": "phr.",
+      "cn": "超过 20 个，表示树木反复经历过火灾。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Some of the trees he analyzed bore more than 20 fire scars among their rings.",
+      "forms": [
+        "more than 20"
+      ],
+      "note": "超过 20 个，表示树木反复经历过火灾。"
+    },
+    {
+      "w": "severe",
+      "pos": "词",
+      "cn": "严重的、猛烈的；此处描述火灾强度，而不是人的严厉态度。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The fact that fires happened so often meant they couldn’t have been severe enough to kill most trees.",
+      "forms": [
+        "severe"
+      ],
+      "note": "严重的、猛烈的；此处描述火灾强度，而不是人的严厉态度。"
+    },
+    {
+      "w": "couldn’t have been",
+      "pos": "phr.",
+      "cn": "对过去情况的否定推断，意为“不可能曾经是……”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The fact that fires happened so often meant they couldn’t have been severe enough to kill most trees.",
+      "forms": [
+        "couldn’t have been"
+      ],
+      "note": "对过去情况的否定推断，意为“不可能曾经是……”。"
+    },
+    {
+      "w": "a growing body of research",
+      "pos": "phr.",
+      "cn": "不断增加的研究成果或研究证据，不是“正在生长的研究身体”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier.",
+      "forms": [
+        "a growing body of research"
+      ],
+      "note": "不断增加的研究成果或研究证据，不是“正在生长的研究身体”。"
+    },
+    {
+      "w": "low-severity",
+      "pos": "n.",
+      "cn": "低强度的，指火灾造成的破坏程度较低。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier.",
+      "forms": [
+        "low-severity"
+      ],
+      "note": "低强度的，指火灾造成的破坏程度较低。"
+    },
+    {
+      "w": "instead",
+      "pos": "词",
+      "cn": "相反、反而，用于推翻前面可能的直觉。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier.",
+      "forms": [
+        "instead"
+      ],
+      "note": "相反、反而，用于推翻前面可能的直觉。"
+    },
+    {
+      "w": "make ecosystems healthier",
+      "pos": "phr.",
+      "cn": "使生态系统更健康。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier.",
+      "forms": [
+        "make ecosystems healthier"
+      ],
+      "note": "使生态系统更健康。"
+    },
+    {
+      "w": "rid ... of",
+      "pos": "phr.",
+      "cn": "使……摆脱、清除……；不是普通的 remove 的机械替换。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease.",
+      "forms": [
+        "rid ... of"
+      ],
+      "note": "使……摆脱、清除……；不是普通的 remove 的机械替换。"
+    },
+    {
+      "w": "curb",
+      "pos": "词",
+      "cn": "抑制、遏制；此处不是“路缘石”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease.",
+      "forms": [
+        "curb"
+      ],
+      "note": "抑制、遏制；此处不是“路缘石”。"
+    },
+    {
+      "w": "dead and sick trees",
+      "pos": "phr.",
+      "cn": "枯死树木和患病树木。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease.",
+      "forms": [
+        "dead and sick trees"
+      ],
+      "note": "枯死树木和患病树木。"
+    },
+    {
+      "w": "reduce competition",
+      "pos": "phr.",
+      "cn": "减少竞争；这里指树木之间对资源的竞争。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease.",
+      "forms": [
+        "reduce competition"
+      ],
+      "note": "减少竞争；这里指树木之间对资源的竞争。"
+    },
+    {
+      "w": "the spread of disease",
+      "pos": "phr.",
+      "cn": "疾病传播。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease.",
+      "forms": [
+        "the spread of disease"
+      ],
+      "note": "疾病传播。"
+    },
+    {
+      "w": "build up",
+      "pos": "phr.",
+      "cn": "积累、逐渐增多；不是“建立起来”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Because flammable material couldn’t build up on the landscape, blazes tended to move Slowly and peter out when they reached the footprints of previous burns.",
+      "forms": [
+        "build up"
+      ],
+      "note": "积累、逐渐增多；不是“建立起来”。"
+    },
+    {
+      "w": "peter out",
+      "pos": "phr.",
+      "cn": "逐渐减弱并最终停止；此处指火势慢慢熄灭。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Because flammable material couldn’t build up on the landscape, blazes tended to move Slowly and peter out when they reached the footprints of previous burns.",
+      "forms": [
+        "peter out"
+      ],
+      "note": "逐渐减弱并最终停止；此处指火势慢慢熄灭。"
+    },
+    {
+      "w": "footprint",
+      "pos": "词",
+      "cn": "本义为“脚印”，此处指此前火灾留下的范围或痕迹。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Because flammable material couldn’t build up on the landscape, blazes tended to move Slowly and peter out when they reached the footprints of previous burns.",
+      "forms": [
+        "footprint"
+      ],
+      "note": "本义为“脚印”，此处指此前火灾留下的范围或痕迹。"
+    },
+    {
+      "w": "flammable material",
+      "pos": "phr.",
+      "cn": "易燃物。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Because flammable material couldn’t build up on the landscape, blazes tended to move Slowly and peter out when they reached the footprints of previous burns.",
+      "forms": [
+        "flammable material"
+      ],
+      "note": "易燃物。"
+    },
+    {
+      "w": "on the landscape",
+      "pos": "phr.",
+      "cn": "在地表环境中。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Because flammable material couldn’t build up on the landscape, blazes tended to move Slowly and peter out when they reached the footprints of previous burns.",
+      "forms": [
+        "on the landscape"
+      ],
+      "note": "在地表环境中。"
+    },
+    {
+      "w": "previous burns",
+      "pos": "phr.",
+      "cn": "此前发生的火灾或烧过的区域。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Because flammable material couldn’t build up on the landscape, blazes tended to move Slowly and peter out when they reached the footprints of previous burns.",
+      "forms": [
+        "previous burns"
+      ],
+      "note": "此前发生的火灾或烧过的区域。"
+    },
+    {
+      "w": "team up",
+      "pos": "phr.",
+      "cn": "合作、联手。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In 2022, Swetnam and other scientists teamed up to compile a database of fire-scarred trees from across the continent.",
+      "forms": [
+        "team up"
+      ],
+      "note": "合作、联手。"
+    },
+    {
+      "w": "compile a database",
+      "pos": "phr.",
+      "cn": "汇编、建立数据库。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In 2022, Swetnam and other scientists teamed up to compile a database of fire-scarred trees from across the continent.",
+      "forms": [
+        "compile a database"
+      ],
+      "note": "汇编、建立数据库。"
+    },
+    {
+      "w": "fire-scarred tree",
+      "pos": "phr.",
+      "cn": "带有火灾痕迹的树木。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In 2022, Swetnam and other scientists teamed up to compile a database of fire-scarred trees from across the continent.",
+      "forms": [
+        "fire-scarred tree"
+      ],
+      "note": "带有火灾痕迹的树木。"
+    },
+    {
+      "w": "basis",
+      "pos": "词",
+      "cn": "基础、依据；不是抽象的“基底”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Their North American tree-ring fire-scar network (NAFSN) provided the basis for a study published last month.",
+      "forms": [
+        "basis"
+      ],
+      "note": "基础、依据；不是抽象的“基底”。"
+    },
+    {
+      "w": "provide the basis for",
+      "pos": "phr.",
+      "cn": "为……提供基础。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Their North American tree-ring fire-scar network (NAFSN) provided the basis for a study published last month.",
+      "forms": [
+        "provide the basis for"
+      ],
+      "note": "为……提供基础。"
+    },
+    {
+      "w": "tree-ring fire-scar network",
+      "pos": "phr.",
+      "cn": "树轮火灾痕迹网络。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Their North American tree-ring fire-scar network (NAFSN) provided the basis for a study published last month.",
+      "forms": [
+        "tree-ring fire-scar network"
+      ],
+      "note": "树轮火灾痕迹网络。"
+    },
+    {
+      "w": "cadence",
+      "pos": "n.",
+      "cn": "本义可指节奏、韵律，此处指火灾发生的频率或周期。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall.",
+      "forms": [
+        "cadence"
+      ],
+      "note": "本义可指节奏、韵律，此处指火灾发生的频率或周期。"
+    },
+    {
+      "w": "shortfall",
+      "pos": "词",
+      "cn": "不足、缺口；这里指实际火灾数量比历史预期少很多。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall.",
+      "forms": [
+        "shortfall"
+      ],
+      "note": "不足、缺口；这里指实际火灾数量比历史预期少很多。"
+    },
+    {
+      "w": "over the past few decades",
+      "pos": "phr.",
+      "cn": "在过去几十年中。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall.",
+      "forms": [
+        "over the past few decades"
+      ],
+      "note": "在过去几十年中。"
+    },
+    {
+      "w": "a striking shortfall",
+      "pos": "phr.",
+      "cn": "明显而惊人的缺口。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall.",
+      "forms": [
+        "a striking shortfall"
+      ],
+      "note": "明显而惊人的缺口。"
+    },
+    {
+      "w": "experience fires",
+      "pos": "phr.",
+      "cn": "经历、发生火灾；不是“体验火灾”这一主观体验。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The NAFSN sites experienced less than a quarter of the number of fires that would have been expected without fire suppression.",
+      "forms": [
+        "experience fires"
+      ],
+      "note": "经历、发生火灾；不是“体验火灾”这一主观体验。"
+    },
+    {
+      "w": "fire suppression",
+      "pos": "phr.",
+      "cn": "人为灭火、压制火灾的措施。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The NAFSN sites experienced less than a quarter of the number of fires that would have been expected without fire suppression.",
+      "forms": [
+        "fire suppression"
+      ],
+      "note": "人为灭火、压制火灾的措施。"
+    },
+    {
+      "w": "less than a quarter of",
+      "pos": "phr.",
+      "cn": "不到……的四分之一。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The NAFSN sites experienced less than a quarter of the number of fires that would have been expected without fire suppression.",
+      "forms": [
+        "less than a quarter of"
+      ],
+      "note": "不到……的四分之一。"
+    },
+    {
+      "w": "would have been expected",
+      "pos": "phr.",
+      "cn": "本来预计会发生，带有与现实情况比较的假设意味。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The NAFSN sites experienced less than a quarter of the number of fires that would have been expected without fire suppression.",
+      "forms": [
+        "would have been expected"
+      ],
+      "note": "本来预计会发生，带有与现实情况比较的假设意味。"
+    },
+    {
+      "w": "deficit",
+      "pos": "词",
+      "cn": "不足、缺口；此处指实际火灾数与原本预期数量之间的差额。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire.",
+      "forms": [
+        "deficit"
+      ],
+      "note": "不足、缺口；此处指实际火灾数与原本预期数量之间的差额。"
+    },
+    {
+      "w": "testament",
+      "pos": "n.",
+      "cn": "证明、明证；不是宗教意义上的“圣经旧约”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire.",
+      "forms": [
+        "testament"
+      ],
+      "note": "证明、明证；不是宗教意义上的“圣经旧约”。"
+    },
+    {
+      "w": "a testament to",
+      "pos": "phr.",
+      "cn": "……的证明、明证。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire.",
+      "forms": [
+        "a testament to"
+      ],
+      "note": "……的证明、明证。"
+    },
+    {
+      "w": "modern firefighting",
+      "pos": "phr.",
+      "cn": "现代消防或现代灭火工作。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire.",
+      "forms": [
+        "modern firefighting"
+      ],
+      "note": "现代消防或现代灭火工作。"
+    },
+    {
+      "w": "past president",
+      "pos": "phr.",
+      "cn": "前任主席。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "This deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire.",
+      "forms": [
+        "past president"
+      ],
+      "note": "前任主席。"
+    },
+    {
+      "w": "erode",
+      "pos": "词",
+      "cn": "逐渐削弱、侵蚀；不是只表示物理表面的磨损。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“Yet the combined consequences of suppression and climate change have eroded humanity’s ability to suppress fires, particularly those that ignite under the most dangerous",
+      "forms": [
+        "erode"
+      ],
+      "note": "逐渐削弱、侵蚀；不是只表示物理表面的磨损。"
+    },
+    {
+      "w": "ignite",
+      "pos": "词",
+      "cn": "点燃、着火；此处是不及物意义“燃起”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“Yet the combined consequences of suppression and climate change have eroded humanity’s ability to suppress fires, particularly those that ignite under the most dangerous",
+      "forms": [
+        "ignite"
+      ],
+      "note": "点燃、着火；此处是不及物意义“燃起”。"
+    },
+    {
+      "w": "combined consequences of",
+      "pos": "phr.",
+      "cn": "……共同造成的后果。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“Yet the combined consequences of suppression and climate change have eroded humanity’s ability to suppress fires, particularly those that ignite under the most dangerous",
+      "forms": [
+        "combined consequences of"
+      ],
+      "note": "……共同造成的后果。"
+    },
+    {
+      "w": "particularly those that ...",
+      "pos": "phr.",
+      "cn": "尤其是那些……的火灾；those 指 fires。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“Yet the combined consequences of suppression and climate change have eroded humanity’s ability to suppress fires, particularly those that ignite under the most dangerous",
+      "forms": [
+        "particularly those that ..."
+      ],
+      "note": "尤其是那些……的火灾；those 指 fires。"
+    },
+    {
+      "w": "under dangerous weather conditions",
+      "pos": "phr.",
+      "cn": "在危险的天气条件下。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“Yet the combined consequences of suppression and climate change have eroded humanity’s ability to suppress fires, particularly those that ignite under the most dangerous",
+      "forms": [
+        "under dangerous weather conditions"
+      ],
+      "note": "在危险的天气条件下。"
+    },
+    {
+      "w": "go up in smoke",
+      "pos": "phr.",
+      "cn": "化为乌有、被大火毁掉；这里是形象表达，不是字面上的“升入烟雾”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it.",
+      "forms": [
+        "go up in smoke"
+      ],
+      "note": "化为乌有、被大火毁掉；这里是形象表达，不是字面上的“升入烟雾”。"
+    },
+    {
+      "w": "healthy fire",
+      "pos": "phr.",
+      "cn": "有益于生态系统的、可控制的火，而不是任何一场自然野火。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it.",
+      "forms": [
+        "healthy fire"
+      ],
+      "note": "有益于生态系统的、可控制的火，而不是任何一场自然野火。"
+    },
+    {
+      "w": "prevent ... from doing",
+      "pos": "phr.",
+      "cn": "防止……做某事。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it.",
+      "forms": [
+        "prevent ... from doing"
+      ],
+      "note": "防止……做某事。"
+    },
+    {
+      "w": "bring ... back to",
+      "pos": "phr.",
+      "cn": "把……重新带回……。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it.",
+      "forms": [
+        "bring ... back to"
+      ],
+      "note": "把……重新带回……。"
+    },
+    {
+      "w": "places that need it",
+      "pos": "phr.",
+      "cn": "需要这种生态性火灾的地方。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "To prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it.",
+      "forms": [
+        "places that need it"
+      ],
+      "note": "需要这种生态性火灾的地方。"
+    },
+    {
+      "w": "prescribed burn",
+      "pos": "phr.",
+      "cn": "计划性燃烧、处方性燃烧，指由专业人员在可控条件下有意点燃的火。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient.",
+      "forms": [
+        "prescribed burn"
+      ],
+      "note": "计划性燃烧、处方性燃烧，指由专业人员在可控条件下有意点燃的火。"
+    },
+    {
+      "w": "resilient",
+      "pos": "词",
+      "cn": "有韧性的、恢复力强的；此处指景观更能承受和恢复火灾影响。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient.",
+      "forms": [
+        "resilient"
+      ],
+      "note": "有韧性的、恢复力强的；此处指景观更能承受和恢复火灾影响。"
+    },
+    {
+      "w": "oversee the use of",
+      "pos": "phr.",
+      "cn": "监督……的使用或实施。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient.",
+      "forms": [
+        "oversee the use of"
+      ],
+      "note": "监督……的使用或实施。"
+    },
+    {
+      "w": "what is known as",
+      "pos": "phr.",
+      "cn": "所谓的、被称为……的。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient.",
+      "forms": [
+        "what is known as"
+      ],
+      "note": "所谓的、被称为……的。"
+    },
+    {
+      "w": "make ... more resilient",
+      "pos": "phr.",
+      "cn": "使……更有韧性、更能抵抗冲击。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient.",
+      "forms": [
+        "make ... more resilient"
+      ],
+      "note": "使……更有韧性、更能抵抗冲击。"
+    },
+    {
+      "w": "fuel",
+      "pos": "词",
+      "cn": "此处指可供火灾燃烧的枯枝、灌木等可燃物，不是交通工具使用的燃料。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had b",
+      "forms": [
+        "fuel"
+      ],
+      "note": "此处指可供火灾燃烧的枯枝、灌木等可燃物，不是交通工具使用的燃料。"
+    },
+    {
+      "w": "facilities",
+      "pos": "词",
+      "cn": "设施、建筑等配套设施，不是“能力”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had b",
+      "forms": [
+        "facilities"
+      ],
+      "note": "设施、建筑等配套设施，不是“能力”。"
+    },
+    {
+      "w": "be intentionally ignited",
+      "pos": "phr.",
+      "cn": "被有意点燃。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had b",
+      "forms": [
+        "be intentionally ignited"
+      ],
+      "note": "被有意点燃。"
+    },
+    {
+      "w": "keep the blazes easy to control",
+      "pos": "phr.",
+      "cn": "使火势保持在易于控制的状态。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had b",
+      "forms": [
+        "keep the blazes easy to control"
+      ],
+      "note": "使火势保持在易于控制的状态。"
+    },
+    {
+      "w": "build up around",
+      "pos": "phr.",
+      "cn": "在……周围逐渐积累。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had b",
+      "forms": [
+        "build up around"
+      ],
+      "note": "在……周围逐渐积累。"
+    },
+    {
+      "w": "subsequent",
+      "pos": "词",
+      "cn": "随后发生的、后续的；不是“次要的”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Research shows that these prescribed burns make subsequent wildfires less severe, even if later fires happen under the most dangerous weather conditions.",
+      "forms": [
+        "subsequent"
+      ],
+      "note": "随后发生的、后续的；不是“次要的”。"
+    },
+    {
+      "w": "make wildfires less severe",
+      "pos": "phr.",
+      "cn": "使野火的严重程度降低。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Research shows that these prescribed burns make subsequent wildfires less severe, even if later fires happen under the most dangerous weather conditions.",
+      "forms": [
+        "make wildfires less severe"
+      ],
+      "note": "使野火的严重程度降低。"
+    },
+    {
+      "w": "even if",
+      "pos": "phr.",
+      "cn": "即使、哪怕，引导让步条件。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Research shows that these prescribed burns make subsequent wildfires less severe, even if later fires happen under the most dangerous weather conditions.",
+      "forms": [
+        "even if"
+      ],
+      "note": "即使、哪怕，引导让步条件。"
+    },
+    {
+      "w": "later fires",
+      "pos": "phr.",
+      "cn": "之后发生的火灾。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Research shows that these prescribed burns make subsequent wildfires less severe, even if later fires happen under the most dangerous weather conditions.",
+      "forms": [
+        "later fires"
+      ],
+      "note": "之后发生的火灾。"
+    },
+    {
+      "w": "tactic",
+      "pos": "adj.",
+      "cn": "此处指通过计划性燃烧恢复有益火灾的策略，不是军事战术。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts s",
+      "forms": [
+        "tactic"
+      ],
+      "note": "此处指通过计划性燃烧恢复有益火灾的策略，不是军事战术。"
+    },
+    {
+      "w": "challenging",
+      "pos": "v./n.",
+      "cn": "困难的、棘手的；不是单纯的“具有挑战性”口号。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts s",
+      "forms": [
+        "challenging"
+      ],
+      "note": "困难的、棘手的；不是单纯的“具有挑战性”口号。"
+    },
+    {
+      "w": "agree on the need for",
+      "pos": "phr.",
+      "cn": "就需要……达成共识。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts s",
+      "forms": [
+        "agree on the need for"
+      ],
+      "note": "就需要……达成共识。"
+    },
+    {
+      "w": "public official",
+      "pos": "phr.",
+      "cn": "政府官员。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts s",
+      "forms": [
+        "public official"
+      ],
+      "note": "政府官员。"
+    },
+    {
+      "w": "make ... more challenging",
+      "pos": "phr.",
+      "cn": "使……变得更困难。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Yet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts s",
+      "forms": [
+        "make ... more challenging"
+      ],
+      "note": "使……变得更困难。"
+    },
+    {
+      "w": "double-edged sword",
+      "pos": "phr.",
+      "cn": "双刃剑，指同一情况同时带来必要性和风险、好处和困难。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“It’s a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challeng",
+      "forms": [
+        "double-edged sword"
+      ],
+      "note": "双刃剑，指同一情况同时带来必要性和风险、好处和困难。"
+    },
+    {
+      "w": "this work",
+      "pos": "phr.",
+      "cn": "指前文通过计划性燃烧等方式恢复有益火灾、降低燃料负荷的工作。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“It’s a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challeng",
+      "forms": [
+        "this work"
+      ],
+      "note": "指前文通过计划性燃烧等方式恢复有益火灾、降低燃料负荷的工作。"
+    },
+    {
+      "w": "get more severe and larger",
+      "pos": "phr.",
+      "cn": "变得更猛烈、规模更大。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“It’s a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challeng",
+      "forms": [
+        "get more severe and larger"
+      ],
+      "note": "变得更猛烈、规模更大。"
+    },
+    {
+      "w": "under climate change",
+      "pos": "phr.",
+      "cn": "在气候变化影响下。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“It’s a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challeng",
+      "forms": [
+        "under climate change"
+      ],
+      "note": "在气候变化影响下。"
+    },
+    {
+      "w": "even more",
+      "pos": "phr.",
+      "cn": "更加、比以前更需要。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“It’s a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challeng",
+      "forms": [
+        "even more"
+      ],
+      "note": "更加、比以前更需要。"
+    }
+  ]
+}

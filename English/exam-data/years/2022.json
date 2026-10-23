@@ -1,0 +1,699 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "“植物神经生物学”主张的提出与反驳",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "文章从“植物神经生物学”这一术语的由来切入：21 世纪初，一些研究者认为植物行为的某些方面可与动物智力相比，植物茎叶中的电信号甚至暗示意识的存在；但一篇新观点文章指出，植物与动物差异巨大，所谓“植物智力”的证据并不成立。文章随后梳理“类神经元细胞—植物神经系统—类大脑指挥中心”的层层推断，并以“信号只是表面上相似”“没有神经系统，有意识的可能性几乎为零”“无法逃离危险却耗费能量感知疼痛是糟糕的进化策略”逐层反驳。做题时注意让步、转折与因果标记：Though、However、so...that、Since 等。",
+    "passage": [
+      {
+        "en": "The idea that plants have some degree of consciousness first took root in the early 2000s; the term \"plant neurobiology\" was {{1}} around the notion that some aspects of plant behavior could be {{2}} to intelligence in animals. {{3}} plants lack brains, the firing of electrical signals in their stems and leaves nonetheless triggered responses that {{4}} consciousness, researchers previously reported.",
+        "zh": "植物具有某种程度意识的观念，最早在 21 世纪初扎根；“植物神经生物学”这一术语，正是围绕“植物行为的某些方面可与动物的智力相提并论”这一观念而被创造出来的。研究人员此前报告称，尽管植物没有大脑，但其茎叶中电信号的触发仍会引起一些反应，而这些反应暗示着意识的存在。"
+      },
+      {
+        "en": "But such an idea is untrue, according to a new opinion article. Plant biology is complex and fascinating, but it {{5}} so greatly from that of animals that so-called {{6}} of plants' intelligence is inconclusive, the authors wrote.",
+        "zh": "但根据一篇新的观点文章，这种想法并不成立。作者们写道，植物生物学复杂而迷人，但它与动物生物学差异如此之大，以至于所谓植物智力的证据并不具有说服力。"
+      },
+      {
+        "en": "Beginning in 2006, some scientists have {{7}} that plants possess neuron-like cells that interact with hormones and neurotransmitters, {{8}} \"a plant nervous system, {{9}} to that in animals,\" said lead study author Lincoln Taiz. \"They {{10}} claimed that plants have 'brain-like command centers' at their root tips.\" This {{11}} makes sense if you simplify the workings of a complex brain, {{12}} it to an array of electrical pulses; cells in plants also communicate through electrical signals. {{13}} the signaling in a plant is only {{14}} similar to the firing in a complex animal brain, which is more than \"a mass of cells that communicate by electricity,\" Taiz said.",
+        "zh": "从 2006 年起，一些科学家一直主张，植物拥有能与激素和神经递质相互作用的类神经元细胞，从而形成“一套植物神经系统，与动物的神经系统类似”，该研究的第一作者林肯·泰兹说。“他们甚至声称，植物的根尖处存在‘类大脑指挥中心’。”如果你把复杂大脑的运作方式加以简化，把它归结为一组电脉冲，那么这一视角就说得通；植物细胞也通过电信号进行交流。然而，泰兹说，植物体内的信号传导只是表面上类似于复杂动物大脑中的放电活动，而后者远不止是“一团通过电相互交流的细胞”。"
+      },
+      {
+        "en": "\"For consciousness to evolve, a brain with a threshold {{15}} of complexity and capacity is required,\" he {{16}}. \"Since plants don't have nervous systems, the {{17}} that they have consciousness are effectively zero.\" And what's so great about consciousness, anyway? Plants can't run away from {{18}}, so investing energy in a body system which {{19}} a threat and can feel pain would be a very {{20}} evolutionary strategy, according to the article.",
+        "zh": "“要让意识进化出来，需要有一个在复杂程度和能力上都达到临界水平的大脑，”他补充说。“既然植物没有神经系统，那么它们拥有意识的可能性实际上为零。”再说，意识究竟有什么了不起呢？根据这篇文章，植物无法逃离危险，因此把能量投入一个能够识别威胁、又能感受疼痛的身体系统，会是一种非常糟糕的进化策略。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "A",
+        "options": [
+          "coined",
+          "discovered",
+          "collected",
+          "issued"
+        ],
+        "cn": [
+          "创造（新词语）；铸造",
+          "发现",
+          "收集",
+          "发布；发行"
+        ],
+        "explain": "coin 作动词意为“创造（新词语）、首次使用”，the term \"plant neurobiology\" was coined 即“植物神经生物学”这一术语被创造出来，与 around the notion（围绕这一观念）自然衔接，说明该术语因某种观念而得名。",
+        "trap": "B discovered 指发现本来就存在的事物，术语是人为创造的，不能被“发现”；C collected 意为“收集”，D issued 多指官方“发布、发行”，均不能与 the term 搭配表示“造出术语”。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 2,
+        "answer": "C",
+        "options": [
+          "attributed",
+          "directed",
+          "compared",
+          "confined"
+        ],
+        "cn": [
+          "把……归因于",
+          "把……引向；指导",
+          "把……比作；与……相比",
+          "把……限制在"
+        ],
+        "explain": "compare A to B 意为“把 A 比作 B、将 A 与 B 相比”。此处说植物行为的某些方面 could be compared to intelligence in animals，即“可与动物的智力相提并论”，这正是“植物神经生物学”这一术语所依托的观念。",
+        "trap": "A attribute A to B 意为“把 A 归因于 B”，若选入则变成“植物行为被归因于动物智力”，主体和逻辑都不通；B direct to 意为“把……引向”，D confine to 意为“局限于”，都不能表示两者之间的相似性比较。",
+        "type": "动词短语/搭配"
+      },
+      {
+        "n": 3,
+        "answer": "D",
+        "options": [
+          "Unless",
+          "When",
+          "Once",
+          "Though"
+        ],
+        "cn": [
+          "除非",
+          "当……时",
+          "一旦",
+          "尽管"
+        ],
+        "explain": "前半句说“植物没有大脑”，后半句说茎叶中的电信号“仍会”引发暗示意识的反应，前后是让步转折关系，用 Though 引导让步状语从句，与 nonetheless 呼应。",
+        "trap": "A Unless 表否定条件，B When 表时间，C Once 表条件或时间；三者都无法解释“没有大脑”与“仍有类似意识的反应”之间的对立，也与 nonetheless 的转折语气不匹配。",
+        "type": "连词/让步"
+      },
+      {
+        "n": 4,
+        "answer": "C",
+        "options": [
+          "coped with",
+          "consisted of",
+          "hinted at",
+          "extended to"
+        ],
+        "cn": [
+          "应对；处理",
+          "由……组成",
+          "暗示；间接表明",
+          "延伸到"
+        ],
+        "explain": "hint at 意为“暗示、间接表明”。responses that hinted at consciousness 即“暗示着意识存在的反应”，语气留有余地，符合研究者“此前报告”的推测口吻，也为下文“这种想法并不成立”埋下伏笔。",
+        "trap": "A cope with 意为“应对”，主语通常是人或机构；B consist of 意为“由……组成”，反应不能“由意识组成”；D extend to 意为“延伸到”，与 consciousness 搭配后变成“延伸到意识”，语义不通。",
+        "type": "动词短语/语义"
+      },
+      {
+        "n": 5,
+        "answer": "D",
+        "options": [
+          "suffers",
+          "benefits",
+          "develops",
+          "differs"
+        ],
+        "cn": [
+          "遭受；受苦",
+          "受益",
+          "发展",
+          "不同；有差异"
+        ],
+        "explain": "differ from 意为“与……不同”。植物生物学与动物生物学“差异如此之大”，以至于所谓植物智力的证据不具说服力；下文正是从神经系统、大脑等角度论证两者的根本差异。",
+        "trap": "A suffer from 意为“遭受……之苦”，B benefit from 意为“从……中受益”，均需接负面或正面来源，不能说明“植物生物学与动物生物学”的关系；C develop 与 from 搭配不表示“差异”。",
+        "type": "动词/搭配"
+      },
+      {
+        "n": 6,
+        "answer": "B",
+        "options": [
+          "acceptance",
+          "evidence",
+          "cultivation",
+          "creation"
+        ],
+        "cn": [
+          "接受；认可",
+          "证据",
+          "培育；培养",
+          "创造"
+        ],
+        "explain": "so-called evidence of plants' intelligence 意为“所谓植物智力的证据”，evidence 与 is inconclusive（不具结论性、不足以说明问题）构成自然搭配，说明现有证据无法证明植物有智力。",
+        "trap": "A acceptance 意为“接受、认可”，与 inconclusive 搭配后变成“接受是不确定的”，逻辑混乱；C cultivation 意为“培育”，D creation 意为“创造”，都不能被 is inconclusive 评价。",
+        "type": "名词/语义"
+      },
+      {
+        "n": 7,
+        "answer": "C",
+        "options": [
+          "doubted",
+          "denied",
+          "argued",
+          "requested"
+        ],
+        "cn": [
+          "怀疑",
+          "否认",
+          "主张；论证",
+          "请求"
+        ],
+        "explain": "argue that... 意为“主张、论证……”。后文引述科学家关于“类神经元细胞”“植物神经系统”的正面论断，说明他们是在提出并论证一种观点，故用 argued。",
+        "trap": "A doubted 和 B denied 都表示不相信、不承认其后的内容，与后文他们主动声称植物有“类大脑指挥中心”相矛盾；D requested 意为“请求”，不能引出学术主张。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 8,
+        "answer": "B",
+        "options": [
+          "adapting",
+          "forming",
+          "repairing",
+          "testing"
+        ],
+        "cn": [
+          "适应；改编",
+          "形成；构成",
+          "修理",
+          "测试"
+        ],
+        "explain": "此处用现在分词作结果状语：这些类神经元细胞相互作用，从而“形成”一套植物神经系统。forming 与前面的 possess、interact 构成“拥有细胞—相互作用—形成系统”的递进。",
+        "trap": "A adapting 意为“适应”，通常需接 to，且不能说明细胞与系统之间的构成关系；C repairing 意为“修复”，D testing 意为“测试”，都与“细胞构成系统”的语义不符。",
+        "type": "非谓语/结果"
+      },
+      {
+        "n": 9,
+        "answer": "A",
+        "options": [
+          "analogous",
+          "essential",
+          "suitable",
+          "sensitive"
+        ],
+        "cn": [
+          "类似的；相似的",
+          "必不可少的",
+          "合适的",
+          "敏感的"
+        ],
+        "explain": "analogous to 意为“与……类似”。引号内说这是一套植物神经系统，与动物的神经系统相类似，analogous 准确复现了前文 compared to 的类比关系。",
+        "trap": "B essential to 意为“对……必不可少”，C suitable to/for 意为“适合”，D sensitive to 意为“对……敏感”；三者都不能说明植物神经系统与动物神经系统之间的相似性。",
+        "type": "形容词/搭配"
+      },
+      {
+        "n": 10,
+        "answer": "D",
+        "options": [
+          "just",
+          "ever",
+          "still",
+          "even"
+        ],
+        "cn": [
+          "仅仅；刚刚",
+          "曾经",
+          "仍然",
+          "甚至"
+        ],
+        "explain": "even 表递进强调。前文已说植物拥有类神经元细胞、形成植物神经系统，本句进一步说它们“甚至”声称根尖有“类大脑指挥中心”，语气层层加码，引出下文的质疑。",
+        "trap": "A just 意为“仅仅”，会削弱语气，与“类大脑指挥中心”这一更进一步的断言不符；B ever 多用于疑问或否定，C still 表持续，都不能体现递进。",
+        "type": "副词/递进"
+      },
+      {
+        "n": 11,
+        "answer": "C",
+        "options": [
+          "restriction",
+          "experiment",
+          "perspective",
+          "demand"
+        ],
+        "cn": [
+          "限制",
+          "实验",
+          "视角；观点",
+          "要求"
+        ],
+        "explain": "This perspective 回指上文“植物拥有类神经元细胞、形成类神经系统、根尖有类大脑指挥中心”这一整套看法。perspective 意为“视角、观点”，与 makes sense（说得通）搭配自然。",
+        "trap": "A restriction 意为“限制”，B experiment 意为“实验”，D demand 意为“要求”；上文提出的是一种解释性观点，而非实验或要求，且三者与 makes sense 搭配都不自然。",
+        "type": "名词/指代"
+      },
+      {
+        "n": 12,
+        "answer": "B",
+        "options": [
+          "attaching",
+          "reducing",
+          "returning",
+          "exposing"
+        ],
+        "cn": [
+          "附上；系上",
+          "把……归结为；简化",
+          "返回",
+          "使暴露于"
+        ],
+        "explain": "reduce A to B 意为“把 A 归结为、简化为 B”。此处说，如果把复杂大脑的运作简化，把它“归结为”一组电脉冲，那么上述视角就说得通；reducing 与 simplify 构成同义复现。",
+        "trap": "A attach to 意为“附在……上”，C return to 意为“回到”，D expose to 意为“使暴露于”；三者都不能与 simplify 呼应，也不能表达“把复杂机制简化为电脉冲”的意思。",
+        "type": "动词/搭配"
+      },
+      {
+        "n": 13,
+        "answer": "A",
+        "options": [
+          "However",
+          "Moreover",
+          "Therefore",
+          "Otherwise"
+        ],
+        "cn": [
+          "然而",
+          "此外；而且",
+          "因此",
+          "否则"
+        ],
+        "explain": "前句说植物细胞也通过电信号交流，似乎与动物大脑相似；本句转而指出，植物体内的信号传导“只是表面上”相似，前后构成转折，用 However。",
+        "trap": "B Moreover 表递进，C Therefore 表因果，D Otherwise 表相反假设；三者都不能体现“看似相似—其实只是表面相似”的转折关系。",
+        "type": "逻辑关系/转折"
+      },
+      {
+        "n": 14,
+        "answer": "C",
+        "options": [
+          "temporarily",
+          "literally",
+          "superficially",
+          "imaginarily"
+        ],
+        "cn": [
+          "暂时地",
+          "字面上；确实地",
+          "表面上；肤浅地",
+          "想象中地"
+        ],
+        "explain": "superficially similar 意为“只是表面上相似”。后文说复杂动物大脑“远不止是一团通过电相互交流的细胞”，正说明植物信号与动物大脑放电的相似仅停留在表面，superficially 与 only 搭配，语气准确。",
+        "trap": "A temporarily 强调时间上的暂时，而非相似程度；B literally 意为“字面上、确实”，与 only...similar 的限定语气冲突；D imaginarily 意为“想象中地”，不符合科学研究语境。",
+        "type": "副词/语义"
+      },
+      {
+        "n": 15,
+        "answer": "B",
+        "options": [
+          "list",
+          "level",
+          "label",
+          "load"
+        ],
+        "cn": [
+          "清单；列表",
+          "水平；程度",
+          "标签",
+          "负荷；负载"
+        ],
+        "explain": "a threshold level of complexity and capacity 意为“达到临界水平的复杂程度和能力”。threshold 常与 level 搭配，表示触发某种结果所需达到的门槛，此处说明意识进化对大脑复杂度的最低要求。",
+        "trap": "A list 意为“清单”，C label 意为“标签”，D load 意为“负荷”；三者都不能与 threshold 搭配表示“临界水平”，也无法说明大脑的复杂程度。",
+        "type": "名词/搭配"
+      },
+      {
+        "n": 16,
+        "answer": "D",
+        "options": [
+          "recalled",
+          "agreed",
+          "questioned",
+          "added"
+        ],
+        "cn": [
+          "回忆起",
+          "同意",
+          "质疑",
+          "补充说"
+        ],
+        "explain": "此处是泰兹在上一段引语之后继续补充引述，he added 意为“他补充说”，是学术报道中引出同一受访者后续话语的常用表达。",
+        "trap": "A recalled 意为“回忆起”，B agreed 意为“同意”，都需要上文有相应的回忆或他人观点作对象；C questioned 意为“质疑”，与泰兹本人持这一观点的事实相反。",
+        "type": "动词/引语"
+      },
+      {
+        "n": 17,
+        "answer": "A",
+        "options": [
+          "chances",
+          "risks",
+          "excuses",
+          "assumptions"
+        ],
+        "cn": [
+          "可能性",
+          "风险",
+          "借口",
+          "假设"
+        ],
+        "explain": "the chances that... are effectively zero 意为“……的可能性实际上为零”。既然植物没有神经系统，那么它们拥有意识的可能性几乎不存在，chances 与 are zero 搭配自然。",
+        "trap": "B risks 意为“风险”，意识之有无不是一种风险；C excuses 意为“借口”，D assumptions 意为“假设”，都不能用 are effectively zero 来表示“可能性为零”。",
+        "type": "名词/语义"
+      },
+      {
+        "n": 18,
+        "answer": "A",
+        "options": [
+          "danger",
+          "failure",
+          "warning",
+          "control"
+        ],
+        "cn": [
+          "危险",
+          "失败",
+          "警告",
+          "控制"
+        ],
+        "explain": "run away from danger 意为“逃离危险”。植物扎根原地，无法像动物那样逃离危险，因此“投入能量去感知疼痛”对它们并无逃生上的用处，这正是下文“糟糕的进化策略”的前提。",
+        "trap": "B failure 意为“失败”，C warning 意为“警告”，D control 意为“控制”；植物无法逃离的不是“失败”或“控制”，而 warning 通常是发出警告而非逃离警告。",
+        "type": "名词/语境"
+      },
+      {
+        "n": 19,
+        "answer": "D",
+        "options": [
+          "represents",
+          "includes",
+          "reveals",
+          "recognizes"
+        ],
+        "cn": [
+          "代表；象征",
+          "包括",
+          "揭示",
+          "识别；认出"
+        ],
+        "explain": "recognize a threat 意为“识别威胁”。这个身体系统要能“识别”威胁并感受疼痛，才会消耗能量；而植物无法逃离危险，所以这种能力对它们是浪费。",
+        "trap": "A represents 意为“代表”，主语通常不是身体系统；B includes a threat 意为“包含威胁”，与“感知危险”的语境相反；C reveals 意为“揭示”，也不能与 a threat 构成“识别威胁”的搭配。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 20,
+        "answer": "B",
+        "options": [
+          "humble",
+          "poor",
+          "practical",
+          "easy"
+        ],
+        "cn": [
+          "谦逊的；卑微的",
+          "糟糕的；拙劣的",
+          "实用的",
+          "容易的"
+        ],
+        "explain": "a very poor evolutionary strategy 意为“一种非常糟糕的进化策略”。植物无法逃离危险，却把能量用于识别威胁和感受疼痛，从进化角度看是不划算的，poor 表示“拙劣的、效果差的”，与全文的否定评价一致。",
+        "trap": "A humble 意为“谦逊的”，不能修饰 evolutionary strategy；C practical 和 D easy 都是正面或中性评价，与“耗费能量却无法逃生”的负面结论相反。",
+        "type": "形容词/评价"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 观点匹配",
+    "en_title": "The Case Against Zoos",
+    "cn_title": "围绕《反对动物园的理由》的五种声音",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "五名读者对 Emma Marris 反动物园文章的回应：从激烈反对到有条件支持",
+    "type": "matching",
+    "directions": "In the following text, there are five people's opinions about Emma Marris's article \"The Case Against Zoos\". For Questions 41–45, choose the best statement from the list A–G to summarize each numbered person's opinion. There are two extra choices which do not fit in any of the blanks. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "观点匹配题的关键是先抓每个人的“立场 + 理由”，再与选项的概括比对，防止把局部细节当成中心。先读人物评论的首尾句和转折句，圈出态度词；再读 A–G 选项，找“立场 + 理由”都覆盖的一项。两个多余项通常只在某一细节上相似。",
+    "blocks": [
+      {
+        "label": "41 · Teri Byrd",
+        "en": "I was a zoo and wildlife park employee for years. Both the wildlife park and zoo claimed to be operating for the benefit of the animals and for conservation purposes. This claim was false. Neither one of them actually participated in any contributions to animal research or conservation. They are profitable institutions whose bottom line is much more important than the condition of the animals.\n\nAnimals despise being captives in zoos. No matter how you \"enhance\" enclosures, they do not allow for freedom, a natural diet or adequate exercise. Animals end up stressed and unhealthy or dead. It's past time for transparency with these institutions, and it's past time to eliminate zoos from our culture.",
+        "zh": "我在动物园和野生动物园工作过多年。野生动物园和动物园都声称，自己的运营是为了动物的福祉，也是出于保护目的。这种说法是假的。它们实际上都没有为动物研究或保护作出过任何贡献。它们是营利机构，其利润远比动物的处境重要。\n\n动物厌恶被囚禁在动物园里。无论你如何“改善”围栏，它们都无法获得自由、自然的饮食或充足的运动。动物最终会变得紧张、不健康，甚至死亡。这些机构早就应该做到公开透明，也早就应该把动物园从我们的文化中清除出去。"
+      },
+      {
+        "label": "42 · Karen R. Sime",
+        "en": "As a zoology professor, I agree with Emma Marris that zoo displays can be sad and cruel. But she underestimates the educational value of zoos.\n\nThe zoology program at my university attracts students for whom zoo visits were the crucial formative experience that led them to major in biological sciences. These are mostly students who had no opportunity as children to travel to wilderness areas, wildlife refuges or national parks. Although good TV shows can help stir children's interest in conservation, they cannot replace the excitement of a zoo visit as an intense, immersive and interactive experience. Surely there must be some middle ground that balances zoos' treatment of animals with their educational potential.",
+        "zh": "作为一名动物学教授，我同意 Emma Marris 的看法：动物园的展示可能令人悲伤，也可能残酷。但她低估了动物园的教育价值。\n\n我所在大学的动物学专业吸引了一些学生，对他们而言，参观动物园是促使他们选择生物科学专业的关键成长经历。这些学生大多在童年时没有机会去荒野地区、野生动物保护区或国家公园。虽然好的电视节目有助于激发儿童对保护的兴趣，但它们无法替代参观动物园所带来的那种强烈、沉浸、互动的兴奋体验。一定存在某种中间道路，既能兼顾动物园对待动物的方式，又能发挥其教育潜力。"
+      },
+      {
+        "label": "43 · Greg Newberry",
+        "en": "Emma Marris's article is an insult and a disservice to the thousands of passionate people who work tirelessly to improve the lives of animals and protect our planet. She uses outdated research and decades-old examples to undermine the noble mission of organizations committed to connecting children to a world beyond their own.\n\nZoos are at the forefront of conservation and constantly evolving to improve how they care for animals and protect each species in its natural habitat. Are there tragedies? Of course. But they are the exception, not the norm that Ms. Marris implies. A distressed animal in a zoo will get as good or better treatment than most of us at our local hospital.",
+        "zh": "Emma Marris 的文章是对成千上万名满怀热情、不知疲倦地改善动物生活、保护地球的人的侮辱，也是对他们的一种伤害。她使用过时的研究和几十年前的例子，来贬低那些致力于让孩子接触自身之外世界的组织的崇高使命。\n\n动物园处于保护事业的前沿，并不断改进照料动物、保护各物种在其自然栖息地中生存的方式。存在悲剧吗？当然存在。但它们是例外，而不是 Marris 女士所暗示的常态。动物园里一只痛苦的动物，所得到的待遇会与我们大多数人在当地医院得到的待遇一样好，甚至更好。"
+      },
+      {
+        "label": "44 · Dean Gallea",
+        "en": "As a fellow environmentalist, animal-protection advocate and longtime vegetarian, I could properly be in the same camp as Emma Marris on the issue of zoos. But I believe that well-run zoos, and the heroic animals that suffer their captivity, do serve a higher purpose. Were it not for opportunities to observe these beautiful, wild creatures close to home, many more people would be driven by their fascination to travel to wild areas to seek out, disturb and even hunt them down.\n\nZoos are, in that sense, similar to natural history and archeology museums, serving to satisfy our need for contact with these living creatures while leaving the vast majority undisturbed in their natural environments.",
+        "zh": "作为一名环保主义者、动物保护倡导者和长期的素食者，在动物园问题上，我完全可以和 Emma Marris 站在同一阵营。但我认为，运营良好的动物园，以及那些忍受囚禁的英雄般的动物，确实服务于更高的目的。如果没有在家门口观察这些美丽野生动物的机会，会有更多的人受好奇心驱使，前往荒野地区寻找、打扰甚至猎杀它们。\n\n从这个意义上说，动物园类似于自然史博物馆和考古博物馆：它们满足我们与这些生灵接触的需要，同时让绝大多数动物在其自然环境中不受打扰。"
+      },
+      {
+        "label": "45 · John Fraser",
+        "en": "Emma Marris selectively describes and misrepresents the findings of our research. Our studies focused on the impact of zoo experiences on how people think about themselves and nature, and the data points extracted from our studies do not, in any way, discount what is learned in a zoo visit.\n\nZoos are tools for thinking. Our research provides strong support for the value of zoos in connecting people with animals and with nature. Zoos provide a critical voice for conservation and environmental protection. They afford an opportunity for people from all backgrounds to encounter a range of animals, from drone bees to springbok or salmon, to better understand the natural world we live in.",
+        "zh": "Emma Marris 有选择地描述并歪曲了我们研究的结果。我们的研究关注动物园体验如何影响人们看待自身与自然的方式，而从我们研究中提取的数据，丝毫不能否定人们在参观动物园时所获得的东西。\n\n动物园是思考的工具。我们的研究有力地支持了动物园在连接人与动物、人与自然方面的价值。动物园为保护环境和生态发出关键的声音。它们为来自各种背景的人提供机会，去接触从蜜蜂到跳羚再到鲑鱼的各种动物，从而更好地理解我们生活的自然世界。"
+      }
+    ],
+    "options": {
+      "A": {
+        "en": "Zoos which spare no effort to take care of animals should not be subjected to unfair criticism.",
+        "zh": "不遗余力照料动物的动物园，不应受到不公正的批评。"
+      },
+      "B": {
+        "en": "To pressure zoos to spend less on their animals would lead to inhumane outcomes for the precious creatures in their care.",
+        "zh": "迫使动物园减少在动物身上的开支，会对其照料的珍贵生灵造成不人道的后果。"
+      },
+      "C": {
+        "en": "While animals in captivity deserve sympathy, zoos play a significant role in starting young people down the path of related sciences.",
+        "zh": "圈养动物固然值得同情，但动物园在引导年轻人走上相关科学道路方面发挥着重要作用。"
+      },
+      "D": {
+        "en": "Zoos save people trips to wilderness areas and thus contribute to wildlife conservation.",
+        "zh": "动物园省去了人们前往荒野的奔波，从而为野生动物保护作出了贡献。"
+      },
+      "E": {
+        "en": "For wild animals that cannot be returned to their natural habitats, zoos offer the best alternative.",
+        "zh": "对于无法重返自然栖息地的野生动物而言，动物园提供了最好的去处。"
+      },
+      "F": {
+        "en": "Zoos should have been closed down as they prioritize money making over animals' wellbeing.",
+        "zh": "动物园把赚钱置于动物福祉之上，早就应该被关闭。"
+      },
+      "G": {
+        "en": "Marris distorts our findings which actually prove that zoos serve as an indispensable link between man and nature.",
+        "zh": "Marris 歪曲了我们的研究结果，而我们的研究实际上证明，动物园是人与自然之间不可或缺的纽带。"
+      }
+    },
+    "answers": [
+      {
+        "n": 41,
+        "answer": "F",
+        "explain": "Teri Byrd 以自己在动物园和野生动物园工作的经历指出，两家机构都声称为了动物与保护，实际却只追求利润，既不参与动物研究也不参与保护；她最后明确说 It's past time to eliminate zoos。F 的 prioritize money making over animals' wellbeing 对应 bottom line...much more important than the condition of the animals，should have been closed down 对应 eliminate zoos，态度同样激烈。",
+        "clue": "profitable institutions / bottom line / eliminate zoos → money making / should have been closed down"
+      },
+      {
+        "n": 42,
+        "answer": "C",
+        "explain": "Karen R. Sime 先承认动物园展示可能 sad and cruel，随后强调其教育价值：动物园参观是许多学生选择生物科学专业的关键成长经历。C 的 While animals in captivity deserve sympathy 对应她的让步，zoos play a significant role in starting young people down the path of related sciences 对应 zoo visits were the crucial formative experience that led them to major in biological sciences。",
+        "clue": "zoology professor / educational value / students...major in biological sciences → starting young people down the path of related sciences"
+      },
+      {
+        "n": 43,
+        "answer": "A",
+        "explain": "Greg Newberry 认为文章用陈旧材料否定动物园的崇高使命，而动物园处于保护前沿、不断改进；他承认悲剧存在，但强调那是 exception, not the norm。A 的 should not be subjected to unfair criticism 概括了他对“以偏概全”的抗议，spare no effort to take care of animals 对应 constantly evolving to improve how they care for animals。",
+        "clue": "insult and a disservice / constantly evolving to improve care / exception, not the norm → should not be subjected to unfair criticism"
+      },
+      {
+        "n": 44,
+        "answer": "D",
+        "explain": "Dean Gallea 虽自认与 Marris 同属环保阵营，却认为运营良好的动物园有更高价值：若没有就近观察动物的机会，更多人会前往荒野寻找、打扰甚至猎杀动物；动物园让绝大多数动物在自然环境中不受打扰。D 的 Zoos save people trips to wilderness areas and thus contribute to wildlife conservation 正是这一因果的概括。",
+        "clue": "would travel to wild areas to seek out, disturb and even hunt them down / leave the vast majority undisturbed → save people trips...contribute to wildlife conservation"
+      },
+      {
+        "n": 45,
+        "answer": "G",
+        "explain": "John Fraser 直接指责 Marris selectively describes and misrepresents the findings of our research，并强调其研究支持动物园连接人与动物、人与自然的说法。G 的 Marris distorts our findings 对应 misrepresents the findings，actually prove that zoos serve as an indispensable link between man and nature 对应 connecting people with animals and with nature。",
+        "clue": "misrepresents the findings of our research / connecting people with animals and with nature → distorts our findings / indispensable link between man and nature"
+      }
+    ],
+    "fixed_note": "B、E 为多余选项：B 谈削减动物饲养开支的后果，E 谈无法重返野外的动物如何安置，二者虽与动物园有关，却不能概括任何一位评论者的中心观点。正确配对为 41–F、42–C、43–A、44–D、45–G。"
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "The Man Who Broke Napoleon's Codes",
+    "cn_title": "破译拿破仑密码的人",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "拿破仑战争中斯科维尔破译法军密码的故事及其史学意义",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. (10 points)",
+    "intro": "本次翻译取材于一段关于拿破仑战争中密码破译的史学叙述。五个画线句分别考查：插入语与两个 who 引导的定语从句（46）；并列定语从句与同位语（47）；or 连接的否定并列与 what 宾语从句（48）；there be 推测结构、形式主语与省略关系词的定语从句（49）；Just as... so... 比较结构与 speak volumes about 习语（50）。翻译时先拎出主干，再把插入语、定语和同位语按中文习惯拆分或前置。",
+    "paragraphs": [
+      {
+        "en": "Between 1807 and 1814 the Iberian Peninsula (comprising Spain and Portugal) was the scene of a titanic and merciless struggle. It took place on many different planes: between Napoleon's French army and the angry inhabitants; between the British, ever keen to exacerbate the emperor's difficulties, and the marshals sent from Paris to try to keep them in check; between new forces of science and meritocracy and old ones of conservatism and birth. [[46]]It was also, and this is unknown even to many people well read about the period, a battle between those who made codes and those who broke them.[[/46]]",
+        "zh": "1807 年至 1814 年间，伊比利亚半岛（包括西班牙和葡萄牙）上演了一场规模巨大而残酷无情的斗争。这场斗争在多个层面上展开：拿破仑的法国军队与愤怒的当地居民之间；一向急于加剧这位皇帝困境的英国人与从巴黎派来试图控制他们的元帅们之间；新兴的科学与唯才是举的力量同旧的保守主义与门第观念的力量之间。这同时也是一场编制密码者与破译密码者之间的较量；而这一点，甚至许多对那个时期颇有涉猎的人也不知道。"
+      },
+      {
+        "en": "I first discovered the Napoleonic cryptographic battle a few years ago when I was reading Sir Charles Oman's epic History of the Peninsular War. In volume V he had attached an appendix, The Scovell Ciphers. [[47]]It listed many documents in code that had been captured from the French army of Spain, and whose secrets had been revealed by the work of one George Scovell, an officer in British headquarters.[[/47]] Oman rated Scovell's significance highly, but at the same time, the general nature of his History meant that [[48]]he could not analyze carefully what this obscure officer may or may not have contributed to that great struggle between nations or indeed tell us anything much about the man himself.[[/48]] I was keen to read more, but was surprised to find that Oman's appendix, published in 1914, was the only considered thing that had been written about this secret war.",
+        "zh": "我第一次发现拿破仑时代的密码战，是几年前读查尔斯·阿曼爵士那部史诗般的《半岛战争史》的时候。在第五卷中，他附了一份附录，题为《斯科维尔密码》。这份附录列出了许多从驻西班牙法军手中缴获的密码文件，这些文件的秘密已被英国司令部一位名叫乔治·斯科维尔的军官破译。阿曼对斯科维尔的重要性给予了很高评价，但与此同时，他那部《历史》的总体性质意味着，他无法仔细分析这位不起眼的军官对那场国家间的伟大斗争可能作出过、也可能没有作出过什么贡献，也无法告诉我们多少关于他本人的情况。我很想多读一些，却惊讶地发现，阿曼 1914 年发表的这份附录，竟是关于这场秘密战争唯一经过认真思考的论述。"
+      },
+      {
+        "en": "I became convinced that this story was every bit as exciting and significant as that of Enigma and the breaking of German codes in the Second World War. The question was, could it be told? Studying Scovell's papers at the Public Record Office, London, I found that he had left an extensive journal and copious notes about his work in the peninsula. What was more, many original French dispatches had been preserved in this collection, which I realized was priceless. [[49]]There may have been many spies and intelligence officers during the Napoleonic Wars, but it is usually extremely difficult to find the material they actually provided or worked on.[[/49]]",
+        "zh": "我越来越确信，这个故事与恩尼格玛密码以及二战中破译德国密码的故事一样激动人心、意义重大。问题在于：它能被讲述出来吗？在伦敦公共档案馆研究斯科维尔的文件时，我发现他留下了一本内容丰富的日记和大量关于他在半岛工作的笔记。更重要的是，这批档案中还保存着许多法军原始公文，我意识到它们极其珍贵。拿破仑战争期间也许曾有许多间谍和情报人员，但通常极难找到他们实际提供或处理过的材料。"
+      },
+      {
+        "en": "As I researched Scovell's story I found far more of interest besides his intelligence work. His status in Lord Wellington's headquarters and the recognition given to him for his work were all bound up with the class politics of the army at the time. His tale of self-improvement and hard work would make a fascinating biography in its own right, but represents something more than that. [[50]]Just as the code breaking has its wider relevance in the struggle for Spain, so his attempts to make his way up the promotion ladder speak volumes about British society.[[/50]]",
+        "zh": "在研究斯科维尔的故事时，我发现除了他的情报工作之外，还有更多引人入胜之处。他在惠灵顿勋爵司令部的地位，以及人们因其工作而给予他的认可，都与当时军队中的阶级政治紧密相连。他自我提升、勤奋努力的故事本身足以构成一部引人入胜的传记，但它所代表的意义还不止于此。正如破译密码在争夺西班牙的斗争中具有更广泛的意义一样，他为在晋升阶梯上不断攀升所做的努力也充分说明了英国社会的情况。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "It was also, and this is unknown even to many people well read about the period, a battle between those who made codes and those who broke them.",
+        "core": "It was also a battle between those who made codes and those who broke them.",
+        "structure": "主句为 It was also a battle...；and this is unknown even to many people well read about the period 是插入语，补充说明这一事实鲜为人知；between those who... and those who... 是介词短语修饰 battle，其中两个 who 引导定语从句；well read about the period 是过去分词短语作后置定语，修饰 people。",
+        "key": "code 密码、电码（此处不是“法典、规范”）；make codes 编制密码；break codes 破译密码；well read 博览群书的、读得多的；the period 指 1807–1814 年的伊比利亚半岛战争时期。",
+        "translation": "这同时也是一场编制密码者与破译密码者之间的较量；而这一点，甚至许多对那个时期颇有涉猎的人也不知道。",
+        "pitfall": "this 指代前面整句所述战争的多重层面，不能译成“这个”；code 在此不是“法典、规范”，而是“密码”；well read about the period 是“对那个时期读得多、了解得多”，不是“在那个时期读得好”；插入语宜用破折号或分号单独处理，不要与主干纠缠。"
+      },
+      "47": {
+        "en": "It listed many documents in code that had been captured from the French army of Spain, and whose secrets had been revealed by the work of one George Scovell, an officer in British headquarters.",
+        "core": "It listed many documents in code.",
+        "structure": "主句为 It listed many documents in code；that had been captured from the French army of Spain 与 whose secrets had been revealed by the work of one George Scovell 是由 and 连接的两个定语从句，共同修饰 documents；an officer in British headquarters 是 George Scovell 的同位语。",
+        "key": "documents in code 密码文件；capture 缴获；the French army of Spain 驻西班牙的法军；reveal 揭开、破译；one George Scovell 一位名叫乔治·斯科维尔的人；headquarters 司令部。",
+        "translation": "这份附录列出了许多从驻西班牙法军手中缴获的密码文件，这些文件的秘密已被英国司令部一位名叫乔治·斯科维尔的军官破译。",
+        "pitfall": "It 指上文的 appendix（《斯科维尔密码》），不是笼统的“它”；in code 是“用密码写成的”，不是“在代码中”；whose 从句与 that 从句并列，不能只译出其中一个；one George Scovell 的 one 表示“一位名叫……的人”，不必译成“一个”。"
+      },
+      "48": {
+        "en": "he could not analyze carefully what this obscure officer may or may not have contributed to that great struggle between nations or indeed tell us anything much about the man himself.",
+        "core": "He could not analyze what this officer contributed or tell us anything much about the man.",
+        "structure": "主句为 he could not analyze... or (could not) tell...，两个动词由 or 并列，共用 could not；what 引导宾语从句作 analyze 的宾语；may or may not have contributed 表示对过去情况的推测；between nations 修饰 struggle；indeed 加强语气。",
+        "key": "analyze 分析；obscure 无名的、不起眼的；contribute to 对……作出贡献；that great struggle between nations 那场国家间的伟大斗争（指半岛战争）；not... anything much 几乎没告诉我们什么。",
+        "translation": "他无法仔细分析这位不起眼的军官对那场国家间的伟大斗争可能作出过、也可能没有作出过什么贡献，也无法告诉我们多少关于他本人的情况。",
+        "pitfall": "or 连接的是 could not analyze 与 (could not) tell，否定的范围要覆盖两者；may or may not have contributed 是“可能有过贡献，也可能没有”，不能译成“可能没有贡献”；anything much 在否定句中表示“多少、什么”，不是“任何多”；himself 指斯科维尔，不是阿曼。"
+      },
+      "49": {
+        "en": "There may have been many spies and intelligence officers during the Napoleonic Wars, but it is usually extremely difficult to find the material they actually provided or worked on.",
+        "core": "It is difficult to find the material.",
+        "structure": "There may have been... 是 there be 结构的推测形式，表示“也许曾有许多”；but 连接转折分句；it 是形式主语，真正的主语是 to find the material...；they actually provided or worked on 是省略了 that/which 的定语从句，修饰 material。",
+        "key": "intelligence officer 情报军官；material 材料、情报资料；work on 处理、研究；may have been 可能曾经有。",
+        "translation": "拿破仑战争期间也许曾有许多间谍和情报人员，但通常极难找到他们实际提供或处理过的材料。",
+        "pitfall": "There may have been 表示对过去的推测，不能译成“可能有”；it 是形式主语，不能译成“它”；they 指 spies and intelligence officers；worked on 是“处理、研究”，不是“在……上工作”。"
+      },
+      "50": {
+        "en": "Just as the code breaking has its wider relevance in the struggle for Spain, so his attempts to make his way up the promotion ladder speak volumes about British society.",
+        "core": "His attempts speak volumes about British society.",
+        "structure": "Just as..., so... 引导比较结构，意为“正如……，……也同样……”；has its wider relevance in... 表示“在……中具有更广泛的意义”；to make his way up the promotion ladder 是不定式短语，修饰 attempts；speak volumes about 意为“充分说明”。",
+        "key": "code breaking 破译密码；relevance 意义、相关性；the struggle for Spain 争夺西班牙的斗争；make one's way up the promotion ladder 在晋升阶梯上不断攀升；speak volumes about 充分说明、有力揭示。",
+        "translation": "正如破译密码在争夺西班牙的斗争中具有更广泛的意义一样，他为在晋升阶梯上不断攀升所做的努力也充分说明了英国社会的情况。",
+        "pitfall": "Just as... so... 要译出“正如……也一样……”的对应关系，不能只译前半句；its 指代 code breaking；wider relevance 不是“更广泛的相关性”，而是“更广泛的意义”；speak volumes about 是习语，不能直译成“对……说了几卷话”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "An email & a picture essay",
+    "cn_title": "邀请信 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "邀请英国大学教授组队参加国际创新竞赛；校园讲座前“专业不对口”与“听听有好处”的分歧",
+    "intro": "2022 年小作文要求给英国大学教授写一封邮件，邀请其组建队伍参加在我校举行的国际创新竞赛；大作文为图画作文：两名学生站在校园公告栏前，一人以“不是我们专业的”为由拒绝听讲座，另一人认为“去听听肯定有好处”，寓意在鼓励跨学科视野与开放的学习态度。",
+    "partA": {
+      "title": "Part A · 电子邮件",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Write an email to a professor at a British university, inviting him/her to organize a team for the international innovation contest to be held at your university. You should write about 100 words on the ANSWER SHEET. Do not use your own name. Use \"Li Ming\" instead. (10 points)",
+      "prompt_zh": "请给一位英国大学的教授写一封电子邮件，邀请他/她组建一支队伍，参加将在你校举行的国际创新竞赛。请在答题卡上写约 100 词。不要使用自己的真实姓名，用“Li Ming”代替。",
+      "sample": "Dear Professor Smith,\n\nI am Li Ming, a student organizer of the International Innovation Contest, which will be held at our university on May 20–22. On behalf of the organizing committee, I am writing to invite you to put together a team from your department to take part in the competition.\n\nThe contest welcomes projects in green technology, digital health and smart manufacturing. Each team consists of three to five students. We will cover accommodation and local transport, and the registration deadline is April 15.\n\nWe would be honoured to have your team with us. Please let me know if you need further information.\n\nYours sincerely,\nLi Ming",
+      "sample_zh": "尊敬的史密斯教授：\n\n我是李明，国际创新竞赛的学生组织者之一。竞赛将于 5 月 20 日至 22 日在我校举行。我谨代表组委会写信邀请您从贵系组建一支队伍参赛。\n\n本次竞赛欢迎绿色技术、数字健康和智能制造领域的项目。每队由三至五名学生组成。我们将承担住宿和当地交通费用，报名截止日期为 4 月 15 日。\n\n若贵队能来参赛，我们将深感荣幸。如需更多信息，请告知我。\n\n此致\n敬礼\n李明",
+      "structure": [
+        [
+          "称呼",
+          "Dear Professor Smith,"
+        ],
+        [
+          "自我介绍与写信目的",
+          "I am Li Ming, a student organizer of the International Innovation Contest... I am writing to invite you to put together a team from your department to take part in the competition."
+        ],
+        [
+          "竞赛时间与地点",
+          "The contest will be held at our university on May 20–22."
+        ],
+        [
+          "竞赛主题与组队要求",
+          "Projects in green technology, digital health and smart manufacturing; each team consists of three to five students."
+        ],
+        [
+          "接待安排与截止日期",
+          "We will cover accommodation and local transport, and the registration deadline is April 15."
+        ],
+        [
+          "期待回复与落款",
+          "We would be honoured to have your team with us... Yours sincerely, Li Ming"
+        ]
+      ],
+      "expressions": [
+        "I am writing on behalf of... to invite you to...",
+        "put together a team from your department",
+        "take part in / participate in the competition",
+        "The contest will be held at our university on...",
+        "The contest welcomes projects in...",
+        "Each team consists of three to five students.",
+        "We will cover accommodation and local transport.",
+        "The registration deadline is April 15.",
+        "We would be honoured to have your team with us.",
+        "Please let me know if you need further information."
+      ],
+      "traps": [
+        "收信人是英国大学的教授，语气应正式、礼貌；开头要说明自己的身份和写信目的，不能只写一句“欢迎参加竞赛”。",
+        "核心任务是“邀请对方组建一支队伍”，不是只邀请教授本人参赛、旁听或派代表，动词应使用 organize / put together a team。",
+        "约100词，竞赛名称、时间、地点、主题、队伍人数、截止日期等信息取三至四项写清楚即可，不必面面俱到写成策划书。",
+        "署名必须用 Li Ming，不能写真实姓名；称呼、正文、结尾敬语和署名要符合电子邮件格式。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160-200 words based on the picture below. In your essay, you should 1) describe the picture briefly, 2) explain its intended meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据下面的图画写一篇 160—200 词的短文。文中应：1）简要描述图画；2）解释其寓意；3）给出你的评论。请工整地写在答题卡上。",
+      "picture": {
+        "src": "../assets/writing/2022.png",
+        "caption": "不是我们专业的，听了也没用。／去听听肯定有好处。",
+        "note": "图画中两名女学生站在校园“公告栏”前，栏内张贴着一张“校园讲座”的海报。左边的学生侧身摆手，说“不是我们专业的，听了也没用”；右边的学生抬头看着海报，说“去听听肯定有好处”。画面以“因专业不对口而拒绝”与“愿意去听”构成对照，寓意在于：学习不应画地为牢，跨学科的讲座能够拓宽视野、激发新的思考。"
+      },
+      "sample": "The picture shows two students standing in front of a campus notice board, where a poster for a lecture is displayed. One turns away, saying, \"It's not our major, so listening won't help.\" The other keeps her eyes on the poster and replies, \"It will surely do us good to go and listen.\"\n\nThe contrast reveals two attitudes toward knowledge. The first student treats learning as a narrow transaction: only what serves her own specialty is worth her time. Yet many breakthroughs grow at the intersection of disciplines, where a historian's question may inspire a biologist and an engineer's method may reshape an artist's work. A lecture outside our field may not offer immediate answers, but it provides new lenses, unexpected connections and the habit of thinking beyond familiar boundaries. In a world where problems rarely respect departmental lines, such open-mindedness is not a luxury but a necessity.\n\nIn my view, universities should encourage students to step outside their academic comfort zones. Curiosity costs an hour; narrowness may cost a lifetime of possibilities. The next time a lecture seems unrelated to our major, we should walk in rather than turn away.",
+      "sample_zh": "图中两名学生站在校园公告栏前，栏内贴着一张讲座海报。一人转身说：“不是我们专业的，听了也没用。”另一人则盯着海报回答：“去听听肯定有好处。”\n\n这一对比揭示了两种对待知识的态度。第一位学生把学习看作一桩狭窄的交易：只有服务于本专业的东西才值得花时间。然而，许多突破恰恰产生于学科的交汇处：历史学家的一个问题可能启发一位生物学家，工程师的方法可能重塑一位艺术家的作品。本专业之外的讲座也许不会带来立竿见影的答案，却能提供新的视角、意想不到的联系，以及跳出熟悉边界思考的习惯。在一个问题很少按院系划分的世界里，这种开放心态不是奢侈品，而是必需品。\n\n在我看来，大学应鼓励学生走出自己的学术舒适区。好奇心只花一小时，狭隘却可能让人付出一生的可能性。下次再遇到看似与专业无关的讲座，我们应当走进去，而不是转身离开。",
+      "structure": [
+        [
+          "第一段·描述图画",
+          "The picture shows two students standing in front of a campus notice board... One turns away, saying, \"It's not our major, so listening won't help.\" The other... replies, \"It will surely do us good to go and listen.\""
+        ],
+        [
+          "第二段·揭示寓意",
+          "The contrast reveals two attitudes toward knowledge... learning should not be confined to one's major... many breakthroughs grow at the intersection of disciplines... open-mindedness is not a luxury but a necessity."
+        ],
+        [
+          "第三段·发表评论",
+          "Universities should encourage students to step outside their academic comfort zones... Curiosity costs an hour; narrowness may cost a lifetime of possibilities... walk in rather than turn away."
+        ]
+      ],
+      "expressions": [
+        "The picture shows two students standing in front of a campus notice board.",
+        "One turns away, saying...",
+        "The other keeps her eyes on the poster and replies...",
+        "The contrast reveals two attitudes toward knowledge.",
+        "Learning should not be confined to one's own major.",
+        "Many breakthroughs grow at the intersection of disciplines.",
+        "step outside one's academic comfort zone",
+        "offer new lenses and unexpected connections",
+        "open-mindedness is not a luxury but a necessity",
+        "Curiosity costs an hour; narrowness may cost a lifetime of possibilities."
+      ],
+      "traps": [
+        "描述要写出公告栏、“校园讲座”海报以及两人的相反态度和话语，不能只写“两名学生在讨论学习”。",
+        "寓意应落在“不要以专业不对口为由拒绝跨学科学习，要保持开放心态”，不要偏成“所有讲座都值得听”“要听老师的话”或“坚持自己的专业”。",
+        "第二段分析原因（学科交叉、创新常发生在边界处），第三段给出建议，两段不要重复同一层意思。",
+        "160–200 词，三段为宜；描述图画和引用话语用一般现在时；不要逐字照抄图中的中文。",
+        "注意褒贬：右边说“去听听肯定有好处”的学生是作者肯定的对象，不能把两人的立场写反。"
+      ]
+    }
+  }
+}

@@ -88,3 +88,46 @@ python3 temp/build.py
 | **构建产物** | `data/article.js`, `data/words.js` | 脚本自动生成，供 HTML 页面引用 |
 
 工作流：`JSON 数据源 → build.py → JS 构建产物 → HTML 页面`
+
+## 真题与拆解（新增）
+
+- `真题/2021英语一/`：2021 英语（一）完整原文、答案与解析、62 句长难句、189 个核心词、全文翻译、阅读方法与 7 日计划。
+- `frontend/index.html`：2010—2026 真题总目录；`frontend/2021.html` 是 2021 全卷精讲样板，`frontend/years/2010.html`—`years/2026.html` 与 `frontend/2021.html` 覆盖全部 17 套全卷精讲。
+- `frontend/years/`：逐年全卷精讲页，支持译文切换、点选项对答案、长难句拆解、词汇闪卡和进度记录；2021 在 `frontend/2021.html`。
+- 重新生成 2021 全卷页：`python3 English/frontend/build.py`；重新生成总目录与逐年全卷页：`python3 English/frontend/src/build_archive.py`。
+
+## 部署到 Linux / 5000 端口
+
+> 如果使用仓库根目录的统一编排 `compose.yaml`，英语站映射到宿主机 **5001**、408 站映射到 **40810**，请优先看根目录的 [`README-408-DEPLOY.md`](../README-408-DEPLOY.md)。本章下面的 5000 是英语单站单独部署的默认值。
+
+### 快速预览：run_english.sh
+
+```bash
+# 仓库根目录
+chmod +x run_english.sh English/run_english.sh
+./run_english.sh start        # 0.0.0.0:5000
+./run_english.sh status
+./run_english.sh logs
+./run_english.sh stop
+```
+
+也可以直接运行 `English/run_english.sh`。公网访问前，在阿里云安全组入方向放行 TCP 5000。
+
+### Docker + Nginx（推荐长期运行）
+
+```bash
+cd English
+docker compose up -d --build
+docker compose ps
+curl -I http://127.0.0.1:5000/
+```
+
+完整方案、阿里云安装步骤、安全组、更新回滚、HTTPS 和 Docker 学习路线见 [DOCKER.md](DOCKER.md)。
+
+关键文件：
+
+- [run_english.sh](run_english.sh)：Linux 静态服务脚本（`start|stop|restart|status|logs|fg`）
+- [Dockerfile](Dockerfile)：`nginx:1.27-alpine` + 静态站点
+- [compose.yaml](compose.yaml)：宿主机 `5000` → 容器 `80`
+- [deploy/nginx.conf](deploy/nginx.conf)：Nginx 站点配置
+- [.dockerignore](.dockerignore)：只把 `frontend/` 打进镜像

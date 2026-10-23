@@ -1,0 +1,3145 @@
+{
+  "meta": {
+    "year": 2012,
+    "exam": "2012 年全国硕士研究生招生考试",
+    "subject": "英语（一）",
+    "title": "2012 英语（一）阅读精讲",
+    "overview": "- 主题：四篇文章依次讨论同伴压力能否被改造为改善行为的“社会疗法”、能源企业违背核电站关闭承诺所暴露的公司治理问题、科学研究中选择性发表造成的认知偏差，以及美国公共部门工会扩张带来的政治与财政影响。\n- 行文逻辑：各篇先从流行观念、争议事件或反常变化切入，再借案例和对比揭示机制及局限，最终分别落到外部设计的同伴干预为何难以持久、企业承诺为何需要有效约束、科学共同体为何应重视阴性结果，以及公共部门工会权力为何需要重新平衡。",
+    "topics": [
+      "同伴压力能否被改造为改善行为的“社会疗法”",
+      "能源企业违背核电站关闭承诺所暴露的公司治理问题",
+      "科学研究中选择性发表造成的认知偏差",
+      "美国公共部门工会扩张带来的政治与财政影响"
+    ],
+    "stats": {
+      "sentences": 61,
+      "vocab": 161
+    }
+  },
+  "reading": [
+    {
+      "id": "text1",
+      "kicker": "Section II · Part A",
+      "title": "Text 1",
+      "en_title": "Come on - Everybody's doing it. That whispered message, half invitatio…",
+      "cn_title": "同伴压力能否被改造为改善行为的“社会疗法”",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "同伴压力能否被改造为改善行为的“社会疗法”",
+      "intro": "本篇主题：同伴压力能否被改造为改善行为的“社会疗法”。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "Come on - Everybody's doing it. That whispered message, half invitation and half forcing, is what most of us think of when we hear the words *peer pressure*. It usually leads to no good - drinking, drugs and casual sex. But in her new book *Join the Club*, Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure, in which organizations and officials use the power of group dynamics to help individuals improve their lives and possibly the world.",
+          "zh": "来吧，大家都这么做。 一听到“同伴压力”这个词，我们多数人想到的，正是这种低声传递的信息：一半是邀请，一半是强迫。 这种压力通常不会带来好结果，反而会导致酗酒、吸毒和随意性行为。 但蒂娜·罗森伯格在新书《加入俱乐部》中主张，同伴压力也可以通过她所谓的“社会疗法”成为一种积极力量；在这种做法中，组织和官员利用群体动力帮助个人改善生活，甚至可能改善世界。"
+        },
+        {
+          "en": "Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage Against the Haze sets out to make cigarettes uncool. In South Africa, an HIV-prevention initiative known as loveLife recruits young people to promote safe sex among their peers.",
+          "zh": "普利策奖得主罗森伯格列举了大量“社会疗法”的实际案例：在南卡罗来纳州，一个名为“向烟霾宣战”的州政府资助禁烟项目，力图让吸烟显得不再时髦。 在南非，一项名为 loveLife 的艾滋病病毒预防行动招募年轻人，让他们在同龄人中倡导安全性行为。"
+        },
+        {
+          "en": "The idea seems promising, and Rosenberg is a perceptive observer. Her critique of the lameness of many public-health campaigns is spot-on: they fail to mobilize peer pressure for healthy habits, and they demonstrate a seriously flawed understanding of psychology. \"Dare to be different, please don't smoke!\" pleads one billboard campaign aimed at reducing smoking among teenagers - teenagers, who desire nothing more than fitting in. Rosenberg argues convincingly that public-health advocates ought to take a page from advertisers, so skilled at applying peer pressure.",
+          "zh": "这一想法似乎很有前景，而罗森伯格也是一位洞察敏锐的观察者。 她对许多公共卫生宣传活动乏力无效的批评十分准确：这些活动既没能调动同伴压力来培养健康习惯，也暴露出其对心理学存在严重缺陷的理解。 一则旨在减少青少年吸烟的广告牌宣传恳求道：“勇于与众不同，请不要吸烟！”可青少年最渴望的恰恰就是融入群体。 罗森伯格令人信服地指出，公共卫生倡导者应当借鉴广告商的经验，因为广告商非常善于运用同伴压力。"
+        },
+        {
+          "en": "But on the general effectiveness of the social cure, Rosenberg is less persuasive. *Join the Club* is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful. The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long. Rage Against the Haze failed once state funding was cut. Evidence that the loveLife program produces lasting changes is limited and mixed.",
+          "zh": "但谈到“社会疗法”的总体效果时，罗森伯格的论述就没那么有说服力了。 《加入俱乐部》塞入了太多无关细节，却没有充分探究使同伴压力如此强大的社会因素和生物因素。 书中所呈现的“社会疗法”最明显的缺陷是：它效果不够好，也不能维持很久。 州政府的资金一被削减，“向烟霾宣战”项目就失败了。 能够证明 loveLife 项目带来持久改变的证据既有限，也并不一致。"
+        },
+        {
+          "en": "There's no doubt that our peer groups exert enormous influence on our behavior. An emerging body of research shows that positive health habits - as well as negative ones - spread through networks of friends via social communication. This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day.",
+          "zh": "毫无疑问，我们所属的同伴群体会对我们的行为产生巨大影响。 一批正在涌现的研究表明，积极的健康习惯和消极习惯一样，都会通过社会交往在朋友网络中传播。 这是一种不易察觉的同伴压力：我们会在无意识中模仿自己每天看到的行为。"
+        },
+        {
+          "en": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions. It's like the teacher who breaks up the troublemakers in the back row by pairing them with better-behaved classmates. The tactic never really works. And that's the problem with a social cure engineered from the outside: in the real world, as in school, we insist on choosing our own friends.",
+          "zh": "然而，专家和官僚能否替我们选择同伴群体，并成功引导这些群体从事有益活动，就远没有那么确定了。 这就像老师把后排的捣乱学生拆散，再让他们分别与表现较好的同学结对。 这种做法实际上从来都不起作用。 这正是由外部设计的“社会疗法”所面临的问题：无论在现实世界还是在学校里，我们都坚持自己选择朋友。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 21,
+          "stem": "According to the first paragraph, peer pressure often emerges as",
+          "options": [
+            "a supplement to the social cure.",
+            "a stimulus to group dynamics.",
+            "an obstacle to social progress.",
+            "a cause of undesirable behaviors."
+          ],
+          "answer": "D",
+          "explain": "正确项：a cause of undesirable behaviors. 原文说同伴压力通常会带来酗酒、吸毒和随意性行为等不良后果；a cause of undesirable behaviors 是对 leads to no good 及其例子的概括。\n其他选项：A. a supplement to the social cure.：“社会疗法”是罗森伯格利用同伴压力的特殊方式，并非同伴压力通常呈现的形态；且 supplement 属无中生有。；B. a stimulus to group dynamics.：原文是组织者利用 group dynamics 的力量，同伴压力并未被说成群体动力的刺激因素，逻辑关系倒置。；C. an obstacle to social progress.：首段只列举具体的不良行为，没有把同伴压力扩大为阻碍整个社会进步，属于范围扩大。",
+          "evidence": "It usually leads to no good - drinking, drugs and casual sex.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 22,
+          "stem": "Rosenberg holds that public-health advocates should",
+          "options": [
+            "recruit professional advertisers.",
+            "learn from advertisers' experience.",
+            "stay away from commercial advertisers.",
+            "recognize the limitations of advertisements."
+          ],
+          "answer": "B",
+          "explain": "正确项：learn from advertisers' experience. take a page from advertisers 意为借鉴广告商的做法，正好对应 learn from advertisers' experience；借鉴的重点是广告商运用同伴压力的技巧。\n其他选项：A. recruit professional advertisers.：原文要求公共卫生倡导者学习广告商，并未要求直接招募他们，偷换了行动方式。；C. stay away from commercial advertisers.：原文态度是借鉴而非远离，与原意相反。；D. recognize the limitations of advertisements.：文中强调广告商的长处，没有要求认识广告的局限，属于无中生有。",
+          "evidence": "Rosenberg argues convincingly that public-health advocates ought to take a page from advertisers, so skilled at applying peer pressure.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 23,
+          "stem": "In the author's view, Rosenberg's book fails to",
+          "options": [
+            "adequately probe social and biological factors.",
+            "effectively evade the flaws of the social cure.",
+            "illustrate the functions of state funding.",
+            "produce a long-lasting social effect."
+          ],
+          "answer": "A",
+          "explain": "正确项：adequately probe social and biological factors. 原文的 not enough exploration of the social and biological factors 与选项中的 fails to adequately probe social and biological factors 完全对应，均指该书没有充分探究同伴压力背后的社会和生物因素。\n其他选项：B. effectively evade the flaws of the social cure.：作者是在揭示“社会疗法”的缺陷，并未讨论该书是否“有效规避缺陷”；evade 偷换了批评对象。；C. illustrate the functions of state funding.：州政府削减资金只是用来说明项目难以持续的案例，作者没有要求该书系统阐释州资助的功能。；D. produce a long-lasting social effect.：原文说“社会疗法”效果不持久，而题干主语是“罗森伯格的书”；此项把疗法的效果错安到书本身，主体错位。",
+          "evidence": "*Join the Club* is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful.",
+          "trap": "",
+          "type": "观点"
+        },
+        {
+          "n": 24,
+          "stem": "Paragraph 5 shows that our imitation of behaviors",
+          "options": [
+            "is harmful to our networks of friends.",
+            "will mislead behavioral studies.",
+            "occurs without our realizing it.",
+            "can produce negative health habits."
+          ],
+          "answer": "C",
+          "explain": "正确项：occurs without our realizing it. unconsciously imitate 表示模仿在无意识中发生，准确对应 without our realizing it。\n其他选项：A. is harmful to our networks of friends.：朋友网络是行为传播的渠道，原文没有说模仿会损害这一网络，无中生有。；B. will mislead behavioral studies.：本段引用研究来说明行为传播机制，并未说这种模仿会误导研究。；D. can produce negative health habits.：原文说积极和消极习惯都能传播；此项只保留消极一面，且把“传播”改成“产生”，范围缩小并偷换关系。",
+          "evidence": "This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 25,
+          "stem": "The author suggests in the last paragraph that the effect of peer pressure is",
+          "options": [
+            "harmful.",
+            "desirable.",
+            "profound.",
+            "questionable."
+          ],
+          "answer": "D",
+          "explain": "正确项：questionable. 作者以 far less certain 明确表示质疑，并通过老师人为配对学生却“不真正奏效”的类比，说明由外部设计、定向利用同伴压力的效果值得怀疑。\n其他选项：A. harmful.：文章承认同伴压力既可传播消极习惯，也可传播积极习惯，不能笼统判定为有害。；B. desirable.：作者质疑外部操控的有效性，并没有将同伴压力一概评价为可取。；C. profound.：第五段确实说同伴群体影响巨大，但末段讨论的是专家能否成功操控这种影响；此项抓住背景事实，却没有概括末段的质疑态度。",
+          "evidence": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions.\nThe tactic never really works.\nAnd that's the problem with a social cure engineered from the outside: in the real world, as in school, we insist on choosing our own friends.",
+          "trap": "",
+          "type": "推断"
+        }
+      ]
+    },
+    {
+      "id": "text2",
+      "kicker": "Section II · Part A",
+      "title": "Text 2",
+      "en_title": "A deal is a deal - except, apparently, when Entergy is involved. The c…",
+      "cn_title": "能源企业违背核电站关闭承诺所暴露的公司治理问题",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "能源企业违背核电站关闭承诺所暴露的公司治理问题",
+      "intro": "本篇主题：能源企业违背核电站关闭承诺所暴露的公司治理问题。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "A deal is a deal - except, apparently, when Entergy is involved. The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging on a longstanding commitment to abide by the state's strict nuclear regulations.",
+          "zh": "协议就是协议，显然，除非牵涉到 Entergy 公司。 这家公司是新英格兰地区的一家主要能源供应商；上周，它宣布将背弃长期以来作出的承诺，不再遵守佛蒙特州严格的核能法规，由此在该州激起了完全合理的愤怒。"
+        },
+        {
+          "en": "Instead, the company has done precisely what it had long promised it would not: challenge the constitutionality of Vermont's rules in the federal court, as part of a desperate effort to keep its Vermont Yankee nuclear power plant running. It's a stunning move.",
+          "zh": "相反，该公司恰恰做了它长期承诺不会做的事：在联邦法院质疑佛蒙特州法规是否合宪，以此作为其竭力维持佛蒙特扬基核电站运营的一部分。 这一举动令人震惊。"
+        },
+        {
+          "en": "The conflict has been surfacing since 2002, when the corporation bought Vermont's only nuclear power plant, an aging reactor in Vernon. As a condition of receiving state approval for the sale, the company agreed to seek permission from state regulators to operate past 2012. In 2006, the state went a step further, requiring that any extension of the plant's license be subject to the Vermont legislature's approval. Then, too, the company went along.",
+          "zh": "这场冲突自 2002 年起便逐渐浮现；当年，该公司买下了佛蒙特州唯一的核电站，也就是位于弗农的一座老化反应堆。 作为获得州政府购厂批准的条件，该公司同意：若想让电站在 2012 年之后继续运营，就应向州监管机构申请许可。 2006 年，州政府又推进了一步，规定核电站许可证的任何延期都必须获得佛蒙特州立法机关批准。 当时，公司同样接受了这一安排。"
+        },
+        {
+          "en": "Either Entergy never really intended to live by those commitments, or it simply didn't foresee what would happen next. A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious questions about both Vermont Yankee's safety and Entergy's management - especially after the company made misleading statements about the pipe. Enraged by Entergy's behavior, the Vermont Senate voted 26 to 4 last year against allowing an extension.",
+          "zh": "要么 Entergy 从未真正打算信守那些承诺，要么它只是没有预见到后来会发生什么。 接连发生的事故，包括 2007 年冷却塔局部坍塌以及地下管道系统泄漏被发现，使人们对佛蒙特扬基核电站的安全性和 Entergy 的管理都产生了严重质疑；尤其是该公司还就那条管道发表了误导性言论。 佛蒙特州参议院被 Entergy 的行为激怒，去年以 26 票对 4 票否决了延长核电站运营期限。"
+        },
+        {
+          "en": "Now the company is suddenly claiming that the 2002 agreement is invalid because of the 2006 legislation, and that only the federal government has regulatory power over nuclear issues. The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that Vermont case will offer a precedent-setting test of how far those powers extend. Certainly, there are valid concerns about the patchwork regulations that could result if every state sets its own rules. But had Entergy kept its word, that debate would be beside the point.",
+          "zh": "如今，该公司突然声称，2002 年的协议因 2006 年的立法而失效，而且只有联邦政府才拥有核问题的监管权。 此案涉及的法律问题并不明朗：最高法院固然已经裁定，各州对核能确实拥有一定监管权，但法律学者认为，佛蒙特州此案将成为一个开创先例的检验，用以确定这些权力究竟可以延伸到何种程度。 诚然，如果每个州都制定自己的规则，可能形成各自为政、拼凑不一的监管体系；对此确有合理担忧。 但如果 Entergy 当初信守了承诺，这场争论本来就无关紧要。"
+        },
+        {
+          "en": "The company seems to have concluded that its reputation in Vermont is already so damaged that it has nothing left to lose by going to war with the state. But there should be consequences. Permission to run a nuclear plant is a public trust. Entergy runs 11 other reactors in the United States, including Pilgrim Nuclear station in Plymouth. Pledging to run Pilgrim safely, the company has applied for federal permission to keep it open for another 20 years. But as the Nuclear Regulatory Commission (NRC) reviews the company's application, it should keep in mind what promises from Entergy are worth.",
+          "zh": "该公司似乎已经认定，它在佛蒙特州的声誉早已受损到无以复加，因此即使与州政府开战也没什么可再失去的了。 但它理应为此承担后果。 获准运营核电站，意味着承担公众托付的责任。 Entergy 在美国还运营着另外 11 座反应堆，其中包括位于普利茅斯的朝圣者核电站。 该公司承诺会安全运营朝圣者核电站，并已向联邦政府申请许可，希望让电站再运行 20 年。 但美国核管理委员会审查该公司的申请时，应当牢记 Entergy 所作的承诺究竟有多少可信度。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "stem": "The phrase \"reneging on\" (Line 3, Para. 1) is closest in meaning to",
+          "options": [
+            "condemning.",
+            "reaffirming.",
+            "dishonoring.",
+            "securing."
+          ],
+          "answer": "C",
+          "explain": "正确项：dishonoring. renege on a commitment 指不履行、背弃承诺，dishonor 也可表示违反协议或不信守诺言，两者在本句中同义。\n其他选项：A. condemning.：condemn 是谴责；Entergy 并非谴责承诺，而是拒绝履行承诺。；B. reaffirming.：reaffirm 是重申、再次确认，与“背弃”相反。；D. securing.：secure 是获得或确保，不能描述公司违背既有承诺的行为。",
+          "evidence": "The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging on a longstanding commitment to abide by the state's strict nuclear regulations.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 27,
+          "stem": "By entering into the 2002 agreement, Entergy intended to",
+          "options": [
+            "obtain protection from Vermont regulators.",
+            "seek favor from the federal legislature.",
+            "acquire an extension of its business license.",
+            "get permission to purchase a power plant."
+          ],
+          "answer": "D",
+          "explain": "正确项：get permission to purchase a power plant. 上文先说 Entergy 于 2002 年购买该核电站，随后说明接受协议是获得州政府对这宗交易批准的条件。因此，签署协议的直接目的就是获准完成购厂。\n其他选项：A. obtain protection from Vermont regulators.：州监管机构负责审批，并未向公司提供保护，无中生有。；B. seek favor from the federal legislature.：2002 年协议涉及的是佛蒙特州监管机构，不是联邦立法机关，主体错位。；C. acquire an extension of its business license.：公司承诺未来若想在 2012 年后运营须另行申请；签订协议本身并未取得许可证延期，混淆当前目的与后续条件。",
+          "evidence": "As a condition of receiving state approval for the sale, the company agreed to seek permission from state regulators to operate past 2012.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 28,
+          "stem": "According to Paragraph 4, Entergy seems to have problems with its",
+          "options": [
+            "managerial practices.",
+            "technical innovativeness.",
+            "financial goals.",
+            "business vision."
+          ],
+          "answer": "A",
+          "explain": "正确项：managerial practices. 原文直接说事故与误导性陈述使人质疑 Entergy's management；managerial practices 是对其管理方式的同义改写。\n其他选项：B. technical innovativeness.：事故涉及设备安全，但文中没有评价公司的技术创新能力，偷换概念。；C. financial goals.：本段未讨论营收、成本或财务目标，无中生有。；D. business vision.：公司是否预见后续局势只是上一句提出的一种可能，核心证据指向实际管理问题，并非商业愿景。",
+          "evidence": "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious questions about both Vermont Yankee's safety and Entergy's management - especially after the company made misleading statements about the pipe.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 29,
+          "stem": "In the author's view, the Vermont case will test",
+          "options": [
+            "Entergy's capacity to fulfill all its promises.",
+            "the nature of states' patchwork regulations.",
+            "the federal authority over nuclear issues.",
+            "the limits of states' power over nuclear issues."
+          ],
+          "answer": "D",
+          "explain": "正确项：the limits of states' power over nuclear issues. how far those powers extend 指各州对核能的监管权能够延伸到何种程度，正是检验州权的界限。\n其他选项：A. Entergy's capacity to fulfill all its promises.：履约能力是作者批评公司的主题，却不是该案要确立的法律问题；题干中的 test 对应的是权力边界。；B. the nature of states' patchwork regulations.：拼凑式监管只是各州自行立规可能造成的担忧，并非判例检验的对象。；C. the federal authority over nuclear issues.：联邦政府拥有监管权并非此处争点；争点是州级监管权究竟可以有多大范围。",
+          "evidence": "The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that Vermont case will offer a precedent-setting test of how far those powers extend.",
+          "trap": "",
+          "type": "观点"
+        },
+        {
+          "n": 30,
+          "stem": "It can be inferred from the last paragraph that",
+          "options": [
+            "Entergy's business elsewhere might be affected.",
+            "the authority of the NRC will be defied.",
+            "Entergy will withdraw its Plymouth application.",
+            "Vermont's reputation might be damaged."
+          ],
+          "answer": "A",
+          "explain": "正确项：Entergy's business elsewhere might be affected. 作者提醒 NRC 在审查普利茅斯核电站延期申请时考虑 Entergy 在佛蒙特州的失信记录，意味着这一记录可能影响公司在其他地区的许可与业务。\n其他选项：B. the authority of the NRC will be defied.：作者要求 NRC 行使审查权，没有说其权威将遭到违抗，与原文关系相反。；C. Entergy will withdraw its Plymouth application.：文中只说申请正在审查，没有信息表明公司会撤回申请，推断过度。；D. Vermont's reputation might be damaged.：原文明确受损的是 Entergy 在佛蒙特州的声誉，不是佛蒙特州自身的声誉，主体错位。",
+          "evidence": "Entergy runs 11 other reactors in the United States, including Pilgrim Nuclear station in Plymouth.\nPledging to run Pilgrim safely, the company has applied for federal permission to keep it open for another 20 years.\nBut as the Nuclear Regulatory Commission (NRC) reviews the company's application, it should keep in mind what promises from Entergy are worth.",
+          "trap": "",
+          "type": "推断"
+        }
+      ]
+    },
+    {
+      "id": "text3",
+      "kicker": "Section II · Part A",
+      "title": "Text 3",
+      "en_title": "In the idealized version of how science is done, facts about the world…",
+      "cn_title": "科学研究中选择性发表造成的认知偏差",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "科学研究中选择性发表造成的认知偏差",
+      "intro": "本篇主题：科学研究中选择性发表造成的认知偏差。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "In the idealized version of how science is done, facts about the world are waiting to be observed and collected by objective researchers who use the scientific method to carry out their work. But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route. We aim to be objective, but we cannot escape the context of our unique life experiences. Prior knowledge and interests influence what we experience, what we think our experiences mean, and the subsequent actions we take. Opportunities for misinterpretation, error, and self-deception abound.",
+          "zh": "在对科学运作方式的理想化想象中，关于世界的事实静待客观的研究者去观察和收集，而研究者则运用科学方法开展工作。 但在日常的科学实践中，发现往往沿着一条充满不确定、错综复杂的路径展开。 我们力求客观，却无法摆脱自身独特人生经历所构成的背景。 既有知识和个人兴趣会影响我们经历什么、我们认为这些经历意味着什么，以及我们随后采取什么行动。 误读、出错和自我欺骗的可能性比比皆是。"
+        },
+        {
+          "en": "Consequently, discovery claims should be thought of as protoscience. Similar to newly staked mining claims, they are full of potential. But it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery. This is the credibility process, through which the individual researcher's *me, here, now* becomes the community's *anyone, anywhere, anytime*. Objective knowledge is the goal, not the starting point.",
+          "zh": "因此，关于发现的主张应当被视为尚未成熟的“原科学”。 这些发现主张如同刚刚圈定的采矿权，充满潜力。 但要把一项发现主张转化为成熟的科学发现，需要共同体集体审查并予以接受。 这就是可信度形成的过程；经由这一过程，单个研究者的“我、此地、此刻”转化为科学共同体的“任何人、任何地点、任何时候”。 客观知识是最终目标，而不是天然的起点。"
+        },
+        {
+          "en": "Once a discovery claim becomes public, the discoverer receives intellectual credit. But, unlike with mining claims, the community takes control of what happens next. Within the complex social structure of the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication process; other scientists use the new finding to suit their own purposes; and finally, the public (including other scientists) receives the new discovery and possibly accompanying technology. As a discovery claim works its way through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology involved transforms an individual's discovery claim into the community's credible discovery.",
+          "zh": "一旦发现主张公开，发现者便会获得学术上的认可。 但与采矿权不同，接下来会发生什么由科学共同体掌控。 在科学共同体复杂的社会结构中，研究者提出发现；编辑和审稿人通过控制发表流程充当把关人；其他科学家会把新发现用于自己的目的；最后，公众（包括其他科学家）接收这一新发现以及可能随之而来的技术。 随着一项发现主张在共同体中逐步流转，围绕相关科学与技术的共同信念和竞争性信念之间的互动、碰撞，会把个人的发现主张转化为共同体认可的可信发现。"
+        },
+        {
+          "en": "Two paradoxes exist throughout this credibility process. First, scientific work tends to focus on some aspect of prevailing knowledge that is viewed as incomplete or incorrect. Little reward accompanies duplication and confirmation of what is already known and believed. The goal is new-search, not re-search. Not surprisingly, newly published discovery claims and credible discoveries that appear to be important and convincing will always be open to challenge and potential modification or refutation by future researchers. Second, novelty itself frequently provokes disbelief. Nobel Laureate and physiologist Albert Szent-Györgyi once described discovery as \"seeing what everybody has seen and thinking what nobody has thought.\" But thinking what nobody else has thought and telling others what they have missed may not change their views. Sometimes years are required for truly novel discovery claims to be accepted and appreciated.",
+          "zh": "在这一可信度形成过程中，始终存在两种悖论。 第一，科学工作往往聚焦于现有知识中被认为不完整或不正确的某个方面。 重复和确认那些已知、已被相信的内容，通常带不来多少回报。 目标是寻找新的东西，而不是重复已有研究。 因此毫不意外，新近发表的发现主张，以及那些看似重要而有说服力的可信发现，始终可能遭到未来研究者的挑战、修正甚至推翻。 第二，新颖性本身又常常引发怀疑。 诺贝尔奖得主、生理学家阿尔伯特·森特-哲尔吉曾把发现描述为：“看到人人都看到的东西，却想到无人曾想到的东西。” 但即使想到别人从未想到的东西，并告诉他们遗漏了什么，也未必能改变他们的看法。 真正新颖的发现主张有时需要多年才会被接受和重视。"
+        },
+        {
+          "en": "In the end, credibility \"happens\" to a discovery claim - a process that corresponds to what philosopher Annette Baier has described as the *commons of the mind*. \"We reason together, challenge, revise, and complete each other's reasoning and each other's conceptions of reason.\"",
+          "zh": "最终，可信度会在一项发现主张上“形成”；这一过程对应于哲学家安妮特·拜尔所说的“思想公地”。 “我们共同推理，相互质疑、修正，并完善彼此的推理以及彼此对理性的理解。”"
+        }
+      ],
+      "questions": [
+        {
+          "n": 31,
+          "stem": "According to the first paragraph, the process of discovery is characterized by its",
+          "options": [
+            "uncertainty and complexity.",
+            "misconception and deceptiveness.",
+            "logicality and objectivity.",
+            "systematicness and regularity."
+          ],
+          "answer": "A",
+          "explain": "正确项：uncertainty and complexity. ambiguous 对应 uncertainty，complicated 对应 complexity；选项准确概括了现实中科学发现路径的两个特征。\n其他选项：B. misconception and deceptiveness.：原文只说发现过程中存在误读和自我欺骗的可能，并未说发现过程本身以“错误观念和欺骗性”为特征，偷换属性。；C. logicality and objectivity.：客观、规范只属于句首的理想化图景，作者随即用 But 转向现实并否定其天然客观性。；D. systematicness and regularity.：系统性和规律性与 ambiguous and complicated route 不符，原文也未提及。",
+          "evidence": "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 32,
+          "stem": "It can be inferred from Paragraph 2 that credibility process requires",
+          "options": [
+            "strict inspection.",
+            "shared efforts.",
+            "individual wisdom.",
+            "persistent innovation."
+          ],
+          "answer": "B",
+          "explain": "正确项：shared efforts. collective scrutiny and acceptance 表明发现主张必须经过共同体成员的共同审视和认可；结尾的 reason together 进一步印证可信度依靠共享努力形成。\n其他选项：A. strict inspection.：scrutiny 确有严格审查之意，但原文还强调 collective 与 acceptance；此项遗漏共同参与这一核心，范围过窄。；C. individual wisdom.：可信度正是从个人的 me, here, now 走向共同体，单个人的智慧不足以完成这一过程，与原文相反。；D. persistent innovation.：持续创新在本段并非可信度形成的条件，无中生有。",
+          "evidence": "But it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery.\n\"We reason together, challenge, revise, and complete each other's reasoning and each other's conceptions of reason.\"",
+          "trap": "",
+          "type": "推断"
+        },
+        {
+          "n": 33,
+          "stem": "Paragraph 3 shows that a discovery claim becomes credible after it",
+          "options": [
+            "has attracted the attention of the general public.",
+            "has been examined by the scientific community.",
+            "has received recognition from editors and reviewers.",
+            "has been frequently quoted by peer scientists."
+          ],
+          "answer": "B",
+          "explain": "正确项：has been examined by the scientific community. 发现主张要在科学共同体中经历发表把关、使用、互动与观念交锋，之后才从个人主张转化为共同体的可信发现；选项用 examined by the scientific community 概括这一全过程。\n其他选项：A. has attracted the attention of the general public.：公众接收发现只是传播链末端之一，吸引注意本身不能赋予科学可信度。；C. has received recognition from editors and reviewers.：编辑和审稿人只是把关环节，不能替代整个共同体的互动与检验，范围过窄。；D. has been frequently quoted by peer scientists.：原文说其他科学家会使用新发现，没有说“频繁引用”是可信度成立的标准，无中生有。",
+          "evidence": "But, unlike with mining claims, the community takes control of what happens next.\nAs a discovery claim works its way through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology involved transforms an individual's discovery claim into the community's credible discovery.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 34,
+          "stem": "Albert Szent-Györgyi would most likely agree that",
+          "options": [
+            "scientific claims will survive challenges.",
+            "discoveries today inspire future research.",
+            "efforts to make discoveries are justified.",
+            "scientific work calls for a critical mind."
+          ],
+          "answer": "D",
+          "explain": "正确项：scientific work calls for a critical mind. 面对人人看到的事实却形成无人想到的认识，要求研究者不受既有解释束缚，进行独立而批判的思考，因此对应 a critical mind。\n其他选项：A. scientific claims will survive challenges.：原文说发现始终可能被挑战、修正或推翻，并不保证任何主张都能经受住挑战，绝对化。；B. discoveries today inspire future research.：文中讨论后来的研究者会检验新发现，没有说当下发现必然“激励”未来研究。；C. efforts to make discoveries are justified.：引语说明何为发现所需的思维方式，不是在为发现活动的正当性辩护。",
+          "evidence": "Nobel Laureate and physiologist Albert Szent-Györgyi once described discovery as \"seeing what everybody has seen and thinking what nobody has thought.\"",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 35,
+          "stem": "Which of the following would be the best title of the text?",
+          "options": [
+            "Novelty as an Engine of Scientific Development.",
+            "Collective Scrutiny in Scientific Discovery.",
+            "Evolution of Credibility in Doing Science.",
+            "Challenge to Credibility at the Gate to Science."
+          ],
+          "answer": "C",
+          "explain": "正确项：Evolution of Credibility in Doing Science. 全文从个人发现主张的不确定起点，写到共同体审查、发表、争论、挑战和最终接受，中心正是科学实践中“可信度如何逐步演化形成”。\n其他选项：A. Novelty as an Engine of Scientific Development.：新颖性只在第四段用于说明可信化过程的悖论，不是贯穿全文的中心，范围过窄。；B. Collective Scrutiny in Scientific Discovery.：集体审查是可信度形成的重要机制，但全文还讨论个人偏差、发表结构、挑战与接受等完整演化过程，概括不全。；D. Challenge to Credibility at the Gate to Science.：标题把重点局限于“入口把关”和挑战，既夸大编辑审稿环节，也没有覆盖可信度最终形成。",
+          "evidence": "In the end, credibility \"happens\" to a discovery claim - a process that corresponds to what philosopher Annette Baier has described as the *commons of the mind*.\n\"We reason together, challenge, revise, and complete each other's reasoning and each other's conceptions of reason.\"",
+          "trap": "",
+          "type": "主旨/标题"
+        }
+      ]
+    },
+    {
+      "id": "text4",
+      "kicker": "Section II · Part A",
+      "title": "Text 4",
+      "en_title": "If the trade unionist Jimmy Hoffa were alive today, he would probably …",
+      "cn_title": "美国公共部门工会扩张带来的政治与财政影响",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "美国公共部门工会扩张带来的政治与财政影响",
+      "intro": "本篇主题：美国公共部门工会扩张带来的政治与财政影响。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "If the trade unionist Jimmy Hoffa were alive today, he would probably represent civil servants. When Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do. In 2009 the number of unionists in America's public sector passed that of their fellow members in the private sector. In Britain, more than half of public-sector workers but only about 15% of private-sector ones are unionized.",
+          "zh": "如果工会领袖吉米·霍法今天还活着，他很可能会代表公务员群体。 1960 年霍法领导的卡车司机工会正值鼎盛时，美国政府雇员中只有十分之一加入工会；如今这一比例已达 36%。 2009 年，美国公共部门的工会会员人数超过了私营部门的工会会员人数。 在英国，超过半数的公共部门雇员加入了工会，而私营部门雇员中这一比例只有约 15%。"
+        },
+        {
+          "en": "There are three reasons for the public-sector unions' thriving. First, they can shut things down without suffering much in the way of consequences. Second, they are mostly bright and well-educated. A quarter of America's public-sector workers have a university degree. Third, they now dominate left-of-centre politics. Some of their ties go back a long way. Britain's Labor Party, as its name implies, has long been associated with trade unionism. Its current leader, Ed Miliband, owes his position to votes from public-sector unions.",
+          "zh": "公共部门工会蓬勃发展有三个原因。 第一，它们可以让公共服务停摆，却不必为此承担多少后果。 第二，其成员大多聪明且受过良好教育。 美国公共部门雇员中有四分之一拥有大学学位。 第三，它们如今在中间偏左的政治阵营中占据主导地位。 它们与左翼政党的某些联系由来已久。 正如其名称所暗示的那样，英国工党长期以来一直与工会主义关系密切。 工党现任领袖埃德·米利班德之所以能坐上这一职位，要归因于公共部门工会所投的选票。"
+        },
+        {
+          "en": "At the state level their influence can be even more fearsome. Mark Baldassare of the Public Policy Institute of California points out that much of the state's budget is patrolled by unions. The teachers' unions keep an eye on schools, the CCPOA on prisons and a variety of labor groups on health care.",
+          "zh": "在州一级，公共部门工会的影响力可能更加令人畏惧。 加州公共政策研究所的马克·巴尔达萨雷指出，该州预算的很大一部分都处在工会的严密盯守之下。 教师工会盯着学校预算，加州惩教和平警官协会盯着监狱预算，各类劳工团体则盯着医疗预算。"
+        },
+        {
+          "en": "In many rich countries average wages in the state sector are higher than in the private one. But the real gains come in benefits and work practices. Politicians have repeatedly \"backloaded\" public-sector pay deals, keeping the pay increases modest but adding to holidays and especially pensions that are already generous.",
+          "zh": "在许多富裕国家，公共部门的平均工资高于私营部门。 但公共部门雇员真正增加的所得，体现在福利待遇和工作制度上。 政客们一再把公共部门薪酬协议的成本推迟到后期：眼前的加薪幅度保持不大，却增加休假，尤其是进一步提高本已优厚的养老金待遇。"
+        },
+        {
+          "en": "Reform has been vigorously opposed, perhaps most notoriously in education, where charter schools, academies and merit pay all faced drawn-out battles. Even though there is plenty of evidence that the quality of the teachers is the most important variable, teachers' unions have fought against getting rid of bad ones and promoting good ones.",
+          "zh": "改革一直遭到强烈反对，其中最声名狼藉的或许是教育领域；特许学校、独立公立学校和绩效工资都经历了旷日持久的争斗。 尽管大量证据表明教师质量是最重要的变量，教师工会却一直反对淘汰差教师和提拔好教师。"
+        },
+        {
+          "en": "As the cost to everyone else has become clearer, politicians have begun to clamp down. In Wisconsin the unions have rallied thousands of supporters against Scott Walker, the hardline Republican governor. But many within the public sector suffer under the current system, too.",
+          "zh": "随着这种制度让其他所有人承担的代价日益清楚，政客们已经开始采取强硬措施加以限制。 在威斯康星州，工会已经召集数千名支持者，反对立场强硬的共和党州长斯科特·沃克。 但公共部门内部也有许多人在现行制度下受损。"
+        },
+        {
+          "en": "John Donahue at Harvard's Kennedy School points out that the norms of culture in Western civil services suit those who want to stay put but is bad for high achievers. The only American public-sector workers who earn well above $250,000 a year are university sports coaches and the president of the United States. Bankers' fat pay packets have attracted much criticism, but a public-sector system that does not reward high achievers may be a much bigger problem for America.",
+          "zh": "哈佛大学肯尼迪学院的约翰·多纳休指出，西方公务员体系的文化规范适合那些想安于现状的人，却不利于高成就者。 美国公共部门中，年收入远超 25 万美元的工作人员只有大学体育教练和美国总统。 银行家丰厚的薪酬待遇招致了大量批评，但一个不奖励高绩效者的公共部门制度，对美国而言可能是严重得多的问题。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "stem": "It can be learned from the first paragraph that",
+          "options": [
+            "Teamsters still have a large body of members.",
+            "Jimmy Hoffa used to work as a civil servant.",
+            "unions have enlarged their public-sector membership.",
+            "the government has improved its relationship with unionists."
+          ],
+          "answer": "C",
+          "explain": "正确项：unions have enlarged their public-sector membership. 美国政府雇员入会比例从 1960 年的 10% 上升到 36%，且 2009 年公共部门工会会员数超过私营部门，说明工会扩大了公共部门的会员规模。\n其他选项：A. Teamsters still have a large body of members.：原文只说卡车司机工会在 1960 年处于鼎盛期，没有交代其当前会员数量，时态与对象均错位。；B. Jimmy Hoffa used to work as a civil servant.：作者只是虚拟设想霍法今天可能会代表公务员，不表示他曾是公务员，把假设当成事实。；D. the government has improved its relationship with unionists.：第一段只比较工会会员数据，没有讨论政府与工会会员的关系是否改善，无中生有。",
+          "evidence": "When Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do.\nIn 2009 the number of unionists in America's public sector passed that of their fellow members in the private sector.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 37,
+          "stem": "Which of the following is true of Paragraph 2?",
+          "options": [
+            "Public-sector unions are prudent in taking actions.",
+            "Education is required for public-sector union membership.",
+            "Labor Party has long been fighting against public-sector unions.",
+            "Public-sector unions seldom get in trouble for their actions."
+          ],
+          "answer": "D",
+          "explain": "正确项：Public-sector unions seldom get in trouble for their actions. without suffering much in the way of consequences 表示工会即使让公共服务停摆，也很少因此承担后果，等同于 seldom get in trouble for their actions。\n其他选项：A. Public-sector unions are prudent in taking actions.：原文说它们行动后很少受罚，并非说其行动谨慎，偷换因果。；B. Education is required for public-sector union membership.：只有四分之一公共部门雇员拥有大学学位，受教育并非加入工会的必要条件，绝对化。；C. Labor Party has long been fighting against public-sector unions.：原文说工党长期与工会主义联系密切，其领袖还受益于工会选票；“反对”与原意相反。",
+          "evidence": "First, they can shut things down without suffering much in the way of consequences.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 38,
+          "stem": "It can be learned from Paragraph 4 that the income in the state sector is",
+          "options": [
+            "illegally secured.",
+            "indirectly augmented.",
+            "excessively increased.",
+            "fairly adjusted."
+          ],
+          "answer": "B",
+          "explain": "正确项：indirectly augmented. 政客把直接加薪控制在较小幅度，却增加假期和养老金，使公共部门雇员的总体所得通过非工资福利被间接抬高；augmented 对应这些额外增加。\n其他选项：A. illegally secured.：文中批评薪酬安排，但没有认定这些收入违法获得，无中生有。；C. excessively increased.：原文明确说直接加薪 modest，重点是通过福利和养老金间接增加；此项忽略方式并夸大工资涨幅。；D. fairly adjusted.：作者认为这种后置成本造成公共负担，并非对公平调整的肯定。",
+          "evidence": "But the real gains come in benefits and work practices.\nPoliticians have repeatedly \"backloaded\" public-sector pay deals, keeping the pay increases modest but adding to holidays and especially pensions that are already generous.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 39,
+          "stem": "The example of the unions in Wisconsin shows that unions",
+          "options": [
+            "often run against the current political system.",
+            "can change people's political attitudes.",
+            "may be a barrier to public-sector reforms.",
+            "are dominant in the government."
+          ],
+          "answer": "C",
+          "explain": "正确项：may be a barrier to public-sector reforms. 语境先说政客开始压缩成本、推动改革，随后工会动员数千人反对采取强硬措施的州长；该例说明工会可能形成改革阻力。\n其他选项：A. often run against the current political system.：工会反对的是州长的具体改革措施，不是经常对抗整个现行政治制度，范围扩大。；B. can change people's political attitudes.：rally supporters 表示动员已有支持者，原文没有说工会改变了人们的政治态度。；D. are dominant in the government.：第二段说工会主导中左翼政治，但威斯康星例子只展示其反改革动员能力，不能推出其支配政府。",
+          "evidence": "Reform has been vigorously opposed, perhaps most notoriously in education, where charter schools, academies and merit pay all faced drawn-out battles.\nIn Wisconsin the unions have rallied thousands of supporters against Scott Walker, the hardline Republican governor.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 40,
+          "stem": "John Donahue's attitude towards the public-sector system is one of",
+          "options": [
+            "disapproval.",
+            "appreciation.",
+            "tolerance.",
+            "indifference."
+          ],
+          "answer": "A",
+          "explain": "正确项：disapproval. 多纳休认为现行制度适合安于现状者，却伤害高绩效者；末句进一步称其可能是美国“严重得多的问题”，明显表达不赞同和批评。\n其他选项：B. appreciation.：他强调制度不奖励优秀者，是批评而非欣赏，与原文相反。；C. tolerance.：原文把该制度称为更大的问题，没有表现出勉强容忍的态度。；D. indifference.：明确比较利弊并判断问题严重，绝非漠不关心。",
+          "evidence": "John Donahue at Harvard's Kennedy School points out that the norms of culture in Western civil services suit those who want to stay put but is bad for high achievers.\nBankers' fat pay packets have attracted much criticism, but a public-sector system that does not reward high achievers may be a much bigger problem for America.",
+          "trap": "",
+          "type": "态度"
+        }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "id": "2012-T1-P1-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "That whispered message, half invitation and half forcing, is what most of us think of when we hear the words *peer pressure*.",
+      "core": "That whispered message is what most of us think of。",
+      "structure": "half invitation and half forcing 是同位语，补充说明这条信息既有邀请意味，也带强迫色彩；what... 是表语从句；when... 说明产生这一联想的时间条件。",
+      "key": "见下方词汇笔记",
+      "zh": "一听到“同伴压力”这个词，我们多数人想到的，正是这种低声传递的信息：一半是邀请，一半是强迫。",
+      "tip": "what 同时相当于先行词和关系代词，意为“我们所想到的东西”，不能只译成疑问词“什么”。"
+    },
+    {
+      "id": "2012-T1-P1-S04",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "But in her new book *Join the Club*, Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure, in which organizations and officials use the power of group dynamics to help individuals improve their lives and possibly the world.",
+      "core": "Tina Rosenberg contends that peer pressure can be a positive force。",
+      "structure": "through what she calls the social cure 说明积极作用借何种方式实现；what she calls... 是介词后的宾语从句；in which... 修饰 the social cure，解释这种疗法的运作机制。",
+      "key": "contend：常见义为“竞争、争夺”；此处作动词，意为“主张、认为”。；group dynamics：群体动力，指群体成员互动所形成的行为影响力。；the social cure：作者所评述的概念，即利用社会群体的影响来改变个人行为。",
+      "zh": "但蒂娜·罗森伯格在新书《加入俱乐部》中主张，同伴压力也可以通过她所谓的“社会疗法”成为一种积极力量；在这种做法中，组织和官员利用群体动力帮助个人改善生活，甚至可能改善世界。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T1-P2-S01",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage Against the Haze sets out to make cigarettes uncool.",
+      "core": "Rosenberg offers examples: a program sets out to make cigarettes uncool。",
+      "structure": "the recipient of a Pulitzer Prize 是 Rosenberg 的同位语；冒号后给出第一个实例；called... 是过去分词短语，修饰 program。",
+      "key": "uncool：此处不是“温度不凉”，而是“不时髦、不受同伴认同”。；a host of：大量，许多。；in action：在实际运作中，付诸实践。；set out to do：着手、力图做某事。",
+      "zh": "普利策奖得主罗森伯格列举了大量“社会疗法”的实际案例：在南卡罗来纳州，一个名为“向烟霾宣战”的州政府资助禁烟项目，力图让吸烟显得不再时髦。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T1-P3-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Her critique of the lameness of many public-health campaigns is spot-on: they fail to mobilize peer pressure for healthy habits, and they demonstrate a seriously flawed understanding of psychology.",
+      "core": "Her critique is spot-on。",
+      "structure": "of the lameness... 说明批评的对象；冒号后两个并列分句解释为何这一批评准确。",
+      "key": "lame：常见义为“跛的”；名词 lameness 在此指做法“乏力、蹩脚、缺乏说服力”。；spot-on：完全准确的，切中要害的。；mobilize：调动、利用某种力量。",
+      "zh": "她对许多公共卫生宣传活动乏力无效的批评十分准确：这些活动既没能调动同伴压力来培养健康习惯，也暴露出其对心理学存在严重缺陷的理解。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T1-P3-S03",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "\"Dare to be different, please don't smoke!\" pleads one billboard campaign aimed at reducing smoking among teenagers - teenagers, who desire nothing more than fitting in.",
+      "core": "one billboard campaign pleads...。",
+      "structure": "aimed at... 修饰 campaign；破折号后的 teenagers 重复前词以加强语气；who... 补充说明青少年的核心心理诉求。",
+      "key": "plead：常见义为在法庭上“辩护、申辩”；此处指宣传语“恳求、呼吁”。；be aimed at doing：旨在做某事。；desire nothing more than doing：最想做某事，没有比这更想要的。；fit in：融入群体，与周围人合得来。",
+      "zh": "一则旨在减少青少年吸烟的广告牌宣传恳求道：“勇于与众不同，请不要吸烟！”可青少年最渴望的恰恰就是融入群体。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T1-P3-S04",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Rosenberg argues convincingly that public-health advocates ought to take a page from advertisers, so skilled at applying peer pressure.",
+      "core": "Rosenberg argues that public-health advocates ought to take a page from advertisers。",
+      "structure": "so skilled at applying peer pressure 是对 advertisers 的补充说明，可理解为省略了 who are。",
+      "key": "take a page from sb.：借鉴某人的经验或做法。；public-health advocate：公共卫生倡导者。",
+      "zh": "罗森伯格令人信服地指出，公共卫生倡导者应当借鉴广告商的经验，因为广告商非常善于运用同伴压力。",
+      "tip": "take a page from 表示“学习经验”，不等于直接招募广告专业人士。"
+    },
+    {
+      "id": "2012-T1-P4-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "*Join the Club* is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful.",
+      "core": "*Join the Club* is filled with too much detail and not enough exploration。",
+      "structure": "irrelevant 修饰 detail；of the social and biological factors 说明探究对象；that make peer pressure so powerful 修饰 factors。",
+      "key": "be filled with：充满；此处带批评意味，指内容塞得过多。；exploration of：对……的探究。",
+      "zh": "《加入俱乐部》塞入了太多无关细节，却没有充分探究使同伴压力如此强大的社会因素和生物因素。",
+      "tip": "not enough 否定的是“探究的充分程度”，正是 Q23 中 fails to adequately probe 的同义改写。"
+    },
+    {
+      "id": "2012-T1-P4-S03",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long.",
+      "core": "The most glaring flaw is that it doesn't work very well for very long。",
+      "structure": "as it's presented here 修饰 the social cure，限定为“按本书所呈现的方式”；that... 是表语从句，说明缺陷的具体内容。",
+      "key": "glaring：常见义可指“耀眼的”；此处指缺陷“非常明显、刺眼”。",
+      "zh": "书中所呈现的“社会疗法”最明显的缺陷是：它效果不够好，也不能维持很久。",
+      "tip": "这句话批评的是书中介绍的疗法效果，并不是说“这本书没能产生持久的社会效果”。"
+    },
+    {
+      "id": "2012-T1-P4-S05",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Evidence that the loveLife program produces lasting changes is limited and mixed.",
+      "core": "Evidence is limited and mixed。",
+      "structure": "that the loveLife program produces lasting changes 是同位语从句，说明 Evidence 所证明的具体命题。",
+      "key": "mixed：常见义为“混合的”；此处指证据或结果“好坏不一、结论不一致”。",
+      "zh": "能够证明 loveLife 项目带来持久改变的证据既有限，也并不一致。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T1-P5-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "An emerging body of research shows that positive health habits - as well as negative ones - spread through networks of friends via social communication.",
+      "core": "A body of research shows that health habits spread。",
+      "structure": "emerging 修饰 body of research；两个破折号之间的 as well as negative ones 插入补充，ones 代指 health habits。",
+      "key": "body：常见义为“身体”；a body of research 指“一批、一系列研究”。；as well as：也、以及；这里强调积极和消极习惯都会传播。；via social communication：通过社会交往。",
+      "zh": "一批正在涌现的研究表明，积极的健康习惯和消极习惯一样，都会通过社会交往在朋友网络中传播。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T1-P5-S03",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day.",
+      "core": "This is a form of peer pressure: we imitate the behavior。",
+      "structure": "冒号后解释这种同伴压力如何发生；we see every day 是省略关系词的定语从句，修饰 behavior。",
+      "key": "subtle：此处不是“精妙的”，而是“不易察觉的、潜移默化的”。",
+      "zh": "这是一种不易察觉的同伴压力：我们会在无意识中模仿自己每天看到的行为。",
+      "tip": "unconsciously 直接对应 Q24 的 without our realizing it，强调模仿发生时本人并未意识到。"
+    },
+    {
+      "id": "2012-T1-P6-S01",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions.",
+      "core": "How successfully experts and bureaucrats can select... and steer... is far less certain。",
+      "structure": "为突出评价，表语 Far less certain 被前置，真正的主语是后面的 how 从句；select 与 steer 并列。",
+      "key": "steer：常见义为“驾驶、掌舵”；此处意为“引导、操控”。；virtuous：此处指方向或活动“有益、合乎道德”，并非只形容个人“品德高尚”。",
+      "zh": "然而，专家和官僚能否替我们选择同伴群体，并成功引导这些群体从事有益活动，就远没有那么确定了。",
+      "tip": "作者质疑的不是同伴压力是否存在，而是专家人为设计和引导它能否成功。"
+    },
+    {
+      "id": "2012-T1-P6-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "It's like the teacher who breaks up the troublemakers in the back row by pairing them with better-behaved classmates.",
+      "core": "It's like the teacher。",
+      "structure": "who... 修饰 teacher；by pairing... 说明老师拆散捣乱者所采用的办法；them 指 the troublemakers。",
+      "key": "break up：拆散，使一群人分开。；pair A with B：把 A 与 B 配成一组。",
+      "zh": "这就像老师把后排的捣乱学生拆散，再让他们分别与表现较好的同学结对。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T1-P6-S04",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "And that's the problem with a social cure engineered from the outside: in the real world, as in school, we insist on choosing our own friends.",
+      "core": "That is the problem: we insist on choosing our own friends。",
+      "structure": "engineered from the outside 是过去分词短语，修饰 a social cure；冒号后解释问题的根源；as in school 是插入的类比成分。",
+      "key": "engineer：此处作动词，指“精心设计、策划”。；insist on doing：坚持做某事。；lead to no good：导致不良后果。；a host of：大量，许多。",
+      "zh": "这正是由外部设计的“社会疗法”所面临的问题：无论在现实世界还是在学校里，我们都坚持自己选择朋友。",
+      "tip": "that 回指上一句所说的“人为配对不起作用”；问题在于个体会自主选择同伴，而非接受外部安排。"
+    },
+    {
+      "id": "2012-T2-P1-S02",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging on a longstanding commitment to abide by the state's strict nuclear regulations.",
+      "core": "The company provoked justified outrage。",
+      "structure": "a major energy supplier in New England 是 The company 的同位语；when... 说明引发愤怒的事件；to abide by... 修饰 commitment，交代承诺的内容。",
+      "key": "justified：此处不是“经过文字对齐的”，而是“有正当理由的、理所当然的”。；renege on：背弃、不履行承诺或协议。；abide by：遵守规则、决定或协议。；longstanding commitment：长期以来一直有效的承诺。",
+      "zh": "这家公司是新英格兰地区的一家主要能源供应商；上周，它宣布将背弃长期以来作出的承诺，不再遵守佛蒙特州严格的核能法规，由此在该州激起了完全合理的愤怒。",
+      "tip": "renege on 表示违背既有承诺，对应 Q26 的 dishonoring，而不是“谴责”该承诺。"
+    },
+    {
+      "id": "2012-T2-P2-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Instead, the company has done precisely what it had long promised it would not: challenge the constitutionality of Vermont's rules in the federal court, as part of a desperate effort to keep its Vermont Yankee nuclear power plant running.",
+      "core": "The company has done what it had promised it would not do。",
+      "structure": "what... 是宾语从句；冒号后的 challenge... 具体说明它所做之事；as part of... 说明诉讼服务于维持核电站运营这一目的。",
+      "key": "challenge：常见义为“挑战”；在法律语境中指“对……的合法性或合宪性提出异议”。；the constitutionality of：……的合宪性。；keep... running：使……继续运行。；as part of an effort to do：作为为做某事所作努力的一部分。",
+      "zh": "相反，该公司恰恰做了它长期承诺不会做的事：在联邦法院质疑佛蒙特州法规是否合宪，以此作为其竭力维持佛蒙特扬基核电站运营的一部分。",
+      "tip": "it would not 后省略了 do，其宾语就是冒号后的 challenge...。"
+    },
+    {
+      "id": "2012-T2-P3-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "The conflict has been surfacing since 2002, when the corporation bought Vermont's only nuclear power plant, an aging reactor in Vernon.",
+      "core": "The conflict has been surfacing since 2002。",
+      "structure": "when... 是非限制性定语从句，补充说明 2002 年发生的事件；an aging reactor in Vernon 与 Vermont's only nuclear power plant 构成同位关系。",
+      "key": "surface：常见义为“表面”；此处作动词，意为“显露、浮现”。",
+      "zh": "这场冲突自 2002 年起便逐渐浮现；当年，该公司买下了佛蒙特州唯一的核电站，也就是位于弗农的一座老化反应堆。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T2-P3-S02",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "As a condition of receiving state approval for the sale, the company agreed to seek permission from state regulators to operate past 2012.",
+      "core": "The company agreed to seek permission。",
+      "structure": "句首介词短语说明公司为何作出承诺；to operate past 2012 修饰 permission，说明未来需要另行申请的运营权限。",
+      "key": "sale：此处从交易行为本身着眼，涵盖核电站产权转移；结合上句可知 Entergy 是买方，州政府批准的是这宗收购交易。；as a condition of：作为……的条件。；seek permission from sb. to do：向某人申请做某事的许可。；operate past 2012：在 2012 年之后继续运营。",
+      "zh": "作为获得州政府购厂批准的条件，该公司同意：若想让电站在 2012 年之后继续运营，就应向州监管机构申请许可。",
+      "tip": "公司签署协议的当下目的是让购厂交易获得州政府批准；“2012 年后继续运营”只是它为此接受的后续条件。"
+    },
+    {
+      "id": "2012-T2-P3-S03",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "In 2006, the state went a step further, requiring that any extension of the plant's license be subject to the Vermont legislature's approval.",
+      "core": "The state went a step further。",
+      "structure": "requiring... 是现在分词短语，说明州政府进一步采取的措施；that... 是 requiring 的宾语从句，其中 be subject to 使用虚拟语气原形。",
+      "key": "subject：常见义为“主题、科目”；be subject to 在此意为“须经……、受……约束”。",
+      "zh": "2006 年，州政府又推进了一步，规定核电站许可证的任何延期都必须获得佛蒙特州立法机关批准。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T2-P4-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Either Entergy never really intended to live by those commitments, or it simply didn't foresee what would happen next.",
+      "core": "Either Entergy never intended..., or it didn't foresee...。",
+      "structure": "either... or... 提出两种解释；what would happen next 是 foresee 的宾语从句。",
+      "key": "live by a commitment：信守承诺，按承诺行事。；foresee：预见，预料。",
+      "zh": "要么 Entergy 从未真正打算信守那些承诺，要么它只是没有预见到后来会发生什么。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T2-P4-S02",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious questions about both Vermont Yankee's safety and Entergy's management - especially after the company made misleading statements about the pipe.",
+      "core": "A string of accidents raised serious questions。",
+      "structure": "including... 插入列举两起事故；both... and... 并列质疑核电站安全与公司管理；破折号后的 especially after... 说明管理问题因误导性陈述而更加突出。",
+      "key": "a string of：一连串，一系列。；raise questions about：使人对……产生质疑。；misleading statement：误导性陈述。",
+      "zh": "接连发生的事故，包括 2007 年冷却塔局部坍塌以及地下管道系统泄漏被发现，使人们对佛蒙特扬基核电站的安全性和 Entergy 的管理都产生了严重质疑；尤其是该公司还就那条管道发表了误导性言论。",
+      "tip": "Q28 问的是 Entergy 自身的问题，对应并列结构中的 Entergy's management，不是核电技术创新能力。"
+    },
+    {
+      "id": "2012-T2-P4-S03",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Enraged by Entergy's behavior, the Vermont Senate voted 26 to 4 last year against allowing an extension.",
+      "core": "The Vermont Senate voted against allowing an extension。",
+      "structure": "Enraged by... 是过去分词短语，说明参议院作出决定时的原因和状态；26 to 4 是投票比分。",
+      "key": "vote against doing：投票反对做某事。；allow an extension：准许延期；结合上文指延长核电站许可证。",
+      "zh": "佛蒙特州参议院被 Entergy 的行为激怒，去年以 26 票对 4 票否决了延长核电站运营期限。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T2-P5-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Now the company is suddenly claiming that the 2002 agreement is invalid because of the 2006 legislation, and that only the federal government has regulatory power over nuclear issues.",
+      "core": "The company is claiming that..., and that...。",
+      "structure": "两个并列的 that 从句都是 claiming 的宾语：一是旧协议失效，二是核问题只归联邦政府监管。",
+      "key": "claim that...：声称……；此处语气暗含作者不认同。；regulatory power over：对……的监管权。",
+      "zh": "如今，该公司突然声称，2002 年的协议因 2006 年的立法而失效，而且只有联邦政府才拥有核问题的监管权。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T2-P5-S02",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that Vermont case will offer a precedent-setting test of how far those powers extend.",
+      "core": "The legal issues are obscure: legal scholars say that the case will offer a test。",
+      "structure": "冒号后解释何以“不明朗”；whereas... 先承认各州确有部分监管权，再与尚待确定的权力边界形成对照；of how far those powers extend 修饰 test。",
+      "key": "obscure：常见义为“偏僻的、晦涩的”；此处指法律问题“尚不明确的”。；authority：此处指依法行使的“权限、管辖权”。；precedent-setting：开创先例的，可能确立判例标准的。；how far... extend：……的范围延伸到何处。",
+      "zh": "此案涉及的法律问题并不明朗：最高法院固然已经裁定，各州对核能确实拥有一定监管权，但法律学者认为，佛蒙特州此案将成为一个开创先例的检验，用以确定这些权力究竟可以延伸到何种程度。",
+      "tip": "those powers 回指 states 的监管权，因此检验的是州权的边界，而非联邦权力是否存在。"
+    },
+    {
+      "id": "2012-T2-P5-S03",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Certainly, there are valid concerns about the patchwork regulations that could result if every state sets its own rules.",
+      "core": "There are valid concerns about the patchwork regulations。",
+      "structure": "that could result 修饰 regulations；if... 是条件从句，说明这种拼凑局面形成的条件。",
+      "key": "patchwork：常见义为“拼布”；此处形容各州规则不统一而形成“零散拼凑的”监管体系。",
+      "zh": "诚然，如果每个州都制定自己的规则，可能形成各自为政、拼凑不一的监管体系；对此确有合理担忧。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T2-P5-S04",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "But had Entergy kept its word, that debate would be beside the point.",
+      "core": "That debate would be beside the point。",
+      "structure": "had Entergy kept its word 是省略 if 后将 had 前置的虚拟条件句，完整形式为 if Entergy had kept its word。",
+      "key": "keep one's word：信守承诺。；beside the point：离题的，无关紧要的。",
+      "zh": "但如果 Entergy 当初信守了承诺，这场争论本来就无关紧要。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T2-P6-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "The company seems to have concluded that its reputation in Vermont is already so damaged that it has nothing left to lose by going to war with the state.",
+      "core": "The company seems to have concluded that...。",
+      "structure": "to have concluded 表示“得出结论”先于当前的“似乎”；so damaged that... 构成“如此……以至于……”的结果结构；by going to war... 说明可能采取的方式。",
+      "key": "have nothing left to lose：已经没有什么可再失去。；go to war with：与……全面对抗；此处为比喻用法。",
+      "zh": "该公司似乎已经认定，它在佛蒙特州的声誉早已受损到无以复加，因此即使与州政府开战也没什么可再失去的了。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T2-P6-S05",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Pledging to run Pilgrim safely, the company has applied for federal permission to keep it open for another 20 years.",
+      "core": "The company has applied for federal permission。",
+      "structure": "Pledging to run Pilgrim safely 是现在分词短语，说明公司申请时所作的承诺；to keep it open... 修饰 permission；it 指 Pilgrim Nuclear station。",
+      "key": "pledge：郑重承诺、保证；语气强于普通的 promise。",
+      "zh": "该公司承诺会安全运营朝圣者核电站，并已向联邦政府申请许可，希望让电站再运行 20 年。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T2-P6-S06",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "But as the Nuclear Regulatory Commission (NRC) reviews the company's application, it should keep in mind what promises from Entergy are worth.",
+      "core": "The NRC should keep in mind what promises from Entergy are worth。",
+      "structure": "as... 是时间从句；主句中的 it 指 the Nuclear Regulatory Commission；what promises from Entergy are worth 是 keep in mind 的宾语从句。",
+      "key": "worth：此处表示承诺的“价值、可信程度”，暗示 Entergy 的承诺不值得信赖。；keep in mind：记住，把……纳入考虑。；renege on a commitment：背弃承诺。；abide by regulations：遵守法规。",
+      "zh": "但美国核管理委员会审查该公司的申请时，应当牢记 Entergy 所作的承诺究竟有多少可信度。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T3-P1-S01",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "In the idealized version of how science is done, facts about the world are waiting to be observed and collected by objective researchers who use the scientific method to carry out their work.",
+      "core": "Facts are waiting to be observed and collected。",
+      "structure": "of how science is done 修饰 version；两个被动不定式说明事实等待被如何处理；who... 修饰 researchers，说明研究者采用科学方法。",
+      "key": "version：常见义为“版本”；此处指对科学活动的一种“描述、图景”。；carry out one's work：开展、执行工作。；the idealized version of：对……的理想化描述。",
+      "zh": "在对科学运作方式的理想化想象中，关于世界的事实静待客观的研究者去观察和收集，而研究者则运用科学方法开展工作。",
+      "tip": "how science is done 中的 do 指科学研究如何被开展，并不是“科学做了什么”。"
+    },
+    {
+      "id": "2012-T3-P1-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route.",
+      "core": "Discovery follows an ambiguous and complicated route。",
+      "structure": "见原句",
+      "key": "ambiguous：此处不仅是语言“有歧义”，也指发现过程“不明确、难以确定”。",
+      "zh": "但在日常的科学实践中，发现往往沿着一条充满不确定、错综复杂的路径展开。",
+      "tip": "Q31 的 uncertainty and complexity 分别改写 ambiguous 和 complicated。"
+    },
+    {
+      "id": "2012-T3-P1-S04",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Prior knowledge and interests influence what we experience, what we think our experiences mean, and the subsequent actions we take.",
+      "core": "Prior knowledge and interests influence A, B, and C。",
+      "structure": "三个并列宾语分别是 what we experience、what we think our experiences mean 和 the subsequent actions we take；末尾 we take 修饰 actions。",
+      "key": "prior：此处作形容词，意为“先前的、既有的”，不是“更重要的”。",
+      "zh": "既有知识和个人兴趣会影响我们经历什么、我们认为这些经历意味着什么，以及我们随后采取什么行动。",
+      "tip": "第二个 what 是 mean 的宾语，可理解为“我们认为自己的经历具有什么含义”。"
+    },
+    {
+      "id": "2012-T3-P2-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Similar to newly staked mining claims, they are full of potential.",
+      "core": "They are full of potential。",
+      "structure": "Similar to... 是比较状语；they 指上一句的 discovery claims。",
+      "key": "claim：在 mining claim 中指依法主张开采权的一块矿地或“采矿权”，作者借此比喻尚待验证的发现主张。；stake：此处指用界桩圈定并宣示矿权，newly staked 即“刚刚圈定的”。",
+      "zh": "这些发现主张如同刚刚圈定的采矿权，充满潜力。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T3-P2-S03",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "But it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery.",
+      "core": "It takes collective scrutiny and acceptance to transform A into B。",
+      "structure": "it takes... to do 表示“做某事需要……”；it 是形式主语，真正的主语是后面的不定式。",
+      "key": "collective scrutiny：集体的严格审视、共同检验。；transform A into B：把 A 转化为 B。",
+      "zh": "但要把一项发现主张转化为成熟的科学发现，需要共同体集体审查并予以接受。",
+      "tip": "collective 与 acceptance 共同表明可信度依靠群体协作，对应 Q32 的 shared efforts，不只是一次严格检查。"
+    },
+    {
+      "id": "2012-T3-P2-S04",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "This is the credibility process, through which the individual researcher's *me, here, now* becomes the community's *anyone, anywhere, anytime*.",
+      "core": "This is the credibility process, through which A becomes B。",
+      "structure": "through which... 是“介词 + 关系代词”引导的非限制性定语从句；两个所有格分别强调个人主张与共同体知识。",
+      "key": "credibility process：发现主张逐步获得公共可信度的过程。",
+      "zh": "这就是可信度形成的过程；经由这一过程，单个研究者的“我、此地、此刻”转化为科学共同体的“任何人、任何地点、任何时候”。",
+      "tip": "me, here, now 与 anyone, anywhere, anytime 不是字面人物地点清单，而是从个人情境走向可普遍验证的知识这一转变。"
+    },
+    {
+      "id": "2012-T3-P3-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "But, unlike with mining claims, the community takes control of what happens next.",
+      "core": "The community takes control of what happens next。",
+      "structure": "unlike with mining claims 是比较状语；what happens next 是介词 of 的宾语从句。",
+      "key": "见下方词汇笔记",
+      "zh": "但与采矿权不同，接下来会发生什么由科学共同体掌控。",
+      "tip": "公开发表不等于可信度已经确立；此后共同体会介入并检验，这正是 Q33 的核心。"
+    },
+    {
+      "id": "2012-T3-P3-S03",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Within the complex social structure of the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication process; other scientists use the new finding to suit their own purposes; and finally, the public (including other scientists) receives the new discovery and possibly accompanying technology.",
+      "core": "researchers make...; editors and reviewers act...; other scientists use...; the public receives...。",
+      "structure": "四个分号连接的并列分句按发现的社会流转顺序展开；by controlling... 说明编辑和审稿人如何把关；括号内补充“公众”也包括其他科学家。",
+      "key": "gatekeeper：字面是“守门人”；此处指掌握发表准入权的“把关者”。；act as：充当，发挥……作用。；to suit one's own purposes：为了适合、服务于自己的目的。；accompanying technology：随发现一同出现或得到应用的技术。",
+      "zh": "在科学共同体复杂的社会结构中，研究者提出发现；编辑和审稿人通过控制发表流程充当把关人；其他科学家会把新发现用于自己的目的；最后，公众（包括其他科学家）接收这一新发现以及可能随之而来的技术。",
+      "tip": "编辑和审稿人只是共同体中的一环，获得他们认可不等于发现已经完成整个可信化过程。"
+    },
+    {
+      "id": "2012-T3-P3-S04",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "As a discovery claim works its way through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology involved transforms an individual's discovery claim into the community's credible discovery.",
+      "core": "The interaction and confrontation transforms an individual's discovery claim into the community's credible discovery。",
+      "structure": "As... 是时间/伴随过程状语；主语由 interaction 和 confrontation 并列构成；between shared and competing beliefs... 修饰二者；involved 后置修饰 science and the technology。",
+      "key": "work one's way through：在……中逐步推进、流转。；confrontation between：……之间的对抗、交锋。；transform A into B：把 A 转化为 B。",
+      "zh": "随着一项发现主张在共同体中逐步流转，围绕相关科学与技术的共同信念和竞争性信念之间的互动、碰撞，会把个人的发现主张转化为共同体认可的可信发现。",
+      "tip": "Q33 的 has been examined by the scientific community 是对整段“共同体审核、讨论、碰撞”的概括，并非只指编辑审稿人的单一环节。"
+    },
+    {
+      "id": "2012-T3-P4-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "First, scientific work tends to focus on some aspect of prevailing knowledge that is viewed as incomplete or incorrect.",
+      "core": "Scientific work tends to focus on some aspect of prevailing knowledge。",
+      "structure": "that is viewed as incomplete or incorrect 修饰 some aspect，说明研究聚焦的对象是现有知识中被质疑的部分。",
+      "key": "prevailing：此处意为“现行的、占主导地位的”，不是“最终获胜的”。",
+      "zh": "第一，科学工作往往聚焦于现有知识中被认为不完整或不正确的某个方面。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T3-P4-S05",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Not surprisingly, newly published discovery claims and credible discoveries that appear to be important and convincing will always be open to challenge and potential modification or refutation by future researchers.",
+      "core": "Discovery claims and discoveries will always be open to challenge, modification or refutation。",
+      "structure": "newly published 修饰 discovery claims；that appear... 修饰 credible discoveries；三个名词并列为 open to 的宾语。",
+      "key": "be open to：可能受到，容易面临。；refutation：驳斥、推翻。",
+      "zh": "因此毫不意外，新近发表的发现主张，以及那些看似重要而有说服力的可信发现，始终可能遭到未来研究者的挑战、修正甚至推翻。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T3-P4-S07",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Nobel Laureate and physiologist Albert Szent-Györgyi once described discovery as \"seeing what everybody has seen and thinking what nobody has thought.\"",
+      "core": "Albert Szent-Györgyi described discovery as...。",
+      "structure": "Nobel Laureate and physiologist 是主语的同位语；引号内两个 what 从句并列，分别作 seeing 和 thinking 的宾语。",
+      "key": "见下方词汇笔记",
+      "zh": "诺贝尔奖得主、生理学家阿尔伯特·森特-哲尔吉曾把发现描述为：“看到人人都看到的东西，却想到无人曾想到的东西。”",
+      "tip": "这句话不是称赞“看得更多”，而是强调对同一事实进行不同、独立而批判的思考，对应 Q34 的 a critical mind。"
+    },
+    {
+      "id": "2012-T3-P4-S08",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "But thinking what nobody else has thought and telling others what they have missed may not change their views.",
+      "core": "Thinking... and telling... may not change their views。",
+      "structure": "两个动名词短语并列作主语；两个 what 从句分别作 thought 和 missed 的宾语；their 指其他人。",
+      "key": "见下方词汇笔记",
+      "zh": "但即使想到别人从未想到的东西，并告诉他们遗漏了什么，也未必能改变他们的看法。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T3-P5-S01",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "In the end, credibility \"happens\" to a discovery claim - a process that corresponds to what philosopher Annette Baier has described as the *commons of the mind*.",
+      "core": "Credibility \"happens\" to a discovery claim - a process corresponds to what...。",
+      "structure": "破折号后的 a process 概括前面的可信度形成过程；that... 修饰 process；what... 是介词 to 的宾语从句。",
+      "key": "happen to：通常表示“偶然发生在……身上”；作者在此加引号，强调可信度不是研究者单方面宣布的，而是在共同体互动中逐渐“发生、形成”的。；commons：原指供群体共同使用的“公地”；the commons of the mind 比喻共同参与、共同修正的思想空间。",
+      "zh": "最终，可信度会在一项发现主张上“形成”；这一过程对应于哲学家安妮特·拜尔所说的“思想公地”。",
+      "tip": "全文重点是发现主张的可信度如何演化形成，因此本句直接支撑 Q35 的标题 Evolution of Credibility in Doing Science。"
+    },
+    {
+      "id": "2012-T3-P5-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "\"We reason together, challenge, revise, and complete each other's reasoning and each other's conceptions of reason.\"",
+      "core": "We reason, challenge, revise, and complete...。",
+      "structure": "四个谓语并列，展现共同体协作检验的连续动作；两个 each other's 分别修饰 reasoning 和 conceptions。",
+      "key": "reason together：共同推理、共同论证。；complete each other's reasoning：补充、完善彼此的推理。；carry out one's work：开展工作。；prior knowledge：既有知识。",
+      "zh": "“我们共同推理，相互质疑、修正，并完善彼此的推理以及彼此对理性的理解。”",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P1-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "If the trade unionist Jimmy Hoffa were alive today, he would probably represent civil servants.",
+      "core": "If Jimmy Hoffa were alive, he would represent civil servants。",
+      "structure": "If... were..., would... 是对当前事实的虚拟假设；事实是霍法已经去世。",
+      "key": "trade unionist：工会成员或工会活动家；结合人物身份可译为“工会领袖”。；civil servant：公务员，政府雇员。",
+      "zh": "如果工会领袖吉米·霍法今天还活着，他很可能会代表公务员群体。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P1-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "When Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do.",
+      "core": "Only one in ten workers belonged to a union; now 36% do。",
+      "structure": "When... 交代 1960 年的背景；分号连接过去与现在的数据对比；do 代替 belong to a union。",
+      "key": "prime：常见义为“主要的、质数”；in one's prime 指“处于鼎盛时期”。；Teamsters：此处特指霍法领导的国际卡车司机兄弟会，而非泛指所有“团队成员”。；one in ten：每十人中有一人，即十分之一。；belong to a union：加入、隶属于工会。",
+      "zh": "1960 年霍法领导的卡车司机工会正值鼎盛时，美国政府雇员中只有十分之一加入工会；如今这一比例已达 36%。",
+      "tip": "数据上升描述的是政府雇员的工会会员比例，直接支撑公共部门会员规模扩大。"
+    },
+    {
+      "id": "2012-T4-P1-S03",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "In 2009 the number of unionists in America's public sector passed that of their fellow members in the private sector.",
+      "core": "The number of unionists passed that of their fellow members。",
+      "structure": "that 代替前面的 the number，避免重复；their fellow members 指同属工会、但在私营部门工作的会员。",
+      "key": "pass：常见义为“经过、通过”；此处意为在数量上“超过”。",
+      "zh": "2009 年，美国公共部门的工会会员人数超过了私营部门的工会会员人数。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P1-S04",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "In Britain, more than half of public-sector workers but only about 15% of private-sector ones are unionized.",
+      "core": "More than half of public-sector workers but only 15% of private-sector ones are unionized。",
+      "structure": "but 连接两个比例悬殊的并列主语；ones 代指 workers。",
+      "key": "unionize：使加入工会；此处被动形式 are unionized 表示“已加入工会”。",
+      "zh": "在英国，超过半数的公共部门雇员加入了工会，而私营部门雇员中这一比例只有约 15%。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P2-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "First, they can shut things down without suffering much in the way of consequences.",
+      "core": "They can shut things down without suffering much consequences。",
+      "structure": "见原句",
+      "key": "shut things down：使机构、服务或活动停摆。；not much in the way of：没有多少……，在……方面很少。；suffer consequences：承担后果，受到惩罚或损失。",
+      "zh": "第一，它们可以让公共服务停摆，却不必为此承担多少后果。",
+      "tip": "without suffering much... consequences 对应 Q37 的 seldom get in trouble for their actions，并不是说工会行动谨慎。"
+    },
+    {
+      "id": "2012-T4-P2-S08",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Its current leader, Ed Miliband, owes his position to votes from public-sector unions.",
+      "core": "Ed Miliband owes his position to votes。",
+      "structure": "Its current leader 与 Ed Miliband 是同位关系；Its 指英国工党。",
+      "key": "owe A to B：把 A 归因于 B；因 B 而获得 A。",
+      "zh": "工党现任领袖埃德·米利班德之所以能坐上这一职位，要归因于公共部门工会所投的选票。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P3-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Mark Baldassare of the Public Policy Institute of California points out that much of the state's budget is patrolled by unions.",
+      "core": "Mark Baldassare points out that much of the budget is patrolled by unions。",
+      "structure": "of the Public Policy Institute of California 说明人物所属机构；that... 是 points out 的宾语从句。",
+      "key": "patrol：常见义为“巡逻”；此处被动形式比喻工会密切监控、捍卫相关预算利益。",
+      "zh": "加州公共政策研究所的马克·巴尔达萨雷指出，该州预算的很大一部分都处在工会的严密盯守之下。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P3-S03",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The teachers' unions keep an eye on schools, the CCPOA on prisons and a variety of labor groups on health care.",
+      "core": "The teachers' unions keep an eye on schools, the CCPOA [keeps an eye] on prisons, and labor groups [keep an eye] on health care。",
+      "structure": "后两个并列分句省略重复的 keep an eye；结合上句可知关注对象实际是各领域相关预算。",
+      "key": "keep an eye on：密切关注、盯住。；CCPOA：California Correctional Peace Officers Association，加州惩教和平警官协会。",
+      "zh": "教师工会盯着学校预算，加州惩教和平警官协会盯着监狱预算，各类劳工团体则盯着医疗预算。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P4-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "In many rich countries average wages in the state sector are higher than in the private one.",
+      "core": "Average wages in the state sector are higher than [average wages] in the private one。",
+      "structure": "比较结构中省略了第二个 average wages；one 代指 sector。",
+      "key": "见下方词汇笔记",
+      "zh": "在许多富裕国家，公共部门的平均工资高于私营部门。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P4-S03",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Politicians have repeatedly \"backloaded\" public-sector pay deals, keeping the pay increases modest but adding to holidays and especially pensions that are already generous.",
+      "core": "Politicians have backloaded pay deals。",
+      "structure": "两个现在分词短语 keeping... 与 adding... 并列，解释如何“后置成本”；that are already generous 修饰 pensions。",
+      "key": "backload：把成本、收益或负担安排在后期；这里指不明显提高当期工资，而把更多报酬放进假期和未来养老金。；modest：此处指加薪“幅度不大、有限”，不是形容人“谦虚”。",
+      "zh": "政客们一再把公共部门薪酬协议的成本推迟到后期：眼前的加薪幅度保持不大，却增加休假，尤其是进一步提高本已优厚的养老金待遇。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P5-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Reform has been vigorously opposed, perhaps most notoriously in education, where charter schools, academies and merit pay all faced drawn-out battles.",
+      "core": "Reform has been vigorously opposed。",
+      "structure": "perhaps most notoriously in education 插入说明反对改革在教育界尤为突出；where... 修饰 education，列举遭到持久阻力的改革项目。",
+      "key": "academy：在英国教育语境中指由政府资助但独立运营的公立学校，并非泛指“学院”。；drawn-out：拖延很久的、旷日持久的。；vigorously oppose：强烈反对。；merit pay：绩效工资，按工作表现而非资历决定的报酬。",
+      "zh": "改革一直遭到强烈反对，其中最声名狼藉的或许是教育领域；特许学校、独立公立学校和绩效工资都经历了旷日持久的争斗。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P5-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Even though there is plenty of evidence that the quality of the teachers is the most important variable, teachers' unions have fought against getting rid of bad ones and promoting good ones.",
+      "core": "Teachers' unions have fought against getting rid of bad ones and promoting good ones。",
+      "structure": "Even though... 引导让步状语从句；其中 that... 是 evidence 的同位语从句；两处 ones 都代指 teachers。",
+      "key": "variable：此处指影响教育成效的“变量、因素”。；fight against doing：竭力反对做某事。；get rid of：去除、淘汰。",
+      "zh": "尽管大量证据表明教师质量是最重要的变量，教师工会却一直反对淘汰差教师和提拔好教师。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P6-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "As the cost to everyone else has become clearer, politicians have begun to clamp down.",
+      "core": "Politicians have begun to clamp down。",
+      "structure": "As... 表示伴随变化或原因，即社会成本越清晰，改革行动越强。",
+      "key": "cost：此处不仅指财政支出，也包括公共服务、改革受阻等由社会其他成员承担的代价。；clamp down：严厉限制、强力打击。",
+      "zh": "随着这种制度让其他所有人承担的代价日益清楚，政客们已经开始采取强硬措施加以限制。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P6-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "In Wisconsin the unions have rallied thousands of supporters against Scott Walker, the hardline Republican governor.",
+      "core": "The unions have rallied thousands of supporters against Scott Walker。",
+      "structure": "the hardline Republican governor 是 Scott Walker 的同位语。",
+      "key": "rally：此处作动词，意为“召集、动员”，不是体育比赛中的“回合”。；hardline：立场强硬的，不愿妥协的。",
+      "zh": "在威斯康星州，工会已经召集数千名支持者，反对立场强硬的共和党州长斯科特·沃克。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P7-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "John Donahue at Harvard's Kennedy School points out that the norms of culture in Western civil services suit those who want to stay put but is bad for high achievers.",
+      "core": "John Donahue points out that the norms suit those... but are bad for high achievers。",
+      "structure": "that... 是 points out 的宾语从句；who want to stay put 修饰 those；suit... but... be bad for... 构成对比。",
+      "key": "stay put：留在原处不动；此处指安于现状、不追求流动或突破。；high achiever：高绩效者、成就突出的人。",
+      "zh": "哈佛大学肯尼迪学院的约翰·多纳休指出，西方公务员体系的文化规范适合那些想安于现状的人，却不利于高成就者。",
+      "tip": "原文写作 is bad，但语义主语仍是复数 norms；理解时应把两种人群所受待遇的对照作为重点。"
+    },
+    {
+      "id": "2012-T4-P7-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The only American public-sector workers who earn well above $250,000 a year are university sports coaches and the president of the United States.",
+      "core": "The only workers are university sports coaches and the president。",
+      "structure": "who earn... 修饰 workers；表语由教练和总统两类人并列构成。",
+      "key": "见下方词汇笔记",
+      "zh": "美国公共部门中，年收入远超 25 万美元的工作人员只有大学体育教练和美国总统。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2012-T4-P7-S03",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Bankers' fat pay packets have attracted much criticism, but a public-sector system that does not reward high achievers may be a much bigger problem for America.",
+      "core": "Pay packets have attracted criticism, but a system may be a bigger problem。",
+      "structure": "that does not reward high achievers 修饰 a public-sector system。",
+      "key": "fat：常见义为“肥胖的”；此处形容薪酬“丰厚的、高额的”。；pay packet：工资、薪酬待遇，不是字面的“装工资的信封”。；in one's prime：处于鼎盛时期。；suffer consequences：承担后果。",
+      "zh": "银行家丰厚的薪酬待遇招致了大量批评，但一个不奖励高绩效者的公共部门制度，对美国而言可能是严重得多的问题。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    }
+  ],
+  "vocab": [
+    {
+      "w": "Come on",
+      "pos": "phr.",
+      "cn": "此处是怂恿、催促对方采取行动，而非单纯表示“快点”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Come on - Everybody's doing it.",
+      "forms": [
+        "Come on"
+      ],
+      "note": "此处是怂恿、催促对方采取行动，而非单纯表示“快点”。"
+    },
+    {
+      "w": "lead to no good",
+      "pos": "phr.",
+      "cn": "不会带来好结果，往往招致不良后果。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "It usually leads to no good - drinking, drugs and casual sex.",
+      "forms": [
+        "lead to no good"
+      ],
+      "note": "不会带来好结果，往往招致不良后果。"
+    },
+    {
+      "w": "casual sex",
+      "pos": "phr.",
+      "cn": "无固定关系或缺乏承诺的随意性行为。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "It usually leads to no good - drinking, drugs and casual sex.",
+      "forms": [
+        "casual sex"
+      ],
+      "note": "无固定关系或缺乏承诺的随意性行为。"
+    },
+    {
+      "w": "contend",
+      "pos": "词",
+      "cn": "常见义为“竞争、争夺”；此处作动词，意为“主张、认为”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "But in her new book *Join the Club*, Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure, in which organization",
+      "forms": [
+        "contend"
+      ],
+      "note": "常见义为“竞争、争夺”；此处作动词，意为“主张、认为”。"
+    },
+    {
+      "w": "group dynamics",
+      "pos": "phr.",
+      "cn": "群体动力，指群体成员互动所形成的行为影响力。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "But in her new book *Join the Club*, Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure, in which organization",
+      "forms": [
+        "group dynamics"
+      ],
+      "note": "群体动力，指群体成员互动所形成的行为影响力。"
+    },
+    {
+      "w": "the social cure",
+      "pos": "phr.",
+      "cn": "作者所评述的概念，即利用社会群体的影响来改变个人行为。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "But in her new book *Join the Club*, Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure, in which organization",
+      "forms": [
+        "the social cure"
+      ],
+      "note": "作者所评述的概念，即利用社会群体的影响来改变个人行为。"
+    },
+    {
+      "w": "uncool",
+      "pos": "词",
+      "cn": "此处不是“温度不凉”，而是“不时髦、不受同伴认同”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage",
+      "forms": [
+        "uncool"
+      ],
+      "note": "此处不是“温度不凉”，而是“不时髦、不受同伴认同”。"
+    },
+    {
+      "w": "a host of",
+      "pos": "phr.",
+      "cn": "大量，许多。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage",
+      "forms": [
+        "a host of"
+      ],
+      "note": "大量，许多。"
+    },
+    {
+      "w": "in action",
+      "pos": "phr.",
+      "cn": "在实际运作中，付诸实践。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage",
+      "forms": [
+        "in action"
+      ],
+      "note": "在实际运作中，付诸实践。"
+    },
+    {
+      "w": "set out to do",
+      "pos": "phr.",
+      "cn": "着手、力图做某事。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage",
+      "forms": [
+        "set out to do"
+      ],
+      "note": "着手、力图做某事。"
+    },
+    {
+      "w": "initiative",
+      "pos": "adj.",
+      "cn": "为解决问题而采取的“行动、计划”，不是单指个人的“主动性”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "In South Africa, an HIV-prevention initiative known as loveLife recruits young people to promote safe sex among their peers.",
+      "forms": [
+        "initiative"
+      ],
+      "note": "为解决问题而采取的“行动、计划”，不是单指个人的“主动性”。"
+    },
+    {
+      "w": "recruit sb. to do",
+      "pos": "phr.",
+      "cn": "招募某人做某事。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "In South Africa, an HIV-prevention initiative known as loveLife recruits young people to promote safe sex among their peers.",
+      "forms": [
+        "recruit sb. to do"
+      ],
+      "note": "招募某人做某事。"
+    },
+    {
+      "w": "promising",
+      "pos": "v./n.",
+      "cn": "有希望的，有发展前景的。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The idea seems promising, and Rosenberg is a perceptive observer.",
+      "forms": [
+        "promising"
+      ],
+      "note": "有希望的，有发展前景的。"
+    },
+    {
+      "w": "perceptive",
+      "pos": "adj.",
+      "cn": "有洞察力的，观察敏锐的。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The idea seems promising, and Rosenberg is a perceptive observer.",
+      "forms": [
+        "perceptive"
+      ],
+      "note": "有洞察力的，观察敏锐的。"
+    },
+    {
+      "w": "lame",
+      "pos": "词",
+      "cn": "常见义为“跛的”；名词 lameness 在此指做法“乏力、蹩脚、缺乏说服力”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Her critique of the lameness of many public-health campaigns is spot-on: they fail to mobilize peer pressure for healthy habits, and they demonstrate a seriously flawed u",
+      "forms": [
+        "lame"
+      ],
+      "note": "常见义为“跛的”；名词 lameness 在此指做法“乏力、蹩脚、缺乏说服力”。"
+    },
+    {
+      "w": "spot-on",
+      "pos": "词",
+      "cn": "完全准确的，切中要害的。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Her critique of the lameness of many public-health campaigns is spot-on: they fail to mobilize peer pressure for healthy habits, and they demonstrate a seriously flawed u",
+      "forms": [
+        "spot-on"
+      ],
+      "note": "完全准确的，切中要害的。"
+    },
+    {
+      "w": "mobilize",
+      "pos": "v.",
+      "cn": "调动、利用某种力量。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Her critique of the lameness of many public-health campaigns is spot-on: they fail to mobilize peer pressure for healthy habits, and they demonstrate a seriously flawed u",
+      "forms": [
+        "mobilize"
+      ],
+      "note": "调动、利用某种力量。"
+    },
+    {
+      "w": "plead",
+      "pos": "词",
+      "cn": "常见义为在法庭上“辩护、申辩”；此处指宣传语“恳求、呼吁”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "\"Dare to be different, please don't smoke!\" pleads one billboard campaign aimed at reducing smoking among teenagers - teenagers, who desire nothing more than fitting in.",
+      "forms": [
+        "plead"
+      ],
+      "note": "常见义为在法庭上“辩护、申辩”；此处指宣传语“恳求、呼吁”。"
+    },
+    {
+      "w": "be aimed at doing",
+      "pos": "phr.",
+      "cn": "旨在做某事。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "\"Dare to be different, please don't smoke!\" pleads one billboard campaign aimed at reducing smoking among teenagers - teenagers, who desire nothing more than fitting in.",
+      "forms": [
+        "be aimed at doing"
+      ],
+      "note": "旨在做某事。"
+    },
+    {
+      "w": "desire nothing more than doing",
+      "pos": "phr.",
+      "cn": "最想做某事，没有比这更想要的。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "\"Dare to be different, please don't smoke!\" pleads one billboard campaign aimed at reducing smoking among teenagers - teenagers, who desire nothing more than fitting in.",
+      "forms": [
+        "desire nothing more than doing"
+      ],
+      "note": "最想做某事，没有比这更想要的。"
+    },
+    {
+      "w": "fit in",
+      "pos": "phr.",
+      "cn": "融入群体，与周围人合得来。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "\"Dare to be different, please don't smoke!\" pleads one billboard campaign aimed at reducing smoking among teenagers - teenagers, who desire nothing more than fitting in.",
+      "forms": [
+        "fit in"
+      ],
+      "note": "融入群体，与周围人合得来。"
+    },
+    {
+      "w": "take a page from sb.",
+      "pos": "phr.",
+      "cn": "借鉴某人的经验或做法。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Rosenberg argues convincingly that public-health advocates ought to take a page from advertisers, so skilled at applying peer pressure.",
+      "forms": [
+        "take a page from sb."
+      ],
+      "note": "借鉴某人的经验或做法。"
+    },
+    {
+      "w": "public-health advocate",
+      "pos": "phr.",
+      "cn": "公共卫生倡导者。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Rosenberg argues convincingly that public-health advocates ought to take a page from advertisers, so skilled at applying peer pressure.",
+      "forms": [
+        "public-health advocate"
+      ],
+      "note": "公共卫生倡导者。"
+    },
+    {
+      "w": "on...",
+      "pos": "词",
+      "cn": "此处表示“关于、就……而言”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "But on the general effectiveness of the social cure, Rosenberg is less persuasive.",
+      "forms": [
+        "on..."
+      ],
+      "note": "此处表示“关于、就……而言”。"
+    },
+    {
+      "w": "persuasive",
+      "pos": "adj.",
+      "cn": "有说服力的，能使人信服的。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "But on the general effectiveness of the social cure, Rosenberg is less persuasive.",
+      "forms": [
+        "persuasive"
+      ],
+      "note": "有说服力的，能使人信服的。"
+    },
+    {
+      "w": "be filled with",
+      "pos": "phr.",
+      "cn": "充满；此处带批评意味，指内容塞得过多。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "*Join the Club* is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful.",
+      "forms": [
+        "be filled with"
+      ],
+      "note": "充满；此处带批评意味，指内容塞得过多。"
+    },
+    {
+      "w": "exploration of",
+      "pos": "phr.",
+      "cn": "对……的探究。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "*Join the Club* is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful.",
+      "forms": [
+        "exploration of"
+      ],
+      "note": "对……的探究。"
+    },
+    {
+      "w": "glaring",
+      "pos": "v./n.",
+      "cn": "常见义可指“耀眼的”；此处指缺陷“非常明显、刺眼”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long.",
+      "forms": [
+        "glaring"
+      ],
+      "note": "常见义可指“耀眼的”；此处指缺陷“非常明显、刺眼”。"
+    },
+    {
+      "w": "once",
+      "pos": "词",
+      "cn": "常见义为“一次、曾经”；此处作连词，意为“一旦、当……之后”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Rage Against the Haze failed once state funding was cut.",
+      "forms": [
+        "once"
+      ],
+      "note": "常见义为“一次、曾经”；此处作连词，意为“一旦、当……之后”。"
+    },
+    {
+      "w": "mixed",
+      "pos": "v./adj.",
+      "cn": "常见义为“混合的”；此处指证据或结果“好坏不一、结论不一致”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Evidence that the loveLife program produces lasting changes is limited and mixed.",
+      "forms": [
+        "mixed"
+      ],
+      "note": "常见义为“混合的”；此处指证据或结果“好坏不一、结论不一致”。"
+    },
+    {
+      "w": "exert influence on",
+      "pos": "phr.",
+      "cn": "对……施加影响。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "There's no doubt that our peer groups exert enormous influence on our behavior.",
+      "forms": [
+        "exert influence on"
+      ],
+      "note": "对……施加影响。"
+    },
+    {
+      "w": "body",
+      "pos": "词",
+      "cn": "常见义为“身体”；a body of research 指“一批、一系列研究”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "An emerging body of research shows that positive health habits - as well as negative ones - spread through networks of friends via social communication.",
+      "forms": [
+        "body"
+      ],
+      "note": "常见义为“身体”；a body of research 指“一批、一系列研究”。"
+    },
+    {
+      "w": "as well as",
+      "pos": "phr.",
+      "cn": "也、以及；这里强调积极和消极习惯都会传播。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "An emerging body of research shows that positive health habits - as well as negative ones - spread through networks of friends via social communication.",
+      "forms": [
+        "as well as"
+      ],
+      "note": "也、以及；这里强调积极和消极习惯都会传播。"
+    },
+    {
+      "w": "via social communication",
+      "pos": "phr.",
+      "cn": "通过社会交往。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "An emerging body of research shows that positive health habits - as well as negative ones - spread through networks of friends via social communication.",
+      "forms": [
+        "via social communication"
+      ],
+      "note": "通过社会交往。"
+    },
+    {
+      "w": "subtle",
+      "pos": "词",
+      "cn": "此处不是“精妙的”，而是“不易察觉的、潜移默化的”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day.",
+      "forms": [
+        "subtle"
+      ],
+      "note": "此处不是“精妙的”，而是“不易察觉的、潜移默化的”。"
+    },
+    {
+      "w": "steer",
+      "pos": "词",
+      "cn": "常见义为“驾驶、掌舵”；此处意为“引导、操控”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions.",
+      "forms": [
+        "steer"
+      ],
+      "note": "常见义为“驾驶、掌舵”；此处意为“引导、操控”。"
+    },
+    {
+      "w": "virtuous",
+      "pos": "adj.",
+      "cn": "此处指方向或活动“有益、合乎道德”，并非只形容个人“品德高尚”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Far less certain, however, is how successfully experts and bureaucrats can select our peer groups and steer their activities in virtuous directions.",
+      "forms": [
+        "virtuous"
+      ],
+      "note": "此处指方向或活动“有益、合乎道德”，并非只形容个人“品德高尚”。"
+    },
+    {
+      "w": "break up",
+      "pos": "phr.",
+      "cn": "拆散，使一群人分开。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "It's like the teacher who breaks up the troublemakers in the back row by pairing them with better-behaved classmates.",
+      "forms": [
+        "break up"
+      ],
+      "note": "拆散，使一群人分开。"
+    },
+    {
+      "w": "pair A with B",
+      "pos": "phr.",
+      "cn": "把 A 与 B 配成一组。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "It's like the teacher who breaks up the troublemakers in the back row by pairing them with better-behaved classmates.",
+      "forms": [
+        "pair A with B"
+      ],
+      "note": "把 A 与 B 配成一组。"
+    },
+    {
+      "w": "engineer",
+      "pos": "词",
+      "cn": "此处作动词，指“精心设计、策划”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "And that's the problem with a social cure engineered from the outside: in the real world, as in school, we insist on choosing our own friends.",
+      "forms": [
+        "engineer"
+      ],
+      "note": "此处作动词，指“精心设计、策划”。"
+    },
+    {
+      "w": "insist on doing",
+      "pos": "phr.",
+      "cn": "坚持做某事。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "And that's the problem with a social cure engineered from the outside: in the real world, as in school, we insist on choosing our own friends.",
+      "forms": [
+        "insist on doing"
+      ],
+      "note": "坚持做某事。"
+    },
+    {
+      "w": "A deal is a deal",
+      "pos": "phr.",
+      "cn": "协议一经达成就应当信守。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "A deal is a deal - except, apparently, when Entergy is involved.",
+      "forms": [
+        "A deal is a deal"
+      ],
+      "note": "协议一经达成就应当信守。"
+    },
+    {
+      "w": "except when...",
+      "pos": "phr.",
+      "cn": "除非在……的情况下；作者借这一例外表达讽刺。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "A deal is a deal - except, apparently, when Entergy is involved.",
+      "forms": [
+        "except when..."
+      ],
+      "note": "除非在……的情况下；作者借这一例外表达讽刺。"
+    },
+    {
+      "w": "justified",
+      "pos": "v./adj.",
+      "cn": "此处不是“经过文字对齐的”，而是“有正当理由的、理所当然的”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging on a longstanding commitment to abi",
+      "forms": [
+        "justified"
+      ],
+      "note": "此处不是“经过文字对齐的”，而是“有正当理由的、理所当然的”。"
+    },
+    {
+      "w": "renege on",
+      "pos": "phr.",
+      "cn": "背弃、不履行承诺或协议。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging on a longstanding commitment to abi",
+      "forms": [
+        "renege on"
+      ],
+      "note": "背弃、不履行承诺或协议。"
+    },
+    {
+      "w": "abide by",
+      "pos": "phr.",
+      "cn": "遵守规则、决定或协议。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging on a longstanding commitment to abi",
+      "forms": [
+        "abide by"
+      ],
+      "note": "遵守规则、决定或协议。"
+    },
+    {
+      "w": "longstanding commitment",
+      "pos": "phr.",
+      "cn": "长期以来一直有效的承诺。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The company, a major energy supplier in New England, provoked justified outrage in Vermont last week when it announced it was reneging on a longstanding commitment to abi",
+      "forms": [
+        "longstanding commitment"
+      ],
+      "note": "长期以来一直有效的承诺。"
+    },
+    {
+      "w": "challenge",
+      "pos": "词",
+      "cn": "常见义为“挑战”；在法律语境中指“对……的合法性或合宪性提出异议”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Instead, the company has done precisely what it had long promised it would not: challenge the constitutionality of Vermont's rules in the federal court, as part of a desp",
+      "forms": [
+        "challenge"
+      ],
+      "note": "常见义为“挑战”；在法律语境中指“对……的合法性或合宪性提出异议”。"
+    },
+    {
+      "w": "the constitutionality of",
+      "pos": "phr.",
+      "cn": "……的合宪性。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Instead, the company has done precisely what it had long promised it would not: challenge the constitutionality of Vermont's rules in the federal court, as part of a desp",
+      "forms": [
+        "the constitutionality of"
+      ],
+      "note": "……的合宪性。"
+    },
+    {
+      "w": "keep... running",
+      "pos": "phr.",
+      "cn": "使……继续运行。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Instead, the company has done precisely what it had long promised it would not: challenge the constitutionality of Vermont's rules in the federal court, as part of a desp",
+      "forms": [
+        "keep... running"
+      ],
+      "note": "使……继续运行。"
+    },
+    {
+      "w": "as part of an effort to do",
+      "pos": "phr.",
+      "cn": "作为为做某事所作努力的一部分。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Instead, the company has done precisely what it had long promised it would not: challenge the constitutionality of Vermont's rules in the federal court, as part of a desp",
+      "forms": [
+        "as part of an effort to do"
+      ],
+      "note": "作为为做某事所作努力的一部分。"
+    },
+    {
+      "w": "stunning",
+      "pos": "v./n.",
+      "cn": "此处意为“令人震惊的”，而不是褒义的“极其漂亮的”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "It's a stunning move.",
+      "forms": [
+        "stunning"
+      ],
+      "note": "此处意为“令人震惊的”，而不是褒义的“极其漂亮的”。"
+    },
+    {
+      "w": "surface",
+      "pos": "词",
+      "cn": "常见义为“表面”；此处作动词，意为“显露、浮现”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The conflict has been surfacing since 2002, when the corporation bought Vermont's only nuclear power plant, an aging reactor in Vernon.",
+      "forms": [
+        "surface"
+      ],
+      "note": "常见义为“表面”；此处作动词，意为“显露、浮现”。"
+    },
+    {
+      "w": "sale",
+      "pos": "词",
+      "cn": "此处从交易行为本身着眼，涵盖核电站产权转移；结合上句可知 Entergy 是买方，州政府批准的是这宗收购交易。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "As a condition of receiving state approval for the sale, the company agreed to seek permission from state regulators to operate past 2012.",
+      "forms": [
+        "sale"
+      ],
+      "note": "此处从交易行为本身着眼，涵盖核电站产权转移；结合上句可知 Entergy 是买方，州政府批准的是这宗收购交易。"
+    },
+    {
+      "w": "as a condition of",
+      "pos": "phr.",
+      "cn": "作为……的条件。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "As a condition of receiving state approval for the sale, the company agreed to seek permission from state regulators to operate past 2012.",
+      "forms": [
+        "as a condition of"
+      ],
+      "note": "作为……的条件。"
+    },
+    {
+      "w": "seek permission from sb. to do",
+      "pos": "phr.",
+      "cn": "向某人申请做某事的许可。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "As a condition of receiving state approval for the sale, the company agreed to seek permission from state regulators to operate past 2012.",
+      "forms": [
+        "seek permission from sb. to do"
+      ],
+      "note": "向某人申请做某事的许可。"
+    },
+    {
+      "w": "operate past 2012",
+      "pos": "phr.",
+      "cn": "在 2012 年之后继续运营。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "As a condition of receiving state approval for the sale, the company agreed to seek permission from state regulators to operate past 2012.",
+      "forms": [
+        "operate past 2012"
+      ],
+      "note": "在 2012 年之后继续运营。"
+    },
+    {
+      "w": "subject",
+      "pos": "词",
+      "cn": "常见义为“主题、科目”；be subject to 在此意为“须经……、受……约束”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "In 2006, the state went a step further, requiring that any extension of the plant's license be subject to the Vermont legislature's approval.",
+      "forms": [
+        "subject"
+      ],
+      "note": "常见义为“主题、科目”；be subject to 在此意为“须经……、受……约束”。"
+    },
+    {
+      "w": "go along",
+      "pos": "phr.",
+      "cn": "此处意为“同意、接受安排”，不是字面的“一同前往”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Then, too, the company went along.",
+      "forms": [
+        "go along"
+      ],
+      "note": "此处意为“同意、接受安排”，不是字面的“一同前往”。"
+    },
+    {
+      "w": "live by a commitment",
+      "pos": "phr.",
+      "cn": "信守承诺，按承诺行事。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Either Entergy never really intended to live by those commitments, or it simply didn't foresee what would happen next.",
+      "forms": [
+        "live by a commitment"
+      ],
+      "note": "信守承诺，按承诺行事。"
+    },
+    {
+      "w": "foresee",
+      "pos": "词",
+      "cn": "预见，预料。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Either Entergy never really intended to live by those commitments, or it simply didn't foresee what would happen next.",
+      "forms": [
+        "foresee"
+      ],
+      "note": "预见，预料。"
+    },
+    {
+      "w": "a string of",
+      "pos": "phr.",
+      "cn": "一连串，一系列。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious questions about b",
+      "forms": [
+        "a string of"
+      ],
+      "note": "一连串，一系列。"
+    },
+    {
+      "w": "raise questions about",
+      "pos": "phr.",
+      "cn": "使人对……产生质疑。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious questions about b",
+      "forms": [
+        "raise questions about"
+      ],
+      "note": "使人对……产生质疑。"
+    },
+    {
+      "w": "misleading statement",
+      "pos": "phr.",
+      "cn": "误导性陈述。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious questions about b",
+      "forms": [
+        "misleading statement"
+      ],
+      "note": "误导性陈述。"
+    },
+    {
+      "w": "vote against doing",
+      "pos": "phr.",
+      "cn": "投票反对做某事。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Enraged by Entergy's behavior, the Vermont Senate voted 26 to 4 last year against allowing an extension.",
+      "forms": [
+        "vote against doing"
+      ],
+      "note": "投票反对做某事。"
+    },
+    {
+      "w": "allow an extension",
+      "pos": "phr.",
+      "cn": "准许延期；结合上文指延长核电站许可证。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Enraged by Entergy's behavior, the Vermont Senate voted 26 to 4 last year against allowing an extension.",
+      "forms": [
+        "allow an extension"
+      ],
+      "note": "准许延期；结合上文指延长核电站许可证。"
+    },
+    {
+      "w": "claim that...",
+      "pos": "phr.",
+      "cn": "声称……；此处语气暗含作者不认同。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Now the company is suddenly claiming that the 2002 agreement is invalid because of the 2006 legislation, and that only the federal government has regulatory power over nu",
+      "forms": [
+        "claim that..."
+      ],
+      "note": "声称……；此处语气暗含作者不认同。"
+    },
+    {
+      "w": "regulatory power over",
+      "pos": "phr.",
+      "cn": "对……的监管权。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Now the company is suddenly claiming that the 2002 agreement is invalid because of the 2006 legislation, and that only the federal government has regulatory power over nu",
+      "forms": [
+        "regulatory power over"
+      ],
+      "note": "对……的监管权。"
+    },
+    {
+      "w": "obscure",
+      "pos": "词",
+      "cn": "常见义为“偏僻的、晦涩的”；此处指法律问题“尚不明确的”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that Ve",
+      "forms": [
+        "obscure"
+      ],
+      "note": "常见义为“偏僻的、晦涩的”；此处指法律问题“尚不明确的”。"
+    },
+    {
+      "w": "authority",
+      "pos": "n.",
+      "cn": "此处指依法行使的“权限、管辖权”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that Ve",
+      "forms": [
+        "authority"
+      ],
+      "note": "此处指依法行使的“权限、管辖权”。"
+    },
+    {
+      "w": "precedent-setting",
+      "pos": "adj.",
+      "cn": "开创先例的，可能确立判例标准的。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that Ve",
+      "forms": [
+        "precedent-setting"
+      ],
+      "note": "开创先例的，可能确立判例标准的。"
+    },
+    {
+      "w": "how far... extend",
+      "pos": "phr.",
+      "cn": "……的范围延伸到何处。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that Ve",
+      "forms": [
+        "how far... extend"
+      ],
+      "note": "……的范围延伸到何处。"
+    },
+    {
+      "w": "patchwork",
+      "pos": "词",
+      "cn": "常见义为“拼布”；此处形容各州规则不统一而形成“零散拼凑的”监管体系。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Certainly, there are valid concerns about the patchwork regulations that could result if every state sets its own rules.",
+      "forms": [
+        "patchwork"
+      ],
+      "note": "常见义为“拼布”；此处形容各州规则不统一而形成“零散拼凑的”监管体系。"
+    },
+    {
+      "w": "keep one's word",
+      "pos": "phr.",
+      "cn": "信守承诺。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But had Entergy kept its word, that debate would be beside the point.",
+      "forms": [
+        "keep one's word"
+      ],
+      "note": "信守承诺。"
+    },
+    {
+      "w": "beside the point",
+      "pos": "phr.",
+      "cn": "离题的，无关紧要的。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But had Entergy kept its word, that debate would be beside the point.",
+      "forms": [
+        "beside the point"
+      ],
+      "note": "离题的，无关紧要的。"
+    },
+    {
+      "w": "have nothing left to lose",
+      "pos": "phr.",
+      "cn": "已经没有什么可再失去。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The company seems to have concluded that its reputation in Vermont is already so damaged that it has nothing left to lose by going to war with the state.",
+      "forms": [
+        "have nothing left to lose"
+      ],
+      "note": "已经没有什么可再失去。"
+    },
+    {
+      "w": "go to war with",
+      "pos": "phr.",
+      "cn": "与……全面对抗；此处为比喻用法。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The company seems to have concluded that its reputation in Vermont is already so damaged that it has nothing left to lose by going to war with the state.",
+      "forms": [
+        "go to war with"
+      ],
+      "note": "与……全面对抗；此处为比喻用法。"
+    },
+    {
+      "w": "consequences",
+      "pos": "词",
+      "cn": "此处带有“失信后应受惩戒或付出代价”的含义，不只是中性的“结果”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But there should be consequences.",
+      "forms": [
+        "consequences"
+      ],
+      "note": "此处带有“失信后应受惩戒或付出代价”的含义，不只是中性的“结果”。"
+    },
+    {
+      "w": "public trust",
+      "pos": "phr.",
+      "cn": "此处指基于公共利益而授予、必须以诚信履行的“公众托付”，并非金融产品“公共信托”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Permission to run a nuclear plant is a public trust.",
+      "forms": [
+        "public trust"
+      ],
+      "note": "此处指基于公共利益而授予、必须以诚信履行的“公众托付”，并非金融产品“公共信托”。"
+    },
+    {
+      "w": "pledge",
+      "pos": "词",
+      "cn": "郑重承诺、保证；语气强于普通的 promise。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Pledging to run Pilgrim safely, the company has applied for federal permission to keep it open for another 20 years.",
+      "forms": [
+        "pledge"
+      ],
+      "note": "郑重承诺、保证；语气强于普通的 promise。"
+    },
+    {
+      "w": "worth",
+      "pos": "词",
+      "cn": "此处表示承诺的“价值、可信程度”，暗示 Entergy 的承诺不值得信赖。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But as the Nuclear Regulatory Commission (NRC) reviews the company's application, it should keep in mind what promises from Entergy are worth.",
+      "forms": [
+        "worth"
+      ],
+      "note": "此处表示承诺的“价值、可信程度”，暗示 Entergy 的承诺不值得信赖。"
+    },
+    {
+      "w": "keep in mind",
+      "pos": "phr.",
+      "cn": "记住，把……纳入考虑。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But as the Nuclear Regulatory Commission (NRC) reviews the company's application, it should keep in mind what promises from Entergy are worth.",
+      "forms": [
+        "keep in mind"
+      ],
+      "note": "记住，把……纳入考虑。"
+    },
+    {
+      "w": "version",
+      "pos": "n.",
+      "cn": "常见义为“版本”；此处指对科学活动的一种“描述、图景”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "In the idealized version of how science is done, facts about the world are waiting to be observed and collected by objective researchers who use the scientific method to ",
+      "forms": [
+        "version"
+      ],
+      "note": "常见义为“版本”；此处指对科学活动的一种“描述、图景”。"
+    },
+    {
+      "w": "carry out one's work",
+      "pos": "phr.",
+      "cn": "开展、执行工作。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "In the idealized version of how science is done, facts about the world are waiting to be observed and collected by objective researchers who use the scientific method to ",
+      "forms": [
+        "carry out one's work"
+      ],
+      "note": "开展、执行工作。"
+    },
+    {
+      "w": "the idealized version of",
+      "pos": "phr.",
+      "cn": "对……的理想化描述。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "In the idealized version of how science is done, facts about the world are waiting to be observed and collected by objective researchers who use the scientific method to ",
+      "forms": [
+        "the idealized version of"
+      ],
+      "note": "对……的理想化描述。"
+    },
+    {
+      "w": "ambiguous",
+      "pos": "adj.",
+      "cn": "此处不仅是语言“有歧义”，也指发现过程“不明确、难以确定”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route.",
+      "forms": [
+        "ambiguous"
+      ],
+      "note": "此处不仅是语言“有歧义”，也指发现过程“不明确、难以确定”。"
+    },
+    {
+      "w": "aim to do",
+      "pos": "phr.",
+      "cn": "力求、旨在做某事。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "We aim to be objective, but we cannot escape the context of our unique life experiences.",
+      "forms": [
+        "aim to do"
+      ],
+      "note": "力求、旨在做某事。"
+    },
+    {
+      "w": "escape the context of",
+      "pos": "phr.",
+      "cn": "摆脱……背景的影响。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "We aim to be objective, but we cannot escape the context of our unique life experiences.",
+      "forms": [
+        "escape the context of"
+      ],
+      "note": "摆脱……背景的影响。"
+    },
+    {
+      "w": "prior",
+      "pos": "词",
+      "cn": "此处作形容词，意为“先前的、既有的”，不是“更重要的”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Prior knowledge and interests influence what we experience, what we think our experiences mean, and the subsequent actions we take.",
+      "forms": [
+        "prior"
+      ],
+      "note": "此处作形容词，意为“先前的、既有的”，不是“更重要的”。"
+    },
+    {
+      "w": "abound",
+      "pos": "词",
+      "cn": "大量存在，充满；主语是 Opportunities，并非“机会主动做某事”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Opportunities for misinterpretation, error, and self-deception abound.",
+      "forms": [
+        "abound"
+      ],
+      "note": "大量存在，充满；主语是 Opportunities，并非“机会主动做某事”。"
+    },
+    {
+      "w": "discovery claim",
+      "pos": "phr.",
+      "cn": "研究者提出的发现主张，尚不等同于已获公认的发现。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Consequently, discovery claims should be thought of as protoscience.",
+      "forms": [
+        "discovery claim"
+      ],
+      "note": "研究者提出的发现主张，尚不等同于已获公认的发现。"
+    },
+    {
+      "w": "protoscience",
+      "pos": "n.",
+      "cn": "原科学，指处于形成初期、尚待共同体检验的科学认识。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Consequently, discovery claims should be thought of as protoscience.",
+      "forms": [
+        "protoscience"
+      ],
+      "note": "原科学，指处于形成初期、尚待共同体检验的科学认识。"
+    },
+    {
+      "w": "think of A as B",
+      "pos": "phr.",
+      "cn": "把 A 看作 B。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Consequently, discovery claims should be thought of as protoscience.",
+      "forms": [
+        "think of A as B"
+      ],
+      "note": "把 A 看作 B。"
+    },
+    {
+      "w": "claim",
+      "pos": "词",
+      "cn": "在 mining claim 中指依法主张开采权的一块矿地或“采矿权”，作者借此比喻尚待验证的发现主张。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Similar to newly staked mining claims, they are full of potential.",
+      "forms": [
+        "claim"
+      ],
+      "note": "在 mining claim 中指依法主张开采权的一块矿地或“采矿权”，作者借此比喻尚待验证的发现主张。"
+    },
+    {
+      "w": "stake",
+      "pos": "词",
+      "cn": "此处指用界桩圈定并宣示矿权，newly staked 即“刚刚圈定的”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Similar to newly staked mining claims, they are full of potential.",
+      "forms": [
+        "stake"
+      ],
+      "note": "此处指用界桩圈定并宣示矿权，newly staked 即“刚刚圈定的”。"
+    },
+    {
+      "w": "collective scrutiny",
+      "pos": "phr.",
+      "cn": "集体的严格审视、共同检验。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery.",
+      "forms": [
+        "collective scrutiny"
+      ],
+      "note": "集体的严格审视、共同检验。"
+    },
+    {
+      "w": "transform A into B",
+      "pos": "phr.",
+      "cn": "把 A 转化为 B。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery.",
+      "forms": [
+        "transform A into B"
+      ],
+      "note": "把 A 转化为 B。"
+    },
+    {
+      "w": "credibility process",
+      "pos": "phr.",
+      "cn": "发现主张逐步获得公共可信度的过程。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "This is the credibility process, through which the individual researcher's *me, here, now* becomes the community's *anyone, anywhere, anytime*.",
+      "forms": [
+        "credibility process"
+      ],
+      "note": "发现主张逐步获得公共可信度的过程。"
+    },
+    {
+      "w": "credit",
+      "pos": "词",
+      "cn": "常见义为“信用、学分”；此处指对研究成果的“认可、功劳”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Once a discovery claim becomes public, the discoverer receives intellectual credit.",
+      "forms": [
+        "credit"
+      ],
+      "note": "常见义为“信用、学分”；此处指对研究成果的“认可、功劳”。"
+    },
+    {
+      "w": "gatekeeper",
+      "pos": "词",
+      "cn": "字面是“守门人”；此处指掌握发表准入权的“把关者”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Within the complex social structure of the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication pro",
+      "forms": [
+        "gatekeeper"
+      ],
+      "note": "字面是“守门人”；此处指掌握发表准入权的“把关者”。"
+    },
+    {
+      "w": "act as",
+      "pos": "phr.",
+      "cn": "充当，发挥……作用。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Within the complex social structure of the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication pro",
+      "forms": [
+        "act as"
+      ],
+      "note": "充当，发挥……作用。"
+    },
+    {
+      "w": "to suit one's own purposes",
+      "pos": "phr.",
+      "cn": "为了适合、服务于自己的目的。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Within the complex social structure of the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication pro",
+      "forms": [
+        "to suit one's own purposes"
+      ],
+      "note": "为了适合、服务于自己的目的。"
+    },
+    {
+      "w": "accompanying technology",
+      "pos": "phr.",
+      "cn": "随发现一同出现或得到应用的技术。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Within the complex social structure of the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication pro",
+      "forms": [
+        "accompanying technology"
+      ],
+      "note": "随发现一同出现或得到应用的技术。"
+    },
+    {
+      "w": "work one's way through",
+      "pos": "phr.",
+      "cn": "在……中逐步推进、流转。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "As a discovery claim works its way through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology invo",
+      "forms": [
+        "work one's way through"
+      ],
+      "note": "在……中逐步推进、流转。"
+    },
+    {
+      "w": "confrontation between",
+      "pos": "phr.",
+      "cn": "……之间的对抗、交锋。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "As a discovery claim works its way through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology invo",
+      "forms": [
+        "confrontation between"
+      ],
+      "note": "……之间的对抗、交锋。"
+    },
+    {
+      "w": "throughout",
+      "pos": "词",
+      "cn": "贯穿……始终。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Two paradoxes exist throughout this credibility process.",
+      "forms": [
+        "throughout"
+      ],
+      "note": "贯穿……始终。"
+    },
+    {
+      "w": "paradox",
+      "pos": "词",
+      "cn": "看似矛盾却蕴含道理的现象。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Two paradoxes exist throughout this credibility process.",
+      "forms": [
+        "paradox"
+      ],
+      "note": "看似矛盾却蕴含道理的现象。"
+    },
+    {
+      "w": "prevailing",
+      "pos": "v./n.",
+      "cn": "此处意为“现行的、占主导地位的”，不是“最终获胜的”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "First, scientific work tends to focus on some aspect of prevailing knowledge that is viewed as incomplete or incorrect.",
+      "forms": [
+        "prevailing"
+      ],
+      "note": "此处意为“现行的、占主导地位的”，不是“最终获胜的”。"
+    },
+    {
+      "w": "duplication",
+      "pos": "n.",
+      "cn": "此处指研究的重复验证，不是简单的“复制品”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Little reward accompanies duplication and confirmation of what is already known and believed.",
+      "forms": [
+        "duplication"
+      ],
+      "note": "此处指研究的重复验证，不是简单的“复制品”。"
+    },
+    {
+      "w": "new-search, not re-search",
+      "pos": "phr.",
+      "cn": "作者拆分并对照词形，强调科研奖励新发现，而非重复验证。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The goal is new-search, not re-search.",
+      "forms": [
+        "new-search, not re-search"
+      ],
+      "note": "作者拆分并对照词形，强调科研奖励新发现，而非重复验证。"
+    },
+    {
+      "w": "be open to",
+      "pos": "phr.",
+      "cn": "可能受到，容易面临。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Not surprisingly, newly published discovery claims and credible discoveries that appear to be important and convincing will always be open to challenge and potential modi",
+      "forms": [
+        "be open to"
+      ],
+      "note": "可能受到，容易面临。"
+    },
+    {
+      "w": "refutation",
+      "pos": "n.",
+      "cn": "驳斥、推翻。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Not surprisingly, newly published discovery claims and credible discoveries that appear to be important and convincing will always be open to challenge and potential modi",
+      "forms": [
+        "refutation"
+      ],
+      "note": "驳斥、推翻。"
+    },
+    {
+      "w": "provoke",
+      "pos": "词",
+      "cn": "常见义为“挑衅”；此处指“引起、激起”某种反应。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Second, novelty itself frequently provokes disbelief.",
+      "forms": [
+        "provoke"
+      ],
+      "note": "常见义为“挑衅”；此处指“引起、激起”某种反应。"
+    },
+    {
+      "w": "be required for A to do",
+      "pos": "phr.",
+      "cn": "A 做某事需要……。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Sometimes years are required for truly novel discovery claims to be accepted and appreciated.",
+      "forms": [
+        "be required for A to do"
+      ],
+      "note": "A 做某事需要……。"
+    },
+    {
+      "w": "be accepted and appreciated",
+      "pos": "phr.",
+      "cn": "被接受并得到认可、重视。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Sometimes years are required for truly novel discovery claims to be accepted and appreciated.",
+      "forms": [
+        "be accepted and appreciated"
+      ],
+      "note": "被接受并得到认可、重视。"
+    },
+    {
+      "w": "happen to",
+      "pos": "phr.",
+      "cn": "通常表示“偶然发生在……身上”；作者在此加引号，强调可信度不是研究者单方面宣布的，而是在共同体互动中逐渐“发生、形成”的。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "In the end, credibility \"happens\" to a discovery claim - a process that corresponds to what philosopher Annette Baier has described as the *commons of the mind*.",
+      "forms": [
+        "happen to"
+      ],
+      "note": "通常表示“偶然发生在……身上”；作者在此加引号，强调可信度不是研究者单方面宣布的，而是在共同体互动中逐渐“发生、形成”的。"
+    },
+    {
+      "w": "commons",
+      "pos": "词",
+      "cn": "原指供群体共同使用的“公地”；the commons of the mind 比喻共同参与、共同修正的思想空间。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "In the end, credibility \"happens\" to a discovery claim - a process that corresponds to what philosopher Annette Baier has described as the *commons of the mind*.",
+      "forms": [
+        "commons"
+      ],
+      "note": "原指供群体共同使用的“公地”；the commons of the mind 比喻共同参与、共同修正的思想空间。"
+    },
+    {
+      "w": "reason together",
+      "pos": "phr.",
+      "cn": "共同推理、共同论证。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "\"We reason together, challenge, revise, and complete each other's reasoning and each other's conceptions of reason.\"",
+      "forms": [
+        "reason together"
+      ],
+      "note": "共同推理、共同论证。"
+    },
+    {
+      "w": "complete each other's reasoning",
+      "pos": "phr.",
+      "cn": "补充、完善彼此的推理。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "\"We reason together, challenge, revise, and complete each other's reasoning and each other's conceptions of reason.\"",
+      "forms": [
+        "complete each other's reasoning"
+      ],
+      "note": "补充、完善彼此的推理。"
+    },
+    {
+      "w": "trade unionist",
+      "pos": "phr.",
+      "cn": "工会成员或工会活动家；结合人物身份可译为“工会领袖”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "If the trade unionist Jimmy Hoffa were alive today, he would probably represent civil servants.",
+      "forms": [
+        "trade unionist"
+      ],
+      "note": "工会成员或工会活动家；结合人物身份可译为“工会领袖”。"
+    },
+    {
+      "w": "civil servant",
+      "pos": "phr.",
+      "cn": "公务员，政府雇员。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "If the trade unionist Jimmy Hoffa were alive today, he would probably represent civil servants.",
+      "forms": [
+        "civil servant"
+      ],
+      "note": "公务员，政府雇员。"
+    },
+    {
+      "w": "prime",
+      "pos": "词",
+      "cn": "常见义为“主要的、质数”；in one's prime 指“处于鼎盛时期”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "When Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do.",
+      "forms": [
+        "prime"
+      ],
+      "note": "常见义为“主要的、质数”；in one's prime 指“处于鼎盛时期”。"
+    },
+    {
+      "w": "Teamsters",
+      "pos": "词",
+      "cn": "此处特指霍法领导的国际卡车司机兄弟会，而非泛指所有“团队成员”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "When Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do.",
+      "forms": [
+        "Teamsters"
+      ],
+      "note": "此处特指霍法领导的国际卡车司机兄弟会，而非泛指所有“团队成员”。"
+    },
+    {
+      "w": "one in ten",
+      "pos": "phr.",
+      "cn": "每十人中有一人，即十分之一。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "When Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do.",
+      "forms": [
+        "one in ten"
+      ],
+      "note": "每十人中有一人，即十分之一。"
+    },
+    {
+      "w": "belong to a union",
+      "pos": "phr.",
+      "cn": "加入、隶属于工会。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "When Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union; now 36% do.",
+      "forms": [
+        "belong to a union"
+      ],
+      "note": "加入、隶属于工会。"
+    },
+    {
+      "w": "pass",
+      "pos": "词",
+      "cn": "常见义为“经过、通过”；此处意为在数量上“超过”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In 2009 the number of unionists in America's public sector passed that of their fellow members in the private sector.",
+      "forms": [
+        "pass"
+      ],
+      "note": "常见义为“经过、通过”；此处意为在数量上“超过”。"
+    },
+    {
+      "w": "unionize",
+      "pos": "v.",
+      "cn": "使加入工会；此处被动形式 are unionized 表示“已加入工会”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In Britain, more than half of public-sector workers but only about 15% of private-sector ones are unionized.",
+      "forms": [
+        "unionize"
+      ],
+      "note": "使加入工会；此处被动形式 are unionized 表示“已加入工会”。"
+    },
+    {
+      "w": "thrive",
+      "pos": "adj.",
+      "cn": "兴旺、蓬勃发展；名词化形式 thriving 在此指工会势力的壮大。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "There are three reasons for the public-sector unions' thriving.",
+      "forms": [
+        "thrive"
+      ],
+      "note": "兴旺、蓬勃发展；名词化形式 thriving 在此指工会势力的壮大。"
+    },
+    {
+      "w": "shut things down",
+      "pos": "phr.",
+      "cn": "使机构、服务或活动停摆。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "First, they can shut things down without suffering much in the way of consequences.",
+      "forms": [
+        "shut things down"
+      ],
+      "note": "使机构、服务或活动停摆。"
+    },
+    {
+      "w": "not much in the way of",
+      "pos": "phr.",
+      "cn": "没有多少……，在……方面很少。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "First, they can shut things down without suffering much in the way of consequences.",
+      "forms": [
+        "not much in the way of"
+      ],
+      "note": "没有多少……，在……方面很少。"
+    },
+    {
+      "w": "suffer consequences",
+      "pos": "phr.",
+      "cn": "承担后果，受到惩罚或损失。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "First, they can shut things down without suffering much in the way of consequences.",
+      "forms": [
+        "suffer consequences"
+      ],
+      "note": "承担后果，受到惩罚或损失。"
+    },
+    {
+      "w": "a quarter of",
+      "pos": "phr.",
+      "cn": "四分之一。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "A quarter of America's public-sector workers have a university degree.",
+      "forms": [
+        "a quarter of"
+      ],
+      "note": "四分之一。"
+    },
+    {
+      "w": "left-of-centre politics",
+      "pos": "phr.",
+      "cn": "中间偏左的政治力量或政治立场。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Third, they now dominate left-of-centre politics.",
+      "forms": [
+        "left-of-centre politics"
+      ],
+      "note": "中间偏左的政治力量或政治立场。"
+    },
+    {
+      "w": "tie",
+      "pos": "词",
+      "cn": "常见义为“领带、系紧”；此处复数指组织之间的“联系、关系”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Some of their ties go back a long way.",
+      "forms": [
+        "tie"
+      ],
+      "note": "常见义为“领带、系紧”；此处复数指组织之间的“联系、关系”。"
+    },
+    {
+      "w": "go back",
+      "pos": "phr.",
+      "cn": "可追溯到，存在已久。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Some of their ties go back a long way.",
+      "forms": [
+        "go back"
+      ],
+      "note": "可追溯到，存在已久。"
+    },
+    {
+      "w": "as its name implies",
+      "pos": "phr.",
+      "cn": "正如其名称所暗示的。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Britain's Labor Party, as its name implies, has long been associated with trade unionism.",
+      "forms": [
+        "as its name implies"
+      ],
+      "note": "正如其名称所暗示的。"
+    },
+    {
+      "w": "be associated with",
+      "pos": "phr.",
+      "cn": "与……存在联系。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Britain's Labor Party, as its name implies, has long been associated with trade unionism.",
+      "forms": [
+        "be associated with"
+      ],
+      "note": "与……存在联系。"
+    },
+    {
+      "w": "owe A to B",
+      "pos": "phr.",
+      "cn": "把 A 归因于 B；因 B 而获得 A。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Its current leader, Ed Miliband, owes his position to votes from public-sector unions.",
+      "forms": [
+        "owe A to B"
+      ],
+      "note": "把 A 归因于 B；因 B 而获得 A。"
+    },
+    {
+      "w": "fearsome",
+      "pos": "词",
+      "cn": "令人畏惧的、强大的；这里突出工会政治影响力之大。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "At the state level their influence can be even more fearsome.",
+      "forms": [
+        "fearsome"
+      ],
+      "note": "令人畏惧的、强大的；这里突出工会政治影响力之大。"
+    },
+    {
+      "w": "patrol",
+      "pos": "词",
+      "cn": "常见义为“巡逻”；此处被动形式比喻工会密切监控、捍卫相关预算利益。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Mark Baldassare of the Public Policy Institute of California points out that much of the state's budget is patrolled by unions.",
+      "forms": [
+        "patrol"
+      ],
+      "note": "常见义为“巡逻”；此处被动形式比喻工会密切监控、捍卫相关预算利益。"
+    },
+    {
+      "w": "keep an eye on",
+      "pos": "phr.",
+      "cn": "密切关注、盯住。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The teachers' unions keep an eye on schools, the CCPOA on prisons and a variety of labor groups on health care.",
+      "forms": [
+        "keep an eye on"
+      ],
+      "note": "密切关注、盯住。"
+    },
+    {
+      "w": "CCPOA",
+      "pos": "词",
+      "cn": "California Correctional Peace Officers Association，加州惩教和平警官协会。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The teachers' unions keep an eye on schools, the CCPOA on prisons and a variety of labor groups on health care.",
+      "forms": [
+        "CCPOA"
+      ],
+      "note": "California Correctional Peace Officers Association，加州惩教和平警官协会。"
+    },
+    {
+      "w": "gain",
+      "pos": "词",
+      "cn": "此处指雇员在总体报酬中获得的“额外利益、所得”，不局限于基本工资。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "But the real gains come in benefits and work practices.",
+      "forms": [
+        "gain"
+      ],
+      "note": "此处指雇员在总体报酬中获得的“额外利益、所得”，不局限于基本工资。"
+    },
+    {
+      "w": "work practices",
+      "pos": "phr.",
+      "cn": "工作制度与惯例，如休假和退休安排。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "But the real gains come in benefits and work practices.",
+      "forms": [
+        "work practices"
+      ],
+      "note": "工作制度与惯例，如休假和退休安排。"
+    },
+    {
+      "w": "backload",
+      "pos": "词",
+      "cn": "把成本、收益或负担安排在后期；这里指不明显提高当期工资，而把更多报酬放进假期和未来养老金。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Politicians have repeatedly \"backloaded\" public-sector pay deals, keeping the pay increases modest but adding to holidays and especially pensions that are already generou",
+      "forms": [
+        "backload"
+      ],
+      "note": "把成本、收益或负担安排在后期；这里指不明显提高当期工资，而把更多报酬放进假期和未来养老金。"
+    },
+    {
+      "w": "modest",
+      "pos": "词",
+      "cn": "此处指加薪“幅度不大、有限”，不是形容人“谦虚”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Politicians have repeatedly \"backloaded\" public-sector pay deals, keeping the pay increases modest but adding to holidays and especially pensions that are already generou",
+      "forms": [
+        "modest"
+      ],
+      "note": "此处指加薪“幅度不大、有限”，不是形容人“谦虚”。"
+    },
+    {
+      "w": "academy",
+      "pos": "词",
+      "cn": "在英国教育语境中指由政府资助但独立运营的公立学校，并非泛指“学院”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Reform has been vigorously opposed, perhaps most notoriously in education, where charter schools, academies and merit pay all faced drawn-out battles.",
+      "forms": [
+        "academy"
+      ],
+      "note": "在英国教育语境中指由政府资助但独立运营的公立学校，并非泛指“学院”。"
+    },
+    {
+      "w": "drawn-out",
+      "pos": "词",
+      "cn": "拖延很久的、旷日持久的。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Reform has been vigorously opposed, perhaps most notoriously in education, where charter schools, academies and merit pay all faced drawn-out battles.",
+      "forms": [
+        "drawn-out"
+      ],
+      "note": "拖延很久的、旷日持久的。"
+    },
+    {
+      "w": "vigorously oppose",
+      "pos": "phr.",
+      "cn": "强烈反对。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Reform has been vigorously opposed, perhaps most notoriously in education, where charter schools, academies and merit pay all faced drawn-out battles.",
+      "forms": [
+        "vigorously oppose"
+      ],
+      "note": "强烈反对。"
+    },
+    {
+      "w": "merit pay",
+      "pos": "phr.",
+      "cn": "绩效工资，按工作表现而非资历决定的报酬。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Reform has been vigorously opposed, perhaps most notoriously in education, where charter schools, academies and merit pay all faced drawn-out battles.",
+      "forms": [
+        "merit pay"
+      ],
+      "note": "绩效工资，按工作表现而非资历决定的报酬。"
+    },
+    {
+      "w": "variable",
+      "pos": "adj.",
+      "cn": "此处指影响教育成效的“变量、因素”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Even though there is plenty of evidence that the quality of the teachers is the most important variable, teachers' unions have fought against getting rid of bad ones and ",
+      "forms": [
+        "variable"
+      ],
+      "note": "此处指影响教育成效的“变量、因素”。"
+    },
+    {
+      "w": "fight against doing",
+      "pos": "phr.",
+      "cn": "竭力反对做某事。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Even though there is plenty of evidence that the quality of the teachers is the most important variable, teachers' unions have fought against getting rid of bad ones and ",
+      "forms": [
+        "fight against doing"
+      ],
+      "note": "竭力反对做某事。"
+    },
+    {
+      "w": "get rid of",
+      "pos": "phr.",
+      "cn": "去除、淘汰。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Even though there is plenty of evidence that the quality of the teachers is the most important variable, teachers' unions have fought against getting rid of bad ones and ",
+      "forms": [
+        "get rid of"
+      ],
+      "note": "去除、淘汰。"
+    },
+    {
+      "w": "cost",
+      "pos": "词",
+      "cn": "此处不仅指财政支出，也包括公共服务、改革受阻等由社会其他成员承担的代价。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "As the cost to everyone else has become clearer, politicians have begun to clamp down.",
+      "forms": [
+        "cost"
+      ],
+      "note": "此处不仅指财政支出，也包括公共服务、改革受阻等由社会其他成员承担的代价。"
+    },
+    {
+      "w": "clamp down",
+      "pos": "phr.",
+      "cn": "严厉限制、强力打击。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "As the cost to everyone else has become clearer, politicians have begun to clamp down.",
+      "forms": [
+        "clamp down"
+      ],
+      "note": "严厉限制、强力打击。"
+    },
+    {
+      "w": "rally",
+      "pos": "adv.",
+      "cn": "此处作动词，意为“召集、动员”，不是体育比赛中的“回合”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In Wisconsin the unions have rallied thousands of supporters against Scott Walker, the hardline Republican governor.",
+      "forms": [
+        "rally"
+      ],
+      "note": "此处作动词，意为“召集、动员”，不是体育比赛中的“回合”。"
+    },
+    {
+      "w": "hardline",
+      "pos": "词",
+      "cn": "立场强硬的，不愿妥协的。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In Wisconsin the unions have rallied thousands of supporters against Scott Walker, the hardline Republican governor.",
+      "forms": [
+        "hardline"
+      ],
+      "note": "立场强硬的，不愿妥协的。"
+    },
+    {
+      "w": "stay put",
+      "pos": "phr.",
+      "cn": "留在原处不动；此处指安于现状、不追求流动或突破。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "John Donahue at Harvard's Kennedy School points out that the norms of culture in Western civil services suit those who want to stay put but is bad for high achievers.",
+      "forms": [
+        "stay put"
+      ],
+      "note": "留在原处不动；此处指安于现状、不追求流动或突破。"
+    },
+    {
+      "w": "high achiever",
+      "pos": "phr.",
+      "cn": "高绩效者、成就突出的人。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "John Donahue at Harvard's Kennedy School points out that the norms of culture in Western civil services suit those who want to stay put but is bad for high achievers.",
+      "forms": [
+        "high achiever"
+      ],
+      "note": "高绩效者、成就突出的人。"
+    },
+    {
+      "w": "fat",
+      "pos": "词",
+      "cn": "常见义为“肥胖的”；此处形容薪酬“丰厚的、高额的”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Bankers' fat pay packets have attracted much criticism, but a public-sector system that does not reward high achievers may be a much bigger problem for America.",
+      "forms": [
+        "fat"
+      ],
+      "note": "常见义为“肥胖的”；此处形容薪酬“丰厚的、高额的”。"
+    },
+    {
+      "w": "pay packet",
+      "pos": "phr.",
+      "cn": "工资、薪酬待遇，不是字面的“装工资的信封”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Bankers' fat pay packets have attracted much criticism, but a public-sector system that does not reward high achievers may be a much bigger problem for America.",
+      "forms": [
+        "pay packet"
+      ],
+      "note": "工资、薪酬待遇，不是字面的“装工资的信封”。"
+    }
+  ]
+}

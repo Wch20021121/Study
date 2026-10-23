@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="408 知识线路图：把计算机组成原理、计算机网络、计算机系统（操作系统）的 18 个知识点和 5 个交叉考点连起来，可点击跳转对应大题。">
+  <title>知识线路图 · 408 大题工位</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body data-page="map">
+  <a class="skip-link" href="#main">跳到主要内容</a>
+
+  <header class="site-header">
+    <div class="wrap topbar">
+      <a class="brand" href="index.html" aria-label="408 大题工位首页">
+        <span class="brand-mark">408</span>
+        <span class="brand-word">
+          <b>大题工位</b>
+          <small>big question workbench</small>
+        </span>
+      </a>
+
+      <nav class="site-nav" id="site-nav" aria-label="主导航">
+        <a href="index.html">总览</a>
+        <a href="coa.html">组成原理</a>
+        <a href="network.html">计算机网络</a>
+        <a href="os.html">计算机系统</a>
+        <a href="map.html" aria-current="page">知识线路图</a>
+      </nav>
+
+      <div class="topbar-actions">
+        <a class="english-link" href="http://127.0.0.1:5001/" data-english-link>
+          英语真题档案 <span>↗</span>
+        </a>
+        <button class="menu-toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="展开导航">
+          <span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="map-hero">
+      <div class="wrap">
+        <div class="map-hero-grid">
+          <div>
+            <p class="hero-kicker">知识线路图 · 18 个节点 / 5 个交叉点</p>
+            <h1>把三科<br>接成一张图。</h1>
+            <p>沿着一条线走，遇到交叉点就换线。点开任一节点，会展开“一句话定义、必会公式、易混点、对应大题”。做题卡住时，回到这里找“缺的是哪一块”。</p>
+          </div>
+          <div class="map-legend" aria-label="图例">
+            <span class="coa"><i></i>组成原理</span>
+            <span class="net"><i></i>计算机网络</span>
+            <span class="os"><i></i>操作系统</span>
+            <span class="bridge"><i></i>交叉考点</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="map-section">
+      <div class="wrap">
+        <div class="map-toolbar">
+          <p>点击节点展开概念卡；交叉考点在页面下方。</p>
+          <div class="map-filters" aria-label="筛选科目">
+            <button class="filter-btn is-active" type="button" data-map-filter="all">全部</button>
+            <button class="filter-btn" type="button" data-map-filter="coa">组成原理</button>
+            <button class="filter-btn" type="button" data-map-filter="net">计算机网络</button>
+            <button class="filter-btn" type="button" data-map-filter="os">操作系统</button>
+            <button class="filter-btn" type="button" data-map-filter="bridge">交叉考点</button>
+          </div>
+        </div>
+
+        <div class="map-columns">
+          <div class="map-column" data-subject="coa">
+            <div class="map-column-head">
+              <h2>组成原理</h2>
+              <span>COA / 01—06</span>
+            </div>
+            <div class="chain">
+              <button class="map-node" type="button" data-open-node="coa-data">
+                <b>数据表示与运算</b>
+                <span>补码、溢出、IEEE 754；所有地址与浮点计算的底层。</span>
+                <em>COA-01</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="coa-cache">
+                <b>存储层次与 Cache</b>
+                <span>地址拆分、映射、替换、写回与 AMAT。</span>
+                <em>COA-02</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="coa-isa">
+                <b>指令系统与寻址</b>
+                <span>机器码字段、有效地址、扩展操作码。</span>
+                <em>COA-03</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="coa-cpu">
+                <b>CPU 与流水线</b>
+                <span>数据通路、控制信号、冒险、CPI。</span>
+                <em>COA-04</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="coa-io">
+                <b>总线、I/O 与 DMA</b>
+                <span>中断、DMA、总线带宽与周期挪用。</span>
+                <em>COA-05</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="coa-disk">
+                <b>磁盘与 RAID</b>
+                <span>寻道/旋转/传输、RAID 容量与可靠性。</span>
+                <em>COA-06</em>
+              </button>
+            </div>
+          </div>
+
+          <div class="map-column" data-subject="net">
+            <div class="map-column-head">
+              <h2>计算机网络</h2>
+              <span>NET / 01—06</span>
+            </div>
+            <div class="chain">
+              <button class="map-node" type="button" data-open-node="net-arch">
+                <b>体系结构与性能</b>
+                <span>时延、带宽、吞吐量、时延带宽积。</span>
+                <em>NET-01</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="net-link">
+                <b>数据链路层</b>
+                <span>以太网帧、CSMA/CD、交换机、VLAN。</span>
+                <em>NET-02</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="net-ip">
+                <b>网络层与路由</b>
+                <span>VLSM、CIDR、最长前缀、ARP、NAT。</span>
+                <em>NET-03</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="net-tcp">
+                <b>传输层与拥塞控制</b>
+                <span>TCP 窗口、慢开始、快重传/快恢复。</span>
+                <em>NET-04</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="net-app">
+                <b>应用层：DNS 与 HTTP</b>
+                <span>递归/迭代、持久连接、RTT 账本。</span>
+                <em>NET-05</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="net-switch">
+                <b>交换机与 VLAN</b>
+                <span>自学习、泛洪、广播域、Trunk。</span>
+                <em>NET-06</em>
+              </button>
+            </div>
+          </div>
+
+          <div class="map-column" data-subject="os">
+            <div class="map-column-head">
+              <h2>操作系统</h2>
+              <span>OS / 01—06</span>
+            </div>
+            <div class="chain">
+              <button class="map-node" type="button" data-open-node="os-process">
+                <b>进程与线程</b>
+                <span>PCB、上下文切换、共享/私有资源。</span>
+                <em>OS-01</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="os-schedule">
+                <b>调度与上下文切换</b>
+                <span>FCFS、SJF、RR、优先级与饥饿。</span>
+                <em>OS-02</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="os-sync">
+                <b>同步与死锁</b>
+                <span>PV、互斥、同步、死锁四条件。</span>
+                <em>OS-03</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="os-vm">
+                <b>虚拟内存</b>
+                <span>页表、TLB、缺页、EAT、页面置换。</span>
+                <em>OS-04</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="os-file">
+                <b>文件系统</b>
+                <span>inode、混合索引、FAT、目录。</span>
+                <em>OS-05</em>
+              </button>
+              <button class="map-node" type="button" data-open-node="os-io">
+                <b>I/O 管理与磁盘调度</b>
+                <span>I/O 层次、缓冲、FCFS/SSTF/SCAN。</span>
+                <em>OS-06</em>
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div class="map-note">
+          <div>
+            <h3>怎么用这张图</h3>
+            <p>先做一道题，再回来找刚用到的节点。看懂定义不算掌握，能不看笔记写出公式和步骤才算。</p>
+          </div>
+          <div>
+            <h3>交叉点怎么用</h3>
+            <p>大题难，常常难在“两个知识点同时出现”。例如 Cache + 页表、DMA + 中断、TCP + 应用层时延。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="bridge-section" id="bridges">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2 class="section-title">五个交叉点</h2>
+            <p class="section-deck">这些地方最容易出综合题，也最容易“单科学会、合起来不会”。</p>
+          </div>
+          <p class="section-note">点击交叉点里的任意节点，会打开对应的概念卡，并给出可直接练的大题。</p>
+        </div>
+
+        <div class="bridge-grid">
+          <div class="bridge-card">
+            <h3>存储层次：Cache ↔ 页表 ↔ 文件缓存</h3>
+            <p>三者都在回答同一个问题：下一层有多慢、命中率多高、一次缺失要付多少代价。AMAT 和 EAT 的公式结构完全一样。</p>
+            <div class="bridge-links">
+              <button type="button" data-open-node="coa-cache">Cache</button>
+              <button type="button" data-open-node="os-vm">虚拟内存</button>
+              <button type="button" data-open-node="coa-data">地址与数据</button>
+            </div>
+          </div>
+
+          <div class="bridge-card">
+            <h3>中断与 I/O：DMA ↔ 驱动 ↔ 网络收包</h3>
+            <p>DMA 初始化、中断处理、设备驱动、协议栈收包，都是“CPU 什么时候被打断”的不同答案。算 I/O 时间时先分清谁在搬数据。</p>
+            <div class="bridge-links">
+              <button type="button" data-open-node="coa-io">DMA</button>
+              <button type="button" data-open-node="os-io">I/O 管理</button>
+              <button type="button" data-open-node="net-link">链路层</button>
+            </div>
+          </div>
+
+          <div class="bridge-card">
+            <h3>性能三角：CPI ↔ 调度 ↔ 带宽/时延</h3>
+            <p>CPU 的 CPI、进程的周转时间、网络的 RTT，都是“工作量 ÷ 速度”的变体。换科目时，先找“工作量”和“瓶颈”分别是什么。</p>
+            <div class="bridge-links">
+              <button type="button" data-open-node="coa-cpu">流水线 CPI</button>
+              <button type="button" data-open-node="os-schedule">CPU 调度</button>
+              <button type="button" data-open-node="net-arch">网络性能</button>
+            </div>
+          </div>
+
+          <div class="bridge-card">
+            <h3>可靠与重传：CRC ↔ TCP ↔ RAID</h3>
+            <p>链路层的 CRC 检错、TCP 的重传、RAID 的校验，都是“用冗余换可靠”。但一个管帧、一个管字节流、一个管磁盘块，作用范围不同。</p>
+            <div class="bridge-links">
+              <button type="button" data-open-node="net-tcp">TCP 重传</button>
+              <button type="button" data-open-node="coa-disk">RAID</button>
+              <button type="button" data-open-node="net-link">CRC / 帧</button>
+            </div>
+          </div>
+
+          <div class="bridge-card">
+            <h3>协议栈与系统调用：socket ↔ 进程 ↔ 分层</h3>
+            <p>应用层的一次 send，下面要经过传输层、网络层、链路层，最后通过系统调用进入内核。进程阻塞、缓冲区、中断都可能影响你算出来的时延。</p>
+            <div class="bridge-links">
+              <button type="button" data-open-node="net-app">HTTP / DNS</button>
+              <button type="button" data-open-node="os-process">进程 / 线程</button>
+              <button type="button" data-open-node="net-tcp">TCP</button>
+            </div>
+          </div>
+
+          <div class="bridge-card">
+            <h3>读图顺序建议</h3>
+            <p>如果时间少，先走“组成原理的存储 → 操作系统的虚拟内存 → 网络的传输层”这条线；它把地址、时间、可靠性三件事串起来，覆盖最多的大题入口。</p>
+            <div class="bridge-links">
+              <button type="button" data-open-node="coa-cache">从 Cache 开始</button>
+              <button type="button" data-open-node="os-vm">到虚拟内存</button>
+              <button type="button" data-open-node="net-tcp">到 TCP</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">408 大题工位</div>
+          <p>题目为依据 408 考纲与近年题型原创改编的仿真题，不是真题原文。解析按 408 常用口径编写，适合自测与复盘。</p>
+        </div>
+        <div class="footer-col">
+          <h3>三条主线</h3>
+          <a href="coa.html">计算机组成原理</a>
+          <a href="network.html">计算机网络</a>
+          <a href="os.html">计算机系统（操作系统）</a>
+        </div>
+        <div class="footer-col">
+          <h3>工具</h3>
+          <a href="index.html">回到总览</a>
+          <a href="http://127.0.0.1:5001/" data-english-link>英语真题档案 ↗</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>KNOWLEDGE MAP · 18 NODES · 5 BRIDGES</span>
+        <span>点击节点，展开概念卡</span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="drawer-backdrop" data-drawer-backdrop></div>
+  <aside class="map-drawer" id="concept-drawer" role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="drawer-title">
+    <div class="drawer-head">
+      <div>
+        <span data-drawer-kicker>408 · 节点</span>
+        <h2 id="drawer-title" data-drawer-title>选择一个节点</h2>
+      </div>
+      <button class="drawer-close" type="button" aria-label="关闭概念卡">×</button>
+    </div>
+    <div class="drawer-body" data-drawer-body>
+      <p>点击左侧线路图中的任一节点，查看定义、公式、易混点与对应大题。</p>
+    </div>
+  </aside>
+
+  <div class="toast" role="status" aria-live="polite"></div>
+
+  <script src="assets/config.js"></script>
+  <script src="assets/site.js"></script>
+</body>
+</html>

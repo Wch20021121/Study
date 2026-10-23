@@ -1,0 +1,671 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "信任的利与弊、催产素与识破欺骗的第六感",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "文章从信任的两面性切入：信任是许多美好事物的必要条件，把信任放错地方却可能付出高昂代价；接着从神经科学角度解释信任为何让人感觉良好，介绍催产素与从众本能；再用加拿大幼儿实验说明人天生具有识别欺骗的“第六感”；最后以受骗与未受骗儿童的合作意愿对比收束。做题时抓住 on the one hand / on the other hand、Then、Lucky for us、In contrast 等逻辑信号，并注意 exposure to、differentiate between、put one's faith in 等固定搭配。",
+    "passage": [
+      {
+        "en": "Trust is a tricky business. On the one hand, it's a necessary condition {{1}} many worthwhile things: child care, friendships, etc. On the other hand, putting your {{2}} in the wrong place often carries a high {{3}}.",
+        "zh": "信任是一件微妙的事。一方面，它是许多有价值之事——育儿、友谊等等——的必要条件。另一方面，把信任放错地方，往往要付出高昂的代价。"
+      },
+      {
+        "en": "{{4}} why do we trust at all? Well, because it feels good. {{5}} people place their trust in an individual or an institution, their brains release oxytocin, a hormone that {{6}} pleasurable feelings and triggers the herding instinct that prompts humans to {{7}} with one another. Scientists have found that exposure {{8}} this hormone puts us in a trusting {{9}}: In a Swiss study, researchers sprayed oxytocin into the noses of half the subjects; those subjects were ready to lend significantly higher amounts of money to strangers than were their {{10}} who inhaled something else.",
+        "zh": "那么，我们究竟为什么还要信任呢？嗯，因为信任让人感觉良好。当人们信任某个人或某个机构时，大脑会释放催产素。这种激素会产生愉悦感，并触发从众本能，促使人与人彼此联结。科学家发现，接触这种激素会让我们进入一种信任的心境：在一项瑞士研究中，研究人员把催产素喷入一半受试者的鼻腔；这些受试者愿意借给陌生人的钱，明显多于吸入其他物质的对照受试者。"
+      },
+      {
+        "en": "{{11}} for us, we also have a sixth sense for dishonesty that may {{12}} us. A Canadian study found that children as young as 14 months can differentiate {{13}} a credible person and a dishonest one. Sixty toddlers were each {{14}} to an adult tester holding a plastic container. The tester would ask, \"What's in here?\" before looking into the container, smiling, and exclaiming, \"Wow!\" Each subject was then invited to look {{15}}. Half of them found a toy; the other half {{16}} the container was empty — and realized the tester had {{17}} them.",
+        "zh": "幸运的是，我们还有一种识别不诚实的第六感，它或许能保护我们。一项加拿大研究发现，仅14个月大的幼儿就能区分可信之人和不诚实之人。60名幼儿分别被带到一个手拿塑料容器的成年测试员面前。测试员会先问“这里面是什么？”，然后朝容器里看，微笑着惊呼：“哇！”随后，每个孩子都被邀请往容器里看。其中一半孩子发现里面有个玩具；另一半则发现容器是空的——并意识到测试员骗了他们。"
+      },
+      {
+        "en": "Among the children who had not been tricked, the majority were {{18}} to cooperate with the tester in learning a new skill, demonstrating that they trusted his leadership. {{19}}, only five of the 30 children paired with the \"{{20}}\" tester participated in a follow-up activity.",
+        "zh": "在那些没有被骗的孩子中，大多数愿意配合测试员学习一项新技能，这表明他们信任测试员的带领。相比之下，与“不可靠”测试员配对的30个孩子中，只有5个参加了后续活动。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "C",
+        "options": [
+          "on",
+          "like",
+          "for",
+          "from"
+        ],
+        "cn": [
+          "在……上；关于",
+          "像；如同",
+          "对于；为了",
+          "来自；从"
+        ],
+        "explain": "空格前的 a necessary condition 与后面的 many worthwhile things 构成固定搭配 a necessary condition for sth，意为“某事得以实现的必要条件”。句意是：信任是育儿、友谊等许多有价值之事得以成立的必备条件。",
+        "trap": "A on 与 condition 连用可表示“在……条件下”，但不能说 a condition on many things；B like 是介词“像”，D from 表来源，均无法表达“对……而言的必要条件”。",
+        "type": "介词/固定搭配"
+      },
+      {
+        "n": 2,
+        "answer": "A",
+        "options": [
+          "faith",
+          "concern",
+          "attention",
+          "interest"
+        ],
+        "cn": [
+          "信任；信念",
+          "担忧；关心",
+          "注意力",
+          "兴趣"
+        ],
+        "explain": "put one's faith in sb/sth 是固定搭配，意为“信任、信赖某人或某事”。此处与后半句“放错地方会付出高昂代价”呼应，说的是把信任托付给错误对象。",
+        "trap": "B concern“担忧”、C attention“注意力”、D interest“兴趣”虽都能与 in 搭配，但 put one's attention/interest in the wrong place 侧重“关注点放错”，与“信任”这一主题及下文信任实验不衔接；faith 才与 trust 同义复现。",
+        "type": "名词/固定搭配"
+      },
+      {
+        "n": 3,
+        "answer": "D",
+        "options": [
+          "benefit",
+          "debt",
+          "hope",
+          "price"
+        ],
+        "cn": [
+          "益处",
+          "债务",
+          "希望",
+          "代价"
+        ],
+        "explain": "carry a high price 意为“付出高昂的代价”，price 与 high 搭配自然。上文说把信任放错地方，下文自然接“代价很高”，构成 on the other hand 的转折。",
+        "trap": "B debt 可以说 high debt，但 carry a high debt 不是地道表达，且与“信任错置”的抽象代价不符；A benefit“益处”和 C hope“希望”与 high 搭配后语义相反或不通。",
+        "type": "名词/语义搭配"
+      },
+      {
+        "n": 4,
+        "answer": "B",
+        "options": [
+          "Therefore",
+          "Then",
+          "Instead",
+          "Again"
+        ],
+        "cn": [
+          "因此",
+          "那么；然后",
+          "相反",
+          "再一次"
+        ],
+        "explain": "前文说信任既必要又有风险，此处用 Then 承接上文、提出设问：“那么，我们究竟为什么还要信任呢？”Then 作话语标记，表示依据上文继续推论或发问。",
+        "trap": "A Therefore 表因果，但前文并没有给出“因此要信任”的原因，逻辑关系不成立；C Instead 表替代或转折，D Again 表重复，都无法引出这个设问。",
+        "type": "副词/逻辑衔接"
+      },
+      {
+        "n": 5,
+        "answer": "D",
+        "options": [
+          "Until",
+          "Unless",
+          "Although",
+          "When"
+        ],
+        "cn": [
+          "直到",
+          "除非",
+          "尽管",
+          "当……时"
+        ],
+        "explain": "When 引导时间状语从句，意为“当人们信任某个人或某个机构时”。主句说大脑会释放催产素，从句提供触发情境，前后是时间与条件关系。",
+        "trap": "B Unless“除非”会使句意变成“除非人们信任……，否则大脑释放催产素”，逻辑相反；A Until 表“直到”，C Although 表让步，均不合。",
+        "type": "连词/时间关系"
+      },
+      {
+        "n": 6,
+        "answer": "B",
+        "options": [
+          "selects",
+          "produces",
+          "applies",
+          "maintains"
+        ],
+        "cn": [
+          "挑选",
+          "产生",
+          "应用",
+          "维持"
+        ],
+        "explain": "produce 意为“产生”，a hormone that produces pleasurable feelings 即“产生愉悦感的激素”。主语是 hormone，宾语是 feelings，搭配自然。",
+        "trap": "A selects“挑选”、C applies“应用”的主语通常是人或方法，不能是激素；D maintains“维持”强调保持原有状态，不能表示“产生”新的感觉。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 7,
+        "answer": "C",
+        "options": [
+          "consult",
+          "compete",
+          "connect",
+          "compare"
+        ],
+        "cn": [
+          "咨询；商议",
+          "竞争",
+          "联结；联系",
+          "比较"
+        ],
+        "explain": "herding instinct 指群居、从众的本能，这种本能促使人类彼此联结、聚集在一起。connect with one another 意为“相互联系、彼此联结”，与“群居本能”一致。",
+        "trap": "B compete with 搭配成立，但“促使人类相互竞争”与 herding instinct 的“合群”方向相反；A consult“咨询”、D compare“比较”都不能体现群体联结。",
+        "type": "动词/语境"
+      },
+      {
+        "n": 8,
+        "answer": "D",
+        "options": [
+          "at",
+          "by",
+          "of",
+          "to"
+        ],
+        "cn": [
+          "在……",
+          "通过；由",
+          "……的",
+          "对……；向……"
+        ],
+        "explain": "exposure to sth 是固定搭配，意为“接触、暴露于某物”。此处 exposure to this hormone 指“接触这种激素”，与实验中喷洒催产素的情节呼应。",
+        "trap": "A at、B by、C of 都不能与 exposure 构成“接触某物”的固定搭配；of 虽可表所属，但 exposure of this hormone 意为“这种激素的暴露”，主客关系颠倒。",
+        "type": "介词/固定搭配"
+      },
+      {
+        "n": 9,
+        "answer": "B",
+        "options": [
+          "context",
+          "mood",
+          "period",
+          "circle"
+        ],
+        "cn": [
+          "语境；背景",
+          "情绪；心境",
+          "时期",
+          "圈子"
+        ],
+        "explain": "put sb in a ... mood 意为“使某人处于某种心境”。a trusting mood 即“信任的心境”，与下文受试者愿意借钱给陌生人的行为一致。",
+        "trap": "A context“语境”、C period“时期”、D circle“圈子”都不能与 trusting 搭配表示心理状态；in a ... circle 指“在……圈子里”，与此处语境无关。",
+        "type": "名词/固定搭配"
+      },
+      {
+        "n": 10,
+        "answer": "A",
+        "options": [
+          "counterparts",
+          "substitutes",
+          "colleagues",
+          "supporters"
+        ],
+        "cn": [
+          "对应的人；同类者",
+          "替代品",
+          "同事",
+          "支持者"
+        ],
+        "explain": "counterparts 指“地位、身份相对应的人”，此处 their counterparts 指实验中另一半“吸入其他物质”的对照受试者。比较结构 than were their counterparts 完整自然。",
+        "trap": "B substitutes 指“替代品”，不能指人；C colleagues 强调同事关系，实验对象彼此并非同事；D supporters“支持者”与实验对照组的身份不符。",
+        "type": "名词/语境"
+      },
+      {
+        "n": 11,
+        "answer": "B",
+        "options": [
+          "Funny",
+          "Lucky",
+          "Odd",
+          "Ironic"
+        ],
+        "cn": [
+          "奇怪的；滑稽的",
+          "幸运的",
+          "古怪的",
+          "讽刺的"
+        ],
+        "explain": "Lucky for us 是固定表达，意为“我们很幸运”。上文说信任可能带来风险，此处转而说我们还有识别不诚实的第六感，因而是一种幸运，语气是先抑后扬。",
+        "trap": "D Ironic“讽刺的”会把这层保护说成反讽，与 may protect us 的正面语义不符；A Funny“奇怪的”、C Odd“古怪的”只表反常，不能体现“幸而拥有”的评价。",
+        "type": "形容词/语境"
+      },
+      {
+        "n": 12,
+        "answer": "B",
+        "options": [
+          "monitor",
+          "protect",
+          "surprise",
+          "delight"
+        ],
+        "cn": [
+          "监控",
+          "保护",
+          "使惊讶",
+          "使高兴"
+        ],
+        "explain": "protect 意为“保护”。a sixth sense for dishonesty that may protect us 即“可能保护我们免于受骗的第六感”，与下文儿童识破测试员欺骗的实验相印证。",
+        "trap": "A monitor“监控”侧重观察记录，不能说明第六感对人的保护作用；C surprise“使惊讶”、D delight“使高兴”与“识别不诚实”的防御功能无关。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 13,
+        "answer": "A",
+        "options": [
+          "between",
+          "within",
+          "toward",
+          "over"
+        ],
+        "cn": [
+          "在……之间",
+          "在……之内",
+          "朝向",
+          "在……之上；越过"
+        ],
+        "explain": "differentiate between A and B 是固定搭配，意为“区分 A 与 B”。句中 a credible person 与 a dishonest one 正是被区分的两类人。",
+        "trap": "B within 表“在……内部”，C toward 表“朝向”，D over 表“在……之上”，都不能与 differentiate 构成“区分两者”的搭配；不要受汉语“区分……和……”影响而漏掉 between。",
+        "type": "介词/固定搭配"
+      },
+      {
+        "n": 14,
+        "answer": "C",
+        "options": [
+          "transferred",
+          "added",
+          "introduced",
+          "entrusted"
+        ],
+        "cn": [
+          "转移",
+          "添加",
+          "介绍；使初次接触",
+          "委托"
+        ],
+        "explain": "introduce sb to sb 意为“把某人介绍给某人、使某人初次接触某人”。Sixty toddlers were each introduced to an adult tester 即“每个幼儿被带到一名成年测试员面前”。",
+        "trap": "A transferred“转移”侧重地点或所有权的转移；B added“添加”不能用于人；D entrusted“委托”后常接事物，且与“幼儿见测试员”的语境不符。",
+        "type": "动词/语境"
+      },
+      {
+        "n": 15,
+        "answer": "D",
+        "options": [
+          "out",
+          "back",
+          "around",
+          "inside"
+        ],
+        "cn": [
+          "向外",
+          "向后；回",
+          "环顾；四处",
+          "向里面"
+        ],
+        "explain": "上文测试员先往容器里看，然后惊呼“哇！”，并问“这里面是什么？”，因此孩子被邀请“往里看”。look inside 意为“往里面看”，方向明确。",
+        "trap": "A look out“向外看；小心”、B look back“回头看”、C look around“环顾四周”都与“看容器内部”不符；around 强调四周，不强调容器内部。",
+        "type": "副词/方向"
+      },
+      {
+        "n": 16,
+        "answer": "A",
+        "options": [
+          "discovered",
+          "proved",
+          "insisted",
+          "remembered"
+        ],
+        "cn": [
+          "发现",
+          "证明",
+          "坚持；坚称",
+          "记得"
+        ],
+        "explain": "discover 意为“发现”。the other half discovered the container was empty 即“另一半孩子发现容器是空的”，与前半句“一半孩子找到了玩具”形成对照。",
+        "trap": "B proved“证明”需要论证过程，语气过重；C insisted“坚称”强调主观坚持，与“发现事实”不符；D remembered“记得”与当时的情境不合。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 17,
+        "answer": "C",
+        "options": [
+          "betrayed",
+          "wronged",
+          "fooled",
+          "mocked"
+        ],
+        "cn": [
+          "背叛",
+          "冤枉；不公正地对待",
+          "欺骗；愚弄",
+          "嘲笑"
+        ],
+        "explain": "fool 意为“欺骗、愚弄”。孩子发现容器是空的，自然意识到测试员“骗了他们”，这与上文测试员的诱导行为一致。",
+        "trap": "A betrayed“背叛”语气过重，通常指背叛信任或国家；B wronged“冤枉、不公正对待”强调受委屈，不是被戏弄；D mocked“嘲笑”与容器为空这一事实无关。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 18,
+        "answer": "B",
+        "options": [
+          "forced",
+          "willing",
+          "hesitant",
+          "entitled"
+        ],
+        "cn": [
+          "被迫的",
+          "愿意的",
+          "犹豫的",
+          "有资格的"
+        ],
+        "explain": "be willing to do sth 意为“愿意做某事”。the majority were willing to cooperate 即“大多数孩子愿意合作”，与后面“表明他们信任测试员的带领”逻辑一致。",
+        "trap": "A forced“被迫的”与“demonstrating that they trusted”矛盾；C hesitant“犹豫的”与 the majority 及信任的结论相反；D entitled“有资格的”后接 to 但只表权利，不表意愿。",
+        "type": "形容词/语义"
+      },
+      {
+        "n": 19,
+        "answer": "A",
+        "options": [
+          "In contrast",
+          "As a result",
+          "On the whole",
+          "For instance"
+        ],
+        "cn": [
+          "相反；相比之下",
+          "结果",
+          "总体上",
+          "例如"
+        ],
+        "explain": "前文说未被骗的孩子大多愿意合作，本句说与被骗孩子配对时只有5人参加后续活动，前后形成鲜明对比。In contrast 意为“相比之下、相反”，正合此处的对照关系。",
+        "trap": "B As a result 表结果，但“只有5人参加”并非前句“多数愿意合作”的结果；C On the whole 表总体概括，D For instance 表举例，都不能体现两组儿童的对比。",
+        "type": "逻辑关系/短语"
+      },
+      {
+        "n": 20,
+        "answer": "C",
+        "options": [
+          "inflexible",
+          "incapable",
+          "unreliable",
+          "unsuitable"
+        ],
+        "cn": [
+          "不灵活的",
+          "无能力的",
+          "不可靠的",
+          "不合适的"
+        ],
+        "explain": "unreliable 意为“不可靠的”。上文测试员欺骗了孩子，因此这里称其为“不可靠的”测试员；与“可信的”测试员相对，也解释了为何只有少数孩子愿意继续参与。",
+        "trap": "A inflexible“不灵活的”、D unsuitable“不合适的”只表一般性否定，不能准确概括“欺骗、不可信”；B incapable“无能力的”指能力不足，与测试员成功骗过孩子的事实不符。",
+        "type": "形容词/语义"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 排序",
+    "en_title": "The Eisenhower Executive Office Building",
+    "cn_title": "艾森豪威尔行政办公大楼",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "艾森豪威尔行政办公大楼的建造背景、建筑特色与历史地位",
+    "type": "ordering",
+    "directions": "The following paragraphs are given in a wrong order. For Questions 41-45, you are required to reorganize these paragraphs into a coherent article by choosing from the list A-G and filling them into the numbered boxes. Paragraphs C and F have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "排序题先看已给定的 C、F 两段：C 位于 41 之后、42 之前，F 位于 43 之后、44 之前。剩余 A、B、D、E、G 填入五个空。注意段间的时间链、指代关系和总分结构，先确定大跨度顺序，再抠接口。",
+    "paragraphs": {
+      "A": {
+        "en": "In December of 1869, Congress appointed a commission to select a site and prepare plans and cost estimates for a new State Department Building. The commission was also to consider possible arrangements for the War and Navy Departments. To the horror of some who expected a Greek Revival twin of the Treasury Building to be erected on the other side of the White House, the elaborate French Second Empire style design by Alfred Mullett was selected, and construction of a building to house all three departments began in June of 1871.",
+        "zh": "1869年12月，国会任命了一个委员会，为新建国务院大楼选址，并制订设计方案和成本估算。该委员会还要考虑战争部和海军部的可能安置方案。一些人原本期待在白宫另一侧建起一座与财政部大楼成对的希腊复兴式建筑；令他们惊愕的是，阿尔弗雷德·马利特设计的繁复的法式第二帝国风格方案被选中，容纳这三个部门的建筑于1871年6月开工。"
+      },
+      "B": {
+        "en": "Completed in 1875, the State Department's south wing was the first to be occupied, with its elegant four-story library (completed in 1876), Diplomatic Reception Room, and Secretary's office decorated with carved wood, Oriental rugs, and stenciled wall patterns. The Navy Department moved into the east wing in 1879, where elaborate wall and ceiling stenciling and marquetry floors decorated the office of the Secretary.",
+        "zh": "国务院南翼于1875年完工，是最早投入使用的一部分，内有典雅的四层图书馆（1876年建成）、外交接待室，以及以雕花木饰、东方地毯和模板印花墙面装饰的国务卿办公室。海军部于1879年迁入东翼，那里的国务卿办公室以繁复的墙面和天花板印花以及镶花地板装饰。"
+      },
+      "C": {
+        "en": "The State, War, and Navy Building, as it was originally known, housed the three Executive Branch Departments most intimately associated with formulating and conducting the nation's foreign policy in the last quarter of the nineteenth century and the first quarter of the twentieth century — the period when the United States emerged as an international power. The building has housed some of the nation's most significant diplomats and politicians and has been the scene of many historic events.",
+        "zh": "这座建筑原名国务院、战争部和海军部大楼，容纳了19世纪最后25年和20世纪最初25年与制定和执行美国外交政策关系最密切的三个行政部门——正是在这一时期，美国崛起为世界强国。这座建筑曾容纳美国一些最重要的外交家和政治家，也曾是多起历史事件的发生地。"
+      },
+      "D": {
+        "en": "Many of the most celebrated national figures have participated in historical events that have taken place within the EEOB's granite walls. Theodore and Franklin D. Roosevelt, William Howard Taft, Dwight D. Eisenhower, Lyndon B. Johnson, Gerald Ford, and George H. W. Bush all had offices in this building before becoming president. It has housed 16 Secretaries of the Navy, 21 Secretaries of War, and 24 Secretaries of State. Winston Churchill once walked its corridors and Japanese emissaries met here with Secretary of State Cordell Hull after the bombing of Pearl Harbor.",
+        "zh": "许多最著名的国家人物都曾参与发生在艾森豪威尔行政办公大楼花岗岩墙内的历史事件。西奥多·罗斯福和富兰克林·D·罗斯福、威廉·霍华德·塔夫脱、德怀特·D·艾森豪威尔、林登·B·约翰逊、杰拉尔德·福特以及乔治·H·W·布什，在成为总统之前都曾在这座楼里办公。这里曾容纳16位海军部长、21位战争部长和24位国务卿。温斯顿·丘吉尔曾走过它的走廊；珍珠港事件后，日本使节也曾在此与国务卿科德尔·赫尔会面。"
+      },
+      "E": {
+        "en": "The Eisenhower Executive Office Building (EEOB) commands a unique position in both the national history and the architectural heritage of the United States. Designed by Supervising Architect of the Treasury, Alfred B. Mullett, it was built from 1871 to 1888 to house the growing staffs of the State, War, and Navy Departments, and is considered one of the best examples of French Second Empire architecture in the country.",
+        "zh": "艾森豪威尔行政办公大楼（EEOB）在美国国家历史和建筑遗产中都占有独特地位。它由财政部监造建筑师阿尔弗雷德·B·马利特设计，1871年至1888年间建造，用于容纳国务院、战争部和海军部不断扩大的工作人员，被认为是美国法式第二帝国风格建筑的最佳范例之一。"
+      },
+      "F": {
+        "en": "Construction took 17 years as the building slowly rose wing by wing. When the EEOB was finished, it was the largest office building in Washington, with nearly 2 miles of black and white tiled corridors. Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety. Eight monumental curving staircases of granite with over 4,000 individually cast bronze balusters are capped by four skylight domes and two stained glass rotundas.",
+        "zh": "由于建筑一翼一翼地缓慢拔地而起，整个工程耗时17年。EEOB竣工时是华盛顿最大的办公楼，黑白瓷砖走廊绵延近2英里。几乎所有室内细节都由铸铁或石膏制成；为保障消防安全，木材的使用被降到最低。八部巨大的弧形花岗岩楼梯配有4000多根单独铸造的青铜栏杆立柱，顶部是四个天窗穹顶和两个彩色玻璃圆形大厅。"
+      },
+      "G": {
+        "en": "The history of the EEOB began long before its foundations were laid. The first executive offices were constructed between 1799 and 1820. A series of fires (including those set by the British in 1814) and overcrowded conditions led to the construction of the existing Treasury Building. In 1866, the construction of the North Wing of the Treasury Building necessitated the demolition of the State Department building.",
+        "zh": "EEOB的历史远在地基奠定之前就已开始。最早的行政办公室建于1799年至1820年间。一系列火灾（包括1814年英军纵火）和拥挤不堪的条件促成现有财政部大楼的建造。1866年，财政部大楼北翼的施工使国务院大楼不得不被拆除。"
+      }
+    },
+    "fixed_note": "原卷已给定两段：C 位于第 2 段（41 之后、42 之前），F 位于第 5 段（43 之后、44 之前）。41、42、43、44、45 从 A、B、D、E、G 五段中选择；最终顺序为 E–C–G–A–F–B–D。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "E",
+        "explain": "首段需要引出说明对象。E 先点明 EEOB 在美国国家历史和建筑遗产中的独特地位，再交代设计者马利特、建造年代 1871—1888 和法式第二帝国风格，是全文总起。C（已给定，位于 41 之后）随即用 as it was originally known 引出这座建筑的原名，并说明它容纳的三个部门，衔接紧密。",
+        "clue": "E 引出 EEOB、Mullett、1871—1888 → C 的 The State, War, and Navy Building, as it was originally known；由今名转入旧名与历史地位。"
+      },
+      {
+        "n": 42,
+        "answer": "G",
+        "explain": "C 段末说这座建筑“曾是多起历史事件的发生地”，G 开头“EEOB 的历史远在地基奠定之前就已开始”把视线从历史地位拉回更早的渊源，接着写 1799—1820 年的首批行政办公室、火灾和 1866 年拆除国务院大楼，时间线继续向前推进。",
+        "clue": "C 的历史地位概述 → G 的 The history of the EEOB began long before its foundations were laid；G 末句 1866 年拆除国务院大楼 → A 的 1869 年选址建新楼。"
+      },
+      {
+        "n": 43,
+        "answer": "A",
+        "explain": "G 段末说 1866 年财政部北翼施工迫使国务院大楼拆除，A 段开头正好是 1869 年 12 月国会任命委员会为新建国务院大楼选址并制订方案，随后写方案选定和 1871 年 6 月开工。G 的“拆除”与 A 的“新建”构成因果与时间上的承接。",
+        "clue": "the demolition of the State Department building → a new State Department Building；1866 → In December of 1869 → construction began in June of 1871。"
+      },
+      {
+        "n": 44,
+        "answer": "B",
+        "explain": "F（已给定，位于 43 之后）总写建筑一翼一翼建造、历时 17 年，以及竣工后的规模和室内细节；B 接着具体写南翼 1875 年完工并最先启用、海军部 1879 年迁入东翼，以及两处的装饰，是由总体到局部的展开。",
+        "clue": "F 的 the building slowly rose wing by wing 与 interior detail → B 的 south wing、east wing 及室内装饰；F 的竣工概述 → B 的分翼启用细节。"
+      },
+      {
+        "n": 45,
+        "answer": "D",
+        "explain": "B 段写到国务卿办公室和海军部东翼，D 段开头说许多著名国家人物都曾在 EEOB 的花岗岩墙内参与历史事件，随后列举多位总统、16 位海军部长、21 位战争部长、24 位国务卿以及丘吉尔和珍珠港事件后的日方使节，以人物与历史事件收束全文，是合适的末段。",
+        "clue": "B 的 Secretary's office / the office of the Secretary → D 的 16 Secretaries of the Navy, 21 Secretaries of War, and 24 Secretaries of State；由建筑细节转向人物与历史事件，收束全文。"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "Shakespeare and the Elizabethan Drama",
+    "cn_title": "莎士比亚与伊丽莎白时代戏剧",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "莎士比亚时代戏剧活动的繁荣与本土文学戏剧的形成",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. (10 points)",
+    "intro": "翻译先抓主干，再处理修饰成分。注意 46 题的并列宾语、47 题的双重否定与定语从句、48 题的并列分句和 as offering 的原因意味、49 题的省略与被动、50 题的两个 that 宾语从句及 whose 定语从句；抽象名词和文学史术语要译得自然，不要逐词硬译。",
+    "paragraphs": [
+      {
+        "en": "Shakespeare's lifetime was coincident with a period of extraordinary activity and achievement in the drama. [[46]]By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy.[[/46]] These new forms were at first mainly written by scholars and performed by amateurs, but in England, as everywhere else in western Europe, the growth of a class of professional actors was threatening to make the drama popular, whether it should be new or old, classical or medieval, literary or farcical. Court, school, organizations of amateurs, and the traveling actors were all rivals in supplying a widespread desire for dramatic entertainment; and [[47]]no boy who went to a grammar school could be ignorant that the drama was a form of literature which gave glory to Greece and Rome and might yet bring honor to England.[[/47]]",
+        "zh": "莎士比亚的一生恰逢戏剧活动异常活跃、成就非凡的时期。到他出生之时，欧洲正见证着宗教戏剧的衰落，以及古典悲剧和喜剧推动下新戏剧形式的产生。这些新形式起初主要由学者创作、由业余爱好者演出；但在英格兰，如同西欧其他各地一样，职业演员这一阶层的兴起，正使戏剧走向大众化，无论它是新是旧、是古典还是中世纪、是文学性的还是闹剧式的。宫廷、学校、业余团体和巡回演员都在竞相满足人们广泛的戏剧娱乐需求；而任何上过文法学校的男孩都不会不知道，戏剧是一种曾为希腊和罗马带来荣耀、或许还能为英格兰带来荣誉的文学形式。"
+      },
+      {
+        "en": "When Shakespeare was twelve years old the first public playhouse was built in London. For a time literature showed no interest in this public stage. Plays aiming at literary distinction were written for schools or court, or for the choir boys of St. Paul's and the royal chapel, who, however, gave plays in public as well as at court. [[48]]But the professional companies prospered in their permanent theaters, and university men with literary ambitions were quick to turn to these theaters as offering a means of livelihood.[[/48]] By the time that Shakespeare was twenty-five, Lyly, Peele, and Greene had made comedies that were at once popular and literary; Kyd had written a tragedy that crowded the pit; and Marlowe had brought poetry and genius to triumph on the common stage — where they had played no part since the death of Euripides. [[49]]A native literary drama had been created, its alliance with the public playhouses established, and at least some of its great traditions had been begun.[[/49]]",
+        "zh": "莎士比亚12岁时，伦敦建起了第一座公共剧场。有一段时间，文学对这种公共舞台并不感兴趣。追求文学声誉的剧作是写给学校或宫廷的，或是写给圣保罗大教堂和皇家礼拜堂的唱诗班男孩的；不过，这些男孩既在宫廷演出，也在公共场合演出。但职业剧团在它们固定的剧场里兴旺起来，有文学抱负的大学毕业生很快转向这些剧场，因为那里提供了谋生手段。到莎士比亚25岁时，利利、皮尔和格林已经创作出既受欢迎又具文学性的喜剧；基德写出一部让剧场池座挤满观众的悲剧；马洛则把诗歌与天才带上大众舞台并大获成功——自欧里庇得斯去世后，诗歌与天才就再未在这样的舞台上发挥作用。一种本土的文学戏剧已经诞生，它与公共剧场的结合已经确立，它的一些伟大传统至少已经发端。"
+      },
+      {
+        "en": "The development of the Elizabethan drama for the next twenty-five years is of exceptional interest to students of literary history, for in this brief period we may trace the beginning, growth, blossoming, and decay of many kinds of plays, and of many great careers. We are amazed today at the mere number of plays produced, as well as by the number of dramatists writing at the same time for this London of two hundred thousand inhabitants. [[50]]To realize how great was the dramatic activity, we must remember further that hosts of plays have been lost, and that probably there is no author of note whose entire work has survived.[[/50]]",
+        "zh": "此后25年伊丽莎白时代戏剧的发展，对文学史研究者具有非同寻常的意义，因为在这段短暂的时期里，我们可以追溯许多剧种以及许多伟大戏剧生涯的萌芽、成长、繁荣与衰落。今天，仅剧作的数量就令我们惊叹，而同时为这座拥有20万居民的伦敦写作的剧作家之多，同样令我们惊叹。要认识到当时的戏剧活动有多么繁盛，我们还必须记住：大量剧作已经失传，而且很可能没有一位名家的全部作品留存下来。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy.",
+        "core": "Europe was witnessing the passing of the religious drama and the creation of new forms.",
+        "structure": "By the date of his birth 作时间状语；主句 Europe was witnessing... 使用过去进行时；witnessing 后接两个并列宾语 the passing of the religious drama 和 the creation of new forms；under the incentive of... 作状语修饰 creation。",
+        "key": "witness 见证、经历；passing 消亡、消逝；incentive 激励、推动力；classical tragedy and comedy 古典悲剧与喜剧；the creation of new forms 新形式的创造。",
+        "translation": "到他出生之时，欧洲正见证着宗教戏剧的衰落，以及古典悲剧和喜剧推动下新戏剧形式的产生。",
+        "pitfall": "passing 在此不是“经过”，而是“消亡、衰落”；under the incentive of 不宜直译为“在……的刺激下”，可译为“在……推动下”；the creation of new forms 与 the passing... 并列，都是 witnessing 的宾语，不能误读成“目睹宗教剧创造新形式”。"
+      },
+      "47": {
+        "en": "no boy who went to a grammar school could be ignorant that the drama was a form of literature which gave glory to Greece and Rome and might yet bring honor to England.",
+        "core": "No boy could be ignorant that the drama was a form of literature.",
+        "structure": "no boy who went to a grammar school 是主语，who 引导定语从句；could be ignorant that... 中 that 引导宾语从句；which gave... and might yet bring... 是定语从句修饰 a form of literature，两个谓语并列。",
+        "key": "grammar school 文法学校；be ignorant that 不知道；give glory to 给……带来荣耀；might yet 或许有一天还会；bring honor to 为……争光。",
+        "translation": "任何上过文法学校的男孩都不会不知道，戏剧是一种曾为希腊和罗马带来荣耀、或许还能为英格兰带来荣誉的文学形式。",
+        "pitfall": "no... could be ignorant 是双重否定，意为“没有人会不知道”，不能译成“没有人知道”；which 从句修饰 a form of literature，不是修饰 England；might yet 含“将来或许”之意，不要漏译。"
+      },
+      "48": {
+        "en": "But the professional companies prospered in their permanent theaters, and university men with literary ambitions were quick to turn to these theaters as offering a means of livelihood.",
+        "core": "The professional companies prospered in their permanent theaters, and university men were quick to turn to these theaters.",
+        "structure": "but 连接两个并列分句；前句主语 the professional companies，谓语 prospered，in their permanent theaters 作地点状语；后句主语 university men，with literary ambitions 作后置定语，were quick to turn to 表示“很快转向”，as offering a means of livelihood 作状语说明原因。",
+        "key": "professional companies 职业剧团；prosper 兴旺、繁荣；permanent theaters 固定剧场；men with literary ambitions 有文学抱负的人；a means of livelihood 谋生手段。",
+        "translation": "但职业剧团在它们固定的剧场里兴旺起来，有文学抱负的大学毕业生很快转向这些剧场，因为那里提供了谋生手段。",
+        "pitfall": "companies 在此指“剧团”，不是“公司”；university men 指大学出身的人（尤指牛津、剑桥毕业生），不宜译成“大学男人们”；as offering... 表原因，不是“作为提供……”。"
+      },
+      "49": {
+        "en": "A native literary drama had been created, its alliance with the public playhouses established, and at least some of its great traditions had been begun.",
+        "core": "A native literary drama had been created, its alliance with the public playhouses established, and at least some of its great traditions had been begun.",
+        "structure": "三个并列分句共用 had been 的完成意义：A native literary drama had been created；its alliance with the public playhouses (had been) established；at least some of its great traditions had been begun。中间一项省略了 had been，翻译时要把被动和完成意味补足。",
+        "key": "native 本土的；literary drama 文学戏剧；alliance 联盟、结合；public playhouses 公共剧场；traditions had been begun 传统已经发端。",
+        "translation": "一种本土的文学戏剧已经诞生，它与公共剧场的结合已经确立，它的一些伟大传统至少已经发端。",
+        "pitfall": "its alliance... established 是并列省略结构，不能译成“它联盟公共剧场”；had been begun 是“已经开端”，不是“已经被开始”的生硬被动；native 指“本国的、本土的”，不是“自然的”。"
+      },
+      "50": {
+        "en": "To realize how great was the dramatic activity, we must remember further that hosts of plays have been lost, and that probably there is no author of note whose entire work has survived.",
+        "core": "We must remember that hosts of plays have been lost, and that there is no author of note whose entire work has survived.",
+        "structure": "To realize how great was the dramatic activity 是目的状语，how great... 是 realize 的宾语从句；主句 we must remember further 后接两个 that 引导的并列宾语从句；第二个从句中 whose entire work has survived 是定语从句修饰 author of note。",
+        "key": "realize 认识到；dramatic activity 戏剧活动；hosts of 大量的；of note 著名的；entire work 全部作品；survive 留存下来。",
+        "translation": "要认识到当时的戏剧活动有多么繁盛，我们还必须记住：大量剧作已经失传，而且很可能没有一位名家的全部作品留存下来。",
+        "pitfall": "hosts of 不是“主人”，而是“大量”；author of note 是“著名作家”，不是“有笔记的作者”；whose 从句修饰 author，不是 plays；否定结构 no author... has survived 要译成“没有一位名家的全部作品留存下来”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "An invitation email & a picture essay",
+    "cn_title": "邀请邮件 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "邀请国际专家参加毕业典礼；选课系统前“求知”与“功利”的取舍",
+    "intro": "小作文考“电子邮件格式 + 邀请全校国际专家出席毕业典礼并交代时间、地点和相关安排”；大作文考“描述选课场景 + 揭示功利选课与求知取向的冲突 + 发表评论”。",
+    "partA": {
+      "title": "Part A · 电子邮件",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Write an email to all international experts on campus inviting them to attend the graduation ceremony. In your email you should include time, place and other relevant information about the ceremony. You should write about 100 words neatly on the ANSWER SHEET. Do not use your own name at the end of the email. Use \"Li Ming\" instead. (10 points)",
+      "prompt_zh": "给全校国际专家写一封电子邮件，邀请他们参加毕业典礼。邮件中应包含典礼的时间、地点及其他相关信息。约100词；不要在邮件末尾署自己的名字，用“Li Ming”代替。",
+      "sample": "Dear International Experts,\n\nOn behalf of our university, I am writing to invite you to the graduation ceremony for the Class of 2018. It will be held in the Grand Auditorium on Saturday, June 23, at 9:00 a.m. The ceremony will last about two hours, and a reception will follow in the East Hall, where you can meet our graduates and their families. As distinguished guests, you are welcome to join the academic procession and sit in the front rows. Please let us know by June 10 whether you will be able to attend.\n\nWe look forward to welcoming you.\n\nYours sincerely,\nLi Ming",
+      "sample_zh": "尊敬的国际专家：\n\n我谨代表学校，邀请您出席2018届毕业典礼。典礼将于6月23日（星期六）上午9时在大礼堂举行，历时约两小时。典礼结束后，东厅将举行招待会，届时您可以与我们的毕业生及其家人见面。作为贵宾，欢迎您加入学术游行队伍，并在前排就座。请您在6月10日前告知我们您能否出席。\n\n期待您的光临。\n\n此致\n敬礼\n李明",
+      "structure": [
+        [
+          "称呼",
+          "Dear International Experts,"
+        ],
+        [
+          "写信目的",
+          "On behalf of our university, I am writing to invite you to the graduation ceremony for the Class of 2018."
+        ],
+        [
+          "时间与地点",
+          "It will be held in the Grand Auditorium on Saturday, June 23, at 9:00 a.m."
+        ],
+        [
+          "活动安排与其他信息",
+          "The ceremony will last about two hours, and a reception will follow in the East Hall, where you can meet our graduates and their families."
+        ],
+        [
+          "贵宾安排",
+          "As distinguished guests, you are welcome to join the academic procession and sit in the front rows."
+        ],
+        [
+          "请求回复",
+          "Please let us know by June 10 whether you will be able to attend."
+        ],
+        [
+          "落款",
+          "Yours sincerely, Li Ming"
+        ]
+      ],
+      "expressions": [
+        "On behalf of ..., I am writing to invite you to ...",
+        "It will be held in ... on ... at ...",
+        "The ceremony will last about ...",
+        "A reception will follow in ..., where you can ...",
+        "As distinguished guests, you are welcome to ...",
+        "Please let us know by ... whether you will be able to attend.",
+        "We look forward to welcoming you.",
+        "Yours sincerely, Li Ming"
+      ],
+      "traps": [
+        "必须写成 email，包含称呼和结尾敬语；署名固定用 Li Ming，不能写真实姓名，也不要写地址。",
+        "收件人是全校国际专家，语气应正式礼貌，避免口语化；开头要说明邀请方身份和写信目的。",
+        "题目明确要求包含时间、地点及其他相关信息（如典礼流程、招待会、贵宾安排、回复截止日期），缺一不可。",
+        "约100词，信息要具体但不要堆砌；时态以将来时为主，日期和时间的表达要规范。",
+        "不要写成通知或海报，也不要只写“欢迎参加毕业典礼”而没有具体安排。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160-200 words based on the picture below. In your essay, you should 1) describe the picture briefly, 2) interpret the meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "src": "../assets/writing/2018.png",
+        "caption": "选课系统前的两难",
+        "note": "图中一名男大学生坐在电脑前，屏幕上显示“选课系统”。他左边的想法气泡写着“知识新、重创新、有难度……”，右边的气泡写着“给分高、易通过、作业少……”。两个气泡代表两种选课标准：是追求知识、挑战自我，还是追求轻松、功利拿分。"
+      },
+      "sample": "The picture shows a college student sitting at a computer and browsing the course selection system. Two thought bubbles float above his head. One describes a course that offers new knowledge, a focus on creativity and considerable difficulty; the other promises generous grading, an easy pass and little homework. His finger rests on the screen, apparently hesitating between the two.\n\nThe drawing reveals a familiar dilemma in higher education: whether to choose courses for learning or for grades. When GPA becomes the only currency, students naturally drift toward the easiest option, and the classroom turns into a marketplace where knowledge is weighed against convenience. Yet a course that demands little gives little in return. Easy grades may decorate a transcript, but they leave the mind unchanged, while genuine understanding is usually born of effort and challenge.\n\nIn my view, we should ask what a course can make of us rather than what mark it can give us. Universities, meanwhile, should design assessment that rewards curiosity and depth, so that demanding courses are not punished. Choosing knowledge over convenience is a small decision now, but it shapes the kind of person we become.",
+      "sample_zh": "图中，一名大学生坐在电脑前浏览选课系统。他头顶上方浮着两个想法气泡。一个罗列着一门课程的好处：知识新、注重创新、难度不小；另一个则承诺给分慷慨、容易通过、作业很少。他的手停在屏幕上，显然在两者之间犹豫。\n\n这幅画揭示了高等教育中一个熟悉的困境：选课是为了学习，还是为了分数。当绩点成为唯一的通行货币，学生自然会偏向最轻松的选择，课堂也就变成了一个用知识衡量便利的市场。然而，要求不多的课程，给予的也少。轻松的分数或许能装点成绩单，却不会改变一个人的头脑；而真正的理解，通常诞生于努力与挑战之中。\n\n在我看来，我们应当问一门课能把自己变成什么样的人，而不是它能给自己多少分。与此同时，大学也应当设计能够奖励好奇心与深度的评价方式，使有难度的课程不因严格而受罚。此刻选择知识而非便利只是一个小决定，但它塑造着我们成为怎样的人。",
+      "structure": [
+        [
+          "第一段·描述图画",
+          "The picture shows a student at a computer browsing the course selection system; two thought bubbles contrast “new knowledge, creativity and difficulty” with “generous grading, an easy pass and little homework.”"
+        ],
+        [
+          "第二段·解释寓意",
+          "The drawing reveals a dilemma between learning and grades; when GPA becomes the only currency, students drift toward the easiest option, yet easy grades leave the mind unchanged."
+        ],
+        [
+          "第三段·发表评论",
+          "We should ask what a course can make of us rather than what mark it can give us; universities should reward curiosity and depth so that demanding courses are not punished."
+        ]
+      ],
+      "expressions": [
+        "The picture shows ... sitting at a computer and browsing ...",
+        "Two thought bubbles float above his head.",
+        "One advertises ...; the other promises ...",
+        "... apparently hesitating between the two.",
+        "The drawing reveals a familiar dilemma in higher education.",
+        "When GPA becomes the only currency, students naturally drift toward ...",
+        "Yet a course that demands little gives little in return.",
+        "... is usually born of effort and challenge.",
+        "In my view, we should ask what a course can make of us rather than what mark it can give us.",
+        "Choosing knowledge over convenience is a small decision now, but it shapes the kind of person we become."
+      ],
+      "traps": [
+        "描述要覆盖电脑屏幕上的“选课系统”和左右两个气泡的关键词，不能只写“一个学生在选课”。",
+        "寓意要落在“功利选课与求知取向的取舍”，不要偏题成“网络成瘾”“大学生就业难”或“教育公平”。",
+        "第二段要分析两种标准背后的价值观，第三段要给出自己的选择和具体建议，避免两段重复。",
+        "160–200词，三段为宜；描述图画用一般现在时，引语和观点用现在时。",
+        "两个气泡是人物内心的权衡，不是两个人在对话；不要褒贬颠倒，把“给分高、易通过”写成值得提倡的选择。"
+      ]
+    }
+  }
+}

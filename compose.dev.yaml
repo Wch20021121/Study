@@ -1,0 +1,12 @@
+# 本地开发用覆盖文件：把静态文件挂载进容器，改 HTML/CSS 后刷新即可。
+# 用法：
+#   docker compose -f compose.yaml -f compose.dev.yaml up -d --build
+# 生产环境不要用这个文件，生产请直接用 compose.yaml（文件已打进镜像）。
+services:
+  exam408:
+    volumes:
+      - ./408-exam/site:/usr/share/nginx/html:ro
+
+  english:
+    volumes:
+      - ./English/frontend:/usr/share/nginx/html:ro

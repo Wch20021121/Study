@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="408 计算机组成原理大题：Cache 映射、指令格式与数据通路、流水线冒险、磁盘与 DMA。含答案、评分点和易错点。">
+  <title>计算机组成原理 · 408 大题工位</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body class="subject-coa" data-page="coa">
+  <a class="skip-link" href="#main">跳到主要内容</a>
+
+  <header class="site-header">
+    <div class="wrap topbar">
+      <a class="brand" href="index.html" aria-label="408 大题工位首页">
+        <span class="brand-mark">408</span>
+        <span class="brand-word">
+          <b>大题工位</b>
+          <small>big question workbench</small>
+        </span>
+      </a>
+
+      <nav class="site-nav" id="site-nav" aria-label="主导航">
+        <a href="index.html">总览</a>
+        <a href="coa.html" aria-current="page">组成原理</a>
+        <a href="network.html">计算机网络</a>
+        <a href="os.html">计算机系统</a>
+        <a href="map.html">知识线路图</a>
+      </nav>
+
+      <div class="topbar-actions">
+        <a class="english-link" href="http://127.0.0.1:5001/" data-english-link>
+          英语真题档案 <span>↗</span>
+        </a>
+        <button class="menu-toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="展开导航">
+          <span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main" class="wrap subject-layout">
+    <aside class="subject-rail">
+      <div class="rail-subject">COA / 计算机组成原理</div>
+      <h1>组成原理<br>大题拆解</h1>
+      <span class="rail-count">C1—C4 · 4 道仿真母题</span>
+      <p class="rail-deck">
+        先把“容量、地址、周期”翻译成可算的量，再追序列。四道题覆盖存储、指令、流水线与 I/O 四个高频入口。
+      </p>
+
+      <div class="rail-progress" data-progress-subject="coa">
+        <div class="rail-progress-head">
+          <span>已掌握</span>
+          <b data-progress-text>0 / 4</b>
+        </div>
+        <div class="progress-track"><div class="progress-fill"></div></div>
+      </div>
+
+      <nav class="q-nav" aria-label="本页题目">
+        <a href="#c1"><span>C1</span>Cache 映射与写策略</a>
+        <a href="#c2"><span>C2</span>指令格式与数据通路</a>
+        <a href="#c3"><span>C3</span>流水线冒险与 CPI</a>
+        <a href="#c4"><span>C4</span>磁盘、DMA 与中断</a>
+      </nav>
+
+      <div class="rail-links">
+        <a href="map.html#coa-cache">存储层次节点 <span>MAP ↗</span></a>
+        <a href="map.html#coa-cpu">性能三角节点 <span>MAP ↗</span></a>
+        <a href="network.html">下一科：计算机网络 <span>→</span></a>
+      </div>
+    </aside>
+
+    <div class="subject-main">
+      <section class="subject-intro" aria-label="本科目使用说明">
+        <div>
+          <h2>这一页怎么用</h2>
+          <p>每道题先自己写 15—25 分钟，再展开解析。对答案时不要只看结果，重点检查“第一步有没有写对”。</p>
+          <div class="intro-tags">
+            <span class="chip">地址位数</span>
+            <span class="chip">控制信号</span>
+            <span class="chip">CPI</span>
+            <span class="chip">AMAT</span>
+          </div>
+        </div>
+        <div class="intro-note">
+          <span>本页高频口径</span>
+          <b>Cache 容量默认指数据容量；磁盘转速先换成 r/s；流水线 CPI 是平均值。</b>
+          <small>题目为原创仿真题，数字经过配平，适合练步骤，不等于真题原题。</small>
+        </div>
+      </section>
+
+      <div class="toolbar">
+        <span class="toolbar-note">解析默认收起 · 勾选“已掌握”会保存在本机</span>
+        <div class="toolbar-actions">
+          <button class="text-btn" type="button" data-expand-all>展开全部解析</button>
+          <button class="text-btn" type="button" data-collapse-all>收起全部</button>
+        </div>
+      </div>
+
+      <!-- ================= C1 ================= -->
+      <article class="question" id="c1">
+        <header class="q-head">
+          <div class="q-id">C1</div>
+          <div>
+            <div class="q-kicker">题型 A · 存储层次 / 12 分</div>
+            <h2>Cache 映射、LRU 替换与写回流量</h2>
+            <div class="q-meta">
+              <span class="chip chip--red">高频</span>
+              <span class="chip">建议 22 min</span>
+              <span class="chip">地址拆分 → 追序列 → 算流量</span>
+            </div>
+          </div>
+          <label class="mastery"><input type="checkbox" data-mastery="coa-c1"> 已掌握</label>
+        </header>
+
+        <div class="q-body">
+          <p class="q-prompt">
+            某计算机按字节编址，虚拟地址和物理地址均为 32 位。数据 Cache 采用 4 路组相联映射，数据容量为 32 KiB，块大小为 32 B，替换策略为 LRU，写策略为写回法（write-back）且写分配（write-allocate）。Cache 初始为空。忽略替换算法所需的额外位。
+          </p>
+
+          <div class="spec">
+            <span class="spec-title">访问序列 / 依次执行</span>
+            <ul>
+              <li>① 读 <code>0x0000_1020</code>；② 读 <code>0x0000_3020</code>；③ 读 <code>0x0000_5020</code>；④ 读 <code>0x0000_7020</code></li>
+              <li>⑤ 写 <code>0x0000_1024</code>；⑥ 读 <code>0x0000_9020</code>；⑦ 读 <code>0x0000_3020</code></li>
+              <li>⑧ 写 <code>0x0000_3024</code>；⑨ 读 <code>0x0000_5020</code>；⑩ 读 <code>0x0000_7020</code></li>
+            </ul>
+          </div>
+
+          <ol class="subq">
+            <li>求 Cache 的行数、组数，以及 32 位地址中 tag、index、offset 各占多少位。</li>
+            <li>写出地址 <code>0x0000_3020</code> 的 tag、组号和块内偏移；说明为什么前四个地址可以同时驻留在 Cache 中。</li>
+            <li>完成访问序列表，指出命中次数、缺失次数、发生写回的次数，以及第 ⑩ 次访问后该组中的块。</li>
+            <li>若该程序的长期命中率为 95%，命中时间为 1 个时钟周期，缺失代价为 80 个时钟周期，求 AMAT。再解释本题访问序列的命中率为什么远低于 95%。</li>
+          </ol>
+
+          <div class="solution-toolbar">
+            <button class="solution-toggle" type="button" aria-expanded="false" aria-controls="sol-c1" data-label-closed="展开参考答案" data-label-open="收起参考答案">展开参考答案</button>
+            <span class="solution-hint">建议先写出 32 位地址的切分，再翻答案</span>
+          </div>
+
+          <div class="solution" id="sol-c1" hidden>
+            <div class="solution-inner">
+              <div class="answer-lead">
+                <span>结论先行</span>
+                <p>行数 1024，组数 256；tag / index / offset = 19 / 8 / 5 位。10 次访问命中 2 次、缺失 8 次，写回 1 次。长期 AMAT = 5 周期。</p>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">01</span>
+                <div>
+                  <h4>先拆容量：行数、组数、地址位</h4>
+                  <div class="calc">Cache 行数 = 32 KiB ÷ 32 B = 1024 行
+组数 = 1024 ÷ 4 = 256 组
+offset = log₂(32) = 5 位
+index  = log₂(256) = 8 位
+tag    = 32 − 8 − 5 = 19 位</div>
+                  <p>所以地址格式为：<span class="formula">tag[31:13] | index[12:5] | offset[4:0]</span>。每个 Cache 行需要 tag 19 位、valid 1 位、dirty 1 位，合计 21 位；1024 行的标记阵列共 <b>21 × 1024 = 21 504 位 = 2688 B = 2.625 KiB</b>（不含 LRU 位）。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">02</span>
+                <div>
+                  <h4>把 0x3020 放进地址格式</h4>
+                  <div class="calc">0x0000_3020 = 0000 0000 0000 0000 0011 0000 0010 0000₂
+offset = 0x020 &amp; 0x1F = 0
+index  = (0x3020 >> 5) &amp; 0xFF = 0x81 = 129
+tag    = 0x3020 >> 13 = 0x1</div>
+                  <p>块号 = <code>0x3020 >> 5 = 0x181 = 385</code>，组号 = <code>385 mod 256 = 129</code>。前四个地址 <code>0x1020、0x3020、0x5020、0x7020</code> 的块号分别是 129、385、641、897，对 256 取模后都为 129，因此都映射到第 129 组；但 tag 分别为 0、1、2、3，是四个不同主存块。4 路组相联允许同组放 4 个块，所以它们可以同时驻留。</p>
+                  <div class="callout callout--tip">
+                    <b>考场检查</b>
+                    组相联不是“整个 Cache 满了才替换”，而是“这一组 4 路都满了就替换”。本题后面正是同一组的第 5 个块引发了替换。
+                  </div>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">03</span>
+                <div>
+                  <h4>追访问序列：LRU 按“最近一次使用”排队</h4>
+                  <div class="table-wrap">
+                    <table class="data-table">
+                      <caption>第 129 组的状态变化；LRU 顺序按“最久未用 → 最近使用”</caption>
+                      <thead>
+                        <tr><th>次</th><th>操作</th><th>块（tag）</th><th>结果</th><th>替换 / 写回</th><th>操作后组内 LRU 顺序</th></tr>
+                      </thead>
+                      <tbody>
+                        <tr class="is-miss"><td>①</td><td>R 0x1020</td><td>B1（tag 0）</td><td>缺失</td><td>装入，无替换</td><td>B1</td></tr>
+                        <tr class="is-miss"><td>②</td><td>R 0x3020</td><td>B2（tag 1）</td><td>缺失</td><td>装入，无替换</td><td>B1, B2</td></tr>
+                        <tr class="is-miss"><td>③</td><td>R 0x5020</td><td>B3（tag 2）</td><td>缺失</td><td>装入，无替换</td><td>B1, B2, B3</td></tr>
+                        <tr class="is-miss"><td>④</td><td>R 0x7020</td><td>B4（tag 3）</td><td>缺失</td><td>装入，组满</td><td>B1, B2, B3, B4</td></tr>
+                        <tr class="is-hit"><td>⑤</td><td>W 0x1024</td><td>B1（tag 0）</td><td>命中</td><td>B1 置脏</td><td>B2, B3, B4, B1</td></tr>
+                        <tr class="is-miss"><td>⑥</td><td>R 0x9020</td><td>B5（tag 4）</td><td>缺失</td><td>换出 B2（干净）</td><td>B3, B4, B1, B5</td></tr>
+                        <tr class="is-miss"><td>⑦</td><td>R 0x3020</td><td>B2（tag 1）</td><td>缺失</td><td>换出 B3（干净）</td><td>B4, B1, B5, B2</td></tr>
+                        <tr class="is-hit"><td>⑧</td><td>W 0x3024</td><td>B2（tag 1）</td><td>命中</td><td>B2 置脏</td><td>B4, B1, B5, B2</td></tr>
+                        <tr class="is-miss"><td>⑨</td><td>R 0x5020</td><td>B3（tag 2）</td><td>缺失</td><td>换出 B4（干净）</td><td>B1, B5, B2, B3</td></tr>
+                        <tr class="is-miss"><td>⑩</td><td>R 0x7020</td><td>B4（tag 3）</td><td>缺失</td><td>换出 B1（<b>脏</b>，写回）</td><td>B5, B2, B3, B4</td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <p>命中 2 次（⑤、⑧），缺失 8 次，写回 1 次（第 ⑩ 次换出脏块 B1）。第 ⑩ 次访问后，该组中为 <b>B5、B2（脏）、B3、B4</b>；B2 的脏数据仍留在 Cache 中，等它以后被替换时才写回。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">04</span>
+                <div>
+                  <h4>算访存流量与 AMAT</h4>
+                  <p>每次缺失都要从主存读入一个 32 B 块，共 <b>8 × 32 B = 256 B</b>；写回一个脏块，写主存 <b>1 × 32 B = 32 B</b>。总访存流量 = 256 + 32 = <b>288 B</b>。注意第 ⑤、⑧ 次是写命中，不会立即写主存。</p>
+                  <div class="calc">AMAT = 命中时间 + 缺失率 × 缺失代价
+     = 1 + (1 − 0.95) × 80
+     = 1 + 4 = <b>5 个时钟周期</b></div>
+                  <p>但本题序列的实际命中率只有 2/10 = 20%，AMAT = 1 + 0.8 × 80 = <b>65 周期</b>。原因是 5 个不同主存块反复映射到同一组，而该组只有 4 路：第 5 个块一来就必然替换，随后被替换掉的块再次访问又缺失——这是典型的<b>冲突缺失（conflict miss）</b>，不是程序没有局部性。</p>
+                  <div class="result-box">
+                    <div><span>命中 / 缺失</span><b>2 / 8</b></div>
+                    <div><span>写回次数</span><b>1</b></div>
+                    <div><span>长期 AMAT</span><b>5 周期</b></div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="score-grid">
+                <div class="score-box">
+                  <h4>评分点</h4>
+                  <ul>
+                    <li>行数、组数、19/8/5 位地址划分各 1 分。</li>
+                    <li>tag/index/offset 与组内 4 个块并存解释 2 分。</li>
+                    <li>LRU 序列表与 2 次命中、8 次缺失 2 分。</li>
+                    <li>指出第 ⑩ 次换出脏块并写回 1 次 1 分。</li>
+                    <li>AMAT 公式与 5 周期结果 2 分；冲突缺失解释 1 分。</li>
+                  </ul>
+                </div>
+                <div class="score-box score-box--warn">
+                  <h4>易错警报</h4>
+                  <ul>
+                    <li>把 Cache 容量 32 KiB 当成“行数 × 块大小 + tag”，导致组数算错。</li>
+                    <li>写命中时立刻算一次主存写；写回法应等到脏块被替换。</li>
+                    <li>用“总容量 ÷ 4 路”直接当组数，忘记先除以块大小。</li>
+                    <li>看到第 ⑥ 次换出 B2 就以为要写回——B2 此时还是干净的。</li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="variant">
+                <h4>考场变式</h4>
+                <p>若把 Cache 改成<b>直接映射</b>，同样 32 KiB 数据容量、32 B 块，则组数变为 1024，index 10 位、tag 17 位。前四个地址仍映射到同一行，访问 ② 就会替换 ①，命中率更低；若改成<b>全相联</b>，则没有 index，只有 tag 和 offset，四个块可任意放置，本题前四次不会冲突，但需要 1024 路并行比较，硬件代价高。答题时先写“相联度决定比较器和替换策略”，再算位数。</p>
+              </div>
+
+              <p class="question-end">对应知识线路图：<a href="map.html#coa-cache">存储层次与 Cache →</a></p>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <!-- ================= C2 ================= -->
+      <article class="question" id="c2">
+        <header class="q-head">
+          <div class="q-id">C2</div>
+          <div>
+            <div class="q-kicker">题型 B · 指令系统与数据通路 / 12 分</div>
+            <h2>机器码译码、有效地址与单周期时钟</h2>
+            <div class="q-meta">
+              <span class="chip chip--red">近年重点</span>
+              <span class="chip">建议 24 min</span>
+              <span class="chip">切字段 → 判寻址 → 列控制信号</span>
+            </div>
+          </div>
+          <label class="mastery"><input type="checkbox" data-mastery="coa-c2"> 已掌握</label>
+        </header>
+
+        <div class="q-body">
+          <p class="q-prompt">
+            某 16 位计算机按字节编址，指令字长固定为 16 位，指令地址按 2 字节对齐。通用寄存器有 8 个，每个 16 位，数据字长 16 位，采用小端序。指令格式如下：
+          </p>
+
+          <div class="spec">
+            <span class="spec-title">指令格式</span>
+            <ul>
+              <li>R 型：<code>op[15:12] | rs[11:9] | rt[8:6] | rd[5:3] | func[2:0]</code></li>
+              <li>I 型：<code>op[15:12] | rs[11:9] | rt[8:6] | imm[5:0]</code>，imm 为 6 位补码</li>
+              <li>J 型：<code>op[15:12] | target[11:0]</code></li>
+              <li>op：lw=0001、sw=0010、beq=0011、j=0100、addi=0101；R 型 add 的 func=000</li>
+              <li>beq 的转移目标 = (PC + 2) + sign_ext(imm) × 2；imm 以“指令条数”为单位，PC 为当前指令字节地址</li>
+            </ul>
+          </div>
+
+          <ol class="subq">
+            <li>译码三条机器码：<code>0x1686</code>、<code>0x04C8</code>、<code>0x323E</code>，写出汇编形式及关键字段。</li>
+            <li>执行 <code>lw r2, 6(r3)</code> 时 r3 = 0x0100，内存字节地址 0x0106、0x0107 的内容分别为 0x34、0x12。求有效地址和读入 r2 的值；若改成大端序，结果是多少？</li>
+            <li>若 <code>0x323E</code> 位于地址 0x0040，且 r1 = 0，求转移目标；若 r1 ≠ 0，下一条取哪条指令？</li>
+            <li>单周期数据通路的部件延迟为：PC 2 ns、指令存储器 10 ns、寄存器堆读 3 ns、ALU 8 ns、数据存储器 10 ns、寄存器写 2 ns、符号扩展 1 ns、控制单元 1 ns。求该机最高时钟频率，并说明为什么 R 型指令“等得冤枉”。</li>
+          </ol>
+
+          <div class="solution-toolbar">
+            <button class="solution-toggle" type="button" aria-expanded="false" aria-controls="sol-c2" data-label-closed="展开参考答案" data-label-open="收起参考答案">展开参考答案</button>
+            <span class="solution-hint">先按 4 / 3 / 3 / 3 / 3 位切，再翻译</span>
+          </div>
+
+          <div class="solution" id="sol-c2" hidden>
+            <div class="solution-inner">
+              <div class="answer-lead">
+                <span>结论先行</span>
+                <p>0x1686 = <code>lw r2, 6(r3)</code>；0x04C8 = <code>add r1, r2, r3</code>；0x323E = <code>beq r1, r0, -2</code>。有效地址 0x0106，小端读出 0x1234；转移目标 0x003E。最高主频约 28.6 MHz。</p>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">01</span>
+                <div>
+                  <h4>按格式切位，不要从右往左猜</h4>
+                  <div class="table-wrap">
+                    <table class="data-table">
+                      <caption>三条机器码的字段拆分</caption>
+                      <thead>
+                        <tr><th>机器码</th><th>二进制</th><th>op</th><th>字段</th><th>汇编</th></tr>
+                      </thead>
+                      <tbody>
+                        <tr><td>0x1686</td><td>0001 0110 1000 0110</td><td>0001（lw）</td><td>rs=011(r3), rt=010(r2), imm=000110(+6)</td><td><code>lw r2, 6(r3)</code></td></tr>
+                        <tr><td>0x04C8</td><td>0000 0100 1100 1000</td><td>0000（R 型）</td><td>rs=010(r2), rt=011(r3), rd=001(r1), func=000(add)</td><td><code>add r1, r2, r3</code></td></tr>
+                        <tr><td>0x323E</td><td>0011 0010 0011 1110</td><td>0011（beq）</td><td>rs=001(r1), rt=000(r0), imm=111110(−2)</td><td><code>beq r1, r0, -2</code></td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <p>I 型只有 6 位立即数，所以能直接表示的补码范围是 <b>−32 到 +31</b>。若题目需要更大的常数，通常要先用 <code>addi</code> 拼高位，或改用更宽的指令格式。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">02</span>
+                <div>
+                  <h4>lw 的有效地址与端序</h4>
+                  <div class="calc">EA = r3 + sign_ext(imm)
+   = 0x0100 + 0x0006 = <b>0x0106</b>
+小端序：低地址 0x0106 存低字节 0x34，高地址 0x0107 存高字节 0x12
+r2 = 0x1234</div>
+                  <p>若为大端序，则 0x0106 是高位字节，r2 = <b>0x3412</b>。答题时先写“按字节编址、每次访存 2 B”，再说明端序，否则容易只写一个地址。</p>
+                  <div class="callout callout--warn">
+                    <b>对齐检查</b>
+                    0x0106 是偶数，满足 16 位数据字的对齐要求。如果题目给出奇地址，要判断是否允许非对齐访问；408 通常默认会触发对齐异常或拆成两次访问，不能直接当作正常 lw。
+                  </div>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">03</span>
+                <div>
+                  <h4>beq 的相对转移</h4>
+                  <p>0x323E 的 imm = 111110₂ = −2。PC 为当前指令地址 0x0040：</p>
+                  <div class="calc">目标 = (PC + 2) + imm × 2
+     = (0x0040 + 0x0002) + (−2) × 2
+     = 0x0042 − 0x0004
+     = <b>0x003E</b></div>
+                  <p>若 r1 ≠ 0，条件不成立，顺序执行下一条指令，地址为 <b>PC + 2 = 0x0042</b>。这里最容易错的是用 PC 而不是 PC+2 去加偏移，或者忘记 imm 的单位是“指令条数”，还要乘以 2 字节。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">04</span>
+                <div>
+                  <h4>单周期时钟：最慢的那条路决定一切</h4>
+                  <p>单周期 CPU 的时钟周期必须覆盖所有指令中最长的组合逻辑路径。lw 的路径最长：</p>
+                  <div class="calc">T_lw = PC(2) + 指令存储器(10) + 寄存器读(3)
+       + ALU(8) + 数据存储器(10) + 寄存器写(2)
+     = <b>35 ns</b>
+f_max = 1 / 35 ns ≈ <b>28.57 MHz</b></div>
+                  <p>beq 的路径约为 2 + 10 + 3 + 8 = 23 ns，R 型约为 2 + 10 + 3 + 8 + 2 = 25 ns。它们都要被拉长到 35 ns 才能与 lw 共用同一个时钟，所以 R 型指令“等得冤枉”——单周期 CPU 的时钟周期由最复杂的指令决定，简单指令浪费了时间。</p>
+                  <div class="table-wrap">
+                    <table class="data-table">
+                      <caption>单周期控制信号（x 表示无关）</caption>
+                      <thead><tr><th>指令</th><th>RegWrite</th><th>MemRead</th><th>MemWrite</th><th>MemToReg</th><th>ALUSrc</th><th>ALUOp</th><th>Branch</th></tr></thead>
+                      <tbody>
+                        <tr><td>lw</td><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>add</td><td>0</td></tr>
+                        <tr><td>beq</td><td>0</td><td>0</td><td>0</td><td>x</td><td>0</td><td>sub</td><td>1</td></tr>
+                        <tr><td>R 型 add</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>func</td><td>0</td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <p>若把单周期改成 5 级流水线，时钟周期可降到最长流水段（这里是 10 ns）左右，理想情况下主频可提高约 3.5 倍；但会遇到数据冒险和控制冒险，实际加速比小于 3.5。</p>
+                </div>
+              </div>
+
+              <div class="score-grid">
+                <div class="score-box">
+                  <h4>评分点</h4>
+                  <ul>
+                    <li>三条机器码译码正确，字段与汇编对应 4 分。</li>
+                    <li>有效地址 0x0106、小端 0x1234、大端 0x3412 共 3 分。</li>
+                    <li>PC+2 与 imm×2 的转移目标 0x003E 共 2 分。</li>
+                    <li>35 ns、28.6 MHz 与“最复杂指令决定周期”解释 3 分。</li>
+                  </ul>
+                </div>
+                <div class="score-box score-box--warn">
+                  <h4>易错警报</h4>
+                  <ul>
+                    <li>把 R 型的 rd 与 I 型的 rt 位置搞混，导致寄存器编号错位。</li>
+                    <li>beq 直接用 PC 加偏移，忘记 PC 已经指向下一条指令。</li>
+                    <li>把 imm 当字节偏移，忘记乘 2；本题明确写的是“指令条数”。</li>
+                    <li>单周期时钟取平均延迟或 R 型延迟，而不是最长路径。</li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="variant">
+                <h4>考场变式</h4>
+                <p>若把指令字长改为 32 位，寄存器仍为 8 个，则 R 型可以留出更多 func 位；若题目给的是“扩展操作码”，先检查短操作码不能是长操作码的前缀。数据通路题则把“字段”换成“控制信号”：看到 <code>lw</code> 就想 RegWrite=1、MemRead=1、ALUSrc=1；看到 <code>beq</code> 就想 ALU 做减法、Branch=1、RegWrite=0。</p>
+              </div>
+
+              <p class="question-end">对应知识线路图：<a href="map.html#coa-isa">指令系统与寻址 →</a></p>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <!-- ================= C3 ================= -->
+      <article class="question" id="c3">
+        <header class="q-head">
+          <div class="q-id">C3</div>
+          <div>
+            <div class="q-kicker">题型 C · CPU 与流水线 / 12 分</div>
+            <h2>load-use 停顿、分支惩罚与有效 CPI</h2>
+            <div class="q-meta">
+              <span class="chip chip--red">高频</span>
+              <span class="chip">建议 20 min</span>
+              <span class="chip">画时空图 → 数气泡 → 算 CPI</span>
+            </div>
+          </div>
+          <label class="mastery"><input type="checkbox" data-mastery="coa-c3"> 已掌握</label>
+        </header>
+
+        <div class="q-body">
+          <p class="q-prompt">
+            某 RISC 处理器采用 5 级流水线：IF、ID、EX、MEM、WB。时钟频率为 1.5 GHz，理想 CPI 为 1。ALU-ALU 数据冒险可通过转发解决；load-use 冒险即使有转发也必须停顿 1 个周期。分支指令在 EX 段末解析，跳转成功时冲刷 2 条指令（惩罚 2 个周期）。结构冒险不考虑。
+          </p>
+
+          <div class="spec">
+            <span class="spec-title">指令序列</span>
+            <div class="diagram">
+              <pre>I1: lw   r1, 0(r2)
+I2: add  r3, r1, r4
+I3: lw   r5, 8(r2)
+I4: sub  r6, r5, r1
+I5: beq  r6, r0, TARGET
+I6: add  r7, r7, 1</pre>
+            </div>
+            <p>统计信息：load 指令占 25%，其中 40% 紧接着被下一条指令使用；分支指令占 20%，其中 60% 跳转成功；其余指令不产生额外停顿。</p>
+          </div>
+
+          <ol class="subq">
+            <li>指出 I1—I5 中的数据冒险，说明哪些需要停顿、哪些可以靠转发解决。</li>
+            <li>画出 I1—I4 的 5 级流水线时空图，标出气泡；执行完 I1—I4 共需多少周期？</li>
+            <li>求该程序的实际平均 CPI 和 MIPS（保留 1 位小数）。</li>
+            <li>若把分支提前到 ID 段末解析，跳转成功惩罚降为 1 个周期，其他条件不变，CPI 变为多少？理想加速比是多少？为什么不能简单说“5 级流水线就是 5 倍”？</li>
+          </ol>
+
+          <div class="solution-toolbar">
+            <button class="solution-toggle" type="button" aria-expanded="false" aria-controls="sol-c3" data-label-closed="展开参考答案" data-label-open="收起参考答案">展开参考答案</button>
+            <span class="solution-hint">load-use 是“隔一条”才安全，不要把所有 RAW 都算成停顿</span>
+          </div>
+
+          <div class="solution" id="sol-c3" hidden>
+            <div class="solution-inner">
+              <div class="answer-lead">
+                <span>结论先行</span>
+                <p>I1→I2、I3→I4 各停 1 拍；I4→I5 靠转发不停。I1—I4 共 10 周期。有效 CPI = 1.34，MIPS ≈ 1119.4。分支提前后 CPI = 1.22，加速约 1.10 倍。</p>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">01</span>
+                <div>
+                  <h4>先找 RAW，再判断“能不能转发到 EX”</h4>
+                  <ul>
+                    <li><b>I1 → I2：</b>I1 是 load，结果在 MEM 段末才可用；I2 紧接着在 EX 段就要用 r1。即使有转发，也要等一个周期，<b>停 1 拍</b>。</li>
+                    <li><b>I3 → I4：</b>同样是 load-use，I4 要用 I3 读出的 r5，<b>停 1 拍</b>。</li>
+                    <li><b>I4 → I5：</b>I4 的 ALU 结果在 EX 段末产生，可以经 EX/MEM 转发给下一条 I5 的 EX 段，<b>不停顿</b>。</li>
+                    <li><b>I1 → I4：</b>I1 的 r1 到 I4 时早已写回，<b>不构成冒险</b>。</li>
+                  </ul>
+                  <p>所以序列中共有 <b>2 个 load-use 停顿</b>，而不是 3 个或 4 个。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">02</span>
+                <div>
+                  <h4>时空图：第 4、7 周期各有一个气泡</h4>
+                  <div class="table-wrap">
+                    <table class="data-table">
+                      <caption>I1—I5 的流水线时空图；“—”表示气泡/停顿</caption>
+                      <thead><tr><th>指令</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>11</th></tr></thead>
+                      <tbody>
+                        <tr><td>I1: lw</td><td>IF</td><td>ID</td><td>EX</td><td>MEM</td><td>WB</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+                        <tr><td>I2: add</td><td></td><td>IF</td><td>ID</td><td>ID</td><td>EX</td><td>MEM</td><td>WB</td><td></td><td></td><td></td><td></td></tr>
+                        <tr><td>I3: lw</td><td></td><td></td><td>IF</td><td>IF</td><td>ID</td><td>EX</td><td>MEM</td><td>WB</td><td></td><td></td><td></td></tr>
+                        <tr><td>I4: sub</td><td></td><td></td><td></td><td></td><td>IF</td><td>ID</td><td>ID</td><td>EX</td><td>MEM</td><td>WB</td><td></td></tr>
+                        <tr><td>I5: beq</td><td></td><td></td><td></td><td></td><td></td><td>IF</td><td>IF</td><td>ID</td><td>EX</td><td>MEM</td><td>WB</td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <p>I1—I4 共 4 条指令，理想情况下 <span class="formula">4 + 4 = 8</span> 周期；加 2 个气泡，实际 <b>10 周期</b>。I4 在周期 10 写回，流水线排空完毕。</p>
+                  <div class="callout callout--tip">
+                    <b>为什么 I3 的 IF 在周期 3 和 4 都出现？</b>
+                    周期 3 取到 I3 后，I2 在 ID 段停顿，PC 和 IF/ID 寄存器被冻结，I3 在周期 4 仍停在 IF 段，直到周期 5 才进入 ID。这就是“停 1 拍”在时空图上的样子。
+                  </div>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">03</span>
+                <div>
+                  <h4>用“每类指令的额外周期”算平均 CPI</h4>
+                  <div class="calc">load-use 贡献 = 25% × 40% × 1 = 0.10
+分支惩罚贡献 = 20% × 60% × 2 = 0.24
+有效 CPI = 1 + 0.10 + 0.24 = <b>1.34</b>
+
+MIPS = 主频(MHz) ÷ CPI
+     = 1500 ÷ 1.34
+     ≈ <b>1119.4 MIPS</b></div>
+                  <p>这里假设“load 后立即使用”的比例 40% 已经包含了所有 load-use 情况，且每个这样的相邻对只停 1 拍。若题目给出“load 占 25%，其中 40% 是 load-use”，就按乘法算；若直接给“每 100 条指令有 10 次 load-use”，就不要再乘 25%。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">04</span>
+                <div>
+                  <h4>分支提前解析：惩罚从 2 降到 1</h4>
+                  <div class="calc">新 CPI = 1 + 0.10 + 20% × 60% × 1
+       = 1 + 0.10 + 0.12 = <b>1.22</b>
+加速比 = 1.34 ÷ 1.22 ≈ <b>1.098</b>，约 9.8%</div>
+                  <p>5 级流水线的理想加速比接近 5，但只适用于“指令足够多、没有冒险、流水线充满”的理想情况。实际程序有 load-use 停顿、分支冲刷、Cache 缺失和流水线建立/排空开销，所以 CPI 大于 1，加速比小于 5。题干中的 1.34 和 1.22 都是“平均 CPI”，不是某一条指令的 CPI。</p>
+                  <div class="callout callout--warn">
+                    <b>别忽略前提</b>
+                    分支提前到 ID 段解析，意味着 ID 段要能判断条件并算出目标，可能需要额外的比较器、转发通路，甚至对紧邻分支的 ALU 结果产生新的停顿。题目说“其他条件不变”时，才可以只改惩罚周期。
+                  </div>
+                </div>
+              </div>
+
+              <div class="result-box">
+                <div><span>I1—I4 周期</span><b>10</b></div>
+                <div><span>有效 CPI</span><b>1.34</b></div>
+                <div><span>分支提前后</span><b>1.22</b></div>
+              </div>
+
+              <div class="score-grid">
+                <div class="score-box">
+                  <h4>评分点</h4>
+                  <ul>
+                    <li>正确识别 2 个 load-use 停顿，并说明 I4→I5 可转发 3 分。</li>
+                    <li>时空图与 10 周期 3 分。</li>
+                    <li>CPI 公式与 1.34 共 2 分；MIPS 1119.4 共 1 分。</li>
+                    <li>新 CPI 1.22、加速比约 1.10 与流水线不能满加速解释 3 分。</li>
+                  </ul>
+                </div>
+                <div class="score-box score-box--warn">
+                  <h4>易错警报</h4>
+                  <ul>
+                    <li>把所有 RAW 都算成 load-use；ALU 结果通常可以转发。</li>
+                    <li>把“load 占 25%”和“40% 立即使用”相加，而不是相乘。</li>
+                    <li>用 1.5 GHz 直接除以 1.34 后忘记单位是 MIPS，写成 1119.4 Hz。</li>
+                    <li>把分支惩罚加到每条指令上，而不是只乘分支比例和跳转比例。</li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="variant">
+                <h4>考场变式</h4>
+                <p>若没有转发，I1→I2 之外，I4 使用 I1 的 r1 也可能要停；这时要逐条列出“生产者—消费者”的间隔。若题目给“分支在 ID 段解析，但分支指令紧邻 ALU 结果”，还要额外考虑把结果转发到 ID 段比较器的代价。记住：<b>先判断冒险类型，再决定停几拍</b>，不要背一个固定的 CPI。</p>
+              </div>
+
+              <p class="question-end">对应知识线路图：<a href="map.html#coa-cpu">CPU 与流水线 →</a></p>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <!-- ================= C4 ================= -->
+      <article class="question" id="c4">
+        <header class="q-head">
+          <div class="q-id">C4</div>
+          <div>
+            <div class="q-kicker">题型 D · 总线 / I/O / DMA / 12 分</div>
+            <h2>磁盘平均存取时间与 DMA 的 CPU 开销</h2>
+            <div class="q-meta">
+              <span class="chip chip--red">高频</span>
+              <span class="chip">建议 20 min</span>
+              <span class="chip">分开算磁盘、总线、CPU</span>
+            </div>
+          </div>
+          <label class="mastery"><input type="checkbox" data-mastery="coa-c4"> 已掌握</label>
+        </header>
+
+        <div class="q-body">
+          <p class="q-prompt">
+            某磁盘转速为 7200 r/min，平均寻道时间为 6 ms，每磁道容量为 1 MiB，每个扇区 4 KiB。现要连续读取一个 64 KiB 的文件，文件的所有扇区位于同一磁道且连续存放。系统采用 DMA 方式把数据送入主存：总线宽度 32 位，总线时钟 100 MHz，每次 DMA 初始化需要 500 个总线周期，传完一整块后产生 1 次中断，中断处理需要 1000 个 CPU 周期。CPU 主频为 2 GHz。
+          </p>
+
+          <ol class="subq">
+            <li>求磁盘转一圈的时间、平均旋转延迟、传输 64 KiB 的时间，以及本次读操作的平均存取时间。</li>
+            <li>求该磁盘在连续读取同一磁道时的最大持续传输率，以及本次读操作的有效吞吐率。</li>
+            <li>求 DMA 搬运 64 KiB 所需的总线时间、初始化时间，以及 CPU 为这次 I/O 花费的总开销（含中断）。</li>
+            <li>如果把 64 KiB 拆成 16 次 4 KiB 的 DMA 传送，初始化开销增加多少？为什么 DMA 并非“完全不占 CPU”？</li>
+          </ol>
+
+          <div class="solution-toolbar">
+            <button class="solution-toggle" type="button" aria-expanded="false" aria-controls="sol-c4" data-label-closed="展开参考答案" data-label-open="收起参考答案">展开参考答案</button>
+            <span class="solution-hint">先换算单位：r/min → ms，KiB → B，MHz → ns</span>
+          </div>
+
+          <div class="solution" id="sol-c4" hidden>
+            <div class="solution-inner">
+              <div class="answer-lead">
+                <span>结论先行</span>
+                <p>转一圈 8.33 ms，平均旋转延迟 4.17 ms，传输 0.52 ms，平均存取约 10.69 ms。持续传输率约 120 MiB/s，本次有效吞吐约 5.85 MiB/s。DMA 搬运 163.84 μs，CPU 开销约 5.5 μs。</p>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">01</span>
+                <div>
+                  <h4>磁盘的三个时间必须分开</h4>
+                  <div class="calc">转速 = 7200 r/min = 120 r/s
+转一圈 = 1 / 120 s = 8.333 ms
+平均旋转延迟 = 8.333 / 2 = <b>4.167 ms</b>
+
+传输时间 = (64 KiB / 1 MiB) × 8.333 ms
+         = (1/16) × 8.333 ms
+         = <b>0.521 ms</b>
+
+平均存取时间 = 6 + 4.167 + 0.521
+             = <b>10.688 ms</b></div>
+                  <p>注意：64 KiB 在同一条磁道内连续存放，所以只需要一次寻道和一次平均旋转延迟；不能把 16 个扇区各自算一次寻道。如果文件跨磁道，还要加上换道/寻道开销。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">02</span>
+                <div>
+                  <h4>最大持续传输率 vs 本次有效吞吐率</h4>
+                  <div class="calc">最大持续传输率 = 1 MiB / 8.333 ms
+                 = 120 MiB/s ≈ 125.8 MB/s
+
+本次有效吞吐率 = 64 KiB / 10.688 ms
+               ≈ <b>5.85 MiB/s</b>（约 6.13 MB/s）</div>
+                  <p>两者差了一个数量级，原因是本次读操作被“寻道 + 旋转”主导。持续传输率只描述磁头已经在目标磁道、连续读写的极限；真实的小文件随机读，有效吞吐率会低得多。这也是磁盘调度和文件系统预读重要的原因。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">03</span>
+                <div>
+                  <h4>DMA 时间：总线搬运与 CPU 开销分开</h4>
+                  <div class="calc">每次总线传送 4 B（32 位）
+传送次数 = 64 KiB / 4 B = 16384 次
+总线周期 = 1 / 100 MHz = 10 ns
+DMA 搬运时间 = 16384 × 10 ns = <b>163.84 μs</b>
+
+初始化时间 = 500 × 10 ns = <b>5 μs</b>
+中断处理时间 = 1000 / 2 GHz = <b>0.5 μs</b>
+CPU 总开销 = 5 + 0.5 = <b>5.5 μs</b></div>
+                  <p>DMA 搬运的 163.84 μs <b>不等于</b> CPU 开销：数据由 DMA 控制器在总线上搬，CPU 可以去执行其他程序（但会与 CPU 争用内存总线）。本题中磁盘传输 64 KiB 需要 0.521 ms，而 DMA 只需 0.164 ms，二者可以重叠，实际 I/O 完成时间主要由磁盘的 0.521 ms 决定，而不是把两个时间相加。</p>
+                  <div class="callout callout--tip">
+                    <b>数量级检查</b>
+                    磁盘传输 0.521 ms，DMA 0.164 ms，总线不是瓶颈；CPU 开销 5.5 μs，仅占 I/O 时间的约 0.05%。如果算出的 CPU 开销比磁盘时间还大，通常是把“DMA 搬运时间”误当成了 CPU 时间。
+                  </div>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">04</span>
+                <div>
+                  <h4>拆成 16 次小 DMA：初始化开销放大</h4>
+                  <div class="calc">16 次初始化 = 16 × 5 μs = 80 μs
+原来 1 次初始化 = 5 μs
+增加 = 80 − 5 = <b>75 μs</b>
+
+若每次传完都中断：
+中断开销 = 16 × 0.5 μs = 8 μs
+总 CPU 开销 = 80 + 8 = 88 μs
+比原来的 5.5 μs 多出 82.5 μs</div>
+                  <p>所以大块传输通常更划算；但一次 DMA 占用总线太久，会增加其他设备等待的延迟。实际系统会用<b>散射-聚集 DMA（scatter-gather）</b>、多通道 DMA 或更大的传输粒度来平衡。</p>
+                  <p>“DMA 不占 CPU”只成立于“数据搬运不需要 CPU 逐字执行指令”这个意义上。DMA 初始化、中断处理、以及 DMA 与 CPU 争用内存总线，都会消耗 CPU 时间或拉长 CPU 访存延迟。若 CPU 正在跑 Cache 命中率很高的程序，DMA 的影响会小一些；若频繁访存，影响会明显。</p>
+                </div>
+              </div>
+
+              <div class="result-box">
+                <div><span>平均存取</span><b>10.69 ms</b></div>
+                <div><span>DMA 搬运</span><b>163.84 μs</b></div>
+                <div><span>CPU 开销</span><b>5.5 μs</b></div>
+              </div>
+
+              <div class="score-grid">
+                <div class="score-box">
+                  <h4>评分点</h4>
+                  <ul>
+                    <li>转一圈、平均旋转延迟、传输时间各 1 分。</li>
+                    <li>平均存取时间 10.69 ms 与“同磁道只算一次寻道”2 分。</li>
+                    <li>持续传输率 120 MiB/s、有效吞吐 5.85 MiB/s 共 2 分。</li>
+                    <li>DMA 163.84 μs、初始化 5 μs、CPU 开销 5.5 μs 共 3 分。</li>
+                    <li>拆分后增加 75 μs、CPU 不参与搬运但参与初始化/中断 2 分。</li>
+                  </ul>
+                </div>
+                <div class="score-box score-box--warn">
+                  <h4>易错警报</h4>
+                  <ul>
+                    <li>把 7200 r/min 直接当 7200 r/s，旋转延迟小了 60 倍。</li>
+                    <li>把“平均旋转延迟”算成一圈，而不是半圈。</li>
+                    <li>把 DMA 搬运时间加到 CPU 开销里，得出“CPU 忙了 164 μs”。</li>
+                    <li>把磁盘传输时间与 DMA 时间相加，忽略二者可以重叠。</li>
+                    <li>把 64 KiB 当成 64 000 B，导致与 4 KiB 扇区的整除关系出错。</li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="variant">
+                <h4>考场变式</h4>
+                <p>若题目问“采用中断方式、每次中断传 4 B，CPU 开销是多少”，要把 16384 次中断 × 每次中断周期数算进去，结果会远大于 DMA；若问“DMA 与 CPU 同时访存，CPU 性能下降多少”，需要看 DMA 占用内存总线的比例（周期挪用率）。记住三种 I/O 方式的区别：<b>程序查询</b> CPU 全程忙等，<b>中断</b> CPU 按数据块/字介入，<b>DMA</b> CPU 只在初始化和结束时介入。</p>
+              </div>
+
+              <p class="question-end">对应知识线路图：<a href="map.html#coa-io">总线、I/O 与 DMA →</a></p>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <section class="subject-cheatsheet" aria-label="组成原理速查">
+        <div class="cheatsheet-head">
+          <h2>组成原理 · 速查卡</h2>
+          <a href="map.html#coa-cache">回知识线路图 →</a>
+        </div>
+        <div class="cheatsheet-grid">
+          <div class="cheatsheet-card">
+            <span>CACHE / 地址</span>
+            <b>组数 = 数据容量 ÷ (块大小 × 路数)<br>tag = 地址位 − index − offset</b>
+            <p>写回法只在脏块被替换时写主存；写分配要先把块读入再写。</p>
+          </div>
+          <div class="cheatsheet-card">
+            <span>PIPELINE / CPI</span>
+            <b>CPI = 1 + load-use 贡献 + 分支惩罚贡献<br>MIPS = 主频(MHz) ÷ CPI</b>
+            <p>load-use 即使有转发也通常停 1 拍；分支惩罚取决于解析段。</p>
+          </div>
+          <div class="cheatsheet-card">
+            <span>DISK / I-O</span>
+            <b>平均存取 = 寻道 + 旋转 + 传输<br>DMA 时间 ≠ CPU 开销</b>
+            <p>转速 r/min 先换 r/s；DMA 只在初始化和中断时占用 CPU。</p>
+          </div>
+          <div class="cheatsheet-card">
+            <span>ISA / DATAPATH</span>
+            <b>先切 op / rs / rt / rd / imm<br>beq 目标 = (PC+2) + imm×2</b>
+            <p>单周期时钟由最长路径决定；lw 往往决定最高主频。</p>
+          </div>
+        </div>
+      </section>
+
+      <footer class="subject-footer">
+        <a href="index.html">← 返回总览</a>
+        <a href="map.html">把四道题放回知识线路图 →</a>
+        <a href="network.html">下一科：计算机网络 →</a>
+      </footer>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">408 大题工位</div>
+          <p>题目为依据 408 考纲与近年题型原创改编的仿真题，不是真题原文。解析按 408 常用口径编写，适合自测与复盘。</p>
+        </div>
+        <div class="footer-col">
+          <h3>三条主线</h3>
+          <a href="coa.html">计算机组成原理</a>
+          <a href="network.html">计算机网络</a>
+          <a href="os.html">计算机系统（操作系统）</a>
+        </div>
+        <div class="footer-col">
+          <h3>工具</h3>
+          <a href="map.html">知识线路图</a>
+          <a href="http://127.0.0.1:5001/" data-english-link>英语真题档案 ↗</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>SECTION C · 04 QUESTIONS · STATIC HTML</span>
+        <span>先写步骤，再对答案</span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="toast" role="status" aria-live="polite"></div>
+
+  <script src="assets/config.js"></script>
+  <script src="assets/site.js"></script>
+</body>
+</html>

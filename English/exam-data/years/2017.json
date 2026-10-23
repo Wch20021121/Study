@@ -1,0 +1,685 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "拥抱对身心健康的作用及其生理机制",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "文章以“每天一个拥抱能让人远离医生吗”开篇，先肯定拥抱对身心的诸多益处，再介绍卡内基梅隆大学关于社会支持、拥抱与感冒易感性的研究，接着引用科恩教授的解释，最后把拥抱的减压效果归因于催产素的释放。做题时抓住“设问—研究证据—专家解释—生理机制”的推进线，注意 besides、even、but 等逻辑信号。",
+    "passage": [
+      {
+        "en": "Could a hug a day keep the doctor away? The answer may be a resounding \"yes!\" {{1}} helping you feel close and {{2}} to people you care about, it turns out that hugs can bring a {{3}} of health benefits to your body and mind. Believe it or not, a warm embrace might even help you {{4}} getting sick this winter.",
+        "zh": "每天一个拥抱能让人远离医生吗？答案可能是一个响亮的“能！”除了让你对所关心的人感到亲近、有联结感之外，拥抱还能给身心带来诸多健康益处。信不信由你，一个温暖的拥抱甚至可能帮你在这个冬天免于生病。"
+      },
+      {
+        "en": "In a recent study {{5}} over 400 healthy adults, researchers from Carnegie Mellon University in Pennsylvania examined the effects of perceived social support and the receipt of hugs {{6}} the participants' susceptibility to developing the common cold after being {{7}} to the virus. People who perceived greater social support were less likely to come {{8}} with a cold, and the researchers {{9}} that the stress-reducing effects of hugging {{10}} about 32 percent of that beneficial effect. {{11}} among those who got a cold, the ones who felt greater social support and received more frequent hugs had less severe {{12}}.",
+        "zh": "在最近一项涉及400多名健康成年人的研究中，宾夕法尼亚州卡内基梅隆大学的研究人员考察了感知到的社会支持以及是否收到拥抱，对参与者在接触病毒后患上普通感冒的易感性有何影响。感知到更多社会支持的人更不容易得感冒，研究人员推算出，拥抱的减压效果解释了其中约32%的有益作用。即使在那些已经感冒的人当中，感受到更多社会支持、得到更频繁拥抱的人症状也更轻。"
+      },
+      {
+        "en": "\"Hugging protects people who are under stress from the {{13}} risk for colds that's usually {{14}} with stress,\" notes Sheldon Cohen, a professor of psychology at Carnegie. Hugging \"is a marker of intimacy and helps {{15}} the feeling that others are there to help {{16}} difficulty.\"",
+        "zh": "卡内基梅隆大学的心理学教授谢尔登·科恩指出：“拥抱能保护处于压力之下的人，使他们免受通常与压力相关的更高感冒风险的侵害。”拥抱“是亲密关系的标志，有助于让人产生这样的感觉：在困难面前，有人会伸出援手。”"
+      },
+      {
+        "en": "Some experts {{17}} the stress-reducing, health-related benefits of hugging to the release of oxytocin, often called \"the bonding hormone\" {{18}} it promotes attachment in relationships, including that between mothers and their newborn babies. Oxytocin is made primarily in the central lower part of the brain, and some of it is released into the bloodstream. But some of it {{19}} in the brain, where it {{20}} mood, behavior and physiology.",
+        "zh": "一些专家把拥抱在减压和健康方面的益处归因于催产素的释放。催产素常被称为“联结激素”，因为它能促进人际关系中的依恋，包括母亲与新生儿之间的依恋。催产素主要在大脑的中下部产生，其中一部分会释放到血液中。但还有一部分留在脑内，在那里影响情绪、行为和生理机能。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "B",
+        "options": [
+          "Unlike",
+          "Besides",
+          "Despite",
+          "Throughout"
+        ],
+        "cn": [
+          "与……不同",
+          "除……之外（还）",
+          "尽管",
+          "贯穿；遍及"
+        ],
+        "explain": "空格所在部分是句首状语，后接动名词 helping，主句说拥抱能带来诸多健康益处。前文问“每天一个拥抱能否让人远离医生”，此处应补充说明拥抱的额外作用：“除了让你对所关心的人感到亲近、有联结感之外，拥抱还能……”。Besides 作介词意为“除……之外（还）”，后接动名词，正合语境。",
+        "trap": "A Unlike 也可置于句首并后接动名词，但意为“与……不同”，需要前后形成对比；本句是递进补充，不是对比。C Despite 表让步，D Throughout 表“贯穿”，均不能与 helping 构成通顺逻辑。",
+        "type": "介词/逻辑关系"
+      },
+      {
+        "n": 2,
+        "answer": "A",
+        "options": [
+          "connected",
+          "restricted",
+          "equal",
+          "inferior"
+        ],
+        "cn": [
+          "有联系的；相通的",
+          "受限制的",
+          "平等的",
+          "较差的；低等的"
+        ],
+        "explain": "空格与 close 并列，说明拥抱让人产生的感受。feel/be connected to sb 是固定搭配，意为“与某人有联结感、感到亲近”，与 close 语义一致，共同说明“你所关心的人”。",
+        "trap": "D inferior 也能接 to，但 inferior to 意为“比……差、低于”，与 close 并列会变成“既亲近又低人一等”，自相矛盾。B restricted“受限制”、C equal“平等的”与语境不符。",
+        "type": "形容词/语义搭配"
+      },
+      {
+        "n": 3,
+        "answer": "D",
+        "options": [
+          "choice",
+          "view",
+          "lesson",
+          "host"
+        ],
+        "cn": [
+          "选择",
+          "观点；景象",
+          "教训；课程",
+          "大量；许多"
+        ],
+        "explain": "a host of 是固定搭配，意为“大量的、许多”，修饰可数名词复数 health benefits。此处说拥抱能给身心带来“大量”健康益处，与下文列举研究证据相呼应。",
+        "trap": "A a choice of 虽也常见，但意为“可供选择的……”，此处并非在谈选择范围；B a view of“对……的看法”、C a lesson“一课”都不能修饰 health benefits。",
+        "type": "固定搭配/名词"
+      },
+      {
+        "n": 4,
+        "answer": "C",
+        "options": [
+          "recall",
+          "forget",
+          "avoid",
+          "keep"
+        ],
+        "cn": [
+          "回忆起",
+          "忘记",
+          "避免",
+          "保持"
+        ],
+        "explain": "help sb (to) do sth 后接动词原形；avoid doing sth 意为“避免做某事”。句意为“一个温暖的拥抱甚至可能帮你在这个冬天避免生病”，与上文“健康益处”一致。",
+        "trap": "B forget doing 表示“忘记已经做过某事”，与“今年冬天”的将来语境不符；D keep doing 表示“一直做”，语义不通；A recall doing 意为“回想起做过”，也不合逻辑。",
+        "type": "动词/搭配"
+      },
+      {
+        "n": 5,
+        "answer": "B",
+        "options": [
+          "collecting",
+          "involving",
+          "guiding",
+          "affecting"
+        ],
+        "cn": [
+          "收集",
+          "涉及；包括",
+          "指导",
+          "影响"
+        ],
+        "explain": "空格及后面的 over 400 healthy adults 作 study 的后置定语。involve 意为“涉及、包括”，a study involving 400 adults 即“一项涉及400名成年人的研究”，是学术语篇的常见表达。",
+        "trap": "D affecting 虽可接名词，但“影响400多名成年人的研究”会让人误以为研究在影响受试者，语义重心错位；A collecting、C guiding 与 study 搭配不自然。",
+        "type": "分词/定语"
+      },
+      {
+        "n": 6,
+        "answer": "D",
+        "options": [
+          "of",
+          "in",
+          "at",
+          "on"
+        ],
+        "cn": [
+          "……的",
+          "在……里",
+          "在……处",
+          "对……；关于"
+        ],
+        "explain": "固定结构 the effects of A on B 意为“A 对 B 的影响”。本句 effects 后已有 of perceived social support and the receipt of hugs 说明影响来源，空格后 the participants' susceptibility 是受影响的对象，故用 on。",
+        "trap": "A of 也常与 effect 连用，但 effects of 后接的是影响源，不是受影响对象；若选 of，会变成“社会支持和拥抱对……的影响的易感性”，结构混乱。B in、C at 均不构成该搭配。",
+        "type": "介词/固定搭配"
+      },
+      {
+        "n": 7,
+        "answer": "B",
+        "options": [
+          "devoted",
+          "exposed",
+          "lost",
+          "attracted"
+        ],
+        "cn": [
+          "致力于；献身于",
+          "暴露于；接触",
+          "丢失的",
+          "被吸引的"
+        ],
+        "explain": "be exposed to 是固定搭配，意为“接触到、暴露于”。此处指参与者“接触病毒之后”对感冒的易感性，after being exposed to the virus 作时间状语。",
+        "trap": "A be devoted to 意为“致力于”，D be attracted to 意为“被……吸引”，都不能与 virus 搭配；C be lost to 意为“不为……所知/失去”，同样不合。",
+        "type": "动词/固定搭配"
+      },
+      {
+        "n": 8,
+        "answer": "C",
+        "options": [
+          "across",
+          "along",
+          "down",
+          "out"
+        ],
+        "cn": [
+          "偶然遇到",
+          "一起；进展",
+          "（与 with 连用）患病",
+          "出来；出版"
+        ],
+        "explain": "come down with 是固定短语，意为“患上（某种病）”。come down with a cold 即“得了感冒”，与前半句“社会支持较多的人”形成对照。",
+        "trap": "A come across 意为“偶然遇到”，B come along 意为“一起来；进展”，D come out 意为“出来；出版”，都不能表示“生病”。",
+        "type": "动词短语"
+      },
+      {
+        "n": 9,
+        "answer": "A",
+        "options": [
+          "calculated",
+          "denied",
+          "doubted",
+          "imagined"
+        ],
+        "cn": [
+          "计算；推算",
+          "否认",
+          "怀疑",
+          "想象"
+        ],
+        "explain": "研究人员根据数据“推算”出拥抱的减压效果在有益作用中所占的比例，calculate 意为“计算、推算”，后接 that 从句，符合研究语境。",
+        "trap": "B denied“否认”、C doubted“怀疑”与后文给出具体百分比相矛盾；D imagined“想象”不符合科学研究的事实陈述。",
+        "type": "动词/语境"
+      },
+      {
+        "n": 10,
+        "answer": "D",
+        "options": [
+          "served",
+          "required",
+          "restored",
+          "explained"
+        ],
+        "cn": [
+          "服务；充当",
+          "需要",
+          "恢复",
+          "解释；说明"
+        ],
+        "explain": "explain 在此意为“解释、说明（原因）”，说明拥抱的减压效果“解释了”约32%的有益作用，即这部分作用可归因于减压。这是统计分析中常见的表达。",
+        "trap": "A served 常与 as 连用，B required 后接宾语时意为“需要”，C restored 意为“恢复”，都不能表示“解释某一比例”。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 11,
+        "answer": "A",
+        "options": [
+          "Even",
+          "Still",
+          "Rather",
+          "Thus"
+        ],
+        "cn": [
+          "即使；甚至",
+          "仍然",
+          "宁可；相当",
+          "因此"
+        ],
+        "explain": "前文说社会支持较多的人不容易感冒，本句进一步说“即使在已经感冒的人当中”，症状也更轻。Even 表示让步递进，把讨论从“是否感冒”推进到“感冒后的严重程度”。",
+        "trap": "D Thus 表因果，但前后并非因果；B Still 表转折，C Rather 表选择或程度，均不能体现“退一步说”的递进关系。",
+        "type": "逻辑关系/副词"
+      },
+      {
+        "n": 12,
+        "answer": "B",
+        "options": [
+          "defeats",
+          "symptoms",
+          "tests",
+          "errors"
+        ],
+        "cn": [
+          "失败；击败",
+          "症状",
+          "测试",
+          "错误"
+        ],
+        "explain": "less severe 后需要接表示感冒表现的名词。symptoms 意为“症状”，less severe symptoms 即“较轻的症状”，与前文“感冒”直接呼应。",
+        "trap": "A defeats“失败”、C tests“测试”、D errors“错误”都不能与 severe 搭配来描述感冒；注意不要受汉语“病情”影响而误选。",
+        "type": "名词/语义"
+      },
+      {
+        "n": 13,
+        "answer": "D",
+        "options": [
+          "minimized",
+          "highlighted",
+          "controlled",
+          "increased"
+        ],
+        "cn": [
+          "被最小化的",
+          "被强调的",
+          "被控制的",
+          "增加的"
+        ],
+        "explain": "科恩教授解释拥抱为何能保护处于压力中的人：压力通常与“更高的”感冒风险相关，拥抱则让人免受这种风险。increased 作定语修饰 risk，意为“增加的、更高的”。",
+        "trap": "A minimized“被最小化的”与 protect from 逻辑重复且矛盾；B highlighted“被强调的”、C controlled“被控制的”都不能自然修饰 risk 的变化。",
+        "type": "形容词/语义"
+      },
+      {
+        "n": 14,
+        "answer": "B",
+        "options": [
+          "equipped",
+          "associated",
+          "presented",
+          "compared"
+        ],
+        "cn": [
+          "配备",
+          "与……相关",
+          "呈现",
+          "比较"
+        ],
+        "explain": "be associated with 是固定搭配，意为“与……相关”。that's usually associated with stress 是定语从句，修饰 the increased risk for colds，说明这种更高的感冒风险通常与压力有关。",
+        "trap": "D compared with 也表示“与……相比”，但若选入，从句意为“通常被拿来与压力比较”，不是“与压力相关”；A equipped with“配备有”、C presented with“被呈现”均不合。",
+        "type": "固定搭配/分词"
+      },
+      {
+        "n": 15,
+        "answer": "C",
+        "options": [
+          "assess",
+          "moderate",
+          "generate",
+          "record"
+        ],
+        "cn": [
+          "评估",
+          "缓和；减轻",
+          "产生",
+          "记录"
+        ],
+        "explain": "拥抱是亲密关系的标志，能“产生”一种有人相助的感觉。generate 意为“产生、引起”，与 the feeling 搭配自然，说明拥抱带来的心理效果。",
+        "trap": "B moderate 意为“缓和、减轻”，通常搭配影响、情绪等，不能说“缓和一种感觉”；A assess“评估”、D record“记录”都是外在的认知行为，不符合“拥抱使人产生感觉”的语境。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 16,
+        "answer": "A",
+        "options": [
+          "in the face of",
+          "in the form of",
+          "in the way of",
+          "in the name of"
+        ],
+        "cn": [
+          "面对；尽管有",
+          "以……形式",
+          "妨碍；在……方面",
+          "以……名义"
+        ],
+        "explain": "in the face of 是固定短语，意为“面对、在……面前”。in the face of difficulty 即“在困难面前”，与“有人会伸出援手”构成完整语义。",
+        "trap": "C in the way of 常表示“妨碍”，若选入则意为“妨碍困难”，逻辑不通；B in the form of“以……形式”、D in the name of“以……名义”与 difficulty 搭配都不自然。",
+        "type": "介词短语/语义"
+      },
+      {
+        "n": 17,
+        "answer": "C",
+        "options": [
+          "transfer",
+          "commit",
+          "attribute",
+          "return"
+        ],
+        "cn": [
+          "转移",
+          "承诺；犯（罪）",
+          "把……归因于",
+          "返回"
+        ],
+        "explain": "attribute A to B 是固定搭配，意为“把 A 归因于 B”。本句说一些专家把拥抱的减压和健康益处“归因于”催产素的释放，后文接着介绍催产素，逻辑顺畅。",
+        "trap": "A transfer A to B 意为“把 A 转移到 B”，B commit A to B 意为“把 A 投入/承诺给 B”，D return A to B 意为“把 A 归还给 B”，都不能表示“归因”。",
+        "type": "动词/固定搭配"
+      },
+      {
+        "n": 18,
+        "answer": "A",
+        "options": [
+          "because",
+          "unless",
+          "though",
+          "until"
+        ],
+        "cn": [
+          "因为",
+          "除非",
+          "尽管",
+          "直到"
+        ],
+        "explain": "空格前后是因果关系：催产素常被称为“联结激素”，原因是它能促进人际关系中的依恋。because 引导原因状语从句，解释这一称呼的由来。",
+        "trap": "C though 表让步，若选入则变成“尽管它促进依恋，却被称为联结激素”，逻辑相反；B unless 表条件，D until 表时间，均不合。",
+        "type": "连词/因果"
+      },
+      {
+        "n": 19,
+        "answer": "C",
+        "options": [
+          "emerges",
+          "vanishes",
+          "remains",
+          "decreases"
+        ],
+        "cn": [
+          "出现；浮现",
+          "消失",
+          "留存；仍然是",
+          "减少"
+        ],
+        "explain": "上文说一部分催产素释放到血液中，本句用 But 转折，说另一部分“留在”脑内。remain 意为“留存、仍然是”，与 released into the bloodstream 形成对照。",
+        "trap": "B vanishes“消失”与 But 的转折方向相反；A emerges“浮现”、D decreases“减少”都不能与 in the brain 构成“留在脑内”的意思。",
+        "type": "动词/语境"
+      },
+      {
+        "n": 20,
+        "answer": "D",
+        "options": [
+          "experiences",
+          "combines",
+          "justifies",
+          "influences"
+        ],
+        "cn": [
+          "经历；体验",
+          "结合",
+          "证明……正当",
+          "影响"
+        ],
+        "explain": "空格所在定语从句说明催产素在脑内的作用。influence 意为“影响”，后接 mood, behavior and physiology 三个并列宾语，表示催产素影响情绪、行为和生理机能，符合科普语篇的表达。",
+        "trap": "A experiences 的主语通常是人，不能是催产素；B combines 意为“结合”，与三个并列宾语搭配后语义不清；C justifies 意为“证明……正当”，不能说明脑内物质的作用。",
+        "type": "动词/语义"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 排序",
+    "en_title": "Charles Dickens: From Shoe-Polish Factory to Man of Letters",
+    "cn_title": "查尔斯·狄更斯：从鞋油厂童工到文坛名家",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "狄更斯的童年创伤、早期速写与《匹克威克外传》带来的名声",
+    "type": "ordering",
+    "directions": "The following paragraphs are given in a wrong order. For questions 41–45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A–G and filling them into the numbered boxes. Paragraphs B and D have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "排序题先定首段，再逐段找“接口”：代词指代、连接词、时间顺序和同义复现。本题 D 已放在第 1 段，B 已放在第 6 段；剩余 A、C、E、F、G 五段填入 41–45。注意段落之间的时间链和重复出现的书名、人名，先判断大跨度的时间顺序，再抠段间接口。",
+    "paragraphs": {
+      "A": {
+        "en": "The first published sketch, \"A Dinner at Poplar Walk\", brought tears to Dickens's eyes when he discovered it in the pages of The Monthly Magazine. From then on his sketches, which appeared under the pen name \"Boz\" in The Evening Chronicle, earned him a modest reputation.",
+        "zh": "第一篇发表的速写《白杨道上的晚餐》让狄更斯热泪盈眶——他是在《每月杂志》的页面上发现它被刊登出来的。从那以后，他以笔名“博兹”在《晚间纪事报》上发表的速写为他赢得了些许名声。"
+      },
+      "B": {
+        "en": "The runaway success of The Pickwick Papers, as it is generally known today, secured Dickens's fame. There were Pickwick coats and Pickwick cigars, and the plump, spectacled hero, Samuel Pickwick, became a national figure.",
+        "zh": "《匹克威克外传》（今天人们通常这样称呼它）的一举成功，奠定了狄更斯的名声。当时出现了“匹克威克”式外套和“匹克威克”雪茄，那位戴着眼镜、体态丰满的主人公塞缪尔·匹克威克成了全国闻名的人物。"
+      },
+      "C": {
+        "en": "Soon after Sketches by Boz appeared, a publishing firm approached Dickens to write a story in monthly installments, as a backdrop for a series of woodcuts by the then-famous artist Robert Seymour, who had originated the idea for the story. With characteristic confidence, Dickens successfully insisted that Seymour's pictures illustrate his own story instead. After the first installment, Dickens wrote to the artist and asked him to correct a drawing Dickens felt was not faithful enough to his prose. Seymour made the change, went into his backyard, and expressed his displeasure by committing suicide. Dickens and his publishers simply pressed on with a new artist. The comic novel, The Posthumous Papers of the Pickwick Club, appeared serially in 1836 and 1837 and was first published in book form in 1837.",
+        "zh": "《博兹速写集》问世后不久，一家出版公司找到狄更斯，请他以按月连载的方式写一个故事，作为当时著名画家罗伯特·西摩一系列木刻插图的背景；这个故事的构思最初正出自西摩。狄更斯以他特有的自信，坚持让西摩的画来为自己的故事配图，并成功做到了。第一期刊出后，狄更斯写信给这位画家，请他修改一幅狄更斯认为不够忠实于自己文字的画。西摩改完画，走进自家后院，以自杀表达了自己的不满。狄更斯和出版商只是换了一位新画家，继续推进。这部喜剧小说《匹克威克俱乐部遗稿》于1836年和1837年连载，1837年首次以书的形式出版。"
+      },
+      "D": {
+        "en": "Charles Dickens is probably the best-known and, to many people, the greatest English novelist of the 19th century. A moralist, satirist, and social reformer, Dickens crafted complex plots and striking characters that capture the panorama of English society.",
+        "zh": "查尔斯·狄更斯大概是19世纪最著名的英国小说家，在许多人看来也是最伟大的。作为道德家、讽刺作家和社会改革者，狄更斯精心构造复杂的情节、塑造鲜明的人物，捕捉了英国社会的全景。"
+      },
+      "E": {
+        "en": "Soon after his father's release from prison, Dickens got a better job as errand boy in law offices. He taught himself shorthand to get an even better job later as a court stenographer and as a reporter in Parliament. At the same time, Dickens, who had a reporter's eye for transcribing the life around him, especially anything comic or odd, submitted short sketches to obscure magazines.",
+        "zh": "父亲出狱后不久，狄更斯在律师事务所找到了一份更好的差事——当跑腿的男孩。他自学速记，以便后来谋到更好的工作，先后担任法庭速记员和议会记者。与此同时，狄更斯以记者般的眼光记录身边的生活，尤其是任何滑稽或古怪的事情，并向一些不知名的杂志投寄短篇速写。"
+      },
+      "F": {
+        "en": "Dickens was born in Portsmouth, on England's southern coast. His father was a clerk in the British Navy pay office — a respectable position, but with little social status. His paternal grandparents, a steward and a housekeeper, possessed even less status, having been servants, and Dickens later concealed their background. Dickens's mother supposedly came from a more respectable family. Yet two years before Dickens's birth, his mother's father was caught stealing and fled to Europe, never to return. The family's increasing poverty forced Dickens out of school at age 12 to work in Warren's Blacking Warehouse, a shoe-polish factory, where the other working boys mocked him as \"the young gentleman.\" His father was then imprisoned for debt. The humiliations of his father's imprisonment and his labor in the blacking factory formed Dickens's greatest wound and became his deepest secret. He could not confide them even to his wife, although they provide the unacknowledged foundation of his fiction.",
+        "zh": "狄更斯出生在英格兰南海岸的朴次茅斯。他的父亲是英国海军薪饷办公室的一名职员——职位体面，但社会地位不高。他的祖父母——一位管家和一位女佣——身份更低，因为他们做过仆人，狄更斯后来隐瞒了他们的出身。据说狄更斯的母亲来自一个更体面的家庭。然而在狄更斯出生前两年，他母亲的父亲因偷窃被抓，逃往欧洲，从此再未回来。家境日益贫困，迫使狄更斯在12岁时辍学，到沃伦鞋油厂做工；厂里其他干活的男孩嘲笑他是“小绅士”。随后，他的父亲因欠债入狱。父亲入狱的屈辱和他在鞋油厂的劳作，构成了狄更斯最大的创伤，也成为他最深藏的秘密。他甚至无法向妻子吐露这些事，尽管它们是他小说创作中未被承认的根基。"
+      },
+      "G": {
+        "en": "After Pickwick, Dickens plunged into a bleaker world. In Oliver Twist, he traces an orphan's progress from the workhouse to the criminal slums of London. Nicholas Nickleby, his next novel, combines the darkness of Oliver Twist with the sunlight of Pickwick. The popularity of these novels consolidated Dickens's reputation as a nationally and internationally celebrated man of letters.",
+        "zh": "《匹克威克》之后，狄更斯转入了一个更阴郁的世界。在《雾都孤儿》中，他追踪一个孤儿从济贫院走向伦敦犯罪贫民窟的历程。他的下一部小说《尼古拉斯·尼克尔贝》把《雾都孤儿》的阴暗与《匹克威克》的明朗结合起来。这些小说的流行，巩固了狄更斯作为全国乃至国际知名文人的声誉。"
+      }
+    },
+    "fixed_note": "原卷已给定两段：D 位于第 1 段，B 位于第 6 段（即 44 之后、45 之前）。41–44 从剩余段落中选择，45 为末段；最终顺序为 D–F–E–A–C–B–G。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "F",
+        "explain": "首段 D 先总说狄更斯是19世纪最著名、最伟大的英国小说家，并以“复杂情节、鲜明人物、英国社会全景”概括其成就。F 从“狄更斯出生于朴次茅斯”写起，按时间顺序交代家世、童年辍学、父亲入狱等经历，是由总到分、由生平起点展开的天然第二段。",
+        "clue": "D 的总结性评价 → F 的 Dickens was born in Portsmouth；由“总说成就”转入“从头叙生平”。"
+      },
+      {
+        "n": 42,
+        "answer": "E",
+        "explain": "F 末句写父亲因欠债入狱，以及这段屈辱成为狄更斯最深的秘密；E 开头 Soon after his father's release from prison 正好承接“父亲入狱”之后的时间线，继续写父亲出狱后狄更斯在律师事务所当差、自学速记、当记者并投稿速写的经历。",
+        "clue": "His father was then imprisoned for debt → Soon after his father's release from prison；童年 → 青年谋生。"
+      },
+      {
+        "n": 43,
+        "answer": "A",
+        "explain": "E 末句说狄更斯向一些不知名的杂志投寄 short sketches；A 开头 The first published sketch 直接承接“投稿速写”，写他的第一篇速写《白杨道上的晚餐》被《每月杂志》刊出，以及此后以“博兹”为笔名发表速写、小有名气。",
+        "clue": "submitted short sketches to obscure magazines → The first published sketch；sketches → 笔名 Boz。"
+      },
+      {
+        "n": 44,
+        "answer": "C",
+        "explain": "A 末句落在以“博兹”为笔名发表的速写为他赢得些许名声；C 开头 Soon after Sketches by Boz appeared 以《博兹速写集》直接承接，随后叙述出版商邀他写连载故事、与画家西摩的冲突，以及《匹克威克俱乐部遗稿》的连载和成书。",
+        "clue": "his sketches... under the pen name \"Boz\" → Sketches by Boz appeared；modest reputation → 出版公司找上门。"
+      },
+      {
+        "n": 45,
+        "answer": "G",
+        "explain": "B 已固定在第六段，写《匹克威克外传》大获成功、狄更斯声名鹊起；G 开头 After Pickwick, Dickens plunged into a bleaker world 以 After Pickwick 紧承 B，转向《雾都孤儿》《尼古拉斯·尼克尔贝》等更阴郁的作品，并以这些小说巩固其文坛地位作结，是全文合适的末段。",
+        "clue": "The runaway success of The Pickwick Papers → After Pickwick；secured Dickens's fame → consolidated... man of letters。"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "The Future of English as a Global Language",
+    "cn_title": "英语全球主导地位面临的挑战",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "英语作为全球通用语的地位变化及对英国英语教学产业的影响",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on the ANSWER SHEET. (10 points)",
+    "intro": "翻译先拆结构，再定主干，最后按中文语序重排。注意 even as 引导的让步/时间状语、signs 后的同位语从句、so...that... 结果句、which 定语从句以及 of what... 名词性从句；predominance、self-contentedness 等抽象名词要译成自然的中文表达。",
+    "paragraphs": [
+      {
+        "en": "The growth of the use of English as the world's primary language for international communication has obviously been continuing for several decades. [[46]]But even as the number of English speakers expands further there are signs that the global predominance of the language may fade within the foreseeable future.[[/46]]",
+        "zh": "英语作为国际交流首要语言的使用日益扩大，这一趋势显然已经持续了数十年。但即便说英语的人数进一步增加，种种迹象表明，英语的全球主导地位在可预见的未来可能会逐渐消退。"
+      },
+      {
+        "en": "Complex international, economic, technological and cultural changes could start to diminish the leading position of English as the language of the world market, and UK interests which enjoy advantage from the breadth of English usage would consequently face new pressures. Those realistic possibilities are highlighted in the study presented by David Graddol. [[47]]His analysis should therefore end any self-contentedness among those who may believe that the global position of English is so stable that the young generations of the United Kingdom do not need additional language capabilities.[[/47]]",
+        "zh": "复杂的国际、经济、技术和文化变化可能开始削弱英语作为世界市场语言的主导地位，而英国那些因英语使用广泛而享有优势的利益群体，也将随之面临新的压力。戴维·格拉多尔在其研究中强调了这些现实可能性。因此，他的分析应当让那些人不再自满——他们可能认为，英语的全球地位如此稳固，以至于英国的年轻一代无需具备额外的语言能力。"
+      },
+      {
+        "en": "David Graddol concludes that monoglot English graduates face a bleak economic future as qualified multilingual youngsters from other countries are proving to have a competitive advantage over their British counterparts in global companies and organisations. Alongside that, [[48]]many countries are introducing English into the primary-school curriculum but British schoolchildren and students do not appear to be gaining greater encouragement to achieve fluency in other languages.[[/48]]",
+        "zh": "戴维·格拉多尔得出结论：只会说一种语言的英国毕业生面临黯淡的经济前景，因为来自其他国家的合格多语青年在全球公司和组织中正被证明比他们的英国同龄人更具竞争优势。与此同时，许多国家正把英语引入小学课程，但英国的中小学生和大学生似乎并未得到更多鼓励去流利掌握其他语言。"
+      },
+      {
+        "en": "If left to themselves, such trends will diminish the relative strength of the English language in international education markets as the demand for educational resources in languages, such as Spanish, Arabic or Mandarin grows and international business process outsourcing in other languages such as Japanese, French and German, spreads.",
+        "zh": "如果任其发展，这些趋势将削弱英语在国际教育市场中的相对优势，因为对西班牙语、阿拉伯语或普通话等语言的教育资源需求在增长，而以日语、法语和德语等其他语言进行的国际业务流程外包也在扩展。"
+      },
+      {
+        "en": "[[49]]The changes identified by David Graddol all present clear and major challenges to the UK's providers of English language teaching to people of other countries and to broader education business sectors.[[/49]] The English language teaching sector directly earns nearly £1.3 billion for the UK in invisible exports and our other education related exports earn up to £10 billion a year more. As the international education market expands, the recent slowdown in the numbers of international students studying in the main English-speaking countries is likely to continue, especially if there are no effective strategic policies to prevent such slippage.",
+        "zh": "戴维·格拉多尔所指出的这些变化，对英国向其他国家民众提供英语教学的机构，以及对更广泛的教育产业部门，都构成了明显而重大的挑战。英语教学行业以无形出口的形式为英国直接赚取近13亿英镑，而我们其他与教育相关的出口每年还多赚取高达100亿英镑。随着国际教育市场扩大，在主要英语国家留学的国际学生人数近期的下降趋势可能会持续，尤其是在没有有效战略政策来防止这种下滑的情况下。"
+      },
+      {
+        "en": "The anticipation of possible shifts in demand provided by this study is significant: [[50]]It gives a basis to all organisations which seek to promote the learning and use of English, a basis for planning to meet the possibilities of what could be a very different operating environment.[[/50]] That is a necessary and practical approach. In this as in much else, those who wish to influence the future must prepare for it.",
+        "zh": "这项研究对需求可能发生变化的预判意义重大：它为所有致力于推广英语学习和使用的机构提供了一个依据，使它们能够据此规划，以应对可能截然不同的运营环境。这是一种必要而切实可行的做法。在这方面，一如在许多其他方面，希望影响未来的人必须为未来做好准备。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "But even as the number of English speakers expands further there are signs that the global predominance of the language may fade within the foreseeable future.",
+        "core": "But even as the number of English speakers expands further, there are signs that the global predominance of the language may fade.",
+        "structure": "But 表转折；even as 引导让步/时间状语从句，意为“即使/正当……之时”；主句 there are signs that... 中，that 引导同位语从句，说明 signs 的具体内容；within the foreseeable future 作时间状语，修饰 may fade。",
+        "key": "predominance 主导地位；fade 消退、减弱；foreseeable 可预见的；expand further 进一步扩大。",
+        "translation": "但是，即便说英语的人数进一步增加，种种迹象表明，英语的全球主导地位在可预见的未来可能会逐渐消退。",
+        "pitfall": "even as 不能译成“甚至因为”，它表示“即使/正当……之时”；that 从句是 signs 的同位语，不是定语，“迹象的全球主导地位”是误译；predominance 指“主导地位”，不要译成“人口优势”。"
+      },
+      "47": {
+        "en": "His analysis should therefore end any self-contentedness among those who may believe that the global position of English is so stable that the young generations of the United Kingdom do not need additional language capabilities.",
+        "core": "His analysis should end any self-contentedness among those who may believe that the global position of English is so stable that the young generations do not need additional language capabilities.",
+        "structure": "主句 His analysis should therefore end any self-contentedness；among those 是介词短语，限定 self-contentedness 的范围；who may believe that... 是定语从句修饰 those；that 引导宾语从句，其中 so... that... 引导结果状语从句。",
+        "key": "self-contentedness 自满；global position 全球地位；stable 稳固的；additional language capabilities 额外的语言能力。",
+        "translation": "因此，他的分析应当让那些人不再自满——他们可能认为，英语的全球地位如此稳固，以至于英国的年轻一代无需具备额外的语言能力。",
+        "pitfall": "end 在此是动词“终结、消除”，不是名词“结束”；among those who... 要译成“让那些……的人不再自满”，不能直译成“结束存在于那些人中的自满”；so... that... 表结果，不宜机械译成“如此……以至于”而破坏通顺。"
+      },
+      "48": {
+        "en": "many countries are introducing English into the primary-school curriculum but British schoolchildren and students do not appear to be gaining greater encouragement to achieve fluency in other languages.",
+        "core": "Many countries are introducing English into the primary-school curriculum, but British schoolchildren and students do not appear to be gaining greater encouragement to achieve fluency in other languages.",
+        "structure": "but 连接两个并列分句。前一分句主语 many countries，谓语 are introducing，宾语 English，into the primary-school curriculum 作范围状语；后一分句主语 British schoolchildren and students，谓语 do not appear to be gaining，宾语 greater encouragement，to achieve fluency in other languages 作后置定语/目的状语。",
+        "key": "curriculum 课程；appear to be gaining 似乎正在获得；achieve fluency 达到流利；primary-school 小学的。",
+        "translation": "许多国家正把英语引入小学课程，但英国的中小学生和大学生似乎并未得到更多鼓励去流利掌握其他语言。",
+        "pitfall": "primary-school curriculum 是“小学课程”，不要笼统译成“初等教育”；do not appear to be gaining 是“似乎并未获得”，不是“看起来不会获得”；schoolchildren and students 分别指中小学生和大学生，不宜合并成“学生”。"
+      },
+      "49": {
+        "en": "The changes identified by David Graddol all present clear and major challenges to the UK's providers of English language teaching to people of other countries and to broader education business sectors.",
+        "core": "The changes identified by David Graddol all present clear and major challenges to the UK's providers of English language teaching and to broader education business sectors.",
+        "structure": "主语 The changes，过去分词短语 identified by David Graddol 作后置定语；谓语 present（动词，意为“构成、带来”），宾语 clear and major challenges；to the UK's providers... 和 to broader education business sectors 是两个并列的介词短语，说明挑战的对象。",
+        "key": "identified by 由……指出/识别；present 带来、构成；providers 提供者、机构；education business sectors 教育产业部门。",
+        "translation": "戴维·格拉多尔所指出的这些变化，对英国向其他国家民众提供英语教学的机构，以及对更广泛的教育产业部门，都构成了明显而重大的挑战。",
+        "pitfall": "present 在这里是动词“构成、带来”，不是“呈现、展示”；两个 to 短语并列，第二个 to 前省略了 challenges，翻译时两个对象都要译出；providers of English language teaching to people of other countries 需按中文语序调整为“向其他国家民众提供英语教学的机构”。"
+      },
+      "50": {
+        "en": "It gives a basis to all organisations which seek to promote the learning and use of English, a basis for planning to meet the possibilities of what could be a very different operating environment.",
+        "core": "It gives a basis to all organisations which seek to promote the learning and use of English, a basis for planning to meet the possibilities of a very different operating environment.",
+        "structure": "主句 It gives a basis to all organisations；which seek to promote... 是定语从句修饰 organisations；逗号后的 a basis for planning... 是 a basis 的同位语，进一步说明依据的用途；to meet the possibilities 作目的状语，of what could be... 是介词 of 后接名词性从句。",
+        "key": "promote 推广、促进；a basis for planning 规划的依据；meet the possibilities 应对各种可能；operating environment 运营环境。",
+        "translation": "这为所有致力于推广英语学习和使用的机构提供了一个依据，使它们能够据此规划，以应对可能截然不同的运营环境。",
+        "pitfall": "两个 a basis 是同位复指，第二个不能漏译，可译为“一个据以……的依据”；what could be... 是名词性从句，不能译成疑问句“可能是什么”；meet the possibilities 意译为“应对各种可能”，不是“满足可能性”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "An email & a picture essay",
+    "cn_title": "推荐邮件 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "向新到任的澳大利亚教授推荐本地景点；藏书与读书的图画作文",
+    "intro": "小作文考“电子邮件格式 + 向新来的澳大利亚教授推荐本地景点并说明理由”；大作文考“描述两幅对比图 + 揭示藏书不等于读书、行动胜于占有 + 发表评论”。",
+    "partA": {
+      "title": "Part A · 电子邮件",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "You are to write an email to James Cook, a newly-arrived Australian professor, recommending some tourist attractions in your city. Please give reasons for your recommendation. You should write neatly on the ANSWER SHEET. Do not sign your own name at the end of the email. Use \"Li Ming\" instead. Do not write the address. (10 points)",
+      "prompt_zh": "给新到任的澳大利亚教授詹姆斯·库克写一封电子邮件，推荐你所在城市的一些旅游景点，并说明推荐理由。约100词；不要在邮件末尾签自己的名字，用“Li Ming”；不要写地址。",
+      "sample": "Dear Professor Cook,\n\nWelcome to Beijing! I am Li Ming, a postgraduate at this university. As you have just arrived from Australia, I would like to recommend a few places worth visiting.\n\nThe Palace Museum is a must-see: its halls and courtyards bring China's imperial past to life. If you prefer a quieter afternoon, the hutong alleys around Nanluoguxiang are ideal for walking and tasting local snacks. For a day trip, the Great Wall at Mutianyu is less crowded than Badaling and offers a magnificent view.\n\nI would be glad to show you around this weekend. Do let me know if you are interested.\n\nYours sincerely,\nLi Ming",
+      "sample_zh": "尊敬的库克教授：\n\n欢迎来到北京！我是李明，本校的一名研究生。您刚刚从澳大利亚来到这里，我想推荐几个值得一游的地方。\n\n故宫不可错过：它的殿堂与庭院让中国帝制时代的历史鲜活起来。如果您喜欢更安静的午后，南锣鼓巷一带的胡同很适合散步、品尝当地小吃。若想安排一日游，慕田峪长城比八达岭人少，还能看到壮丽的景色。\n\n我很乐意这周末带您四处看看。如果您有兴趣，请一定告诉我。\n\n此致\n敬礼\n李明",
+      "structure": [
+        [
+          "称呼",
+          "Dear Professor Cook,"
+        ],
+        [
+          "问候与自我介绍",
+          "Welcome to Beijing! I am Li Ming, a postgraduate at this university."
+        ],
+        [
+          "写信目的",
+          "As you have just arrived from Australia, I would like to recommend a few places worth visiting."
+        ],
+        [
+          "推荐一及理由",
+          "The Palace Museum is a must-see: its halls and courtyards bring China's imperial past to life."
+        ],
+        [
+          "推荐二及理由",
+          "If you prefer a quieter afternoon, the hutong alleys around Nanluoguxiang are ideal for walking and tasting local snacks."
+        ],
+        [
+          "推荐三及理由",
+          "For a day trip, the Great Wall at Mutianyu is less crowded than Badaling and offers a magnificent view."
+        ],
+        [
+          "提供帮助与期待回应",
+          "I would be glad to show you around this weekend. Do let me know if you are interested."
+        ],
+        [
+          "落款",
+          "Yours sincerely, Li Ming"
+        ]
+      ],
+      "expressions": [
+        "Welcome to Beijing!",
+        "I am writing to recommend...",
+        "As you have just arrived from Australia, ...",
+        "... is a must-see.",
+        "If you prefer a quieter afternoon, ... is ideal for...",
+        "For a day trip, ...",
+        "I would be glad to show you around...",
+        "Do let me know if you are interested."
+      ],
+      "traps": [
+        "题目要求写 email，需有称呼、正文和结尾敬语；署名必须用 Li Ming，不能写真实姓名，也不要写地址。",
+        "对象是刚来的澳大利亚教授，语气应礼貌得体，不宜像写给朋友那样随意；开头可表示欢迎，并点明“刚到此地”的背景。",
+        "推荐必须落到具体景点并给出理由（历史、氛围、适合散步或一日游等），只罗列地名或只写“北京很好”会失分。",
+        "约100词，建议推荐2–3处即可，不要写成旅游攻略；时态以一般现在时为主。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160-200 words based on the following pictures. In your essay, you should 1) describe the pictures briefly, 2) interpret the meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "src": "../assets/writing/2017.png",
+        "caption": "满架藏书与案头读书",
+        "note": "图画分为左右两幅。左图：一个年轻人半躺在一把椅子上，身后是塞得满满的书架，他摊开手，得意地说：“我有这么多书。”右图：另一个年轻人端坐在书桌前，桌上只摊着几本书，他侧身坐着，说：“我争取今年读完20本书。”两幅图构成“只藏书”与“真读书”的对照。"
+      },
+      "sample": "The two pictures form a sharp contrast. In the left one, a young man sits in front of a bookcase packed with volumes and says proudly, \"I have so many books.\" In the right one, another young man sits at a desk with only a few books before him, saying, \"I will try to finish reading twenty books this year.\"\n\nThe message is obvious: owning books is not the same as reading them. The first man takes pride in possession, as if shelves could prove knowledge. The second turns a resolution into a concrete plan and, more importantly, into daily action. Books are not ornaments; their value lies in the ideas we absorb and the questions they raise. A library built for display is merely furniture, while a single book read with care can change a mind.\n\nIn my view, we should be the second man. Rather than buying more books to feel learned, we should set realistic goals, read every day and reflect on what we read. Knowledge grows not by counting the books we own, but by turning the pages we open.",
+      "sample_zh": "两幅图形成鲜明对比。左图中，一个年轻人坐在塞满书籍的书架前，得意地说：“我有这么多书。”右图中，另一个年轻人坐在书桌前，面前只有几本书，他说：“我争取今年读完20本书。”\n\n寓意显而易见：拥有书并不等于读书。前者以占有为荣，仿佛书架就能证明学识；后者把决心变成具体计划，更重要的是变成每天的行动。书不是装饰品，其价值在于我们吸收的思想、提出的问题。只为陈列而建的书房不过是家具，而一本认真读过的书却可能改变一个人的思想。\n\n在我看来，我们应当做右图中的那个人。与其买更多书来让自己显得有学问，不如定下切实的目标，每天阅读，并思考所读的内容。知识的增长不在于清点拥有的书，而在于翻开并读下去。",
+      "structure": [
+        [
+          "第一段·描述图画",
+          "The two pictures form a sharp contrast... left: a young man before a bookcase packed with volumes, \"I have so many books.\" ... right: another young man at a desk with only a few books, \"I will try to finish reading twenty books this year.\""
+        ],
+        [
+          "第二段·揭示寓意",
+          "Owning books is not the same as reading them... possession vs. action... Books are not ornaments; their value lies in the ideas we absorb..."
+        ],
+        [
+          "第三段·发表评论",
+          "We should be the second man... set realistic goals, read every day and reflect... Knowledge grows not by counting the books we own, but by turning the pages we open."
+        ]
+      ],
+      "expressions": [
+        "The two pictures form a sharp contrast.",
+        "In the left one, ... In the right one, ...",
+        "... says proudly / saying ...",
+        "The message is obvious: ...",
+        "The first man takes pride in possession, as if...",
+        "Books are not ornaments; their value lies in...",
+        "A library built for display is merely furniture, while...",
+        "Rather than..., we should...",
+        "Knowledge grows not by..., but by..."
+      ],
+      "traps": [
+        "描述要覆盖左右两幅图，并准确引出两句关键引语，不能只写“一个人在看书”或只描述一幅图。",
+        "寓意要落在“藏书不等于读书、行动比占有更重要”，不要偏题成“读书改变命运”“要多买书”或“图书馆建设”。",
+        "第二段要分析两种态度的差别，第三段要给出自己的评论和具体做法，避免两段都重复“要读书”。",
+        "160–200词，三段为宜；描述图画用一般现在时，引语用现在时；不要逐字翻译图中的汉语。",
+        "注意左图人物是“坐拥书山却未必读”，右图人物是“书少但有明确阅读计划”，对比要写准，不能褒贬颠倒。"
+      ]
+    }
+  }
+}

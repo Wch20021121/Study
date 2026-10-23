@@ -1,0 +1,748 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "霍桑效应：照明、实验与生产率",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "文章先介绍霍桑工厂的照明实验，再说明“霍桑效应”这一经典结论，最后指出后来对同一数据的再分析推翻了简单解释。做完形时先抓“实验—结论—再分析”的主线。",
+    "passage": [
+      {
+        "en": "In 1924 America's National Research Council sent two engineers to supervise a series of experiments at a telephone-parts factory called the Hawthorne Plant near Chicago. It hoped they would learn how shop-floor lighting {{1}} workers' productivity. Instead, the studies ended {{2}} giving their name to the \"Hawthorne effect,\" the extremely influential idea that the very {{3}} of being experimented upon changed subjects' behavior.",
+        "zh": "1924年，美国国家研究委员会派两名工程师去监督芝加哥附近一家大型电话零件厂的系列工业实验。委员会希望他们能弄清车间照明如何影响工人的生产率。结果，这些研究最终却以一个以该厂命名的结论——“霍桑效应”而告终；这个极具影响力的观点认为，仅仅是被实验这一行为本身就改变了受试者的行为。"
+      },
+      {
+        "en": "The idea arose because of the {{4}} behavior of the women in the plant. According to {{5}} of the experiments, their hourly output rose when lighting was increased, but also when it was dimmed. It did not {{6}} what was done in the experiment; {{7}} something was changed, productivity rose. A(n) {{8}} that they were being experimented upon seemed to be {{9}} to alter workers' behavior {{10}} itself.",
+        "zh": "这一观点源于霍桑工厂女工令人困惑的行为。根据实验记录，无论照明增强还是减弱，她们的每小时产量都会上升。实验中做什么并不重要；只要有什么东西发生变化，产量就会上升。一种意识到自己正在被实验的感觉，似乎本身就足以改变工人的行为。"
+      },
+      {
+        "en": "After several decades, the same data were {{11}} to econometric analysis. The Hawthorne experiments had another surprise in store. {{12}} the descriptions on record, no systematic {{13}} was found that levels of productivity were related to changes in lighting.",
+        "zh": "几十年后，同样的数据被用于计量经济学分析。霍桑实验还藏着另一个惊喜。与记录中的描述相反，没有发现任何系统性证据表明生产率水平与照明变化有关。"
+      },
+      {
+        "en": "It turns out that the peculiar way of conducting the experiments may have led to {{14}} interpretations of what happened. {{15}} lighting was always changed on a Sunday. When work started again on Monday, output {{16}} rose compared with the previous Saturday and {{17}} to rise for the next couple of days. {{18}} a comparison with data for weeks when there was no experimentation showed that output always went up on Mondays. Workers {{19}} to be diligent for the first few days of the week in any case, before {{20}} a plateau and then slackening off. This suggests that the alleged \"Hawthorne effect\" is hard to pin down.",
+        "zh": "事实证明，进行实验的奇特方式可能导致了对此事的误导性解释。例如，照明总是在周日改变。周一重新开始工作时，产量确实比前一个周六上升，并在接下来几天继续上升。然而，与没有进行实验的周数据比较后发现，周一的产量总是上升。无论如何，工人在一周的头几天往往很勤勉，随后达到平台期，然后松懈下来。这表明所谓的“霍桑效应”很难被确证。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "A",
+        "options": [
+          "affected",
+          "achieved",
+          "extracted",
+          "restored"
+        ],
+        "cn": [
+          "影响",
+          "取得",
+          "提取",
+          "恢复"
+        ],
+        "explain": [
+          "A",
+          "lighting affected workers' productivity 表示“车间照明影响工人的生产率”。achieve“达到”、extract“提取”、restore“恢复”都不合语义。",
+          "B/C/D 与“照明”和“生产率”的关系不搭配。"
+        ],
+        "trap": "B/C/D 与“照明”和“生产率”的关系不搭配。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 2,
+        "answer": "B",
+        "options": [
+          "at",
+          "up",
+          "with",
+          "off"
+        ],
+        "cn": [
+          "在",
+          "（结束）up",
+          "和……一起",
+          "离开"
+        ],
+        "explain": [
+          "B",
+          "end up doing sth 表示“最终成为/最终落到……”，end up giving their name to... 即“最终以……命名”。",
+          "end with 表示“以……结束”，但后面是 giving，不是名词；end off 不成立。"
+        ],
+        "trap": "end with 表示“以……结束”，但后面是 giving，不是名词；end off 不成立。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 3,
+        "answer": "C",
+        "options": [
+          "truth",
+          "sight",
+          "act",
+          "proof"
+        ],
+        "cn": [
+          "事实",
+          "景象",
+          "行为",
+          "证据"
+        ],
+        "explain": [
+          "C",
+          "the very act of being experimented upon 表示“仅仅是被实验这一行为本身”。act 与前文 experiments 呼应。",
+          "truth/sight/proof 都不能表示“行为”。"
+        ],
+        "trap": "truth/sight/proof 都不能表示“行为”。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 4,
+        "answer": "B",
+        "options": [
+          "controversial",
+          "perplexing",
+          "mischievous",
+          "ambiguous"
+        ],
+        "cn": [
+          "有争议的",
+          "令人困惑的",
+          "恶作剧的",
+          "模棱两可的"
+        ],
+        "explain": [
+          "B",
+          "女工的行为之所以“令人困惑”，是因为照明增强和减弱时产量都上升。perplexing 意为“令人费解的”。",
+          "controversial“有争议的”、mischievous“恶作剧的”、ambiguous“模棱两可的”都不如 perplexing 贴合实验现象。"
+        ],
+        "trap": "controversial“有争议的”、mischievous“恶作剧的”、ambiguous“模棱两可的”都不如 perplexing 贴合实验现象。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 5,
+        "answer": "C",
+        "options": [
+          "requirements",
+          "explanations",
+          "accounts",
+          "assessments"
+        ],
+        "cn": [
+          "要求",
+          "解释",
+          "记录/描述",
+          "评估"
+        ],
+        "explain": [
+          "C",
+          "according to accounts of the experiments 表示“根据实验记录/描述”。accounts 与后文描述实验过程呼应。",
+          "requirements“要求”、explanations“解释”、assessments“评估”都不符合“根据……记录”的搭配。"
+        ],
+        "trap": "requirements“要求”、explanations“解释”、assessments“评估”都不符合“根据……记录”的搭配。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 6,
+        "answer": "B",
+        "options": [
+          "conclude",
+          "matter",
+          "indicate",
+          "work"
+        ],
+        "cn": [
+          "得出结论",
+          "要紧",
+          "表明",
+          "工作"
+        ],
+        "explain": [
+          "B",
+          "It did not matter what was done 表示“实验中做什么并不重要”。matter 作动词，意为“要紧”。",
+          "conclude/indicate/work 都不能与 it did not 构成“无关紧要”的意思。"
+        ],
+        "trap": "conclude/indicate/work 都不能与 it did not 构成“无关紧要”的意思。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 7,
+        "answer": "D",
+        "options": [
+          "as far as",
+          "for fear that",
+          "in case that",
+          "so long as"
+        ],
+        "cn": [
+          "就……而言",
+          "唯恐",
+          "以防",
+          "只要"
+        ],
+        "explain": [
+          "D",
+          "so long as 表示“只要”，引导条件：只要有什么东西发生变化，产量就上升。",
+          "as far as“就……而言”、for fear that“唯恐”、in case that“以防”都不合逻辑。"
+        ],
+        "trap": "as far as“就……而言”、for fear that“唯恐”、in case that“以防”都不合逻辑。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 8,
+        "answer": "A",
+        "options": [
+          "awareness",
+          "expectation",
+          "sentiment",
+          "illusion"
+        ],
+        "cn": [
+          "意识",
+          "期待",
+          "情绪",
+          "幻觉"
+        ],
+        "explain": [
+          "A",
+          "a(n) awareness that... 表示“一种意识到自己正在被实验的感觉/意识”。",
+          "expectation“期待”、sentiment“情绪”、illusion“幻觉”都不如 awareness 准确。"
+        ],
+        "trap": "expectation“期待”、sentiment“情绪”、illusion“幻觉”都不如 awareness 准确。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 9,
+        "answer": "C",
+        "options": [
+          "suitable",
+          "excessive",
+          "enough",
+          "abundant"
+        ],
+        "cn": [
+          "合适的",
+          "过度的",
+          "足够的",
+          "丰富的"
+        ],
+        "explain": [
+          "C",
+          "be enough to alter... 表示“足以改变……”。",
+          "suitable“合适的”、excessive“过度的”、abundant“丰富的”都不能与 to alter 构成“足以”的结构。"
+        ],
+        "trap": "suitable“合适的”、excessive“过度的”、abundant“丰富的”都不能与 to alter 构成“足以”的结构。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 10,
+        "answer": "D",
+        "options": [
+          "about",
+          "for",
+          "on",
+          "by"
+        ],
+        "cn": [
+          "关于",
+          "为了",
+          "在……上",
+          "靠/独自"
+        ],
+        "explain": [
+          "D",
+          "by itself 表示“独自地、本身”，即“仅仅这种意识本身就足以改变行为”。",
+          "about/for/on oneself 都没有“本身”的含义。"
+        ],
+        "trap": "about/for/on oneself 都没有“本身”的含义。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 11,
+        "answer": "C",
+        "options": [
+          "compared",
+          "shown",
+          "subjected",
+          "conveyed"
+        ],
+        "cn": [
+          "比较",
+          "展示",
+          "使接受",
+          "传达"
+        ],
+        "explain": [
+          "C",
+          "be subjected to econometric analysis 表示“接受计量经济学分析”。subject A to B 是“使 A 接受 B”。",
+          "compared/shown/conveyed 与 analysis 搭配不当。"
+        ],
+        "trap": "compared/shown/conveyed 与 analysis 搭配不当。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 12,
+        "answer": "A",
+        "options": [
+          "Contrary to",
+          "Consistent with",
+          "Parallel with",
+          "Peculiar to"
+        ],
+        "cn": [
+          "与……相反",
+          "与……一致",
+          "与……平行",
+          "为……特有"
+        ],
+        "explain": [
+          "A",
+          "Contrary to the descriptions on record 表示“与记录中的描述相反”。后文说没有发现系统性证据，正与记录相反。",
+          "Consistent with“与……一致”、Parallel with“与……平行”、Peculiar to“为……特有”都不合逻辑。"
+        ],
+        "trap": "Consistent with“与……一致”、Parallel with“与……平行”、Peculiar to“为……特有”都不合逻辑。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 13,
+        "answer": "A",
+        "options": [
+          "evidence",
+          "guidance",
+          "implication",
+          "source"
+        ],
+        "cn": [
+          "证据",
+          "指导",
+          "含义",
+          "来源"
+        ],
+        "explain": [
+          "A",
+          "no systematic evidence was found 表示“没有发现系统性证据”。evidence 与 found 搭配。",
+          "guidance“指导”、implication“含义”、source“来源”都不能被 found 来表示“证据”。"
+        ],
+        "trap": "guidance“指导”、implication“含义”、source“来源”都不能被 found 来表示“证据”。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 14,
+        "answer": "D",
+        "options": [
+          "disputable",
+          "enlightening",
+          "reliable",
+          "misleading"
+        ],
+        "cn": [
+          "有争议的",
+          "有启发的",
+          "可靠的",
+          "误导性的"
+        ],
+        "explain": [
+          "D",
+          "misleading interpretations 表示“误导性的解释”。实验方式导致了对所发生事情的误解。",
+          "disputable“有争议的”、enlightening“有启发的”、reliable“可靠的”都不合因果关系。"
+        ],
+        "trap": "disputable“有争议的”、enlightening“有启发的”、reliable“可靠的”都不合因果关系。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 15,
+        "answer": "B",
+        "options": [
+          "In contrast",
+          "For example",
+          "In consequence",
+          "As usual"
+        ],
+        "cn": [
+          "相反",
+          "例如",
+          "因此",
+          "像往常一样"
+        ],
+        "explain": [
+          "B",
+          "For example 引出具体例子：照明总是在周日改变。",
+          "In contrast“相反”、In consequence“因此”、As usual“像往常一样”都不如 For example 自然。"
+        ],
+        "trap": "In contrast“相反”、In consequence“因此”、As usual“像往常一样”都不如 For example 自然。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 16,
+        "answer": "A",
+        "options": [
+          "duly",
+          "accidentally",
+          "unpredictably",
+          "suddenly"
+        ],
+        "cn": [
+          "按时地",
+          "偶然地",
+          "不可预测地",
+          "突然地"
+        ],
+        "explain": [
+          "A",
+          "duly 表示“按时地、如期地”，output duly rose 即“产量如期上升”。",
+          "accidentally“偶然”、unpredictably“不可预测地”、suddenly“突然”都不符合周一例行上升的语境。"
+        ],
+        "trap": "accidentally“偶然”、unpredictably“不可预测地”、suddenly“突然”都不符合周一例行上升的语境。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 17,
+        "answer": "D",
+        "options": [
+          "failed",
+          "ceased",
+          "started",
+          "continued"
+        ],
+        "cn": [
+          "失败",
+          "停止",
+          "开始",
+          "继续"
+        ],
+        "explain": [
+          "D",
+          "continued to rise 表示“继续上升”，与前几天产量持续上升呼应。",
+          "failed/ceased“停止”、started“开始”都与后文“接下来几天”矛盾。"
+        ],
+        "trap": "failed/ceased“停止”、started“开始”都与后文“接下来几天”矛盾。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 18,
+        "answer": "C",
+        "options": [
+          "Therefore",
+          "Furthermore",
+          "However",
+          "Meanwhile"
+        ],
+        "cn": [
+          "因此",
+          "此外",
+          "然而",
+          "与此同时"
+        ],
+        "explain": [
+          "C",
+          "However 表示转折：然而，与没有实验的周数据比较后发现，周一产量总是上升。",
+          "Therefore“因此”、Furthermore“此外”、Meanwhile“与此同时”都不如 However 准确。"
+        ],
+        "trap": "Therefore“因此”、Furthermore“此外”、Meanwhile“与此同时”都不如 However 准确。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 19,
+        "answer": "B",
+        "options": [
+          "attempted",
+          "tended",
+          "chose",
+          "intended"
+        ],
+        "cn": [
+          "尝试",
+          "倾向于",
+          "选择",
+          "打算"
+        ],
+        "explain": [
+          "B",
+          "tended to be diligent 表示“往往很勤勉”。tend to do 是“倾向于做”。",
+          "attempted/chose/intended 都不能表示一种普遍倾向。"
+        ],
+        "trap": "attempted/chose/intended 都不能表示一种普遍倾向。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 20,
+        "answer": "D",
+        "options": [
+          "breaking",
+          "climbing",
+          "surpassing",
+          "hitting"
+        ],
+        "cn": [
+          "打破",
+          "攀升",
+          "超过",
+          "达到"
+        ],
+        "explain": [
+          "D",
+          "before hitting a plateau 表示“在达到平台期之前”。hit a plateau 是“达到平台期”的固定表达。",
+          "breaking/climbing/surpassing a plateau 搭配不自然。"
+        ],
+        "trap": "breaking/climbing/surpassing a plateau 搭配不自然。",
+        "type": "语义/搭配"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 排序",
+    "en_title": "The food and drink wholesale market",
+    "cn_title": "欧洲食品饮料批发市场",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "欧洲食品饮料批发市场的机会与结构",
+    "type": "ordering",
+    "directions": "For Questions 41–45, choose the most suitable paragraphs from the list A–G and fill them into the numbered boxes to form a coherent text. Paragraph E has been correctly placed. There is one paragraph which does not fit in with the text. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "排序题先找“首段”和“段间接口”：代词、连接词、重复词、从概括到具体。E 已给定，先读 E，再找它前后的逻辑。",
+    "paragraphs": {
+      "A": {
+        "en": "The first and more important is the consumer's growing preference for eating out: the consumption of food and drink in places other than homes has risen from about 32 percent of total consumption in 1995 to 35 percent in 2000 and is expected to approach 38 percent by 2005. This development is boosting wholesale demand from the food service segment by 4 to 5 percent a year across Europe, compared with growth in retail demand of 1 to 2 percent. Meanwhile, as the recession is looming large, people are getting anxious. They tend to keep a tighter hold on their purse and consider eating at home a realistic alternative.",
+        "zh": "首先且更重要的是消费者越来越喜欢外出就餐：在家以外场所的食品饮料消费占总额比例从1995年约32%升至2000年的35%，预计到2005年接近38%。这一发展使欧洲食品服务部门的批发需求每年增长4%—5%，而零售需求仅增长1%—2%。与此同时，随着经济衰退逼近，人们变得焦虑，倾向于捂紧钱包，把在家吃饭视为现实替代方案。"
+      },
+      "B": {
+        "en": "Retail sales of food and drink in Europe's largest markets are at a standstill, leaving European grocery retailers hungry for opportunities to grow. Most leading retailers have already tried e-commerce, with limited success, and expansion abroad. But almost all have ignored the big, profitable opportunity in their own backyard: the wholesale food and drink trade, which appears to be just the kind of market retailers need.",
+        "zh": "欧洲最大市场的食品饮料零售额停滞不前，使欧洲杂货零售商渴望增长机会。多数领先零售商已尝试电商，收效有限，也尝试海外扩张。但几乎所有零售商都忽视了自家后院一个巨大而有利可图的机会：食品饮料批发贸易，这似乎正是零售商需要的市场。"
+      },
+      "C": {
+        "en": "Will such variations bring about a change in the overall structure of the food and drink market? Definitely not. The functioning of the market is based on flexible trends dominated by potential buyers. In other words, it is up to the buyer, rather than the seller, to decide what to buy. At any rate, this change will ultimately be acclaimed by an ever-growing number of both domestic and international consumers, regardless of how long the current consumer pattern will take hold.",
+        "zh": "这些变化会改变食品饮料市场的整体结构吗？绝对不会。市场运行基于由潜在买家主导的灵活趋势。换言之，决定买什么的是买家，而不是卖家。无论如何，无论当前消费模式持续多久，这一变化最终都会受到越来越多国内外消费者的欢迎。"
+      },
+      "D": {
+        "en": "All in all, this clearly seems to be a market in which big retailers could profitably apply their gigantic scale, existing infrastructure, and proven skills in the management of product ranges, logistics, and marketing intelligence. Retailers that master the intricacies of wholesaling in Europe may well expect to rake in substantial profits thereby. At least, that is how it looks as a whole. Closer inspection reveals important differences among the biggest national markets, especially in their customer segments and wholesale structures, as well as the competitive dynamics of individual food and drink categories. Big retailers must understand these differences before they can identify the segments of European wholesaling in which their particular abilities might unseat smaller but entrenched competitors. New skills and unfamiliar business models are needed too.",
+        "zh": "总而言之，这显然是一个大零售商可以凭借其巨大规模、现有基础设施以及在产品系列、物流和营销情报管理方面已证明的技能而获利丰厚的市场。掌握欧洲批发业务复杂性的零售商很可能由此获得可观利润。至少从整体看是这样。更仔细的观察会揭示最大国家市场之间的重要差异，尤其是在客户细分、批发结构以及各食品饮料类别的竞争动态方面。大零售商必须理解这些差异，才能确定欧洲批发市场中哪些细分领域可以被其特定能力用来取代规模较小但根基稳固的竞争者。还需要新技能和不熟悉的商业模式。"
+      },
+      "E": {
+        "en": "Despite variations in detail, wholesale markets in the countries that have been closely examined—France, Germany, Italy and Spain—are made out of the same building blocks. Demand comes mainly from two sources: independent mom-and-pop grocery stores which, unlike large retail chains, are too small to buy straight from producers, and food service operators that cater to consumers when they don't eat at home. Such food service operators range from snack machines to large institutional catering ventures, but most of these businesses are known in the trade as \"horeca\": hotels, restaurants, and cafes. Overall, Europe's wholesale market for food and drink is growing at the same sluggish pace as the retail market, but the figures, when added together, mask two opposing trends.",
+        "zh": "尽管细节各异，经过仔细考察的国家——法国、德国、意大利和西班牙——的批发市场都由相同的构件组成。需求主要来自两个来源：独立的夫妻杂货店，它们不同于大型零售连锁，规模太小，无法直接从生产商进货；以及为不在家吃饭的消费者提供服务的食品服务经营者。这些食品服务经营者从自动售货机到大型机构餐饮企业不等，但大多数在业内被称为“horeca”：酒店、餐厅和咖啡馆。总体而言，欧洲食品饮料批发市场与零售市场一样增长缓慢，但把数字加在一起，会掩盖两种相反的趋势。"
+      },
+      "F": {
+        "en": "For example, wholesale food and drink sales came to $268 billion in France, Germany, Italy, Spain, and the United Kingdom in 2000—more than 40 percent of retail sales. Moreover, average overall margins are higher in wholesale than in retail; wholesale demand from the food service sector is growing quickly as more Europeans eat out more often; and changes in the competitive dynamics of this fragmented industry are at last making it feasible for wholesalers to consolidate.",
+        "zh": "例如，2000年法国、德国、意大利、西班牙和英国的食品饮料批发销售额达到2680亿美元——占零售额的40%以上。此外，批发平均利润率高于零售；随着更多欧洲人更常外出就餐，食品服务部门的批发需求增长迅速；这个分散行业的竞争动态变化，终于使批发商整合变得可行。"
+      },
+      "G": {
+        "en": "However, none of these requirements should deter large retailers (and even some large food producers and existing wholesalers) from trying their hand, for those that master the intricacies of wholesaling in Europe stand to reap considerable gains.",
+        "zh": "然而，这些要求都不应阻止大型零售商（甚至一些大型食品生产商和现有批发商）一试身手，因为那些掌握欧洲批发业务复杂性的人有望获得可观的收益。"
+      }
+    },
+    "fixed_note": "E 为原卷已给定段落。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "B",
+        "explain": "首段应引出“零售停滞、批发机会”这一话题；B 用 retail sales... standstill 与 wholesale opportunity 直接破题。",
+        "clue": "retail standstill → wholesale opportunity"
+      },
+      {
+        "n": 42,
+        "answer": "F",
+        "explain": "F 以 For example 开头，用具体数字说明批发市场规模和利润，紧承 B 的“机会”。",
+        "clue": "For example → $268 billion → higher margins"
+      },
+      {
+        "n": 43,
+        "answer": "D",
+        "explain": "D 以 All in all 总结机会，并转向“国家市场差异 + 需要新技能”，为下一段让步做铺垫。",
+        "clue": "All in all → differences → new skills"
+      },
+      {
+        "n": 44,
+        "answer": "G",
+        "explain": "G 用 However 承接 D 的“需要新技能”，说明这些要求不应阻止零售商尝试。",
+        "clue": "However → none of these requirements should deter"
+      },
+      {
+        "n": 45,
+        "answer": "A",
+        "explain": "A 以 The first and more important 具体展开前文 E 提到的 two opposing trends，解释消费者外出就餐的趋势。",
+        "clue": "two opposing trends → the first... eating out"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "A land ethic",
+    "cn_title": "土地伦理与保护体系",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "以经济动机为基础的保护体系的缺陷",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. (10 points)",
+    "intro": "翻译先拆结构，再定主干，最后按中文语序重排。注意同位语从句、非限制性定语从句和被动语态。",
+    "paragraphs": [
+      {
+        "en": "One basic weakness in a conservation system based wholly on economic motives is that most members of the land community have no economic value. Yet these creatures are members of the biotic community and, if its stability depends on its integrity, they are entitled to continuance.",
+        "zh": "完全基于经济动机的保护体系的一个基本弱点是，土地群落的大多数成员没有经济价值。然而这些生物是生物群落的成员，如果群落的稳定取决于其完整性，它们就有权继续存在。"
+      },
+      {
+        "en": "When one of these noneconomic categories is threatened and, if we happen to love it, we invent excuses to give it economic importance. At the beginning of the century songbirds were supposed to be disappearing. [[46]]Scientists jumped to the rescue with some distinctly shaky evidence to the effect that insects would eat us up if birds failed to control them.[[/46]] The evidence had to be economic in order to be valid.",
+        "zh": "当这些非经济类别中的一种受到威胁，而我们恰好喜爱它时，我们就会编造借口赋予它经济重要性。本世纪初，鸣禽被认为正在消失。科学家们急忙赶来救场，拿出的证据却明显站不住脚，大意是说：如果鸟类不能控制昆虫，昆虫就会把我们吃光。证据必须具有经济性才能成立。"
+      },
+      {
+        "en": "It is painful to read these roundabout accounts today. We have no land ethic yet, [[47]]but we have at least drawn nearer the point of admitting that birds should continue as a matter of intrinsic right, regardless of the presence or absence of economic advantage to us.[[/47]]",
+        "zh": "今天读到这些绕弯子的说法令人痛苦。我们还没有土地伦理，但我们至少更接近于承认：鸟类应当继续生存，这是它们固有的权利，无论它们对我们是否具有经济利益。"
+      },
+      {
+        "en": "A parallel situation exists in respect of predatory mammals and fish-eating birds. [[48]]Time was when biologists somewhat overworked the evidence that these creatures preserve the health of game by killing the physically weak, or that they prey only on \"worthless\" species.[[/48]] Here again, the evidence had to be economic in order to be valid. It is only in recent years that we hear the more honest argument that predators are members of the community, and that no special interest has the right to exterminate them for the sake of benefit, real or fancied, to itself.",
+        "zh": "捕食性哺乳动物和食鱼鸟类的情况类似。曾几何时，生物学家有些过度使用这样的证据：这些动物通过捕杀体弱者来保持猎物种群的健康，或者它们只捕食“没有价值”的物种。在这里，证据同样必须具有经济性才能成立。只是近年来，我们才听到更诚实的论点：捕食者是群落的成员，任何特殊利益集团都无权为了自身真实或想象的利益而消灭它们。"
+      },
+      {
+        "en": "Some species of trees have been \"read out of the party\" by economics-minded foresters because they grow too slowly, or have too low a sale value to pay as timber crops. [[49]]In Europe, where forestry is ecologically more advanced, the noncommercial tree species are recognized as members of the native forest community, to be preserved as such, within reason.[[/49]] Moreover, some have been found to have a valuable function in building up soil fertility. The interdependence of the forest and its constituent tree species, ground flora, and fauna is taken for granted.",
+        "zh": "一些树种被有经济头脑的林业者“开除出局”，因为它们生长太慢，或销售价值太低，不值得作为木材作物。在欧洲，林业在生态方面更为先进，非商业树种被认定为原生森林群落的成员，因而在合理范围内应作为成员加以保护。此外，人们发现一些树种在构建土壤肥力方面具有宝贵功能。森林与其组成树种、地面植物区系和动物区系之间的相互依存被视为理所当然。"
+      },
+      {
+        "en": "To sum up: a system of conservation based solely on economic self-interest is hopelessly lopsided. [[50]]It tends to ignore, and thus eventually to eliminate, many elements in the land community that lack commercial value, but that are essential to its healthy functioning.[[/50]] It assumes, falsely, that the economic parts of the biotic clock will function without the uneconomic parts.",
+        "zh": "总之，仅基于经济私利的保护体系是无可救药地失衡的。它往往忽视、并最终消除土地群落中许多缺乏商业价值、却对其健康运转至关重要的要素。它错误地假设，生物钟的经济部分可以在没有非经济部分的情况下运转。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "Scientists jumped to the rescue with some distinctly shaky evidence to the effect that insects would eat us up if birds failed to control them.",
+        "core": "Scientists jumped to the rescue with evidence.",
+        "structure": "with some distinctly shaky evidence 是方式状语；to the effect that... 是同位语从句解释 evidence；if 引导条件从句。",
+        "key": "jump to the rescue 急忙救援；shaky evidence 站不住脚的证据；to the effect that 大意是；eat us up 吃光我们。",
+        "translation": "科学家们急忙赶来救场，拿出的证据却明显站不住脚，大意是说：如果鸟类不能控制昆虫，昆虫就会把我们吃光。",
+        "pitfall": "to the effect that 不是“对……产生影响”，而是“大意是、意思是”。"
+      },
+      "47": {
+        "en": "but we have at least drawn nearer the point of admitting that birds should continue as a matter of intrinsic right, regardless of the presence or absence of economic advantage to us.",
+        "core": "We have drawn nearer the point.",
+        "structure": "of admitting that... 修饰 point；that 引导宾语从句；regardless of... 是让步状语。",
+        "key": "draw nearer 更接近；admit 承认；intrinsic right 固有权利；regardless of 无论。",
+        "translation": "但我们至少更接近于承认：鸟类应当继续生存，这是它们固有的权利，无论它们对我们是否具有经济利益。",
+        "pitfall": "a matter of intrinsic right 不能译成“内在权利的事情”，应译“固有权利”。"
+      },
+      "48": {
+        "en": "Time was when biologists somewhat overworked the evidence that these creatures preserve the health of game by killing the physically weak, or that they prey only on \"worthless\" species.",
+        "core": "Biologists overworked the evidence.",
+        "structure": "Time was when... 是固定句式“曾几何时”；that 引导两个并列同位语从句，说明 evidence；by killing... 是方式状语。",
+        "key": "Time was when 曾几何时；overwork 过度使用；game 猎物；prey on 捕食。",
+        "translation": "曾几何时，生物学家有些过度使用这样的证据：这些动物通过捕杀体弱者来保持猎物种群的健康，或者它们只捕食“没有价值”的物种。",
+        "pitfall": "game 在这里不是“游戏”，而是“猎物”。"
+      },
+      "49": {
+        "en": "In Europe, where forestry is ecologically more advanced, the noncommercial tree species are recognized as members of the native forest community, to be preserved as such, within reason.",
+        "core": "The noncommercial tree species are recognized as members.",
+        "structure": "where 引导非限制性定语从句；are recognized as 是被动；to be preserved 是目的/结果；within reason 是状语。",
+        "key": "forestry 林业；noncommercial 非商业的；native forest community 原生森林群落；within reason 在合理范围内。",
+        "translation": "在欧洲，林业在生态方面更为先进，非商业树种被认定为原生森林群落的成员，因而在合理范围内应作为成员加以保护。",
+        "pitfall": "as such 指“作为此类成员”，不是“因此”。"
+      },
+      "50": {
+        "en": "It tends to ignore, and thus eventually to eliminate, many elements in the land community that lack commercial value, but that are essential to its healthy functioning.",
+        "core": "It tends to ignore and eliminate many elements.",
+        "structure": "两个不定式 ignore 和 eliminate 并列；that... but that... 是两个并列定语从句修饰 elements。",
+        "key": "tend to 往往；eliminate 消除；lack 缺乏；be essential to 对……至关重要。",
+        "translation": "它往往忽视、并最终消除土地群落中许多缺乏商业价值、却对其健康运转至关重要的要素。",
+        "pitfall": "its 指 the land community，不是“经济体系”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "A notice & a picture essay",
+    "cn_title": "通知 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "招募全球化会议志愿者；文化火锅",
+    "intro": "小作文考“通知格式 + 招募信息”；大作文考“描述图画 + 解释文化融合 + 评论”。",
+    "partA": {
+      "title": "Part A · 通知",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "You are supposed to write for the Postgraduates' Association a notice to recruit volunteers for an international conference on globalization. The notice should include the basic qualifications for applicants and the other information which you think is relevant. You should write about 100 words on the ANSWER SHEET. Do not sign your own name at the end of the notice. Use \"Postgraduates' Association\" instead.",
+      "prompt_zh": "为研究生会写一则通知，为一次关于全球化的国际会议招募志愿者。通知应包括申请者的基本资格以及你认为相关的其他信息。约100词；结尾不要签自己的名字，用“Postgraduates' Association”。",
+      "sample": "Notice\n\nVolunteers are needed for the International Conference on Globalization, which will be held on our campus next month. We are looking for twenty volunteers who have a good command of English and some experience in cross-cultural communication. The main duties include receiving international guests, providing interpretation and helping with the conference schedule. Applicants should be responsible, punctual and able to work in a team. Please note that volunteers must attend a short training session before the conference. Those who are interested please send your resume to volunteer@example.com before March 1. We look forward to your participation.\n\nPostgraduates' Association",
+      "sample_zh": "通知\n\n全球化国际会议将于下月在我校举行，现招募志愿者。我们需要二十名英语良好、具备跨文化沟通经验的志愿者。主要职责包括接待国际来宾、提供口译以及协助会议日程。申请者应负责、守时，并具有团队合作能力。请注意，志愿者须在会前参加一次简短培训。有意者请在3月1日前将简历发送至 volunteer@example.com。期待你的参与。\n\n研究生会",
+      "structure": [
+        [
+          "标题",
+          "Notice"
+        ],
+        [
+          "目的",
+          "Volunteers are needed for..."
+        ],
+        [
+          "要求",
+          "good command of English; cross-cultural experience; responsible..."
+        ],
+        [
+          "职责",
+          "reception, interpretation, schedule"
+        ],
+        [
+          "联系方式",
+          "send resume to... before March 1"
+        ],
+        [
+          "落款",
+          "Postgraduates' Association"
+        ]
+      ],
+      "expressions": [
+        "Volunteers are needed for...",
+        "We are looking for...",
+        "The main duties include...",
+        "Applicants should be...",
+        "Those who are interested please..."
+      ],
+      "traps": [
+        "通知要有标题 Notice。",
+        "题目要求不要签自己的名字，落款用 Postgraduates' Association。",
+        "不要写地址；招募条件、职责、截止日期要具体。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160–200 words based on the following drawing. In your essay, you should 1) describe the drawing briefly, 2) explain its intended meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET.",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "src": "../assets/writing/2010.png",
+        "caption": "文化“火锅”，既美味又营养",
+        "note": "一口火锅里放着写有孔子、莎士比亚、爱因斯坦、道家、现代主义、老舍等词的食材，象征不同文化在同一锅中融合。"
+      },
+      "sample": "The drawing presents a steaming hot pot filled with cubes bearing words such as Confucius, Shakespeare, Einstein, Taoism, modernism and Lao She. The caption reads, \"A cultural hot pot: delicious and nutritious.\" The image vividly shows how different cultures are gathered and blended in one pot.\n\nThe intended meaning is clear: cultural exchange is not a zero-sum game. Chinese and Western cultures may differ, but they can coexist, learn from each other and create something richer. Just as a hot pot becomes more delicious when it contains a variety of ingredients, a society becomes more vibrant when it is open to diverse ideas. However, we should not merely put everything together; we need to understand and respect each culture before we can truly benefit from the mixture.\n\nIn my view, we should keep an open mind while maintaining cultural confidence. Only by appreciating both our own heritage and other cultures can we make the \"hot pot\" truly nutritious. A closed mind, by contrast, turns a shared meal into an empty table.",
+      "sample_zh": "这幅画呈现了一口热气腾腾的火锅，里面放着写有孔子、莎士比亚、爱因斯坦、道家、现代主义、老舍等词的方块。图注写着：“文化‘火锅’，既美味又营养。”这幅图生动地展示了不同文化如何汇聚并融合在一口锅中。\n\n其寓意很清楚：文化交流不是零和游戏。中西方文化可能不同，但它们可以共存、相互学习，并创造出更丰富的东西。正如火锅因食材多样而更美味，一个社会也会因对多元思想开放而更有活力。然而，我们不能只是把所有东西放在一起；在真正从融合中受益之前，我们需要理解和尊重每一种文化。\n\n在我看来，我们应保持开放心态，同时保持文化自信。只有既欣赏自身传统，又欣赏其他文化，我们才能让这口“火锅”真正有营养。相反，封闭的心态会把共享的盛宴变成空桌。",
+      "structure": [
+        [
+          "第一段·描述",
+          "The drawing presents... The caption reads..."
+        ],
+        [
+          "第二段·寓意",
+          "Cultural exchange is not a zero-sum game... Just as..."
+        ],
+        [
+          "第三段·评论",
+          "In my view... Only by..."
+        ]
+      ],
+      "expressions": [
+        "The drawing presents...",
+        "The caption reads...",
+        "The intended meaning is clear:...",
+        "Just as..., ... becomes more...",
+        "In my view, we should...",
+        "Only by... can we..."
+      ],
+      "traps": [
+        "描述要抓“火锅 + 文化词块 + 图注”，不要逐个翻译所有词。",
+        "寓意落在“文化融合/开放/尊重差异”，不要只写“火锅好吃”。",
+        "评论段要给出自己的态度，不要重复第二段。"
+      ]
+    }
+  }
+}

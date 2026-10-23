@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="408 综合大题拆解：计算机组成原理、计算机网络、计算机系统（操作系统）代表题型、答案、评分点与知识线路图。">
+  <title>408 大题工位 · 把大题拆成步骤</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body data-page="home">
+  <a class="skip-link" href="#main">跳到主要内容</a>
+
+  <header class="site-header">
+    <div class="wrap topbar">
+      <a class="brand" href="index.html" aria-label="408 大题工位首页">
+        <span class="brand-mark">408</span>
+        <span class="brand-word">
+          <b>大题工位</b>
+          <small>big question workbench</small>
+        </span>
+      </a>
+
+      <nav class="site-nav" id="site-nav" aria-label="主导航">
+        <a href="index.html" aria-current="page">总览</a>
+        <a href="coa.html">组成原理</a>
+        <a href="network.html">计算机网络</a>
+        <a href="os.html">计算机系统</a>
+        <a href="map.html">知识线路图</a>
+      </nav>
+
+      <div class="topbar-actions">
+        <a class="english-link" href="http://127.0.0.1:5001/" data-english-link>
+          英语真题档案 <span>↗</span>
+        </a>
+        <button class="menu-toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="展开导航">
+          <span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="home-hero">
+      <div class="wrap hero-grid">
+        <div>
+          <p class="hero-kicker">408 综合大题 · 12 道仿真母题</p>
+          <h1 class="hero-title">把大题<br>拆成<em>可复用</em><br>的步骤。</h1>
+          <p class="hero-deck">
+            组成原理、计算机网络、计算机系统。每道题先给“题干识别信号”，再给“落笔顺序”，最后用评分点校验。解析默认收起，留给你先写一遍。
+          </p>
+          <div class="hero-actions">
+            <a class="btn" href="coa.html">从组成原理开始 <small>C1—C4</small></a>
+            <a class="btn btn--ghost" href="map.html">先看知识线路图 <small>MAP</small></a>
+          </div>
+          <p class="hero-note">
+            <span>原创仿真题，不是真题原文</span>
+            <span>按 408 常用口径写解析</span>
+            <span>支持手机与打印</span>
+          </p>
+        </div>
+
+        <aside class="hero-board" aria-label="三条主线速览">
+          <div class="board-head">
+            <span>解题信号 / 03</span>
+            <b>READY</b>
+          </div>
+          <div class="signal-stack">
+            <a class="signal-row" href="coa.html">
+              <span class="signal-code">C</span>
+              <span>
+                <b>计算机组成原理</b>
+                <small>Cache · 指令与数据通路 · 流水线 · 磁盘 / DMA</small>
+              </span>
+              <span class="signal-arrow">→</span>
+            </a>
+            <a class="signal-row" href="network.html">
+              <span class="signal-code">N</span>
+              <span>
+                <b>计算机网络</b>
+                <small>VLSM · TCP 拥塞 · DNS / HTTP · 以太网</small>
+              </span>
+              <span class="signal-arrow">→</span>
+            </a>
+            <a class="signal-row" href="os.html">
+              <span class="signal-code">O</span>
+              <span>
+                <b>计算机系统</b>
+                <small>页表 / TLB · 调度 · PV · inode / 磁盘</small>
+              </span>
+              <span class="signal-arrow">→</span>
+            </a>
+          </div>
+          <div class="board-foot">
+            <div class="board-stat"><b>12</b><span>道母题</span></div>
+            <div class="board-stat"><b>03</b><span>条主线</span></div>
+            <div class="board-stat"><b>01</b><span>张线路图</span></div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2 class="section-title">先选一条主线</h2>
+            <p class="section-deck">每条主线四道题，覆盖近年最常见的四个大题入口。</p>
+          </div>
+          <p class="section-note">建议一次只做一道。写完再展开解析，把“不会”定位到具体步骤，而不是笼统地记成“这科很差”。</p>
+        </div>
+
+        <div class="track-list">
+          <a class="track track--coa" href="coa.html">
+            <span class="track-index">SECTION C</span>
+            <div>
+              <h3>计算机组成原理 <span>4 道 · 约 90 min</span></h3>
+              <p>Cache 映射 · 机器码与数据通路 · 流水线冒险 · 磁盘与 DMA</p>
+            </div>
+            <div class="track-meta">
+              <span data-subject-progress="coa" data-total="4">已掌握 0 / 4</span>
+              <b>先算地址位，再追序列</b>
+            </div>
+            <span class="track-arrow">→</span>
+          </a>
+
+          <a class="track track--net" href="network.html">
+            <span class="track-index">SECTION N</span>
+            <div>
+              <h3>计算机网络 <span>4 道 · 约 85 min</span></h3>
+              <p>VLSM 与路由 · TCP 拥塞控制 · DNS / HTTP 时延 · CSMA/CD 与交换机</p>
+            </div>
+            <div class="track-meta">
+              <span data-subject-progress="net" data-total="4">已掌握 0 / 4</span>
+              <b>先画路径，再套协议</b>
+            </div>
+            <span class="track-arrow">→</span>
+          </a>
+
+          <a class="track track--os" href="os.html">
+            <span class="track-index">SECTION O</span>
+            <div>
+              <h3>计算机系统 <span>4 道 · 约 90 min</span></h3>
+              <p>页表与 TLB · CPU 调度 · PV 同步 · inode 与磁盘调度</p>
+            </div>
+            <div class="track-meta">
+              <span data-subject-progress="os" data-total="4">已掌握 0 / 4</span>
+              <b>先拆地址/时间线，再算指标</b>
+            </div>
+            <span class="track-arrow">→</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2 class="section-title">看到这些词，先做哪一步</h2>
+            <p class="section-deck">大题的第一步不是计算，而是识别它属于哪条流水线。</p>
+          </div>
+          <p class="section-note">把这张表当成草稿纸的页眉。读完题干，先写下对应动作，再动笔算。</p>
+        </div>
+
+        <div class="lookup">
+          <div class="lookup-head">
+            <span>题干里出现</span>
+            <span>第一笔写什么</span>
+            <span>去向</span>
+          </div>
+
+          <a class="lookup-row" href="coa.html#c1">
+            <span class="lookup-key"><code>C1</code>块大小、组相联、写回、命中率</span>
+            <span class="lookup-step">先拆 offset / index / tag</span>
+            <span class="lookup-source">组成原理 · <b>存储层次</b></span>
+          </a>
+          <a class="lookup-row" href="coa.html#c2">
+            <span class="lookup-key"><code>C2</code>机器码、控制信号、有效地址</span>
+            <span class="lookup-step">先按格式切字段，再判寻址</span>
+            <span class="lookup-source">组成原理 · <b>指令系统</b></span>
+          </a>
+          <a class="lookup-row" href="coa.html#c3">
+            <span class="lookup-key"><code>C3</code>load-use、分支预测、CPI</span>
+            <span class="lookup-step">先画时空图数停顿</span>
+            <span class="lookup-source">组成原理 · <b>流水线</b></span>
+          </a>
+          <a class="lookup-row" href="os.html#o1">
+            <span class="lookup-key"><code>O1</code>页表、TLB、缺页、EAT</span>
+            <span class="lookup-step">先拆虚拟地址，再查层数</span>
+            <span class="lookup-source">计算机系统 · <b>虚拟内存</b></span>
+          </a>
+          <a class="lookup-row" href="os.html#o2">
+            <span class="lookup-key"><code>O2</code>到达时间、时间片、优先级</span>
+            <span class="lookup-step">先画甘特图，逐时刻判断抢占</span>
+            <span class="lookup-source">计算机系统 · <b>调度</b></span>
+          </a>
+          <a class="lookup-row" href="network.html#n2">
+            <span class="lookup-key"><code>N2</code>cwnd、ssthresh、重复 ACK</span>
+            <span class="lookup-step">先列“轮次—窗口”表</span>
+            <span class="lookup-source">计算机网络 · <b>传输层</b></span>
+          </a>
+          <a class="lookup-row" href="network.html#n1">
+            <span class="lookup-key"><code>N1</code>子网、CIDR、下一跳、ARP</span>
+            <span class="lookup-step">先算网络地址与最长前缀</span>
+            <span class="lookup-source">计算机网络 · <b>网络层</b></span>
+          </a>
+          <a class="lookup-row" href="os.html#o4">
+            <span class="lookup-key"><code>O4</code>inode、索引块、SCAN</span>
+            <span class="lookup-step">先算块号，再数磁盘访问层数</span>
+            <span class="lookup-source">计算机系统 · <b>文件系统</b></span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2 class="section-title">三科不是三座孤岛</h2>
+            <p class="section-deck">真正拉分的地方，往往在交叉点上。</p>
+          </div>
+          <p class="section-note">知识线路图把 18 个节点和 5 个交叉考点连起来。点开任一节点，直接跳到对应大题。</p>
+        </div>
+
+        <div class="route-strip">
+          <a class="route-card" href="map.html#coa-cache">
+            <span>BRIDGE / 01</span>
+            <h3>存储层次</h3>
+            <p>Cache 的 AMAT、虚拟内存的 EAT、文件系统的页缓存，本质都在回答“下一层有多慢”。</p>
+            <b>Cache ↔ 页表 →</b>
+          </a>
+          <a class="route-card" href="map.html#coa-io">
+            <span>BRIDGE / 02</span>
+            <h3>中断与 I/O</h3>
+            <p>DMA 初始化、设备驱动、网络收包：CPU 什么时候被打断，决定了大题里的时间账。</p>
+            <b>DMA ↔ 驱动 →</b>
+          </a>
+          <a class="route-card" href="map.html#coa-cpu">
+            <span>BRIDGE / 03</span>
+            <h3>性能三角</h3>
+            <p>CPI、上下文切换、RTT / 带宽：换一个科目，性能公式还是“时间 = 工作量 ÷ 速度”。</p>
+            <b>CPI ↔ 调度 →</b>
+          </a>
+          <a class="route-card" href="map.html#net-tcp">
+            <span>BRIDGE / 04</span>
+            <h3>可靠与重传</h3>
+            <p>CRC、ARQ、TCP 重传、RAID 校验：都在用冗余换可靠性，只是层次不同。</p>
+            <b>TCP ↔ RAID →</b>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <a class="english-band" href="http://127.0.0.1:5001/" data-english-link>
+          <div>
+            <h3>英语真题档案 · 已独立部署</h3>
+            <p>2010—2026 英语（一）全卷精讲，与 408 站点分开容器、分开端口运行。</p>
+          </div>
+          <b>另一个端口访问 ↗</b>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">408 大题工位</div>
+          <p>题目为依据 408 考纲与近年题型原创改编的仿真题，不是真题原文。解析按 408 常用口径编写，适合自测与复盘。</p>
+        </div>
+        <div class="footer-col">
+          <h3>三条主线</h3>
+          <a href="coa.html">计算机组成原理</a>
+          <a href="network.html">计算机网络</a>
+          <a href="os.html">计算机系统（操作系统）</a>
+        </div>
+        <div class="footer-col">
+          <h3>工具</h3>
+          <a href="map.html">知识线路图</a>
+          <a href="http://127.0.0.1:5001/" data-english-link>英语真题档案 ↗</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>BUILT FOR 408 · STATIC HTML · DOCKER READY</span>
+        <span>解析默认收起 · 先写，再对</span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="toast" role="status" aria-live="polite"></div>
+
+  <script src="assets/config.js"></script>
+  <script src="assets/site.js"></script>
+</body>
+</html>

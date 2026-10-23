@@ -1,0 +1,682 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "丝绸之路上的商队驿站：选址、功能、文化交流与遗存",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "文章介绍丝绸之路上的商队驿站（caravanserai）：先交代其选址、出资方式与词源，再说明10世纪起商旅路线发展带来驿站数量增长，驿站因安全问题被设在一天行程可达之处；接着写驿站成为旅行者会合与文化交流的场所；最后写其作为商品市场的贸易功能，并以修建数量与现存废墟作结。做题时可利用 governments or ...、groups of people ... merchants ...、being attacked ... or being subjected ... 等并列信号，注意 be located、be subjected to、so that、stock up on、in ruins 等固定搭配。",
+    "passage": [
+      {
+        "en": "Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. They were typically {{1}} outside the walls of a city or village and were usually funded by local governments or {{2}}. This word \"Caravanserais\" is a {{3}} of the Persian words \"Karvan\", which means a group of travellers or a caravan, and \"saray\", a palace or enclosed building. The term caravan was used to {{4}} groups of people who travelled together across the ancient network for safety reasons, {{5}} merchants, travellers or pilgrims.",
+        "zh": "商队驿站是沿丝绸之路修建的路边客栈，分布于中国、北非和中东等地。它们通常坐落在城郭或村落之外，一般由地方政府或私人出资兴建。“Caravanserais”一词由波斯语“Karvan”和“saray”组合而成：“Karvan”指一群旅行者或一支商队，“saray”指宫殿或围合式建筑。商队（caravan）一词用来指称结伴穿越这一古老交通网络的群体，他们出于安全考虑同行，其中包括商人、旅行者或朝圣者。"
+      },
+      {
+        "en": "From the 10th century onwards, as merchant and travel routes became more developed, the {{6}} of caravanserais increased and they served as a safe place for people to rest at night. Travellers on the Silk Road {{7}} the possibility of being attacked by thieves or being {{8}} to extreme weather conditions. For this reason, caravanserais were strategically placed {{9}} they could be reached in a day's travel time.",
+        "zh": "从10世纪起，随着商旅路线日益发达，商队驿站的建设不断增多，成为人们夜间歇脚的安全之所。丝绸之路上的旅行者面临着遭盗匪袭击或遭受极端天气的风险。因此，驿站被战略性地设在一天行程可达之处。"
+      },
+      {
+        "en": "Caravanserais served as an informal {{10}} point for the various people who travelled the Silk Road. {{11}}, these structures became important centers for cultural {{12}} and interaction, with travellers sharing their cultures, ideas and beliefs, {{13}} taking knowledge with them, greatly {{14}} the development of several civilisations.",
+        "zh": "商队驿站是丝绸之路上各类旅行者非正式的会合之所。因此，这些建筑成为文化交流与互动的重要中心：旅行者分享各自的文化、观念和信仰，同时也带走新的知识，极大地影响了若干文明的发展。"
+      },
+      {
+        "en": "Caravanserais were also an important marketplace for commodities and {{15}} in the trade of goods along the Silk Road. {{16}}, it was frequently the first stop for merchants looking to sell their wares and {{17}} supplies for their own journeys. It is {{18}} that around 12,000 to 15,000 caravanserais were built along the Silk Road, {{19}} only about 3,000 are known to remain today, many of which are in {{20}}.",
+        "zh": "商队驿站也是商品交易的重要市场，促进了丝绸之路沿线的货物贸易。事实上，对于想要出售货物并为自己的旅程备足给养的商人来说，它往往是第一站。据信，丝绸之路上曾修建约1.2万至1.5万座商队驿站，尽管如今已知仅存约3000座，其中许多已成废墟。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "C",
+        "options": [
+          "displayed",
+          "occupied",
+          "located",
+          "equipped"
+        ],
+        "cn": [
+          "展示；陈列",
+          "占用；占据",
+          "位于；坐落于",
+          "配备；装备"
+        ],
+        "explain": "locate 意为“位于、坐落于”，常用 be located outside/in/along 等结构。此处主语 They 指商队驿站，句子说驿站通常设在城郭或村庄之外，C 与地点状语 outside the walls 搭配自然。",
+        "trap": "A displayed“展示”、B occupied“占用”的主语通常是人或物品，不能说明建筑的位置；D equipped 常用于 be equipped with“配备有”，与 outside 不搭配。",
+        "type": "动词辨析/语境"
+      },
+      {
+        "n": 2,
+        "answer": "A",
+        "options": [
+          "privately",
+          "regularly",
+          "respectively",
+          "permanently"
+        ],
+        "cn": [
+          "私下地；由私人（出资）",
+          "定期地；有规律地",
+          "分别地；各自地",
+          "永久地"
+        ],
+        "explain": "or 连接两个并列的出资主体：前面是 local governments（地方政府），后面应与之相对，表示“私人”，privately 即“由私人出资”，与 funded by 搭配，构成“由地方政府或私人资助”。",
+        "trap": "B regularly 表频率，C respectively 表“分别”，D permanently 表“永久”，三者都是方式或时间副词，不能与 local governments 并列作资助的来源。",
+        "type": "副词辨析/并列结构"
+      },
+      {
+        "n": 3,
+        "answer": "D",
+        "options": [
+          "definition",
+          "transition",
+          "substitution",
+          "combination"
+        ],
+        "cn": [
+          "定义；释义",
+          "过渡；转变",
+          "替代；替换",
+          "组合；结合"
+        ],
+        "explain": "a combination of the Persian words... 意为“由……两个波斯词组合而成”，与后文分别解释 Karvan 和 saray 两个词源相呼应；combination 与 of 搭配表示“由……组成”。",
+        "trap": "A definition 指“定义”，但此处讲的是词的构成而非释义；B transition“过渡”、C substitution“替换”都不能表示两个词素合成一个新词。",
+        "type": "名词辨析/词义"
+      },
+      {
+        "n": 4,
+        "answer": "C",
+        "options": [
+          "classify",
+          "record",
+          "describe",
+          "connect"
+        ],
+        "cn": [
+          "分类；归类",
+          "记录；记载",
+          "描述；指称",
+          "连接；联系"
+        ],
+        "explain": "The term caravan was used to describe groups of people... 意为“caravan 一词用来指称结伴同行的群体”，describe 与 term、word 搭配表示词语所指的对象。",
+        "trap": "A classify 需要按某一标准分类，后文并未给出分类标准；B record 强调记录下来；D connect 意为“连接”，均不能表示“词语描述某类人”。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 5,
+        "answer": "C",
+        "options": [
+          "apart from",
+          "instead of",
+          "such as",
+          "along with"
+        ],
+        "cn": [
+          "除……之外",
+          "而不是",
+          "例如；诸如",
+          "与……一起"
+        ],
+        "explain": "merchants, travellers or pilgrims 是对 groups of people 的举例，such as 引出具体例证，句意为“例如商人、旅行者或朝圣者”。",
+        "trap": "A apart from 表示排除，B instead of 表示替代，会把商人与旅行者对立起来；D along with 表示伴随，均不构成举例关系。",
+        "type": "介词短语/举例"
+      },
+      {
+        "n": 6,
+        "answer": "A",
+        "options": [
+          "construction",
+          "restoration",
+          "impression",
+          "evaluation"
+        ],
+        "cn": [
+          "建造；建设",
+          "修复；复原",
+          "印象；感想",
+          "评估；评价"
+        ],
+        "explain": "the construction of caravanserais increased 意为“驿站的建设增多”，与上文 routes became more developed 的路线发展以及下文 they served as a safe place 的功能相衔接。",
+        "trap": "B restoration 指修复旧建筑，而此处讲的是10世纪起驿站数量增加；C impression、D evaluation 是认知类名词，不能与 increased 搭配表示建筑数量增长。",
+        "type": "名词辨析/语境"
+      },
+      {
+        "n": 7,
+        "answer": "B",
+        "options": [
+          "doubted",
+          "faced",
+          "accepted",
+          "reduced"
+        ],
+        "cn": [
+          "怀疑",
+          "面临；面对",
+          "接受；认可",
+          "减少；降低"
+        ],
+        "explain": "face the possibility of... 意为“面临……的可能性”，travellers faced the possibility of being attacked 即“旅行者面临遭盗匪袭击的可能”。",
+        "trap": "A doubted 后接 possibility 不合逻辑；C accepted 表示主动接受风险，与后文因此设置驿站的做法矛盾；D reduced 不能以 possibility 作宾语表示“面临”。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 8,
+        "answer": "B",
+        "options": [
+          "assigned",
+          "subjected",
+          "accustomed",
+          "opposed"
+        ],
+        "cn": [
+          "分配；指派",
+          "使遭受；使经受",
+          "使习惯于",
+          "反对"
+        ],
+        "explain": "be subjected to sth 是固定搭配，意为“遭受、经受”，being subjected to extreme weather conditions 与 being attacked by thieves 并列，都是旅行者面临的风险。",
+        "trap": "A be assigned to 意为“被分配到”；C be accustomed to 意为“习惯于”，与 risk 语境不符；D be opposed to 意为“反对”，主语应是人。",
+        "type": "动词短语/被动"
+      },
+      {
+        "n": 9,
+        "answer": "A",
+        "options": [
+          "so that",
+          "even if",
+          "now that",
+          "in case"
+        ],
+        "cn": [
+          "以便；为了",
+          "即使",
+          "既然",
+          "以防；万一"
+        ],
+        "explain": "so that 引导目的状语从句：驿站被战略性地设置，以便人们一天之内能够到达。could be reached 的被动与情态正符合这一目的。",
+        "trap": "B even if 表让步，C now that 表原因，D in case 表“以防”，后常接 should 或一般现在时，且句意是“为了能到达”而非“以防到达”。",
+        "type": "连词/目的状语"
+      },
+      {
+        "n": 10,
+        "answer": "D",
+        "options": [
+          "talking",
+          "starting",
+          "breaking",
+          "meeting"
+        ],
+        "cn": [
+          "谈话；话题",
+          "起点；开始",
+          "突破；断裂",
+          "会面；会合"
+        ],
+        "explain": "meeting point 意为“会合点、汇聚之处”，与下文旅行者分享文化、观念和信仰的交流场景一致。",
+        "trap": "A talking point 指“话题、论点”；B starting point 指“起点”，但驿站是途中交汇处而非路线起点；C breaking point 指“崩溃点、极限”。",
+        "type": "名词搭配"
+      },
+      {
+        "n": 11,
+        "answer": "D",
+        "options": [
+          "By the way",
+          "On occasion",
+          "In comparison",
+          "As a result"
+        ],
+        "cn": [
+          "顺便说一下",
+          "偶尔；有时",
+          "相比之下",
+          "因此；结果"
+        ],
+        "explain": "上文说驿站成为非正式的会合点，下文说这些建筑成为文化交流与互动的重要中心，二者是因果顺承，As a result 引出结果。",
+        "trap": "A By the way 用于补充题外话；B On occasion 表频率；C In comparison 需要比较对象，此处没有。",
+        "type": "逻辑衔接/因果"
+      },
+      {
+        "n": 12,
+        "answer": "C",
+        "options": [
+          "heritage",
+          "revival",
+          "exchange",
+          "status"
+        ],
+        "cn": [
+          "遗产；传统",
+          "复兴；复苏",
+          "交流；交换",
+          "地位；身份"
+        ],
+        "explain": "cultural exchange and interaction 是常见搭配，意为“文化交流与互动”，与下文 sharing their cultures, ideas and beliefs 直接对应。",
+        "trap": "A cultural heritage 指“文化遗产”，是静态事物，不能与 interaction 并列表示过程；B revival“复兴”、D status“地位”均与“分享”的互动语境不符。",
+        "type": "名词搭配/语境"
+      },
+      {
+        "n": 13,
+        "answer": "C",
+        "options": [
+          "with regard to",
+          "in spite of",
+          "as well as",
+          "in line with"
+        ],
+        "cn": [
+          "关于；至于",
+          "尽管；不顾",
+          "以及；除……之外还",
+          "与……一致"
+        ],
+        "explain": "as well as 连接两个并列的动名词短语 sharing their cultures... 和 taking knowledge with them，表示“分享……同时也带走……”。",
+        "trap": "A with regard to 是介词短语，不能连接两个 -ing 动作；B in spite of 表让步；D in line with 表一致，均不合并列关系。",
+        "type": "连词/并列"
+      },
+      {
+        "n": 14,
+        "answer": "B",
+        "options": [
+          "completing",
+          "influencing",
+          "resuming",
+          "pioneering"
+        ],
+        "cn": [
+          "完成；结束",
+          "影响；作用于",
+          "恢复；继续",
+          "开创；领先"
+        ],
+        "explain": "greatly influencing the development of several civilisations 意为“极大地影响了若干文明的发展”，现在分词短语作结果状语，说明文化交流带来的影响。",
+        "trap": "A completing 与 development 搭配意为“完成发展”，不通；C resuming“恢复”、D pioneering“开创”都不能准确表达文化传播对文明发展的作用。",
+        "type": "动词辨析/分词"
+      },
+      {
+        "n": 15,
+        "answer": "A",
+        "options": [
+          "aided",
+          "invested",
+          "failed",
+          "competed"
+        ],
+        "cn": [
+          "帮助；促进",
+          "投资",
+          "失败；未能",
+          "竞争"
+        ],
+        "explain": "aided in the trade of goods 意为“促进了货物贸易”，与前面的 were an important marketplace 并列作谓语，共同说明驿站在贸易中的作用。",
+        "trap": "B invested in 意为“投资于”，主语应是投资者；C failed in 意为“在……失败”；D competed in 意为“在……竞争”，均与驿站作为贸易场所的积极作用不符。",
+        "type": "动词辨析/语境"
+      },
+      {
+        "n": 16,
+        "answer": "B",
+        "options": [
+          "Rather",
+          "Indeed",
+          "Otherwise",
+          "However"
+        ],
+        "cn": [
+          "相反；宁可",
+          "确实；事实上",
+          "否则",
+          "然而"
+        ],
+        "explain": "上文说驿站是商品市场并促进了贸易，下文进一步说明“它常常是商人的第一站”，Indeed 用于进一步证实、强调上文。",
+        "trap": "A Rather 表相反；C Otherwise 表否则；D However 表转折，都会切断上下文的递进证实关系。",
+        "type": "逻辑衔接/递进"
+      },
+      {
+        "n": 17,
+        "answer": "D",
+        "options": [
+          "go in for",
+          "stand up for",
+          "close in on",
+          "stock up on"
+        ],
+        "cn": [
+          "爱好；从事",
+          "支持；维护",
+          "逼近；围拢",
+          "囤积；备足"
+        ],
+        "explain": "stock up on supplies 意为“备足给养”，与 sell their wares 并列，说明商人到驿站既出售货物，又为自己的旅途补充物资。",
+        "trap": "A go in for 指“爱好、从事”，B stand up for 指“捍卫”，C close in on 指“逼近”，均不能与 supplies 搭配表示“备货”。",
+        "type": "动词短语"
+      },
+      {
+        "n": 18,
+        "answer": "A",
+        "options": [
+          "believed",
+          "predicted",
+          "recalled",
+          "implied"
+        ],
+        "cn": [
+          "认为；相信",
+          "预测；预言",
+          "回忆；想起",
+          "暗示；意味着"
+        ],
+        "explain": "It is believed that... 是固定句型，意为“据信……”，用于陈述对驿站历史数量的估算。",
+        "trap": "B predicted 需要预测未来，而此处是对历史数量的估计；C recalled 的主语应是人；D implied 意为“暗示”，不宜用来引出明确数字。",
+        "type": "动词辨析/句型"
+      },
+      {
+        "n": 19,
+        "answer": "D",
+        "options": [
+          "until",
+          "because",
+          "unless",
+          "although"
+        ],
+        "cn": [
+          "直到",
+          "因为",
+          "除非",
+          "尽管"
+        ],
+        "explain": "前半句说曾修建约1.2万至1.5万座，后半句说如今已知仅存约3000座，前后是让步转折关系，although 引出与前面形成对比的事实。",
+        "trap": "A until 表时间截止；B because 表因果，但“仅存3000座”不是“修建众多”的原因；C unless 表条件，均不合逻辑。",
+        "type": "连词/让步"
+      },
+      {
+        "n": 20,
+        "answer": "A",
+        "options": [
+          "ruins",
+          "debt",
+          "fashion",
+          "series"
+        ],
+        "cn": [
+          "废墟；遗迹",
+          "债务",
+          "时尚；流行",
+          "系列；一连串"
+        ],
+        "explain": "be in ruins 是固定搭配，意为“成为废墟、破败不堪”，说明现存的驿站中有许多已经残破。",
+        "trap": "B in debt 意为“负债”，C in fashion 意为“流行”，D in series 意为“成系列地”，都不能描述古建筑的保存状况。",
+        "type": "名词搭配/固定短语"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 排序",
+    "en_title": "The Pictures That Saved Yellowstone",
+    "cn_title": "拯救黄石公园的照片",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "海登1871年黄石考察、杰克逊的摄影与黄石国家公园的建立",
+    "type": "ordering",
+    "directions": "The following paragraphs are given in a wrong order. For Questions 41-45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A-H and filling them into the numbered boxes. Paragraphs A, E and H have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "排序题先看已给定的 A、E、H 三段：A 位于第 2 段，E 位于第 4 段，H 位于第 6 段，它们把全文切成几个区间。剩余 B、C、D、F、G 五段填入 41—45。先抓事件链和段首段尾的指代、连接词，逐段确认接口，不要只按单段大意排序。",
+    "paragraphs": {
+      "A": {
+        "en": "This year marks the 150th anniversary of a series of Yellowstone photographs by the renowned landscape photographer William Henry Jackson. He captured the first-ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies. Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the head of the U.S. Geological and Geographical Survey of the Territories, Ferdinand V. Hayden. The team included a meteorologist, a zoologist, a mineralogist, and an agricultural statistician.",
+        "zh": "今年是著名风景摄影师威廉·亨利·杰克逊拍摄的一组黄石照片诞生150周年。他拍下了蒂顿山脉、老忠实间歇泉和科罗拉多落基山脉等地标的第一批照片。这些照片是他在19世纪末一次穿越黄石盆地的考察途中拍下的，那次考察由美国地质与地理调查局领地分局局长费迪南德·V·海登主持。考察队中有一位气象学家、一位动物学家、一位矿物学家和一位农业统计学家。"
+      },
+      "B": {
+        "en": "Two centuries ago, the idea of preserving nature, rather than exploiting it, was a novel one to many U.S. settlers. One of the turning points in public support for land conservation efforts — and recognizing the magnificence of the Yellowstone region in particular — came in the form of vivid photographs.",
+        "zh": "两个世纪前，对许多美国定居者来说，保护自然而不是开发自然，还是一个新鲜的想法。公众对土地保护事业的支持——尤其是对黄石地区壮丽景色的认识——出现了转折，其中一个转折点便来自生动的照片。"
+      },
+      "C": {
+        "en": "As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. He asked Jackson to print out large copies and distributed them, along with reproductions of Moran's paintings, to each member of Congress. \"The visualization, particularly those photographs, really hit home that this is something that has to be protected,\" says Murphy.",
+        "zh": "作为一个善于在华盛顿运作的人，海登意识到自己可以利用这次考察中令人震撼的影像。他请杰克逊放大冲印照片，然后把照片连同莫兰画作的复制品一起分发给每一位国会议员。“这些影像，尤其是那些照片，确实让人深切地意识到，这是必须加以保护的东西，”墨菲说。"
+      },
+      "D": {
+        "en": "Throughout the trip, Jackson juggled multiple cameras and plate sizes using the \"collodion process\" that required him to coat the plates with a chemical mixture, then expose them and develop the resulting images with a portable darkroom. The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment — several men had to assist in its transportation. Despite these challenges, Jackson captured dozens of striking photos, ranging from majestic images like his now-famous snapshot of Old Faithful, to casual portraits of expedition members at the camp. While veterans of previous expeditions wrote at length about stunning trail sights, these vivid photographs were another thing entirely.",
+        "zh": "整个行程中，杰克逊要同时应付多台相机和不同尺寸的底片，使用的是“火棉胶法”：他得先在底片上涂一层化学混合液，然后曝光，再用便携暗房冲洗成像。这种简陋的技术要靠经验猜测曝光时间，设备又重又笨——搬运时得好几个人帮忙。尽管困难重重，杰克逊仍拍下了数十张引人注目的照片，既有老忠实间歇泉那张如今闻名遐迩的壮丽照片，也有考察队员在营地的随意留影。以往考察的老手曾长篇描写途中令人惊叹的景色，但这些生动的照片完全是另一回事。"
+      },
+      "E": {
+        "en": "The journey officially began in Ogden, Utah on June 8, 1871. Over nearly four months, dozens of men made their way on horseback into Montana and traversed along the Yellowstone River and around Yellowstone Lake. That fall, they concluded the survey in Fort Bridger, Wyoming.",
+        "zh": "旅程于1871年6月8日在犹他州奥格登正式开始。在近四个月的时间里，数十人骑马进入蒙大拿，沿黄石河前行，绕过黄石湖。那年秋天，他们在怀俄明州布里杰堡结束了这次考察。"
+      },
+      "F": {
+        "en": "Though Native Americans (and later miners and fur trappers) had long recognized the area's riches, most Americans did not. That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. In addition to the entourage of scientists, the team also included artists: Painter Thomas Moran and photographer William Henry Jackson were charged with capturing this astounding natural beauty and sharing it with the world.",
+        "zh": "尽管印第安人（以及后来的矿工和毛皮猎人）早已认识到这片地区的富饶，大多数美国人对此却一无所知。正因如此，海登的考察力求更全面地了解黄石河地区，从温泉、瀑布到种类繁多的动植物。除了随行的科学家，考察队还包括艺术家：画家托马斯·莫兰和摄影师威廉·亨利·杰克逊受命记录这令人惊叹的自然之美，并将其呈现给世界。"
+      },
+      "G": {
+        "en": "The bill proved largely popular and sailed through Congress with large majorities in favor. In quick succession, the Senate and House passed legislation protecting Yellowstone in early 1872. That March, President Ulysses S. Grant signed an act into law that established Yellowstone as the world's first national park. While some locals opposed to the designation, the decision was largely accepted — and Jackson's photos played a key role in the fight to protect the area. \"I don't believe that the legal protection would have happened in the timeframe that it did without those images,\" says Heather Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service.",
+        "zh": "这项法案大受欢迎，以压倒性多数顺利通过国会。紧接着，参议院和众议院于1872年初通过了保护黄石的法案。同年3月，尤利西斯·S·格兰特总统签署法案，黄石由此成为世界上第一座国家公园。尽管一些当地人反对这一划定，但该决定总体上为人们所接受——而杰克逊的照片在保护这片地区的斗争中发挥了关键作用。“我认为，如果没有那些照片，法律保护不会在那么短的时间内实现，”希瑟·汉森说。她是记者，著有《先知与巨头、护林员与恶棍、野牛与熊：国家公园管理局百年史》。"
+      },
+      "H": {
+        "en": "Perhaps most importantly, the images provided documentary evidence of the park's sights that later made its way to government officials. Weeks after completing the expedition, Hayden collected his team's observations into an extensive report aimed at convincing senators and representatives, along with colleagues at government agencies like the Department of the Interior, that Yellowstone ought to be preserved.",
+        "zh": "也许最重要的是，这些影像为公园景观提供了文献证据，并最终送达政府官员手中。考察结束几周后，海登把考察队的观察记录汇编成一份详尽的报告，力图说服参议员、众议员以及内政部等政府机构的同僚，让他们相信黄石应当得到保护。"
+      }
+    },
+    "fixed_note": "原卷已给定三段：A 位于第 2 段（41 之后、42 之前），E 位于第 4 段（42 之后、43 之前），H 位于第 6 段（43 之后、44 之前）。41、42、43、44、45 从 B、C、D、F、G 五段中选择；最终顺序为 B–A–F–E–D–H–C–G。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "B",
+        "explain": "首段要引出全文话题。B 从两个世纪前“保护自然”观念对美国定居者还很新鲜写起，指出公众支持土地保护的转折点来自生动的照片，自然引出下文 A 对黄石照片及其拍摄者杰克逊的具体介绍。若把 F 放在开头，则会提前交代海登考察的目的和队中的杰克逊，与 A 的内容重复。",
+        "clue": "B 的 came in the form of vivid photographs → A 的 a series of Yellowstone photographs by ... William Henry Jackson；由一般意义上的照片转入具体的摄影师与照片。"
+      },
+      {
+        "n": 42,
+        "answer": "F",
+        "explain": "A 段末列出考察队中的气象学家、动物学家、矿物学家和农业统计学家，F 紧接说明海登考察的目的——让大多数美国人了解黄石，并补充队中还有画家莫兰和摄影师杰克逊，交代了人物与任务；E 随后以 The journey officially began 开始叙述行程，衔接顺畅。",
+        "clue": "A 的 The team included a meteorologist ... → F 的 In addition to the entourage of scientists, the team also included artists → E 的 The journey officially began in Ogden, Utah on June 8, 1871。"
+      },
+      {
+        "n": 43,
+        "answer": "D",
+        "explain": "E 段叙述1871年6月8日启程、近四个月的行程以及秋天在布里杰堡结束考察；D 以 Throughout the trip 承接，具体写杰克逊途中如何使用火棉胶法拍摄、克服设备困难，拍下数十张照片，并以“这些照片完全是另一回事”引出下文 H 中影像作为文献证据的作用。",
+        "clue": "E 的 Over nearly four months ... the journey → D 的 Throughout the trip, Jackson juggled multiple cameras ...；E 的行程概述 → D 的拍摄细节。"
+      },
+      {
+        "n": 44,
+        "answer": "C",
+        "explain": "H 段说海登把考察成果汇编成报告，力图说服议员和政府官员保护黄石；C 紧接写海登作为“善于在华盛顿运作的人”抓住这次考察的影像，请杰克逊放大照片并连同莫兰画作复制品分送每一位国会议员，把“说服”落实为具体行动。",
+        "clue": "H 的 Hayden collected ... an extensive report aimed at convincing senators and representatives → C 的 Hayden sensed that he could capitalize on the expedition's stunning visuals ... distributed them ... to each member of Congress。"
+      },
+      {
+        "n": 45,
+        "answer": "G",
+        "explain": "C 段写到照片被送到国会，G 以 The bill proved largely popular 承接，写保护法案顺利通过、1872年3月格兰特总统签署、黄石成为世界第一座国家公园，并以杰克逊照片在其中所起的关键作用收束全文。",
+        "clue": "C 的 to each member of Congress → G 的 The bill ... sailed through Congress ... In quick succession, the Senate and House passed legislation ... That March, President ... signed an act into law。"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "Artificial Intelligence in Digital Marketing",
+    "cn_title": "人工智能与数字营销",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "人工智能在数字营销中的应用、隐忧与数据依赖",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. (10 points)",
+    "intro": "翻译先抓主干，再处理修饰成分。46 题注意目的状语 to provide... 和过去分词短语 put out through social media 作后置定语；47 题注意 but 连接的转折以及两个 that 宾语从句；48 题注意 Algorithms that... 定语从句和 especially as 引导的原因状语从句；49 题注意 If 条件句、be starved of 的被动含义以及 or 连接的两个并列谓语；50 题注意主语中心词 delivery 及其后置定语，以及 one of the critical challenges 的表语结构。",
+    "paragraphs": [
+      {
+        "en": "There has been some exploration around the use of AI in digital marketing. For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. [[46]]AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media.[[/46]] At the same time AI can also be used to generate content for social media posts and chat sites. AI can also provide a bridge between the need of the brand to communicate emotionally with the customer and identifying their rapidly changing needs.",
+        "zh": "关于人工智能在数字营销中的使用，已有一些探索。例如，人工智能可以通过分析大数据揭示趋势和偏好的信息，从而分析何种广告内容或文案适合向特定目标客户群体“说话”。人工智能还可以用来识别顾客在爱好、喜爱的名人、音乐选择和时尚方面的生活方式选择，从而为通过社交媒体发布的营销信息提供独特内容。与此同时，人工智能还可以用来为社交媒体帖子和聊天网站生成内容。人工智能还能在品牌与顾客进行情感沟通的需求和识别顾客迅速变化的需求之间架起桥梁。"
+      },
+      {
+        "en": "The main disadvantage of using AI to respond to customers is that there are concerns about trusting personal interactions to machines, which could lead not only to the subsequent loss of interpersonal connections, but also to a decrease in marketing personnel. [[47]]Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information.[[/47]] By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. [[48]]Algorithms that are used to simulate human interactions are creating many of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be.[[/48]]",
+        "zh": "用人工智能回应顾客的主要缺点在于，人们担心把人际互动交给机器，这不仅可能导致此后人际联系的丧失，还可能导致营销人员减少。一些人认为，人工智能通过削弱创造力和削减工作岗位，对营销人员的角色产生负面影响，但他们也清楚，这是降低成本、创造新信息的一种方式。有些品牌营销人员允许人工智能开发内容后，可能会发现自己正在失去对品牌叙事的掌控。用于模拟人际互动的算法正在引发上述许多担忧，尤其因为没有人十分确定，用人工智能与顾客互动会带来什么结果。"
+      },
+      {
+        "en": "For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. [[49]]If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication.[[/49]] Therefore, unless customers are prepared to sign release agreements, the use of AI may become somewhat restricted in the future. Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content to the target customers. Data can be gathered on where the customer can be engaged, such as location, devices used, website interactions, and sites visited, to display marketing messages in appropriate forms, including emails, social media posts, pop-up advertisements, and banners at an appropriate frequency. [[50]]The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of the target customer is one of the critical challenges to the digital marketer.[[/50]]",
+        "zh": "要使人工智能发挥作用，数据必须可获取，但个人数据的使用正受到越来越多的监管，数据的自动共享也变得越来越困难。如果顾客不愿意分享数据，人工智能就会缺乏关键信息，无法有效运作，也无法运用机器学习来改进其营销内容和传播。因此，除非顾客愿意签署授权协议，人工智能的使用在未来可能会受到一定限制。人工智能不仅可以帮助创建营销内容，还能提供一种非侵入式的方式，把内容传递给目标顾客。可以收集关于顾客可能在何处被吸引的数据，例如位置、使用的设备、网站互动和访问过的站点，从而以适当的形式、适当的频率展示营销信息，包括电子邮件、社交媒体帖子、弹出式广告和横幅广告。以顾及目标顾客需求的方式非侵入式地传递营销信息，是数字营销人员面临的关键挑战之一。"
+      },
+      {
+        "en": "Understanding humans may be complicated, but we reveal a considerable amount about what appeals to us through our browsing history.",
+        "zh": "理解人类可能很复杂，但我们通过自己的浏览记录，会透露出大量关于什么吸引我们的信息。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media.",
+        "core": "AI can also be used to identify the lifestyle choices of customers.",
+        "structure": "主句 AI can also be used to identify... 是被动结构，to identify 作补足成分；the lifestyle choices of customers 是宾语，regarding their hobbies, favourite celebrities, music choices, and fashions 是介词短语作后置定语；to provide unique content 作目的状语；in marketing messages 是地点状语，put out through social media 是过去分词短语作后置定语修饰 messages。",
+        "key": "lifestyle choices 生活方式选择；regarding 关于；favourite celebrities 喜爱的名人；unique content 独特内容；marketing messages 营销信息；put out 发布、推出。",
+        "translation": "人工智能还可以用来识别顾客在爱好、喜爱的名人、音乐选择和时尚方面的生活方式选择，从而为通过社交媒体发布的营销信息提供独特内容。",
+        "pitfall": "be used to identify 中的 to 是不定式符号，不是介词，不能译成“习惯于识别”；put out through social media 修饰 marketing messages，不是修饰 unique content；regarding 是“关于”，不是“考虑到”。"
+      },
+      "47": {
+        "en": "Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information.",
+        "core": "Some believe that AI is negatively impacting on the marketer's role, but they are aware that it is a way of reducing costs and creating new information.",
+        "structure": "Some believe that... 中 that 引导宾语从句；by reducing creativity and removing jobs 是方式状语，说明 impact 的方式；but 连接转折分句 they are aware that...，其中 that 引导第二个宾语从句；it 指代 AI；a way of reducing costs and creating new information 是表语。",
+        "key": "negatively impact on 对……产生负面影响；marketer's role 营销人员的角色；reduce creativity 削弱创造力；remove jobs 削减岗位；be aware that 意识到；a way of doing sth 做某事的一种方式。",
+        "translation": "一些人认为，人工智能通过削弱创造力和削减工作岗位，对营销人员的角色产生负面影响，但他们也清楚，这是降低成本、创造新信息的一种方式。",
+        "pitfall": "impact 此处作动词，impact on 意为“对……产生影响”，不要译成“撞击”；removing jobs 是“削减工作岗位”，不是“移除工作”；they are aware that... 中的 they 指前面的 Some，不是指营销人员；a way of reducing costs 是“一种降低成本的方式”，不是“正在降低成本”。"
+      },
+      "48": {
+        "en": "Algorithms that are used to simulate human interactions are creating many of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be.",
+        "core": "Algorithms are creating many of these concerns.",
+        "structure": "主句 Algorithms ... are creating many of these concerns 用现在进行时；that are used to simulate human interactions 是定语从句修饰 Algorithms；especially as... 引导原因状语从句，as 意为“因为”；what the outcomes ... will be 是宾语从句作 sure 的宾语，of using AI to interact with customers 是 outcomes 的后置定语。",
+        "key": "algorithm 算法；simulate 模拟；human interactions 人际互动；concern 担忧；no-one is quite sure 没有人十分确定；outcome 结果。",
+        "translation": "用于模拟人际互动的算法正在引发上述许多担忧，尤其因为没有人十分确定，用人工智能与顾客互动会带来什么结果。",
+        "pitfall": "that are used to simulate 是定语从句，不是主句的并列谓语；be used to do 意为“被用来做”，不要与 be used to doing（习惯于）混淆；especially as 表原因，不能译成“尤其是当……时”。"
+      },
+      "49": {
+        "en": "If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication.",
+        "core": "AI will be starved of essential information and will not be able to function effectively or employ machine learning.",
+        "structure": "If customers are not willing to share data 是条件状语从句；主句有两个并列谓语 will be starved of... 和 will not be able to...；be able to 后接 function effectively 与 employ machine learning 两个并列动词；to improve its marketing content and communication 是目的状语。",
+        "key": "be willing to 愿意；be starved of 缺乏、得不到；essential information 关键信息；function effectively 有效运作；employ 运用；machine learning 机器学习。",
+        "translation": "如果顾客不愿意分享数据，人工智能就会缺乏关键信息，无法有效运作，也无法运用机器学习来改进其营销内容和传播。",
+        "pitfall": "be starved of 是“缺乏、得不到”，不是“被饿死”；will not be able to function ... or employ ... 中 or 连接两个不定式，否定的是两者，不能只译“无法运作”而漏掉“运用机器学习”；its 指 AI，不是顾客。"
+      },
+      "50": {
+        "en": "The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of the target customer is one of the critical challenges to the digital marketer.",
+        "core": "The non-intrusive delivery of the marketing messages is one of the critical challenges to the digital marketer.",
+        "structure": "主语是 The non-intrusive delivery of the marketing messages，中心词 delivery 带前置定语 non-intrusive 和后置定语 of...；in a way that is sensitive to the needs of the target customer 是方式状语，其中 that 引导定语从句修饰 way；is one of the critical challenges 是系表结构；to the digital marketer 是后置定语，表示“对……而言的挑战”。",
+        "key": "non-intrusive 非侵入式的、不打扰的；delivery 传递、投放；be sensitive to 顾及、对……敏感；target customer 目标顾客；critical challenge 关键挑战；digital marketer 数字营销人员。",
+        "translation": "以顾及目标顾客需求的方式非侵入式地传递营销信息，是数字营销人员面临的关键挑战之一。",
+        "pitfall": "主语中心词是 delivery，不是 messages，不能译成“营销信息是非侵入式的”；in a way that is sensitive to... 是方式状语，修饰 delivery；challenges to sb 意为“对某人而言的挑战”，不是“某人提出的挑战”；one of the critical challenges 后接复数名词，译作“关键挑战之一”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "A notice & a picture essay",
+    "cn_title": "通知 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "为Smith教授的校园体育活动研究项目招募学生；龙舟赛折射的乡村文化活力与老年人幸福感",
+    "intro": "小作文考“通知格式 + 为 Smith 教授关于校园体育活动的研究项目招募一名学生，说明职责与要求”；大作文考“描述龙舟赛场景 + 揭示乡村文化生活的活跃与老年人的幸福感 + 发表评论”。",
+    "partA": {
+      "title": "Part A · 通知",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Write a notice to recruit a student for Prof. Smith's research project on campus sports activities. Specify the duties and requirements of the job. You should write about 100 words on the ANSWER SHEET. Do not use your own name at the end of the notice; use \"Li Ming\" instead. (10 points)",
+      "prompt_zh": "写一则通知，为 Smith 教授关于校园体育活动的研究项目招募一名学生。请说明该工作的职责与要求。约100词；不要在通知末尾署自己的名字，用“Li Ming”代替。",
+      "sample": "Notice\n\nProf. Smith's research project on campus sports activities is recruiting one student assistant. The assistant will collect data on students' participation in sports, distribute and collect questionnaires, and help organize interviews with team members. The work requires about five hours a week, mostly on weekday afternoons.\n\nApplicants should be second- or third-year students with good communication skills and a basic knowledge of statistics. Familiarity with Excel is required, and experience in organizing campus events is preferred. Those interested should send a brief application to the Student Union office before May 20.\n\nLi Ming\nThe Student Union",
+      "sample_zh": "通知\n\nSmith 教授关于校园体育活动的研究项目现招募一名学生助理。助理将收集学生参加体育活动的数据，发放并回收问卷，并协助组织对队员的访谈。该工作每周约需五小时，主要在工作日下午。\n\n申请者应为二、三年级学生，具备良好的沟通能力和基本的统计学知识。要求熟悉 Excel，有组织校园活动经验者优先。有意者请于5月20日前向学生会办公室提交一份简短的申请。\n\n李明\n学生会",
+      "structure": [
+        [
+          "标题",
+          "Notice（首行居中，单独成行）"
+        ],
+        [
+          "招募事由",
+          "Prof. Smith's research project on campus sports activities is recruiting one student assistant."
+        ],
+        [
+          "职责一",
+          "The assistant will collect data on students' participation in sports, distribute and collect questionnaires, and help organize interviews with team members."
+        ],
+        [
+          "工作时间",
+          "The work requires about five hours a week, mostly on weekday afternoons."
+        ],
+        [
+          "要求一",
+          "Applicants should be second- or third-year students with good communication skills and a basic knowledge of statistics."
+        ],
+        [
+          "要求二",
+          "Familiarity with Excel is required, and experience in organizing campus events is preferred."
+        ],
+        [
+          "报名方式与截止时间",
+          "Those interested should send a brief application to the Student Union office before May 20."
+        ],
+        [
+          "落款",
+          "Li Ming / The Student Union"
+        ]
+      ],
+      "expressions": [
+        "Notice",
+        "... is recruiting one student assistant for ...",
+        "The assistant will be responsible for ...",
+        "The work requires about ... hours a week, mostly on ...",
+        "Applicants should be ... with ...",
+        "Familiarity with ... is required, and ... is preferred.",
+        "Those interested should ... before ...",
+        "Li Ming, The Student Union"
+      ],
+      "traps": [
+        "必须写成 notice（通知），首行居中写 Notice，结尾署名 Li Ming，不能写成书信、电子邮件或海报。",
+        "招募对象只有一名学生，职责要具体（收集数据、发放回收问卷、协助访谈等），不能只写“帮忙做研究”。",
+        "题目要求 specify the duties and requirements，职责与要求两部分都要写全，不能只写其中一项。",
+        "通知面向全校学生，语气正式简洁，多用被动语态和情态动词；约100词，不要写成大段议论。",
+        "不要出现真实姓名、地址或与题目无关的社团介绍；署名处写 Li Ming，不写 Prof. Smith。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160-200 words based on the picture below. In your essay, you should 1) describe the picture briefly, 2) interpret the implied meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "src": "../assets/writing/2023.png",
+        "caption": "龙舟竞渡中的乡村新气象",
+        "note": "图中一条河上两支龙舟队正在竞速，岸边和石桥上站满观看的村民与游客，有人举旗呐喊；近景是一对老年夫妇，老汉拄着拐杖，老伴伸手指向河面，两人笑着说：“真好啊，咱们村的龙舟赛越来越热闹了。”画面以传统龙舟赛为核心，表现乡村文化生活的活跃和老年人的获得感、幸福感。"
+      },
+      "sample": "The picture shows a dragon boat race on a river in a Chinese village. Two dragon-headed boats cut through the water as rowers pull in unison. A crowd has gathered along the bank and on the stone bridge, waving flags and cheering. In the foreground, an elderly couple watch with happy smiles. \"How wonderful!\" the woman says. \"Our village's dragon boat race is getting livelier every year.\"\n\nThe scene reflects the quiet revival of rural cultural life. As villages become better off, traditional folk activities that once faded are returning to the local calendar. A dragon boat race is more than a competition: it brings neighbours together, attracts visitors, and gives young people a reason to come home. For the elderly, the noise and excitement on the river are proof that their community is alive and growing, which matters as much as material comfort.\n\nIn my view, such activities deserve support. Local governments should protect the venues and pass on boat-building and rowing skills, while villagers keep the festival alive. When a village can still make its old people smile at a race, it has found a form of prosperity that GDP cannot fully measure.",
+      "sample_zh": "图中，中国乡村的一条河上正在举行龙舟赛。两条龙头高昂的龙舟破水前行，桨手们齐声划桨。岸上和石桥上挤满了观众，他们挥舞旗帜，呐喊助威。近景处，一对老年夫妇笑容满面地看着比赛。老太太说：“真好啊，咱们村的龙舟赛越来越热闹了。”\n\n这一场景折射出乡村文化生活的悄然复兴。随着村庄日渐富裕，一些曾经淡出的传统民俗活动重新回到当地的节庆日历。龙舟赛不只是一场比赛：它把邻里聚在一起，吸引来游客，也让年轻人有了回家的理由。对老年人来说，河上的喧闹与欢腾正是社区仍然充满生机、不断成长的明证，而这与物质上的富足同样重要。\n\n在我看来，这样的活动值得支持。地方政府应当保护活动场地，把造船和划桨的技艺传承下去，村民自己也要让这一节庆延续下去。当一个村庄仍能让老人们在龙舟赛前露出笑容，它便拥有了一种 GDP 无法完全衡量的富足。",
+      "structure": [
+        [
+          "第一段·描述图画",
+          "The picture shows a dragon boat race on a river in a Chinese village; two dragon-headed boats race while a crowd cheers on the bank and the stone bridge, and an elderly couple in the foreground smile and remark that the village race is livelier every year."
+        ],
+        [
+          "第二段·解释寓意",
+          "The scene reflects the revival of rural cultural life: as villages prosper, traditional folk activities are returning, bringing neighbours together, attracting visitors and giving the elderly a sense of a community that is alive and growing."
+        ],
+        [
+          "第三段·发表评论",
+          "Such activities deserve support; governments should protect the venues and pass on traditional skills, for a village that can still make its old people smile has found a prosperity that GDP cannot fully measure."
+        ]
+      ],
+      "expressions": [
+        "The picture shows ... on a river in a Chinese village.",
+        "Two dragon-headed boats cut through the water as rowers pull in unison.",
+        "A crowd has gathered along the bank and on the stone bridge, waving flags and cheering.",
+        "In the foreground, an elderly couple watch with happy smiles.",
+        "The scene reflects the quiet revival of rural cultural life.",
+        "... is more than a competition: it brings neighbours together and gives young people a reason to come home.",
+        "For the elderly, ... are proof that their community is alive and growing.",
+        "In my view, such activities deserve support.",
+        "... has found a form of prosperity that GDP cannot fully measure."
+      ],
+      "traps": [
+        "描述要覆盖龙舟竞渡、桥上与岸边的观众、近景老年夫妇及其引语，缺一不可；只写“赛龙舟很热闹”会失分。",
+        "寓意要落在乡村文化生活活跃、传统民俗传承、老年人幸福感与获得感，不要偏题成“体育锻炼”“旅游开发”或“代际冲突”。",
+        "引语“真好啊，咱们村的龙舟赛越来越热闹了”要译成英文并融入描述，描述部分用一般现在时。",
+        "160–200词，三段为宜；描述用现在时，分析可用现在时或现在完成时，评论用现在时。",
+        "不要褒贬颠倒，也不要把龙舟赛写成商业比赛或只分析竞技胜负；重点在文化传承与情感温度。"
+      ]
+    }
+  }
+}

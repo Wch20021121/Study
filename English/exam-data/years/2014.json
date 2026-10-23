@@ -1,0 +1,677 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "中年记忆衰退、大脑训练与心智锻炼",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "文章从中年人常见的“记忆短路”写起，先指出这种专注力下降可能造成的损害，再借神经科学说明大脑像肌肉一样需要锻炼，最后介绍一家网络公司推出的“大脑训练项目”。做题时抓住“现象—原因—对策”的推进线，注意 turns out、according to、build on 等固定搭配，以及 While、However 等逻辑信号。",
+    "passage": [
+      {
+        "en": "As many people hit middle age, they often start to notice that their memory and mental clarity are not what they used to be. We suddenly can't remember {{1}} we put the keys just a moment ago, or an old acquaintance's name, or the name of an old band we used to love. As the brain {{2}}, we refer to these occurrences as \"senior moments.\" {{3}} seemingly innocent, this loss of mental focus can potentially have a(n) {{4}} impact on our professional, social, and personal {{5}}.",
+        "zh": "许多人在步入中年时，常常开始注意到自己的记忆力和头脑清晰度已不如从前。我们会突然想不起刚才把钥匙放在了哪里，想不起某个老熟人的名字，也想不起我们曾经喜爱的一支老乐队的名字。随着大脑衰退，我们把这类情况称为“老年健忘时刻”。这种专注力的丧失虽然看似无伤大雅，却可能对我们的职业、社交和个人幸福产生破坏性影响。"
+      },
+      {
+        "en": "Neuroscientists, experts who study the nervous system, are increasingly showing that there's actually a lot that can be done. It {{6}} out that the brain needs exercise in much the same way our muscles do, and the right mental {{7}} can significantly improve our basic cognitive {{8}}. Thinking is essentially a {{9}} of making connections in the brain. To a certain extent, our ability to {{10}} in making the connections that drive intelligence is inherited. {{11}}, because these connections are made through effort and practice, scientists believe that intelligence can expand and fluctuate {{12}} mental effort.",
+        "zh": "研究神经系统的神经科学家越来越多地表明，其实有很多事情可以做。原来，大脑和我们的肌肉一样需要锻炼，而恰当的心智训练能显著改善我们的基本认知功能。思维本质上是一个在大脑中建立联系的过程。在某种程度上，我们是否擅长建立那些驱动智力的联系，是由遗传决定的。然而，由于这些联系是通过努力和练习建立的，科学家相信，智力可以随着心智努力而扩展和波动。"
+      },
+      {
+        "en": "Now, a new Web-based company has taken it a step {{13}} and developed the first \"brain training program\" designed to actually help people improve and regain their mental {{14}}.",
+        "zh": "如今，一家新的网络公司又向前迈进了一步，开发出首个“大脑训练项目”，旨在真正帮助人们改善并恢复头脑的敏锐度。"
+      },
+      {
+        "en": "The Web-based program {{15}} you to systematically improve your memory and attention skills. The program keeps {{16}} of your progress and provides detailed feedback {{17}} your performance and improvement. Most importantly, it {{18}} modifies and enhances the games you play to {{19}} on the strengths you are developing—much like a(n) {{20}} exercise routine requires you to increase resistance and vary your muscle use.",
+        "zh": "这个网络项目让你能够系统地提高记忆力和注意力技能。该项目会跟踪你的进展，并就你的表现和进步提供详细反馈。最重要的是，它会不断调整并增强你所玩的游戏，以强化你正在培养的优势——这很像一套有效的锻炼方案要求你增加阻力、变换肌肉使用方式。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "D",
+        "options": [
+          "that",
+          "when",
+          "why",
+          "where"
+        ],
+        "cn": [
+          "那个（引导从句）",
+          "什么时候",
+          "为什么",
+          "在哪里"
+        ],
+        "explain": "空格引导 remember 的宾语从句，从句 we put the keys just a moment ago 结构完整，只缺地点状语，因此用 where，表示“想不起刚才把钥匙放在哪里了”。that 只起连接作用，不能作地点状语；when 问时间，why 问原因，均与 put the keys 的语境不符。",
+        "trap": "B when 容易因 just a moment ago 被误选，但那是修饰 put 的时间状语，问的是“放在哪里”，不是“什么时候放”。",
+        "type": "宾语从句/连接词"
+      },
+      {
+        "n": 2,
+        "answer": "A",
+        "options": [
+          "fades",
+          "improves",
+          "collapses",
+          "recovers"
+        ],
+        "cn": [
+          "衰退，变弱",
+          "改善",
+          "崩溃",
+          "恢复"
+        ],
+        "explain": "上文说记忆力和头脑清晰度不如从前，下文又把这种现象称为“老年时刻”，可见大脑是在“衰退”，fades 最贴合。improves 和 recovers 方向相反；collapses 表示突然崩溃，程度过重，也不符合逐渐变老的语境。",
+        "trap": "C collapses 语气最强，但大脑不会像建筑一样“倒塌”；这里说的是随年龄增长逐渐衰退。",
+        "type": "动词辨析/语境"
+      },
+      {
+        "n": 3,
+        "answer": "B",
+        "options": [
+          "Unless",
+          "While",
+          "Once",
+          "If"
+        ],
+        "cn": [
+          "除非",
+          "虽然，尽管",
+          "一旦",
+          "如果"
+        ],
+        "explain": "While seemingly innocent 是“虽然（这种丧失）看似无害”的省略结构，while 引导让步状语，与主句 can potentially have a damaging impact 形成对比。Unless 表示“除非”，Once 表示“一旦”，If 表示条件，都不能表达这种让步关系。",
+        "trap": "D If 容易被译成“如果看似无害”，但“看似无害”与“可能造成破坏性影响”之间是让步转折，不是条件关系。",
+        "type": "让步连词"
+      },
+      {
+        "n": 4,
+        "answer": "A",
+        "options": [
+          "damaging",
+          "limited",
+          "uneven",
+          "obscure"
+        ],
+        "cn": [
+          "破坏性的，有害的",
+          "有限的",
+          "不均衡的",
+          "模糊的"
+        ],
+        "explain": "修饰 impact 并与 potentially 搭配，damaging impact 意为“潜在的破坏性影响”，与下文对职业、社交和个人幸福的担忧一致。limited 与 potentially 的严重语气不符；uneven 指“不均衡”，obscure 指“模糊的”，都不能修饰此处的影响。",
+        "trap": "B limited 看似“有限的影响”也说得通，但文章强调这种丧失不容小觑，且 damaging 才能与 professional、social、personal 三方面的负面后果呼应。",
+        "type": "形容词辨析/搭配"
+      },
+      {
+        "n": 5,
+        "answer": "C",
+        "options": [
+          "relationship",
+          "environment",
+          "wellbeing",
+          "outlook"
+        ],
+        "cn": [
+          "关系",
+          "环境",
+          "福祉，幸福",
+          "前景，观点"
+        ],
+        "explain": "professional, social, and personal wellbeing 是固定搭配，意为“职业、社交和个人方面的福祉”，与前文“记忆力和专注力下降”对生活质量的威胁相呼应。relationship 不能与 professional 并列涵盖全部；environment 指外部环境；outlook 指前景或观点，均不合。",
+        "trap": "A relationship 与 social 语义相近，容易因搭配熟悉而误选，但 professional relationship 只是“工作关系”，不能与 personal 并列构成“个人幸福”的完整概念。",
+        "type": "名词辨析/并列搭配"
+      },
+      {
+        "n": 6,
+        "answer": "D",
+        "options": [
+          "figures",
+          "finds",
+          "points",
+          "turns"
+        ],
+        "cn": [
+          "计算出，认为",
+          "发现",
+          "指出",
+          "结果是，原来是"
+        ],
+        "explain": "It turns out that... 是固定句型，意为“结果表明／原来……”，引出神经科学的新发现。figure out 的主语通常是人；find 表示“发现”时主语也多为研究者；point out 意为“指出”，主语 it 指代不明，且不如 turns out 自然。",
+        "trap": "C points 与 out 搭配成 points out“指出”，语法上似乎可行，但此处是客观研究结论的呈现，turns out 才是固定表达。",
+        "type": "固定句型/动词短语"
+      },
+      {
+        "n": 7,
+        "answer": "C",
+        "options": [
+          "responses",
+          "associations",
+          "workouts",
+          "roundabouts"
+        ],
+        "cn": [
+          "反应",
+          "联想",
+          "锻炼，训练",
+          "迂回路，环形交叉路口"
+        ],
+        "explain": "前文把大脑需要锻炼类比为肌肉需要 exercise，此处 the right mental workouts 指“恰当的心智训练”，与 improve our basic cognitive functions 搭配。responses 指反应，associations 指联想，roundabouts 指环形路口，均不能表示训练。",
+        "trap": "B associations 与后文“建立联系”似乎相关，但此处修饰 workouts 的是“训练”，不是“联想”。",
+        "type": "名词辨析/语境"
+      },
+      {
+        "n": 8,
+        "answer": "D",
+        "options": [
+          "genre",
+          "criterion",
+          "circumstances",
+          "functions"
+        ],
+        "cn": [
+          "体裁，类型",
+          "标准",
+          "情况，环境",
+          "功能"
+        ],
+        "explain": "basic cognitive functions 是心理学术语，意为“基本认知功能”，包括记忆、注意等，与前文 improve our memory and attention 相呼应。genre 指文艺体裁，criterion 指标准，circumstances 指情况，均不能与 cognitive 搭配。",
+        "trap": "A genre 表示文艺作品的“体裁”，义项狭窄；C circumstances 常与 social 搭配，容易误选，但不能说 cognitive circumstances。",
+        "type": "名词辨析/术语搭配"
+      },
+      {
+        "n": 9,
+        "answer": "B",
+        "options": [
+          "channel",
+          "process",
+          "condition",
+          "sequence"
+        ],
+        "cn": [
+          "渠道，通道",
+          "过程",
+          "条件",
+          "顺序，序列"
+        ],
+        "explain": "Thinking is essentially a process of making connections in the brain 意为“思维本质上是一个在大脑中建立联系的过程”，process 强调由一系列步骤构成的过程。channel 强调途径，condition 强调条件，sequence 强调先后顺序，都不如 process 准确。",
+        "trap": "D sequence 与“建立联系”有关，但 sequence 强调“顺序”，而此处说的是思维进行的“过程”。",
+        "type": "名词辨析"
+      },
+      {
+        "n": 10,
+        "answer": "C",
+        "options": [
+          "persist",
+          "feature",
+          "excel",
+          "believe"
+        ],
+        "cn": [
+          "坚持",
+          "以……为特色",
+          "擅长，突出",
+          "相信"
+        ],
+        "explain": "excel in doing sth. 意为“擅长做某事”，our ability to excel in making the connections 表示“我们擅长建立联系的能力”，与后文“这种能力部分是遗传的”衔接。persist in 意为“坚持”，feature 作动词意为“以……为特色”，believe 后不接 in doing 表“擅长”，均不合。",
+        "trap": "A persist 与 in 搭配，语法上成立，但“坚持建立联系”与“能力是遗传的”这一话题不搭；此处谈的是能力强弱，不是坚持与否。",
+        "type": "动词辨析/固定搭配"
+      },
+      {
+        "n": 11,
+        "answer": "A",
+        "options": [
+          "However",
+          "Moreover",
+          "Otherwise",
+          "Therefore"
+        ],
+        "cn": [
+          "然而",
+          "而且",
+          "否则",
+          "因此"
+        ],
+        "explain": "前句说建立联系的能力在某种程度上是遗传的，本句说这些联系可以通过努力和练习建立，因此智力可以扩展，前后构成转折，用 However。Moreover 表递进，Otherwise 表相反条件，Therefore 表因果，均不符合“遗传但可塑”的对比。",
+        "trap": "D Therefore 容易因为后句“科学家相信”而被误认为因果，但前句“遗传”与后句“可通过努力改变”之间是转折关系。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 12,
+        "answer": "A",
+        "options": [
+          "according to",
+          "regardless of",
+          "apart from",
+          "instead of"
+        ],
+        "cn": [
+          "根据，随着",
+          "不管，不顾",
+          "除……之外",
+          "而不是"
+        ],
+        "explain": "expand and fluctuate according to mental effort 意为“随心智努力而扩展和波动”，according to 表示“依照，随……而变化”。regardless of 表示“不顾”，与“努力越多、智力越可塑”相反；apart from 表示“除……之外”；instead of 表示替代，均不合。",
+        "trap": "B regardless of 与 according to 都是介词短语，但前者强调“不受影响”，后者强调“随之变化”，语义正好相反。",
+        "type": "介词短语/逻辑"
+      },
+      {
+        "n": 13,
+        "answer": "B",
+        "options": [
+          "back",
+          "further",
+          "aside",
+          "around"
+        ],
+        "cn": [
+          "向后，回到原处",
+          "更进一步",
+          "到一边",
+          "到处，环绕"
+        ],
+        "explain": "take it a step further 是固定表达，意为“把它向前推进一步”，指这家网络公司在已有认识的基础上又开发出大脑训练项目。back 方向相反；aside 意为“放到一边”；around 意为“环绕、到处”，均不构成这一搭配。",
+        "trap": "A back 与 further 方向相反，“take a step back”是“退后一步”，不能表示研究上的推进。",
+        "type": "副词/固定搭配"
+      },
+      {
+        "n": 14,
+        "answer": "D",
+        "options": [
+          "framework",
+          "stability",
+          "flexibility",
+          "sharpness"
+        ],
+        "cn": [
+          "框架",
+          "稳定性",
+          "灵活性",
+          "敏锐，清晰"
+        ],
+        "explain": "regain their mental sharpness 意为“恢复头脑的敏锐”，与 improve and regain 以及上文的 memory and attention skills 相呼应。framework 指框架，stability 指稳定，flexibility 指灵活，都不能准确表达“恢复头脑敏锐”这一目标。",
+        "trap": "B stability 与 mental 搭配成“心理稳定”似乎合理，但该项目的目标是改善记忆和注意力，强调的是“敏锐度”，不是情绪稳定。",
+        "type": "名词辨析/搭配"
+      },
+      {
+        "n": 15,
+        "answer": "C",
+        "options": [
+          "hurries",
+          "reminds",
+          "allows",
+          "forces"
+        ],
+        "cn": [
+          "催促",
+          "提醒",
+          "使能够，允许",
+          "强迫"
+        ],
+        "explain": "allow sb. to do sth. 意为“使某人能够做某事”，The Web-based program allows you to systematically improve... 表示该项目让你能够系统地提高记忆力和注意力。hurry 意为“催促”；remind 虽可接 sb. to do sth.，但意为“提醒某人做”，与项目实际起到的“使能够”作用不符；force 语气过强，均不合。",
+        "trap": "D forces 与 allows 都接 sb. to do，但 force 表示“强迫”，与项目“帮助人们改善”的定位不符；B reminds 语法上成立，但语义是“提醒”，不是“使能够”。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 16,
+        "answer": "B",
+        "options": [
+          "order",
+          "track",
+          "pace",
+          "hold"
+        ],
+        "cn": [
+          "顺序，秩序",
+          "踪迹，记录",
+          "步伐，速度",
+          "握住"
+        ],
+        "explain": "keep track of 是固定短语，意为“记录、跟踪”，keep track of your progress 即“跟踪你的进展”，与后文 provides detailed feedback 衔接。keep order 意为“维持秩序”，keep pace 常与 with 连用，keep hold of 意为“抓住”，都不能接 of your progress 表示跟踪进展。",
+        "trap": "C pace 与 keep 搭配成 keep pace“跟上”，但后面必须接 with；此处是 keep track of，不能混淆。",
+        "type": "固定短语"
+      },
+      {
+        "n": 17,
+        "answer": "A",
+        "options": [
+          "on",
+          "to",
+          "for",
+          "with"
+        ],
+        "cn": [
+          "关于，对于",
+          "向，给",
+          "为了",
+          "和……一起"
+        ],
+        "explain": "feedback on sth. 是固定搭配，意为“关于某事的反馈”，detailed feedback on your performance and improvement 即“就你的表现和进步提供详细反馈”。feedback to sb. 意为“向某人反馈”，但此处宾语是 performance，不是人；for 和 with 均不构成这一搭配。",
+        "trap": "B to 因“give feedback to sb.”而容易误选，但本题空格后是 your performance and improvement，不是人，须用 on。",
+        "type": "介词搭配"
+      },
+      {
+        "n": 18,
+        "answer": "B",
+        "options": [
+          "habitually",
+          "constantly",
+          "irregularly",
+          "unusually"
+        ],
+        "cn": [
+          "习惯性地",
+          "不断地，经常地",
+          "不规则地",
+          "不寻常地"
+        ],
+        "explain": "constantly modifies and enhances the games 意为“不断调整并增强游戏”，强调训练程序持续、反复地根据你的进展作出调整，与 Most importantly 所强调的动态适配一致。habitually 强调习惯，irregularly 强调不规律，unusually 强调不寻常，均不合。",
+        "trap": "A habitually 与 constantly 都可表示“经常”，但前者强调“出于习惯”，后者强调“持续不断地”，此处是程序持续调整，不是习惯。",
+        "type": "副词辨析"
+      },
+      {
+        "n": 19,
+        "answer": "C",
+        "options": [
+          "carry",
+          "put",
+          "build",
+          "take"
+        ],
+        "cn": [
+          "携带，进行",
+          "放置",
+          "建立，增强",
+          "拿，取"
+        ],
+        "explain": "build on sth. 是固定短语，意为“在……的基础上进一步发展／增强”，build on the strengths you are developing 即“强化你正在培养的优势”。carry on 意为“继续”，put on 意为“穿上、增加”，take on 意为“承担、呈现”，均不能与 on the strengths 搭配表达此义。",
+        "trap": "A carry 与 on 搭配成 carry on“继续”，语法成立，但 carry on the strengths 不是“继续优势”，此处需要“在优势基础上增强”。",
+        "type": "动词短语/固定搭配"
+      },
+      {
+        "n": 20,
+        "answer": "D",
+        "options": [
+          "idle",
+          "risky",
+          "familiar",
+          "effective"
+        ],
+        "cn": [
+          "闲置的，无所事事的",
+          "有风险的",
+          "熟悉的",
+          "有效的"
+        ],
+        "explain": "much like an effective exercise routine 意为“很像一套有效的锻炼方案”，与前面“不断增加阻力、变换肌肉使用方式”的训练原则相呼应。idle 意为“闲置的”，risky 意为“有风险的”，familiar 意为“熟悉的”，都不能准确修饰 exercise routine 并表达正面语义。",
+        "trap": "C familiar 与 routine 搭配成“熟悉的常规”似乎通顺，但此处类比的是“有效的锻炼方案”，强调科学性，不是熟悉程度。",
+        "type": "形容词辨析/语境"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 排序",
+    "en_title": "How Archaeologists Find Sites",
+    "cn_title": "考古学家如何寻找遗址",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "考古遗址的发现方式与勘测技术",
+    "type": "ordering",
+    "directions": "The following paragraphs are given in a wrong order. For Questions 41–45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A–G and filling them into the numbered boxes. Paragraphs A and E have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "排序题先找首段和段间接口：代词、连接词、重复词、从概括到具体。A、E 已给定，先读它们，再判断其余段落的前后关系；不要只看段落大意，要找出“上一段末尾”与“下一段开头”的接口。",
+    "paragraphs": {
+      "A": {
+        "en": "Some archaeological sites have always been easily observable — for example, the Parthenon in Athens, Greece; the pyramids of Giza in Egypt; and the megaliths of Stonehenge in southern England. But these sites are exceptions to the norm. Most archaeological sites have been located by means of careful searching, while many others have been discovered by accident. Olduvai Gorge, an early hominid site in Tanzania, was found by a butterfly hunter who literally fell into its deep valley in 1911. Thousands of Aztec artifacts came to light during the digging of the Mexico City subway in the 1970s.",
+        "zh": "有些考古遗址一直很容易被观察到——例如希腊雅典的帕特农神庙、埃及吉萨的金字塔以及英格兰南部的巨石阵。但这些遗址只是惯例中的例外。大多数考古遗址是靠仔细搜寻定位的，还有许多则是偶然发现的。坦桑尼亚的早期人类遗址奥杜威峡谷，就是1911年一位捕蝶者真的跌进其深谷时发现的。20世纪70年代修建墨西哥城地铁时，成千上万件阿兹特克文物重见天日。"
+      },
+      "B": {
+        "en": "In another case, American archaeologists Rene Million and George Cowgill spent years systematically mapping the entire city of Teotihuacan in the Valley of Mexico near what is now Mexico City. At its peak around AD 600, this city was one of the largest human settlements in the world. The researchers mapped not only the city's vast and ornate ceremonial areas, but also hundreds of simpler apartment complexes where common people lived.",
+        "zh": "在另一个案例中，美国考古学家勒内·米利昂和乔治·考吉尔花了数年时间，系统地绘制了墨西哥谷地中、靠近今天墨西哥城的特奥蒂瓦坎整座城市的地图。在公元600年前后的鼎盛时期，这座城市是世界上最大的聚居地之一。研究者不仅绘制了城市广阔而华丽的仪式区域，还绘制了数百座普通人居住的较简朴的公寓院落。"
+      },
+      "C": {
+        "en": "How do archaeologists know where to find what they are looking for when there is nothing visible on the surface of the ground? Typically, they survey and sample (make test excavations on) large areas of terrain to determine where excavation will yield useful information. Surveys and test samples have also become important for understanding the larger landscapes that contain archaeological sites.",
+        "zh": "当地表没有任何可见迹象时，考古学家怎么知道该到哪里去寻找他们要找的东西呢？通常，他们会对大片区域进行勘测和采样（即进行试掘），以确定在哪里发掘才能获得有用的信息。勘测和试掘对于理解包含考古遗址的更大范围的地貌，也变得越来越重要。"
+      },
+      "D": {
+        "en": "Surveys can cover a single large settlement or entire landscapes. In one case, many researchers working around the ancient Maya city of Copan, Honduras, have located hundreds of small rural villages and individual dwellings by using aerial photographs and by making surveys on foot. The resulting settlement maps show how the distribution and density of the rural population around the city changed dramatically between AD 500 and 850, when Copan collapsed.",
+        "zh": "勘测可以覆盖一座大型聚落，也可以覆盖整片地貌。在一个案例中，许多研究人员在洪都拉斯的古玛雅城市科潘周围工作，他们利用航空照片并徒步勘测，找到了数百个小乡村和独立住所。由此绘成的聚落地图显示，公元500年至850年科潘衰亡期间，这座城市周边农村人口的分布和密度发生了急剧变化。"
+      },
+      "E": {
+        "en": "To find their sites, archaeologists today rely heavily on systematic survey methods and a variety of high-technology tools and techniques. Airborne technologies, such as different types of radar and photographic equipment carried by airplanes or spacecraft, allow archaeologists to learn about what lies beneath the ground without digging. Aerial surveys locate general areas of interest or larger buried features, such as ancient buildings or fields.",
+        "zh": "为了找到遗址，今天的考古学家在很大程度上依赖系统的勘测方法以及各种高科技工具和技术。机载技术——例如由飞机或航天器携带的不同类型的雷达和摄影设备——使考古学家无需挖掘就能了解地下有什么。航空勘测可以确定大致的关注区域或较大的地下遗迹，如古代建筑或田地。"
+      },
+      "F": {
+        "en": "Most archaeological sites, however, are discovered by archaeologists who have set out to look for them. Such searches can take years. British archaeologist Howard Carter knew that the tomb of the Egyptian pharaoh Tutankhamun existed from information found in other sites. Carter sifted through rubble in the Valley of the Kings for seven years before he located the tomb in 1922. In the late 1800s British archaeologist Sir Arthur Evans combed antique dealers' stores in Athens, Greece. He was searching for tiny engraved seals attributed to the ancient Mycenaean culture that dominated Greece from the 1400s to 1200s BC. Evans's interpretations of these engravings eventually led him to find the Minoan palace at Knossos (Knossós), on the island of Crete, in 1900.",
+        "zh": "然而，大多数考古遗址是由专门前去寻找它们的考古学家发现的。这样的搜寻可能持续数年。英国考古学家霍华德·卡特从其他遗址发现的信息中得知，埃及法老图坦卡蒙的陵墓确实存在。卡特在帝王谷的碎石中筛找了七年，才于1922年找到这座陵墓。19世纪末，英国考古学家阿瑟·埃文斯爵士翻遍了希腊雅典的古董商店。他在寻找据信属于古迈锡尼文化的微小刻纹印章，该文化在公元前1400年至公元前1200年间统治希腊。埃文斯对这些刻纹的解读，最终使他在1900年找到了克里特岛上克诺索斯的米诺斯宫殿。"
+      },
+      "G": {
+        "en": "Ground surveys allow archaeologists to pinpoint the places where digs will be successful. Most ground surveys involve a lot of walking, looking for surface clues such as small fragments of pottery. They often include a certain amount of digging to test for buried materials at selected points across a landscape. Archaeologists also may locate buried remains by using such technologies as ground radar, magnetic-field recording, and metal detectors. Archaeologists commonly use computers to map sites and the landscapes around sites. Two- and three-dimensional maps are helpful tools in planning excavations, illustrating how sites look, and presenting the results of archaeological research.",
+        "zh": "地面勘测使考古学家能够确定哪些地方发掘会取得成功。大多数地面勘测需要大量步行，寻找地表线索，例如小片陶器碎片。勘测通常还包括一定量的挖掘，以在整片地貌中的选定地点探测埋藏物。考古学家还可能利用地面雷达、磁场记录和金属探测器等技术来定位地下遗存。考古学家通常使用计算机绘制遗址及遗址周边地貌的地图。二维和三维地图是规划发掘、展示遗址原貌以及呈现考古研究成果的有用工具。"
+      }
+    },
+    "fixed_note": "原卷已给定两段：A 位于第 2 段（紧接 41），E 位于第 4 段（紧接 42、位于 43 之前）。41、42、43、44、45 分别从剩余段落 C、F、G、D、B 中选择，最终顺序为 C–A–F–E–G–D–B。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "C",
+        "explain": "首段要提出问题并引出说明对象。C 以 How do archaeologists know where to find... 设问，随后回答“通常进行勘测和采样”，并点出勘测对理解更大范围地貌的意义，恰好统摄后文对空中与地面勘测、具体案例的展开；其余段落都缺少这种总起功能。",
+        "clue": "How do archaeologists know where to find...? Typically, they survey and sample..."
+      },
+      {
+        "n": 42,
+        "answer": "F",
+        "explain": "A 末句列举奥杜威峡谷和墨西哥城地铁两个“偶然发现”的例子，F 以 Most archaeological sites, however, are discovered by archaeologists who have set out to look for them 转折，指出多数遗址其实是考古学家主动寻找的结果，并用卡特、埃文斯两个耗时多年的例子支撑，与 A 构成“偶然—主动”的对照。",
+        "clue": "however; set out to look for them; Carter... seven years; Evans..."
+      },
+      {
+        "n": 43,
+        "answer": "G",
+        "explain": "E 末句说航空勘测用于确定“大致的关注区域或较大的地下遗迹”，G 紧接着转向地面勘测，说明它能让考古学家“精确确定哪里值得发掘”，并补充步行、试掘、地面雷达和计算机制图，与 E 形成“空中—地面”“大致—精确”的递进。",
+        "clue": "Ground surveys... pinpoint the places where digs will be successful；与 Aerial surveys locate general areas 相对。"
+      },
+      {
+        "n": 44,
+        "answer": "D",
+        "explain": "G 末句提到考古学家常用计算机绘制遗址及周边地貌的地图，D 以 Surveys can cover a single large settlement or entire landscapes 承接“勘测范围”，并以洪都拉斯科潘为例说明聚落图如何反映人口分布变化，maps 与 G 的 mapping 相呼应。",
+        "clue": "Surveys can cover... entire landscapes; In one case... settlement maps"
+      },
+      {
+        "n": 45,
+        "answer": "B",
+        "explain": "D 用 In one case 介绍科潘周边的聚落勘测，B 以 In another case 引出特奥蒂瓦坎城的系统测绘，两个案例结构平行，且都涉及聚落与民居，B 置于全文末尾收束例证最自然。",
+        "clue": "In another case; Teotihuacan; mapped... apartment complexes"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "Beethoven: Music, Freedom and Courage",
+    "cn_title": "贝多芬：音乐、自由与勇气",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "贝多芬音乐的革命性、自由观与直面苦难的勇气",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on the ANSWER SHEET. (10 points)",
+    "intro": "翻译先拆结构，再定主干，最后按中文语序重排。第46句是 why 引导的定语从句套 when 从句，注意 all we can do is 后省略 to；第47句是 and 连接的并列分句，let alone 表递进；第48句主语后接 of doing... and following... 的介词短语，不能把 following 误作谓语；第49句是倒装句，which 修饰 freedom；第50句是 by saying that... 的方式状语，render 后接复合宾语。",
+    "paragraphs": [
+      {
+        "en": "Music means different things to different people and sometimes even different things to the same person at different moments of his life. It might be poetic, philosophical, sensual, or mathematical, but in any case it must, in my view, have something to do with the soul of the human being. Hence it is metaphysical; but the means of expression is purely and exclusively physical: sound. I believe it is precisely this permanent coexistence of metaphysical message through physical means that is the strength of music. [[46]]It is also the reason why when we try to describe music with words, all we can do is articulate our reactions to it, and not grasp music itself.[[/46]]",
+        "zh": "音乐对不同的人意味着不同的东西，有时甚至对同一个人在其生命的不同时刻也意味着不同的东西。它可能是诗意的、哲学的、感官的，或数学的，但在我看来，无论如何它都必须与人的灵魂有关。因此它是形而上的；但表现手段却纯粹而只能是物理的：声音。我相信，正是这种形而上信息通过物理手段的永久共存，构成了音乐的力量。这也解释了为什么当我们试图用语言描述音乐时，我们所能做的只是表达自己对音乐的反应，而无法把握音乐本身。"
+      },
+      {
+        "en": "Beethoven's importance in music has been principally defined by the revolutionary nature of his compositions. He freed music from hitherto prevailing conventions of harmony and structure. Sometimes I feel in his late works a will to break all signs of continuity. The music is abrupt and seemingly disconnected, as in the last piano sonata. In musical expression, he did not feel restrained by the weight of convention. [[47]]By all accounts he was a freethinking person, and a courageous one, and I find courage an essential quality for the understanding, let alone the performance, of his works.[[/47]]",
+        "zh": "贝多芬在音乐中的重要性，主要由其作品的革命性所界定。他把音乐从当时盛行的和声与结构惯例中解放出来。有时我在他的晚期作品中感受到一种打破一切连续性迹象的意志。音乐突兀而看似不连贯，正如最后一首钢琴奏鸣曲那样。在音乐表达上，他并不觉得受到惯例重压的束缚。据大家所说，他是一个思想自由的人，也是一个勇敢的人；而我认为，勇气是理解其作品——更不用说演奏其作品——必不可少的品质。"
+      },
+      {
+        "en": "This courageous attitude in fact becomes a requirement for the performers of Beethoven's music. His compositions demand the performer to show courage, for example in the use of dynamics. [[48]]Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him.[[/48]]",
+        "zh": "这种勇敢的态度实际上成为贝多芬音乐演奏者的一项要求。他的作品要求演奏者展现勇气，例如在力度的运用上。贝多芬习惯于以极端的强度增大音量，然后突然接上一段柔和的乐段，在他之前的作曲家中很少有人这样做。"
+      },
+      {
+        "en": "Beethoven was a deeply political man in the broadest sense of the word. He was not interested in daily politics, but concerned with questions of moral behavior and the larger questions of right and wrong affecting the entire society. [[49]]Especially significant was his view of freedom, which, for him, was associated with the rights and responsibilities of the individual: he advocated freedom of thought and of personal expression.[[/49]]",
+        "zh": "贝多芬是一个广义上极具政治性的人。他对日常政治不感兴趣，但关心道德行为问题，以及影响整个社会的是非善恶等更大的问题。尤其重要的是他的自由观：在他看来，自由与个人的权利和责任相联系——他主张思想自由和个人表达自由。"
+      },
+      {
+        "en": "Beethoven's music tends to move from chaos to order as if order were an imperative of human existence. For him, order does not result from forgetting or ignoring the disorders that plague our existence; order is a necessary development, an improvement that may lead to the Greek ideal of spiritual elevation. It is not by chance that the Funeral March is not the last movement of the Eroica Symphony, but the second, so that suffering does not have the last word. [[50]]One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living.[[/50]]",
+        "zh": "贝多芬的音乐往往从混乱走向秩序，仿佛秩序是人类存在的一种必需。对他而言，秩序并非来自遗忘或无视那些困扰我们存在的失序；秩序是一种必要的发展，一种可能通向希腊式精神升华理想的进步。《葬礼进行曲》不是《英雄交响曲》的最后一个乐章，而是第二乐章，这并非偶然，为的是让苦难不能拥有最终发言权。人们可以这样解读贝多芬的许多作品：苦难是不可避免的，但与之抗争的勇气使生命值得一过。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "It is also the reason why when we try to describe music with words, all we can do is articulate our reactions to it, and not grasp music itself.",
+        "core": "It is also the reason why all we can do is articulate our reactions to it, and not grasp music itself.",
+        "structure": "主句为 It is also the reason；why 引导定语从句修饰 reason，从句中 when 引导时间状语从句。all we can do 是主语，we can do 是省略关系词的定语从句修饰 all；is 后接并列不定式 articulate... and not grasp...，因主语部分含 do，作表语的不定式通常省略 to。",
+        "key": "reason why... 做……的原因；articulate 表达，清楚说出；reaction 反应；grasp 把握，理解；music itself 音乐本身。",
+        "translation": "这也解释了为什么当我们试图用语言描述音乐时，我们所能做的只是表达自己对音乐的反应，而无法把握音乐本身。",
+        "pitfall": "all we can do is articulate 中 is 后省略了 to，不能译成“所有我们能做的是表达了”；not grasp 与 articulate 并列，否定的是“把握音乐本身”，不是“不表达反应”；why 从句较长，翻译时先译“这也解释了为什么……”。"
+      },
+      "47": {
+        "en": "By all accounts he was a freethinking person, and a courageous one, and I find courage an essential quality for the understanding, let alone the performance, of his works.",
+        "core": "He was a freethinking and courageous person, and I find courage an essential quality.",
+        "structure": "and 连接两个并列分句。By all accounts 是状语，意为“据大家所说”；one 替代前面的 person；find courage an essential quality 是 find + 宾语 + 宾语补足语；for the understanding, let alone the performance, of his works 中 let alone 连接递进成分，意为“更不用说”。",
+        "key": "by all accounts 据大家所说；freethinking 思想自由的；courageous 勇敢的；essential quality 必不可少的品质；let alone 更不用说；performance 演奏。",
+        "translation": "据大家所说，他是一个思想自由的人，也是一个勇敢的人；而我认为，勇气是理解其作品——更不用说演奏其作品——必不可少的品质。",
+        "pitfall": "let alone 不是“别管”，而是“更不用说”，且前后为递进：理解作品尚且需要勇气，演奏作品更需要；the understanding... of his works 不是“作品的理解力”；one 指代 person，翻译时要补出“人”。"
+      },
+      "48": {
+        "en": "Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him.",
+        "core": "Beethoven's habit was only rarely used by composers before him.",
+        "structure": "主语是 Beethoven's habit，of increasing... and then abruptly following... 是介词短语作后置定语，说明习惯的具体内容；was only rarely used by... 是被动谓语；it 指 the volume；with an extreme intensity 表程度，with a sudden soft passage 表方式。",
+        "key": "volume 音量；intensity 强度；abruptly 突然地；soft passage 柔和的乐段；rarely 很少；composer 作曲家。",
+        "translation": "贝多芬习惯于以极端的强度增大音量，然后突然接上一段柔和的乐段，在他之前的作曲家中很少有人这样做。",
+        "pitfall": "habit of increasing... and following... 是一个整体，不能把 following 看成与 was 并列的谓语；with a sudden soft passage 意为“以一段突然的柔和乐段”，不是“带着一条柔和的通道”；rarely 本身含否定，不能译成“经常”。"
+      },
+      "49": {
+        "en": "Especially significant was his view of freedom, which, for him, was associated with the rights and responsibilities of the individual: he advocated freedom of thought and of personal expression.",
+        "core": "His view of freedom was especially significant.",
+        "structure": "全句是倒装，表语 Especially significant 提前，主语是 his view of freedom；which 引导非限制性定语从句修饰 freedom，说明在他眼中自由与个人的权利和责任相联系；for him 是插入语；冒号后的分句解释说明，advocated 的宾语是 freedom of thought 与 (freedom) of personal expression。",
+        "key": "significant 重要的；view of freedom 自由观；be associated with 与……相联系；rights and responsibilities 权利与责任；individual 个人；advocate 主张，倡导。",
+        "translation": "尤其重要的是他的自由观：在他看来，自由与个人的权利和责任相联系——他主张思想自由和个人表达自由。",
+        "pitfall": "倒装要还原为“他的自由观尤其重要”；which 的先行词是 freedom，不是 view，不要译成“这种观点与权利和责任相联系”；冒号后 of personal expression 与 of thought 并列，共享 freedom；individual 是“个人”，不要生硬译成“个体的人”。"
+      },
+      "50": {
+        "en": "One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living.",
+        "core": "One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living.",
+        "structure": "主句为 One could interpret much of the work of Beethoven；by saying that... 是方式状语；that 引导宾语从句，从句由 but 连接两个并列分句；the courage to fight it 中 it 指 suffering；renders life worth living 是 render + 宾语 + 宾语补足语。",
+        "key": "interpret 解读，诠释；much of the work 大部分作品；inevitable 不可避免的；fight 与……抗争；render 使；worth living 值得过。",
+        "translation": "人们可以这样解读贝多芬的许多作品：苦难是不可避免的，但与之抗争的勇气使生命值得一过。",
+        "pitfall": "by saying that... 是解读的方式，不能生硬译成“通过说……”；it 指 suffering，不是 life；render life worth living 是“使生命值得过”，不是“给予生命”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "A letter & a picture essay",
+    "cn_title": "建议信 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "给校长写信建议改善学生体质；三十年间母女角色互换与孝道",
+    "intro": "小作文考“给校长写建议信，改善学生体质”，要有称呼、写信目的、两三条具体建议和礼貌结尾；大作文考“三十年前母亲牵女儿、现在女儿搀母亲”的图画，寓意是孝道与代际反哺，按“描述—阐释—评论”三段展开。",
+    "partA": {
+      "title": "Part A · 建议信",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Write a letter of about 100 words to the president of your university, suggesting how to improve students' physical condition. You should include the details you think necessary. You should write neatly on the ANSWER SHEET. Do not sign your own name at the end of the letter. Use \"Li Ming\" instead. Do not write the address. (10 points)",
+      "prompt_zh": "给你所在大学的校长写一封约100词的信，就如何改善学生体质提出建议。你认为必要的细节都应写入。结尾不要签自己的名字，用“Li Ming”；不要写地址。",
+      "sample": "Dear President,\n\nI am writing to suggest ways to improve students' physical condition. Many students spend most of their day sitting in classrooms or at computers, and few take regular exercise.\n\nFirst, the university could extend the opening hours of the gym and offer free fitness classes in the evening. Second, more sports facilities, such as basketball courts and running tracks, should be made available on campus. Third, physical education courses could be made more varied and interesting so that more students take part.\n\nI hope you will consider these suggestions. I am confident that they will help students stay healthy.\n\nYours sincerely,\nLi Ming",
+      "sample_zh": "尊敬的校长：\n\n我写信是想就改善学生体质提出一些建议。许多学生一天大部分时间都坐在教室里或电脑前，很少有人坚持锻炼。\n\n首先，学校可以延长体育馆的开放时间，并在晚上开设免费的健身课程。其次，校园里应提供更多体育设施，如篮球场和跑道。第三，体育课可以安排得更丰富、更有趣，让更多学生参与。\n\n希望您能考虑这些建议。我相信它们会帮助学生保持健康。\n\n此致\n敬礼\n李明",
+      "structure": [
+        [
+          "称呼",
+          "Dear President,"
+        ],
+        [
+          "写信目的",
+          "I am writing to suggest ways to improve students' physical condition."
+        ],
+        [
+          "现状与问题",
+          "Many students spend most of their day sitting in classrooms or at computers, and few take regular exercise."
+        ],
+        [
+          "建议一",
+          "First, the university could extend the opening hours of the gym and offer free fitness classes in the evening."
+        ],
+        [
+          "建议二",
+          "Second, more sports facilities, such as basketball courts and running tracks, should be made available on campus."
+        ],
+        [
+          "建议三",
+          "Third, physical education courses could be made more varied and interesting so that more students take part."
+        ],
+        [
+          "期待与结尾",
+          "I hope you will consider these suggestions. I am confident that they will help students stay healthy."
+        ],
+        [
+          "落款",
+          "Yours sincerely, Li Ming"
+        ]
+      ],
+      "expressions": [
+        "I am writing to suggest ways to improve...",
+        "Many students spend most of their day sitting in classrooms or at computers.",
+        "the university could extend the opening hours of the gym",
+        "should be made available on campus",
+        "physical education courses could be made more varied and interesting",
+        "I hope you will consider these suggestions.",
+        "I am confident that they will help students..."
+      ],
+      "traps": [
+        "题目要求写给校长，称呼可用 Dear President，语气礼貌正式；结尾署 Li Ming，不要写自己的真实姓名，也不要写地址。",
+        "建议要具体可操作（延长场馆开放时间、增加设施、丰富体育课），只写“希望学校重视体育”会失分。",
+        "约100词，书信格式要完整（称呼、正文、结束语、署名），不要写成通知或倡议书。",
+        "注意 suggest 的搭配：suggest ways to do sth.、suggest doing sth. 或 suggest that sb. (should) do sth.，不要写 suggest sb. to do sth.。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160–200 words based on the following drawing. In your essay, you should 1) describe the drawing briefly, 2) interpret its intended meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "src": "../assets/writing/2014.png",
+        "caption": "三十年前母亲牵着女儿，现在女儿搀扶着母亲",
+        "note": "画面分左右两栏。左栏图注为“三十年前……”：一位留着长发的年轻母亲手提包，牵着小女儿的手向前走，小女孩穿着连衣裙、戴着帽子。右栏图注为“现在……”：当年的女儿已长大成人，提着手袋，挽着年迈母亲的胳膊，母亲头发花白、戴着眼镜，步履已不如从前。两幅图并置，表现三十年间母女角色互换：母亲曾牵着女儿长大，女儿如今搀扶着母亲变老。"
+      },
+      "sample": "The drawing consists of two panels set thirty years apart. In the left one, a young mother holding a bag takes her little daughter by the hand, and the caption reads \"Thirty years ago...\". In the right one, the daughter has grown up; now she carries a handbag and gently supports her aged mother by the arm, with the caption \"Now...\". The roles have been reversed.\n\nThis silent reversal carries a clear message about filial piety. Our parents give us their youth, care and patience; when they grow old and weak, it is our turn to give back. Supporting them is not merely a legal duty but a moral response to love we have received. In a society that is aging rapidly, such care within the family remains irreplaceable.\n\nI am deeply moved by the picture. We should not wait until our parents need help to think about them. A phone call, a walk together, or a few hours of company can mean a great deal. Let us repay their love while we still can.",
+      "sample_zh": "这幅画由相隔三十年的两幅图组成。左图中，一位提着包的年轻母亲牵着小女儿的手，图注写着“三十年前……”。右图中，女儿已经长大；如今她提着手袋，轻轻搀扶着年迈母亲的胳膊，图注写着“现在……”。母女角色已经互换。\n\n这一无声的互换传达了关于孝道的明确信息。父母把青春、关爱和耐心给了我们；当他们年老体弱时，就轮到我们回报了。赡养他们不仅是法律义务，更是对所受之爱的道德回应。在迅速老龄化的社会中，家庭内部的这种照料仍然不可替代。\n\n我深受这幅画触动。我们不应等到父母需要帮助时才想起他们。一个电话、一次散步，或几个小时的陪伴，都意义重大。趁我们还能，去回报他们的爱吧。",
+      "structure": [
+        [
+          "第一段·描述图画",
+          "The drawing consists of two panels set thirty years apart: a young mother takes her little daughter by the hand; thirty years later, the grown daughter supports her aged mother by the arm. The roles have been reversed."
+        ],
+        [
+          "第二段·揭示寓意",
+          "This silent reversal carries a message about filial piety: parents give us their youth and care, and when they grow old it is our turn to give back. Family care remains irreplaceable in an aging society."
+        ],
+        [
+          "第三段·给出评论",
+          "Moved by the picture, we should not wait until our parents need help. A phone call, a walk or a few hours of company can mean a great deal; repay their love while we can."
+        ]
+      ],
+      "expressions": [
+        "The drawing consists of two panels set thirty years apart.",
+        "The roles have been reversed.",
+        "This silent reversal carries a clear message about filial piety.",
+        "Our parents give us their youth, care and patience; it is our turn to give back.",
+        "not merely a legal duty but a moral response to love",
+        "We should not wait until our parents need help to think about them.",
+        "Let us repay their love while we still can."
+      ],
+      "traps": [
+        "描述要抓住左右两栏与图注“三十年前……”“现在……”的对照：母亲牵女儿 → 女儿搀母亲，写清“角色互换”，不要只写“母女感情好”。",
+        "寓意要落在孝道、赡养父母、代际反哺，不要偏成“时间流逝”“母爱伟大”或单纯讨论社会养老制度。",
+        "评论要具体（陪伴、电话、常回家看看），避免只喊“百善孝为先”的空话；160–200词，三段为宜，描述用一般现在时。",
+        "不要把左图的母亲误写成祖母、右图的女儿误写成护士；图中没有医院场景，主题是家庭内部的照料。"
+      ]
+    }
+  }
+}

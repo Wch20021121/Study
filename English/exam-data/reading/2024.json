@@ -1,0 +1,3553 @@
+{
+  "meta": {
+    "year": 2024,
+    "exam": "2024 年全国硕士研究生招生考试",
+    "subject": "英语（一）",
+    "title": "2024 英语（一）阅读精讲",
+    "overview": "- 主题：四篇文章依次讨论低成本技术的变革力量、从狩猎采集社会借鉴共同养育、艺术家对生成式 AI 版权与隐私风险的回应，以及美国最高法院裁决后切萨皮克湾湿地保护面临的跨州治理问题。\n- 行文逻辑：各篇分别以钉子价格史、非洲共同养育实践、艺术家姓名被用作 AI 提示词和切萨皮克湾生态价值切入，通过历史比较、研究数据、人物经历或法律影响分析揭示问题，最终提出具有现实指向的判断或行动建议。",
+    "topics": [
+      "低成本技术的变革力量",
+      "从狩猎采集社会借鉴共同养育",
+      "艺术家对生成式 AI 版权与隐私风险的回应",
+      "美国最高法院裁决后切萨皮克湾湿地保护面临的跨州治理问题"
+    ],
+    "stats": {
+      "sentences": 64,
+      "vocab": 191
+    }
+  },
+  "reading": [
+    {
+      "id": "text1",
+      "kicker": "Section II · Part A",
+      "title": "Text 1",
+      "en_title": "Nearly 2,000 years ago, as the Romans began to pull out of Scotland, t…",
+      "cn_title": "低成本技术的变革力量",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "低成本技术的变革力量",
+      "intro": "本篇主题：低成本技术的变革力量。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "Nearly 2,000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things. The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel.",
+          "zh": "近 2,000 年前，当罗马人开始撤离苏格兰时，他们留下了一批奇特的宝藏：10 吨钉子，数量接近 100 万枚。 这批钉子于 1960 年在一个深 4 米、上覆 2 米厚砾石的坑中被发现。"
+        },
+        {
+          "en": "Why had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed, and they didn’t want the local Caledonians getting their hands on 10 tons of weapon-grade iron. The Romans buried the nails so deep that they would not be discovered for almost two millennia.",
+          "zh": "罗马人为什么要埋下 100 万枚钉子？ 较为可信的解释是，这次撤退十分仓促，而且罗马人不想让当地的喀里多尼亚人得到这 10 吨可用于制造武器的铁。 罗马人把这些钉子埋得如此之深，以至于它们在将近两千年里都未被发现。"
+        },
+        {
+          "en": "Later civilisations would value the skilled blacksmith’s labour in a nail even more than the raw material. As Roma Agrawal explains in her new delightful book Nuts and Bolts, early 17th-century Virginians would sometimes burn down their homes if they were planning to relocate. This was an attempt to recover the valuable nails, which could be reused after sifting the ashes. The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was.",
+          "zh": "后来的文明对一枚钉子中所凝结的熟练铁匠劳动，甚至比对其原材料本身更为看重。 正如罗马·阿格拉瓦尔在她那本令人愉快的新书《螺母与螺栓》中所述，17 世纪早期的弗吉尼亚人如果打算搬迁，有时会烧掉自己的房屋。 这样做是为了找回那些珍贵的钉子；筛过灰烬后，这些钉子还可以再次使用。 有人竟可能为了取回钉子而烧掉整栋房屋，这一事实凸显了这种看似简单的技术当时多么稀缺、昂贵而珍贵。"
+        },
+        {
+          "en": "The price of nails fell by 90% between the late 1700s and mid-1900s, as economist Daniel Sichel points out in a research paper. According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply found more efficient ways to turn steel into nails.",
+          "zh": "正如经济学家丹尼尔·西切尔在一篇研究论文中指出的那样，从 18 世纪晚期到 20 世纪中期，钉子的价格下降了 90%。 西切尔认为，尽管钉子降价在一定程度上是由铁和能源成本下降推动的，但主要功劳应归于制钉商，因为他们找到了把钢材制成钉子的更高效方法。"
+        },
+        {
+          "en": "Nails themselves have changed over the years, but Sichel studied them because they haven’t changed much. Roman lamps and Roman chariots are very different from LED strips and sports cars, but Roman nails are still clearly nails. It would be absurd to try to track the changing price of sports cars since 1695, but to ask the same question of nails makes perfect sense.",
+          "zh": "这些年来，钉子本身确实有所变化，但西切尔之所以研究它们，恰恰是因为它们变化不大。 罗马时代的灯和战车与如今的 LED 灯带和跑车已大不相同，但罗马时代的钉子显然仍然是我们所熟悉的钉子。 试图追踪自 1695 年以来跑车价格的变化会十分荒谬，但对钉子提出同样的问题却完全合理。"
+        },
+        {
+          "en": "I make no apology for being obsessed by a particular feature of these objects: their price. I am an economist, after all. After writing two books about the history of inventions, one thing I’ve learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it’s the cheap technologies that change the world.",
+          "zh": "我毫不掩饰自己对这些物件某一特征的痴迷，那就是它们的价格。 毕竟，我是一名经济学家。 在写完两本有关发明史的书后，我明白了一件事：尽管那些精妙复杂的技术吸引了所有宣传与关注，真正改变世界的却是廉价技术。"
+        },
+        {
+          "en": "The Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost — and it would have achieved little without a parallel collapse in the price of surfaces to write on, thanks to an often-overlooked technology called paper. Solar panels had few niche uses until they became cheap; now they are transforming the global energy system.",
+          "zh": "古腾堡印刷机改变文明，并非因为它改变了书写的本质，而是因为它改变了书写的成本；而若不是得益于一种常被忽视的技术——纸张，使可供书写的载体价格同步大幅下降，印刷机也不会取得多少成效。 太阳能板在变得廉价之前只有少数小众用途；如今，它们正在改变全球能源体系。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 21,
+          "stem": "The Romans buried the nails probably for the sake of ____",
+          "options": [
+            "saving them for future use.",
+            "keeping them from rusting.",
+            "letting them grow in value.",
+            "hiding them from the locals."
+          ],
+          "answer": "D",
+          "explain": "正确项：hiding them from the locals. 原文说罗马人不希望当地的喀里多尼亚人得到这些可用于制造武器的铁，因此把钉子深埋起来。hiding them from the locals 准确概括了这一目的。\n其他选项：A. saving them for future use.：无中生有。原文没有说罗马人计划回来取用；仓促撤退和深埋近两千年的结果都不支持“留待日后使用”。；B. keeping them from rusting.：偷换目的。砾石深埋只说明隐藏得严密，原文没有提到防锈。；C. letting them grow in value.：无中生有。文章讨论钉子在后世的价值，但罗马人的动机是防止当地人取得武器级铁，并非投资增值。",
+          "evidence": "The likely explanation is that the withdrawal was rushed, and they didn’t want the local Caledonians getting their hands on 10 tons of weapon-grade iron.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 22,
+          "stem": "The example of early 17th-century Virginians is used to ____",
+          "options": [
+            "highlight the thriftiness of early American colonists.",
+            "illustrate the high status of blacksmiths in that period.",
+            "contrast the attitudes of different civilisations towards nails.",
+            "show the preciousness of nail-making technology at that time."
+          ],
+          "answer": "D",
+          "explain": "正确项：show the preciousness of nail-making technology at that time. 原文用 underlines how scarce, costly and valuable 明示举例目的：人们甚至愿意烧掉房屋来回收钉子，足见当时制钉所代表的技术和劳动十分稀缺、昂贵而珍贵。\n其他选项：A. highlight the thriftiness of early American colonists.：以偏概全。回收钉子的行为看似节俭，但作者强调的是钉子和制钉技术的稀缺价值，不是在评价殖民者的生活品格。；B. illustrate the high status of blacksmiths in that period.：张冠李戴。文章提到铁匠的熟练劳动很有价值，却没有说明铁匠具有很高的社会地位。；C. contrast the attitudes of different civilisations towards nails.：错判例证功能。前文虽跨越不同文明，但该事例用于强化钉子曾十分珍贵，而非比较各文明的态度差异。",
+          "evidence": "The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 23,
+          "stem": "What played the major role in lowering the price of nails after the late 1700s?",
+          "options": [
+            "Increased productivity.",
+            "Wider use of new energies.",
+            "Fiercer market competition.",
+            "Reduced cost of raw materials."
+          ],
+          "answer": "A",
+          "explain": "正确项：Increased productivity. more efficient ways to turn steel into nails 表示制钉商提高了生产效率，most of the credit 又表明这才是钉价下降的主要原因，因此对应 Increased productivity。\n其他选项：B. Wider use of new energies.：无中生有。原文只说能源变得更便宜，没有说新型能源得到更广泛使用。；C. Fiercer market competition.：无中生有。文中没有讨论市场竞争程度。；D. Reduced cost of raw materials.：次要原因冒充主要原因。更便宜的铁确实有部分作用，但位于 although 让步从句中；题干所问的 major role 对应主句的效率提升。",
+          "evidence": "According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply found more efficient ways to turn steel into nails.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 24,
+          "stem": "It can be learned from Paragraph 5 that nails ____",
+          "options": [
+            "have undergone many technological improvements.",
+            "have remained basically the same since Roman times.",
+            "are less studied than other everyday products.",
+            "are one of the world’s most significant inventions."
+          ],
+          "answer": "B",
+          "explain": "正确项：have remained basically the same since Roman times. haven't changed much 和 Roman nails are still clearly nails 都说明钉子虽有细微变化，但自罗马时代以来基本保持不变。选项中的 basically 准确保留了这一限定。\n其他选项：A. have undergone many technological improvements.：与原文重心相反。原文强调钉子变化不大，而非经历了许多技术改进。；C. are less studied than other everyday products.：无中生有。段落解释西切尔为什么研究钉子，没有比较不同日用品被研究的多少。；D. are one of the world’s most significant inventions.：范围扩大。作者说明钉子适合用来研究长期价格，并未把它评为世界上最重要的发明之一。",
+          "evidence": "Nails themselves have changed over the years, but Sichel studied them because they haven’t changed much.\nRoman lamps and Roman chariots are very different from LED strips and sports cars, but Roman nails are still clearly nails.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 25,
+          "stem": "Which of the following best summarises the last two paragraphs?",
+          "options": [
+            "Cheap technologies bring about revolutionary change.",
+            "Technological innovation is integral to economic success.",
+            "Technology defines people’s understanding of the world.",
+            "Sophisticated technologies develop from small inventions."
+          ],
+          "answer": "A",
+          "explain": "正确项：Cheap technologies bring about revolutionary change. 第六段直接提出 it's the cheap technologies that change the world，第七段再以印刷机、纸张和太阳能板证明：技术因成本下降而广泛普及时，能够推动文明或能源体系的革命性变化。\n其他选项：B. Technological innovation is integral to economic success.：偷换主题。末两段谈低成本技术如何改变世界，不是企业或国家如何取得经济成功。；C. Technology defines people’s understanding of the world.：无中生有。文章讨论技术成本与现实影响，没有讨论技术如何界定人类认知。；D. Sophisticated technologies develop from small inventions.：逻辑错位。原文对比复杂技术与廉价技术，并未说复杂技术由小发明发展而来。",
+          "evidence": "After writing two books about the history of inventions, one thing I’ve learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it’s the cheap technologies that change the world.\nThe Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost — and it would have achieved little without a parallel collapse in the price of surfaces to write on, thanks to an often-overlooked technology called paper.\nSolar panels had few niche uses until they became cheap; now they are transforming the global energy system.",
+          "trap": "",
+          "type": "细节"
+        }
+      ]
+    },
+    {
+      "id": "text2",
+      "kicker": "Section II · Part A",
+      "title": "Text 2",
+      "en_title": "Parenting tips obtained from hunter-gatherers in Africa may be the key…",
+      "cn_title": "从狩猎采集社会借鉴共同养育",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "从狩猎采集社会借鉴共同养育",
+      "intro": "本篇主题：从狩猎采集社会借鉴共同养育。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested. The idea is based on studies of communities such as the Kung of Botswana, where each child is cared for by many adults. Kung children as young as four will help to look after younger ones and “baby-wearing”, in which infants are carried in slings, is considered the norm.",
+          "zh": "研究人员指出，从非洲狩猎采集者那里获得的育儿经验，或许是培养出更快乐、更知足的孩子的关键。 这一观点以对多个社群的研究为基础，例如博茨瓦纳的 Kung 人；在那里，每个孩子都由许多成年人共同照料。 Kung 人的孩子年仅 4 岁就会帮忙照看年龄更小的孩子；用背巾把婴儿带在身上的“背婴”做法也被视为常态。"
+        },
+        {
+          "en": "According to Dr Nikhil Chaudhary, an evolutionary anthropologist at Cambridge University, these practices, known as alloparenting, could lead to less anxiety for children and parents.",
+          "zh": "剑桥大学进化人类学家尼基尔·乔杜里博士表示，这些做法被称为“共同养育”，可以减少儿童和父母的焦虑。"
+        },
+        {
+          "en": "Dr Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate them into western life. In Germany, one scheme has paired an old people’s home with a nursery. The residents help to look after the children, an arrangement akin to alloparenting. Another measure could be encouraging friendships between children in different school years, to mirror the unsupervised mixed-age playgroups in hunter-gatherer communities.",
+          "zh": "儿童精神科医生安妮·斯瓦内普尔博士认为，可以找到办法将这些做法融入西方生活。 在德国，有一个项目把一家养老院与一家托儿所结成了合作单位。 养老院的居民帮忙照看孩子，这种安排与共同养育相似。 另一项措施可以是鼓励不同年级的孩子建立友谊，以仿照狩猎采集社群中无人监督的混龄游戏小组。"
+        },
+        {
+          "en": "In a paper published in the Journal of Child Psychology and Psychiatry, researchers said that the western nuclear family was a recent invention which broke with evolutionary history. This abrupt shift to an “intensive mothering narrative”, which suggests that mothers should manage childcare alone, was likely to have been harmful. “Such narratives can lead to maternal exhaustion and have dangerous consequences,” they wrote.",
+          "zh": "研究人员在发表于《儿童心理学与精神病学杂志》的一篇论文中指出，西方核心家庭是近代才出现的产物，它背离了人类的进化历史。 这种突然转向“密集母职叙事”的变化很可能已经造成了伤害；该叙事主张母亲应独自承担儿童照护。 他们写道：“此类叙事可能导致母亲精疲力竭，并带来危险后果。”"
+        },
+        {
+          "en": "By contrast, in hunter-gatherer societies adults other than the parents can provide almost half of a child’s care. One previous study looked at the Efé people of the Democratic Republic of Congo. It found that infants had an average of 14 alloparents a day by the time they were 18 weeks old, and were passed between caregivers eight times an hour.",
+          "zh": "相比之下，在狩猎采集社会中，父母以外的成年人可以承担一个孩子近一半的照护工作。 此前有一项研究考察了刚果民主共和国的 Efé 人。 研究发现，婴儿到 18 周大时，平均每天会得到 14 名共同养育者的照护，而且每小时会在不同照护者之间被传递 8 次。"
+        },
+        {
+          "en": "Chaudhary said that parents now have less childcare support from family and social networks than during most of humans’ evolutionary history, but introducing additional caregivers could reduce stress and maternal depression, which could have a “knock-on” benefit to a child’s wellbeing. An infant born to a hunter-gatherer society could have more than ten caregivers — this contrasts starkly to nursery settings in the UK where regulations call for a ratio of one carer to four children aged two to three.",
+          "zh": "乔杜里说，与人类进化史上的大部分时期相比，如今父母从家庭和社会网络获得的育儿支持更少；但增加照护者可以减轻压力和母亲抑郁，进而为儿童福祉带来连锁益处。 出生在狩猎采集社会的婴儿可能拥有 10 多名照护者；这与英国托儿所形成鲜明对比，英国法规要求 2 至 3 岁儿童按一名照护者照看四名儿童的比例配置人员。"
+        },
+        {
+          "en": "While hunter-gatherer children learnt from observation and imitation in mixed-age playgroups, researchers said that western “instructive teaching”, where pupils are asked to sit still, may contribute to conditions such as attention deficit hyperactivity disorder. Chaudhary said that Britain should explore the possibility that older siblings helping their parents “might also enhance their own social development.”",
+          "zh": "狩猎采集社会的儿童会在混龄游戏小组中通过观察和模仿来学习；与之相对，研究人员表示，西方那种要求学生静坐的“讲授式教学”可能会促成注意缺陷多动障碍等问题。 乔杜里说，英国应当探讨这样一种可能性：年龄较大的兄姐帮助父母照看孩子，也可能促进他们自身的社会性发展。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "stem": "According to the first two paragraphs, alloparenting refers to the practice of ____",
+          "options": [
+            "sharing childcare among community members.",
+            "assigning babies to specific adult caregivers.",
+            "teaching parenting skills to older children.",
+            "carrying infants around by their parents."
+          ],
+          "answer": "A",
+          "explain": "正确项：sharing childcare among community members. each child is cared for by many adults 表明儿童照护由社群中的多名成年人共同承担；第二段把前述这些做法统称为 alloparenting，因此 A 是准确释义。\n其他选项：B. assigning babies to specific adult caregivers.：与原文相反。共同养育强调多名成员共同照护，不是把每个婴儿固定分配给某一名成人。；C. teaching parenting skills to older children.：偷换概念。年仅 4 岁的孩子会帮助照看幼儿，但原文没有说成人专门教授年长儿童育儿技能，这也不是该概念的定义。；D. carrying infants around by their parents.：以局部代整体。baby-wearing 只是前述做法之一，而且句中并未限定必须由亲生父母携带。",
+          "evidence": "The idea is based on studies of communities such as the Kung of Botswana, where each child is cared for by many adults.\nAccording to Dr Nikhil Chaudhary, an evolutionary anthropologist at Cambridge University, these practices, known as alloparenting, could lead to less anxiety for children and parents.",
+          "trap": "",
+          "type": "指代"
+        },
+        {
+          "n": 27,
+          "stem": "The scheme in Germany is mentioned to illustrate ____",
+          "options": [
+            "an attempt to facilitate intergenerational communication.",
+            "an approach to integrating alloparenting into western society.",
+            "the conventional parenting style in western culture.",
+            "the differences between western and African ways of living."
+          ],
+          "answer": "B",
+          "explain": "正确项：an approach to integrating alloparenting into western society. 段首先说有办法把共同养育 incorporate ... into western life，随后德国项目就是具体例子：养老院居民参与照看托儿所儿童。因此该项目说明共同养育融入西方社会的一种路径。\n其他选项：A. an attempt to facilitate intergenerational communication.：曲解目的。项目确实让老人和儿童接触，但作者强调的是老人分担照护，而非促进代际交流本身。；C. the conventional parenting style in western culture.：与语境相反。该项目被当作可引入西方生活的新方案，不是西方传统育儿方式。；D. the differences between western and African ways of living.：错判例证功能。作者用它说明非洲社群的共同养育可以在西方落地，并非展开两种生活方式的差异比较。",
+          "evidence": "Dr Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate them into western life.\nIn Germany, one scheme has paired an old people’s home with a nursery.\nThe residents help to look after the children, an arrangement akin to alloparenting.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 28,
+          "stem": "According to Paragraph 4, the “intensive mothering narrative” ____",
+          "options": [
+            "alleviates parenting pressure.",
+            "consolidates family relationships.",
+            "results in the child-centered family.",
+            "departs from the course of evolution."
+          ],
+          "answer": "D",
+          "explain": "正确项：departs from the course of evolution. 原文说西方核心家庭这种新近出现的模式 broke with evolutionary history，并把转向“密集母职叙事”称为 abrupt shift。departs from the course of evolution 是对前者的同义改写。\n其他选项：A. alleviates parenting pressure.：与原文相反。让母亲独自照护会导致 maternal exhaustion，即加重而非缓解育儿压力。；B. consolidates family relationships.：无中生有。段落未讨论这种叙事会巩固家庭关系。；C. results in the child-centered family.：偷换概念。原文批评的是照护责任集中于母亲，没有说它造成以儿童为中心的家庭结构。",
+          "evidence": "In a paper published in the Journal of Child Psychology and Psychiatry, researchers said that the western nuclear family was a recent invention which broke with evolutionary history.\nThis abrupt shift to an “intensive mothering narrative”, which suggests that mothers should manage childcare alone, was likely to have been harmful.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 29,
+          "stem": "According to Paragraph 6, what can we learn about the nurseries in the UK?",
+          "options": [
+            "They tend to fall short of official requirements.",
+            "They have difficulty finding enough caregivers.",
+            "They ought to improve their carer-to-child ratio.",
+            "They should try to prevent parental depression."
+          ],
+          "answer": "C",
+          "explain": "正确项：They ought to improve their carer-to-child ratio. 作者先说明增加照护者有益，再把狩猎采集社会中一名婴儿拥有 10 多名照护者，与英国托儿所一人照看四名儿童的比例作鲜明对比。由此可推知，英国托儿所应提高照护者相对于儿童的配置比例。\n其他选项：A. They tend to fall short of official requirements.：与原文不符。regulations call for 只给出现行法定比例，没有说托儿所达不到这一要求。；B. They have difficulty finding enough caregivers.：无中生有。文中指出照护者配置较少，但没有把原因归结为招聘困难。；D. They should try to prevent parental depression.：主体错位。前文说增加照护者可能减轻母亲抑郁，但本句对英国托儿所的直接启示是改善照护者与儿童的比例。",
+          "evidence": "An infant born to a hunter-gatherer society could have more than ten caregivers — this contrasts starkly to nursery settings in the UK where regulations call for a ratio of one carer to four children aged two to three.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 30,
+          "stem": "Which of the following would be the best title for the text?",
+          "options": [
+            "Instructive Teaching: A Dilemma for Anxious Parents",
+            "For a Happier Family, Learn from the Hunter-gatherers",
+            "Mixed-age Playgroup, a Better Choice for Lonely Children",
+            "Tracing the History of Parenting: from Africa to Europe"
+          ],
+          "answer": "B",
+          "explain": "正确项：For a Happier Family, Learn from the Hunter-gatherers 文章从开头就提出向狩猎采集者学习可培养更快乐的孩子，全文围绕共同养育如何减轻父母压力、改善儿童福祉并促进年长兄姐发展展开。B 同时覆盖“借鉴对象”和“全家受益”两条主线。\n其他选项：A. Instructive Teaching: A Dilemma for Anxious Parents：范围过窄。讲授式教学只在末段出现，也不是全文所说父母焦虑的核心“两难”。；C. Mixed-age Playgroup, a Better Choice for Lonely Children：范围过窄且无中生有。混龄游戏小组只是建议之一，文章也没有把儿童界定为“孤独”。；D. Tracing the History of Parenting: from Africa to Europe：错判文体。文章借进化历史解释现代问题并提出借鉴方案，不是在按时间或地域追溯育儿史。",
+          "evidence": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested.\nChaudhary said that parents now have less childcare support from family and social networks than during most of humans’ evolutionary history, but introducing additional caregivers could reduce stress and maternal depression, which could have a “knock-on” benefit to a child’s wellbeing.\nChaudhary said that Britain should explore the possibility that older siblings helping their parents “might also enhance their own social development.”",
+          "trap": "",
+          "type": "主旨/标题"
+        }
+      ]
+    },
+    {
+      "id": "text3",
+      "kicker": "Section II · Part A",
+      "title": "Text 3",
+      "en_title": "A Polish digital artist who uses classical painting styles to create d…",
+      "cn_title": "艺术家对生成式 AI 版权与隐私风险的回应",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "艺术家对生成式 AI 版权与隐私风险的回应",
+      "intro": "本篇主题：艺术家对生成式 AI 版权与隐私风险的回应。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "A Polish digital artist who uses classical painting styles to create dreamy fantasy landscapes, Greg Rutkowski has made illustrations for games such as Dungeons & Dragons and Magic: The Gathering. And he’s become a sudden hit in the new world of text-to-image AI generation.",
+          "zh": "波兰数字艺术家格雷格·鲁特科夫斯基运用古典绘画风格创作梦幻般的奇幻风景，并曾为《龙与地下城》和《万智牌》等游戏绘制插画。 而在文生图 AI 生成这一新领域中，他又突然“走红”了。"
+        },
+        {
+          "en": "His distinctive style is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion. The tool, along with other popular image-generation AI models, allows anyone to create impressive images based on text prompts. For example, type in “Wizard with sword and a glowing orb of magic fire fights a fierce dragon Greg Rutkowski,” and the system will produce something that looks not a million miles away from works in Rutkowski’s style.",
+          "zh": "如今，在新型开源 AI 艺术生成器 Stable Diffusion 中，他那独特的风格已成为最常用的提示词之一。 这一工具与其他流行的图像生成 AI 模型一样，让任何人都能依据文字提示创作出令人印象深刻的图像。 例如，输入“手持宝剑和一团闪耀魔法火球的巫师与凶猛巨龙战斗，格雷格·鲁特科夫斯基”，系统就会生成与鲁特科夫斯基风格作品十分相似的图像。"
+        },
+        {
+          "en": "But these open-source programs are built by scraping images from the internet, often without permission and proper attribution to artists. As a result, they are raising tricky questions about ethics and copyright. And artists like Rutkowski have had enough.",
+          "zh": "然而，这些开源程序是通过从互联网上抓取图像构建的，而这种抓取往往未经许可，也没有恰当地注明艺术家身份与作品来源。 因此，这些程序正引发棘手的伦理与版权问题。 而像鲁特科夫斯基这样的艺术家已经忍无可忍。"
+        },
+        {
+          "en": "According to the website Lexica, which tracks over 10 million images and prompts generated by Stable Diffusion, Rutkowski’s name has been used as a prompt around 93,000 times. Rutkowski was initially surprised but thought it might be a good way to reach new audiences. Then he tried searching for his name to see if a piece he had worked on had been published. The online search brought back work that had his name attached to it but wasn’t his.",
+          "zh": "据 Lexica 网站统计，该网站追踪了 Stable Diffusion 生成的 1,000 多万张图像及其提示词；鲁特科夫斯基的名字被用作提示词约 9.3 万次。 鲁特科夫斯基起初感到惊讶，但也认为这或许是接触新受众的好办法。 后来，他尝试搜索自己的名字，想看看自己参与创作的某件作品是否已经发表。 网上搜索返回了一些标有他名字、却并非由他创作的作品。"
+        },
+        {
+          "en": "“It’s been just a month. What about in a year? I probably won’t be able to find my work out there because the internet will be flooded with AI art,” Rutkowski says. “That’s concerning.”",
+          "zh": "“这才仅仅过去一个月。 一年之后又会怎样？ 到那时，我恐怕会无法在网上找到自己的作品，因为互联网将充斥着 AI 艺术作品。”鲁特科夫斯基说。 “这令人担忧。”"
+        },
+        {
+          "en": "Other artists besides Rutkowski have been surprised by the apparent popularity of their work in text-to-image generators — and some are now fighting back. Karla Ortiz, an illustrator based in San Francisco who found her work in Stable Diffusion’s data set, has been raising awareness about the issues around AI art and copyright.",
+          "zh": "除了鲁特科夫斯基，其他艺术家也惊讶地发现自己的作品似乎在文生图生成器中大受欢迎，而其中一些人如今正开始反击。 卡拉·奥尔蒂斯是一位常驻旧金山的插画家，她发现自己的作品出现在 Stable Diffusion 的数据集中，此后一直在推动人们关注 AI 艺术与版权相关的问题。"
+        },
+        {
+          "en": "Artists say they risk losing income as people start using AI-generated images based on copyrighted material for commercial purposes. But it’s also a lot more personal, Ortiz says, arguing that because art is so closely linked to a person, it could raise data protection and privacy problems.",
+          "zh": "艺术家们表示，随着人们开始把基于受版权保护材料生成的 AI 图像用于商业目的，他们面临收入损失的风险。 但奥尔蒂斯说，这个问题也具有更强的个人属性；她认为，由于艺术与创作者本人紧密相连，这种做法还可能引发数据保护和隐私问题。"
+        },
+        {
+          "en": "“There is a coalition growing within artist industries to figure out how to tackle or mitigate this,” says Ortiz. The group is in its early days of mobilization, which could involve pushing for new policies or regulation. One suggestion is that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists, Ortiz says.",
+          "zh": "奥尔蒂斯说：“艺术行业内部正在形成并壮大一个联盟，以研究如何应对或减轻这一问题。” 这一团体的动员尚处于早期阶段，后续行动可能包括推动出台新的政策或监管规定。 奥尔蒂斯说，一项建议是，AI 模型可以改用公有领域中的图像进行训练，同时 AI 公司可以与博物馆和艺术家建立合作关系。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 31,
+          "stem": "What can be learned about Rutkowski from the first two paragraphs?",
+          "options": [
+            "He is enthusiastic about using AI models.",
+            "He is popular with users of an AI art generator.",
+            "He attracts admiration from other illustrators.",
+            "He specializes in classical painting digitalization."
+          ],
+          "answer": "B",
+          "explain": "正确项：He is popular with users of an AI art generator. a sudden hit 表示他在文生图 AI 领域突然受到追捧，one of the most commonly used prompts 进一步说明 Stable Diffusion 用户频繁用他的姓名或风格生成图像，因此 B 正确。\n其他选项：A. He is enthusiastic about using AI models.：无中生有。前两段只说明他在 AI 用户中走红，没有说他本人热衷使用 AI；后文反而显示他深感担忧。；C. He attracts admiration from other illustrators.：主体错位。追捧其风格的是 AI 生成器用户，原文没有说其他插画家仰慕他。；D. He specializes in classical painting digitalization.：偷换概念。他使用古典绘画风格创作数字插画，不是专门把古典画作数字化。",
+          "evidence": "And he’s become a sudden hit in the new world of text-to-image AI generation.\nHis distinctive style is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 32,
+          "stem": "The problem with open-source AI art generators is that they ____",
+          "options": [
+            "lack flexibility in responding to prompts.",
+            "produce artworks in unpredictable styles.",
+            "make unauthorized use of online images.",
+            "collect user information without consent."
+          ],
+          "answer": "C",
+          "explain": "正确项：make unauthorized use of online images. scraping images from the internet 对应使用网络图像，without permission 对应 unauthorized。此外没有恰当署名也强化了这种使用方式的权利问题。\n其他选项：A. lack flexibility in responding to prompts.：与原文展示的能力不符。文章说用户可根据提示词生成令人印象深刻的图像，并未批评响应缺乏灵活性。；B. produce artworks in unpredictable styles.：无中生有。输入艺术家姓名恰恰能生成接近其风格的图像，问题不在风格不可预测。；D. collect user information without consent.：偷换对象。未经许可抓取的是艺术家作品；后文虽谈数据保护与隐私，却没有说模型收集用户信息。",
+          "evidence": "But these open-source programs are built by scraping images from the internet, often without permission and proper attribution to artists.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 33,
+          "stem": "After searching online, Rutkowski found ____",
+          "options": [
+            "a unique way to reach audiences.",
+            "a new method to identify AI images.",
+            "AI-generated work bearing his name.",
+            "heated disputes regarding his copyright."
+          ],
+          "answer": "C",
+          "explain": "正确项：AI-generated work bearing his name. 搜索返回的作品 had his name attached to it but wasn’t his，即带着鲁特科夫斯基的名字却不是其真作。结合上文姓名被用作 AI 提示词可知，这正是署有其名的 AI 生成作品。\n其他选项：A. a unique way to reach audiences.：时间和内容错位。他起初认为 AI 热度可能帮助触达新受众，但这是搜索前的想法，不是搜索发现。；B. a new method to identify AI images.：无中生有。搜索暴露了真作与 AI 作品混杂的问题，没有提供鉴别方法。；D. heated disputes regarding his copyright.：无中生有。文章讨论版权争议，但这次搜索直接发现的是冒用其姓名的作品，不是激烈争论。",
+          "evidence": "The online search brought back work that had his name attached to it but wasn’t his.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 34,
+          "stem": "According to Ortiz, AI companies are advised to ____",
+          "options": [
+            "campaign for new policies or regulation.",
+            "offer their services to public institutions.",
+            "strengthen their relationships with AI users.",
+            "adopt a different strategy for AI model training."
+          ],
+          "answer": "D",
+          "explain": "正确项：adopt a different strategy for AI model training. 奥尔蒂斯建议把模型训练材料改为 images in the public domain，即不再未经许可抓取受版权保护的网络作品。这正是采用不同的 AI 模型训练策略。\n其他选项：A. campaign for new policies or regulation.：主体错位。推动新政策或监管是艺术家联盟动员可能包含的行动，不是本句对 AI 公司的具体建议。；B. offer their services to public institutions.：曲解 public domain 和合作关系。公有领域不是公共机构；与博物馆合作也不等于向其提供服务。；C. strengthen their relationships with AI users.：偷换对象。原文建议 AI 公司与博物馆和艺术家建立合作，不是加强与 AI 用户的关系。",
+          "evidence": "One suggestion is that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists, Ortiz says.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 35,
+          "stem": "What is the text mainly about?",
+          "options": [
+            "Artists’ responses to AI art generation.",
+            "AI’s expanded role in artistic creation.",
+            "Privacy issues in the application of AI.",
+            "Opposing views on AI development."
+          ],
+          "answer": "A",
+          "explain": "正确项：Artists’ responses to AI art generation. 文章以鲁特科夫斯基的经历引出艺术家对 AI 模仿、版权和身份混淆的担忧，继而写奥尔蒂斯提升公众意识、行业组建联盟以及提出训练和合作方案。中心始终是艺术家如何回应 AI 艺术生成。\n其他选项：B. AI’s expanded role in artistic creation.：偏离重心。AI 的图像生成能力只是背景，正文重点是其使用艺术家作品后引发的问题与艺术家的反应。；C. Privacy issues in the application of AI.：范围过窄。隐私只是收入、版权、署名和身份问题中的一项。；D. Opposing views on AI development.：无中生有。文章没有并列呈现支持与反对 AI 发展的两派观点，而是集中报道艺术家的担忧和应对。",
+          "evidence": "And artists like Rutkowski have had enough.\nOther artists besides Rutkowski have been surprised by the apparent popularity of their work in text-to-image generators — and some are now fighting back.\nKarla Ortiz, an illustrator based in San Francisco who found her work in Stable Diffusion’s data set, has been raising awareness about the issues around AI art and copyright.\n“There is a coalition growing within artist industries to figure out how to tackle or mitigate this,” says Ortiz.\nOne suggestion is that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists, Ortiz says.",
+          "trap": "",
+          "type": "细节"
+        }
+      ]
+    },
+    {
+      "id": "text4",
+      "kicker": "Section II · Part A",
+      "title": "Text 4",
+      "en_title": "The miracle of the Chesapeake Bay lies not in its depths, but in the c…",
+      "cn_title": "美国最高法院裁决后切萨皮克湾湿地保护面临的跨州治理问题",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "美国最高法院裁决后切萨皮克湾湿地保护面临的跨州治理问题",
+      "intro": "本篇主题：美国最高法院裁决后切萨皮克湾湿地保护面临的跨州治理问题。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of land and water. The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destructive storm surges.",
+          "zh": "切萨皮克湾的奇妙之处不在于水有多深，而在于其自然构造的复杂性、淡水与咸水的交汇，以及陆地与水域的交融。 这些浅水区为数百种生物提供栖息地，同时还能蓄纳洪水、滤除水中污染物，并保护附近社区免受可能造成破坏的风暴潮侵袭。"
+        },
+        {
+          "en": "All this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) far less authority to regulate wetlands and waterways. Specifically, a 5-4 majority decided that wetlands protected by the EPA under its Clean Water Act authority must have a “continuous surface connection” to bodies of water. This narrowing of the regulatory scope was a victory for builders, mining operators and other commercial interests often at odds with environmental rules. And it carries “significant repercussions for water quality and flood control throughout the United States,” as Justice Brett Kavanaugh observed.",
+          "zh": "上月底，美国最高法院就爱达荷州的一起案件作出裁决，使美国环境保护署（EPA）监管湿地和水道的权限大幅缩减，前述一切生态价值因此面临巨大风险。 具体而言，最高法院以 5 比 4 的多数意见裁定，EPA 依据《清洁水法》权限所保护的湿地，必须与水体之间存在“连续的地表连接”。 监管范围的这次收窄，对建筑商、采矿经营者以及其他经常与环境法规利益相冲突的商业集团来说，是一场胜利。 正如布雷特·卡瓦诺大法官所指出的，这项裁决“将对全美国的水质和防洪产生重大影响”。"
+        },
+        {
+          "en": "In Maryland, the good news is that there are many state laws in place that provide wetlands protections. But that’s a very shortsighted view, particularly when it comes to the Chesapeake Bay. The reality is that water, and the pollutants that so often come with it, don’t respect state boundaries. The Chesapeake draws from a 64,000-square-mile watershed that extends into Virginia, Pennsylvania, New York, West Virginia, the District of Columbia and Delaware. Will those jurisdictions extend the same protections now denied under Sackett v. EPA? Perhaps some, but all? That seems unlikely.",
+          "zh": "好消息是，马里兰州已经施行多项州法律，为湿地提供保护。 但是，这种看法十分短视，尤其是在涉及切萨皮克湾时。 现实是，水以及常随水而来的污染物并不受州界约束。 切萨皮克湾汇集了一个面积达 6.4 万平方英里的流域来水，该流域延伸至弗吉尼亚州、宾夕法尼亚州、纽约州、西弗吉尼亚州、哥伦比亚特区和特拉华州。 在“萨克特诉美国环保署案”裁决导致联邦层面的这些保护不再适用后，上述各司法辖区会自行提供同等保护吗？ 也许有些辖区会，但所有辖区都会吗？ 看来不太可能。"
+        },
+        {
+          "en": "It is too easy, and misleading, to see such court rulings as merely standing up for the rights of land owners when the consequences can be so dire for their neighbors. And it’s a reminder that the EPA’s involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special interests in neighboring states. Pennsylvania farmers, to use one telling example, aren’t thinking about next year’s blue crab harvest in Maryland when they decide whether to spread animal waste on their fields, yet the runoff into nearby creeks can have enormous impact downstream.",
+          "zh": "把这类法院裁决仅仅视为维护土地所有者权利，实在过于简单，也会造成误导，因为其后果对土地所有者的邻近地区和居民可能极其严重。 这也提醒人们，长期以来，EPA 参与切萨皮克湾计划一直至关重要，因为它使流域保护能够超越邻近各州财力雄厚的特殊利益集团的影响。 举一个很能说明问题的例子：宾夕法尼亚州的农民决定是否把动物粪肥撒在田里时，并不会考虑马里兰州下一年的蓝蟹收成；然而，流入附近溪流的地表径流却可能对下游造成巨大影响。"
+        },
+        {
+          "en": "And so we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved. We can offer them a visit to Blackwater National Wildlife Refuge in Dorchester County where bald eagles fly over tidal marshes so shallow you could not paddle a boat across them but teaming with aquatic life. It’s worth the scenic drive.",
+          "zh": "因此，我们呼吁从里士满到奥尔巴尼的各州立法者重新审视本州的湿地保护措施，并亲自认清其中牵涉的巨大利害关系。 我们可以邀请他们到多切斯特县的黑水国家野生动物保护区走一趟；在那里，白头海雕翱翔于潮汐沼泽之上，沼泽浅得无法划船通过，却有着繁盛的水生生物。 这一路的风景也值得他们驱车前往。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "stem": "The Chesapeake Bay is described in Paragraph 1 as ____",
+          "options": [
+            "a valuable natural environment.",
+            "a controversial conservation area.",
+            "a place with commercial potential.",
+            "a headache for nearby communities."
+          ],
+          "answer": "A",
+          "explain": "正确项：a valuable natural environment. 第一段称海湾为 miracle，并列举其为数百物种提供栖息地、蓄洪、净水和抵御风暴潮的功能，完整体现了它作为自然环境的多重价值。\n其他选项：B. a controversial conservation area.：无中生有。第一段只介绍其生态构造和功能，尚未出现保护争议。；C. a place with commercial potential.：偷换重点。文中没有在第一段讨论商业开发潜力，而是突出生态系统服务。；D. a headache for nearby communities.：与原文相反。浅水区能够保护附近社区免受破坏性风暴潮影响，是保护屏障而非麻烦来源。",
+          "evidence": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of land and water.\nThe shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destructive storm surges.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 37,
+          "stem": "The U.S. Supreme Court’s ruling in the Idaho case ____",
+          "options": [
+            "reinforces water pollution control.",
+            "weakens the EPA’s regulatory power.",
+            "will end conflicts among local residents.",
+            "may face opposition from mining operators."
+          ],
+          "answer": "B",
+          "explain": "正确项：weakens the EPA’s regulatory power. 原文明确说该裁决使 EPA 获得 far less authority to regulate wetlands and waterways，随后解释保护对象必须满足更严格的连接条件，因此它削弱了 EPA 的监管权力。\n其他选项：A. reinforces water pollution control.：与原文相反。监管范围被收窄，水质与防洪反而面临重大后果。；C. will end conflicts among local residents.：无中生有。文章没有说裁决会终结居民冲突，讨论的是商业利益、环境规则和跨州外部影响。；D. may face opposition from mining operators.：与原文相反。裁决是采矿经营者等商业利益方的胜利，他们是受益者而非潜在反对者。",
+          "evidence": "All this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) far less authority to regulate wetlands and waterways.\nSpecifically, a 5-4 majority decided that wetlands protected by the EPA under its Clean Water Act authority must have a “continuous surface connection” to bodies of water.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 38,
+          "stem": "How does the author feel about future of the Chesapeake Bay?",
+          "options": [
+            "Worried.",
+            "Puzzled.",
+            "Relieved.",
+            "Encouraged."
+          ],
+          "answer": "A",
+          "explain": "正确项：Worried. at great risk、significant repercussions 都直接表达严重风险；作者又认为依赖马里兰州现有法律很短视，并判断所有相关辖区补足保护 unlikely。这些措辞共同体现对海湾未来的担忧。\n其他选项：B. Puzzled.：态度错判。作者对风险成因和解决方向都表述明确，并非困惑不解。；C. Relieved.：被局部信息误导。马里兰州已有保护虽被称为 good news，但作者随即用 But 指出这种安心十分短视。；D. Encouraged.：与总体语气不符。文章没有认为未来趋势令人振奋，而是警告联邦保护缩减和各州行动不一致。",
+          "evidence": "All this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) far less authority to regulate wetlands and waterways.\nAnd it carries “significant repercussions for water quality and flood control throughout the United States,” as Justice Brett Kavanaugh observed.\nBut that’s a very shortsighted view, particularly when it comes to the Chesapeake Bay.\nThat seems unlikely.",
+          "trap": "",
+          "type": "观点"
+        },
+        {
+          "n": 39,
+          "stem": "What can be inferred about the EPA’s involvement in the Chesapeake Bay Program?",
+          "options": [
+            "It has restored the balance among neighboring jurisdictions.",
+            "It has triggered a radical reform in commercial fisheries.",
+            "It has set a fine example of respecting state authorities.",
+            "It has ensured the coordination of protection efforts."
+          ],
+          "answer": "D",
+          "explain": "正确项：It has ensured the coordination of protection efforts. 海湾流域跨越多个司法辖区，水与污染物又不受州界限制。EPA 的参与之所以长期 crucial，就在于它能超越相邻各州特殊利益的影响，从联邦层面协调跨州保护，因此 D 是合理推断。\n其他选项：A. It has restored the balance among neighboring jurisdictions.：无中生有且表述含混。原文说 EPA 能超越地方特殊利益，没有说它已恢复各辖区之间的某种“平衡”。；B. It has triggered a radical reform in commercial fisheries.：无中生有。蓝蟹捕捞只是说明上游污染影响下游的例子，没有提到渔业发生激进改革。；C. It has set a fine example of respecting state authorities.：与原文逻辑相反。EPA 的价值在于跨越州界和地方特殊利益的局限，不是强调尊重各州独立权限。",
+          "evidence": "The reality is that water, and the pollutants that so often come with it, don’t respect state boundaries.\nThe Chesapeake draws from a 64,000-square-mile watershed that extends into Virginia, Pennsylvania, New York, West Virginia, the District of Columbia and Delaware.\nAnd it’s a reminder that the EPA’s involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special interests in neighboring states.",
+          "trap": "",
+          "type": "推断"
+        },
+        {
+          "n": 40,
+          "stem": "The author holds that the state lawmakers should ____",
+          "options": [
+            "be cautious about the influence of landowners.",
+            "attach due importance to wetlands protections.",
+            "recognize the need to expand wildlife refuges.",
+            "improve the wellbeing of endangered species."
+          ],
+          "answer": "B",
+          "explain": "正确项：attach due importance to wetlands protections. 作者明确呼吁各州立法者重新审视本州的湿地保护，并亲自了解其中 the enormous stakes involved。这表明他们应充分认识湿地保护的重要性。\n其他选项：A. be cautious about the influence of landowners.：偷换重点。作者批评只从土地所有者权利看裁决，却没有要求州立法者提防土地所有者的影响；其明确要求是审查湿地保护。；C. recognize the need to expand wildlife refuges.：无中生有。黑水国家野生动物保护区是供立法者亲见湿地价值的例子，文章没有提出扩建保护区。；D. improve the wellbeing of endangered species.：范围缩小且无中生有。文章强调整个湿地生态、净水、防洪和跨州治理，没有聚焦濒危物种福祉。",
+          "evidence": "And so we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved.",
+          "trap": "",
+          "type": "观点"
+        }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "id": "2024-T1-P1-S01",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Nearly 2,000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things.",
+      "core": "they left behind a curious treasure。",
+      "structure": "Nearly 2,000 years ago 是时间状语；as the Romans began to pull out of Scotland 是时间从句；冒号后的 10 tons of nails 解释 a curious treasure，nearly a million of the things 再补充其数量。",
+      "key": "pull out of：此处不是“拔出”，而是“撤离、退出（某地）”。；leave behind：离开时留下。；nearly a million of the things：这里的 the things 回指 nails，是略带口语色彩的补充说明。",
+      "zh": "近 2,000 年前，当罗马人开始撤离苏格兰时，他们留下了一批奇特的宝藏：10 吨钉子，数量接近 100 万枚。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T1-P1-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel.",
+      "core": "The nail hoard was discovered.",
+      "structure": "第一个 in 引出时间，第二个 in 引出发现地点；covered by two metres of gravel 是过去分词短语，修饰 pit。",
+      "key": "hoard：贮藏起来的一批物品，此处指集中埋藏的钉子。；a four-metre-deep pit：一个 4 米深的坑；复合形容词中的名词 metre 用单数。",
+      "zh": "这批钉子于 1960 年在一个深 4 米、上覆 2 米厚砾石的坑中被发现。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T1-P2-S04",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "The likely explanation is that the withdrawal was rushed, and they didn’t want the local Caledonians getting their hands on 10 tons of weapon-grade iron.",
+      "core": "The likely explanation is that ...。",
+      "structure": "that 引导表语从句，其中 the withdrawal was rushed 与 they didn't want ... 由 and 并列；want the local Caledonians getting ... 是 want + 宾语 + 现在分词 结构，表示不希望这种情况发生。",
+      "key": "rushed：此处意为“仓促的、匆忙完成的”，不是“冲过去的”。；get one's hands on：设法得到、弄到手，而非字面上的“把手放在……上”。；withdrawal：撤退、撤离，对应上一段的 pull out of Scotland。；weapon-grade iron：质量足以用于制造武器的铁。",
+      "zh": "较为可信的解释是，这次撤退十分仓促，而且罗马人不想让当地的喀里多尼亚人得到这 10 吨可用于制造武器的铁。",
+      "tip": "they 指罗马人；the local Caledonians 才是罗马人要防范的当地居民。"
+    },
+    {
+      "id": "2024-T1-P2-S05",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "The Romans buried the nails so deep that they would not be discovered for almost two millennia.",
+      "core": "The Romans buried the nails so deep.",
+      "structure": "that they would not be discovered ... 是结果从句；they 指 the nails。",
+      "key": "so ... that ...：如此……以至于……，引出结果。；millennium：一千年；millennia 是其复数形式。",
+      "zh": "罗马人把这些钉子埋得如此之深，以至于它们在将近两千年里都未被发现。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T1-P3-S06",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Later civilisations would value the skilled blacksmith’s labour in a nail even more than the raw material.",
+      "core": "Later civilisations would value the ... labour ... more than the raw material.",
+      "structure": "in a nail 修饰 labour，表示体现在钉子中的劳动；even more than 构成比较。",
+      "key": "labour in a nail：不是“钉子里的劳动力”，而是指制造一枚钉子所投入的熟练劳动及其价值。",
+      "zh": "后来的文明对一枚钉子中所凝结的熟练铁匠劳动，甚至比对其原材料本身更为看重。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T1-P3-S07",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "As Roma Agrawal explains in her new delightful book Nuts and Bolts, early 17th-century Virginians would sometimes burn down their homes if they were planning to relocate.",
+      "core": "early 17th-century Virginians would sometimes burn down their homes.",
+      "structure": "As Roma Agrawal explains ... 是方式状语从句，引出资料来源；if they were planning to relocate 是条件从句。",
+      "key": "burn down：将建筑物烧毁。；relocate：迁居、搬迁。",
+      "zh": "正如罗马·阿格拉瓦尔在她那本令人愉快的新书《螺母与螺栓》中所述，17 世纪早期的弗吉尼亚人如果打算搬迁，有时会烧掉自己的房屋。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T1-P3-S08",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "This was an attempt to recover the valuable nails, which could be reused after sifting the ashes.",
+      "core": "This was an attempt to recover the valuable nails.",
+      "structure": "This 指烧掉房屋这一做法；which could be reused ... 是非限制性定语从句，修饰 nails；after sifting the ashes 中省略了与主句一致的逻辑主语。",
+      "key": "recover：此处指“找回、回收”，不是“康复”。；sift the ashes：筛查灰烬，从中分离出钉子。",
+      "zh": "这样做是为了找回那些珍贵的钉子；筛过灰烬后，这些钉子还可以再次使用。",
+      "tip": "可被重复使用的是钉子，不是灰烬。"
+    },
+    {
+      "id": "2024-T1-P3-S09",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was.",
+      "core": "The idea ... underlines how ... the technology was.",
+      "structure": "that one might burn down ... 是 idea 的同位语从句，说明“想法”的具体内容；just to reclaim the nails 是目的状语；how scarce, costly and valuable ... was 是感叹式宾语从句，作 underlines 的宾语。",
+      "key": "underline：此处作动词，意为“突出、强调”，不是“在文字下画线”。；technology：此处具体指制钉技术及其产品价值，并非笼统的现代高科技。",
+      "zh": "有人竟可能为了取回钉子而烧掉整栋房屋，这一事实凸显了这种看似简单的技术当时多么稀缺、昂贵而珍贵。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T1-P4-S10",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "The price of nails fell by 90% between the late 1700s and mid-1900s, as economist Daniel Sichel points out in a research paper.",
+      "core": "The price of nails fell by 90%.",
+      "structure": "between ... and ... 给出时间跨度；as economist Daniel Sichel points out ... 是方式状语从句，表示“正如……所指出的”。",
+      "key": "fall by 90%：下降了 90%；若为 fall to 90% 才是“降至原来的 90%”。；point out：指出、说明。",
+      "zh": "正如经济学家丹尼尔·西切尔在一篇研究论文中指出的那样，从 18 世纪晚期到 20 世纪中期，钉子的价格下降了 90%。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T1-P4-S11",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply found more efficient ways to turn steel into nails.",
+      "core": "most of the credit goes to nail manufacturers.",
+      "structure": "According to Sichel 交代观点来源；although ... 引导让步从句，承认廉价铁材和能源的部分作用；who ... found ... 是定语从句，修饰 nail manufacturers；to turn steel into nails 修饰 ways。",
+      "key": "credit：此处不是“信用”或“学分”，而是“功劳、贡献”。；be driven partly by：部分由……推动或造成。；most of the credit goes to：主要功劳归于……。；turn A into B：把 A 转化、加工成 B。",
+      "zh": "西切尔认为，尽管钉子降价在一定程度上是由铁和能源成本下降推动的，但主要功劳应归于制钉商，因为他们找到了把钢材制成钉子的更高效方法。",
+      "tip": "题目问 major role，应抓住 most of the credit，不能把让步从句中的次要原因当成主因。"
+    },
+    {
+      "id": "2024-T1-P5-S12",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Nails themselves have changed over the years, but Sichel studied them because they haven’t changed much.",
+      "core": "Nails ... have changed, but Sichel studied them.",
+      "structure": "but 形成转折；because they haven't changed much 是原因从句，解释钉子适合作为长期价格研究对象的原因。",
+      "key": "见下方词汇笔记",
+      "zh": "这些年来，钉子本身确实有所变化，但西切尔之所以研究它们，恰恰是因为它们变化不大。",
+      "tip": "have changed 与 haven't changed much 并不矛盾，后者限定变化幅度不大。"
+    },
+    {
+      "id": "2024-T1-P5-S13",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Roman lamps and Roman chariots are very different from LED strips and sports cars, but Roman nails are still clearly nails.",
+      "core": "前半句为 Roman lamps and Roman chariots are different from ...；后半句为 Roman nails are still clearly nails.",
+      "structure": "见原句",
+      "key": "be different from：与……不同。；LED strips：LED 灯带。",
+      "zh": "罗马时代的灯和战车与如今的 LED 灯带和跑车已大不相同，但罗马时代的钉子显然仍然是我们所熟悉的钉子。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T1-P5-S14",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "It would be absurd to try to track the changing price of sports cars since 1695, but to ask the same question of nails makes perfect sense.",
+      "core": "It would be absurd to try ... , but to ask ... makes perfect sense.",
+      "structure": "前半句 It 是形式主语，真正主语是 to try to track ...；but 后由不定式短语 to ask the same question of nails 直接作主语。",
+      "key": "make sense：此处意为“合理、说得通”，不是“制造意义”。；ask the same question of nails：意为“针对钉子提出同样的问题”，这里的问题是长期价格如何变化。",
+      "zh": "试图追踪自 1695 年以来跑车价格的变化会十分荒谬，但对钉子提出同样的问题却完全合理。",
+      "tip": "比较的不是跑车与钉子的价格高低，而是二者是否具有足够稳定、可跨数百年比较的产品形态。"
+    },
+    {
+      "id": "2024-T1-P6-S17",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "After writing two books about the history of inventions, one thing I’ve learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it’s the cheap technologies that change the world.",
+      "core": "one thing ... is that ...。",
+      "structure": "After writing two books ... 是时间状语；I've learnt 是省略关系代词的定语从句，修饰 one thing；that 引导表语从句；其中 while 引导让步从句；it is ... that ... 与 it's ... that ... 都是强调结构，分别突出复杂技术和廉价技术。",
+      "key": "hype：大肆宣传、热炒与由此带来的关注，常含“言过其实”的意味。；cheap technologies：此处强调低成本、可广泛采用的技术，不是“质量低劣的技术”。；enchantingly sophisticated：精妙得令人着迷的、极为复杂先进的。；get all the hype：获得所有宣传和热度。",
+      "zh": "在写完两本有关发明史的书后，我明白了一件事：尽管那些精妙复杂的技术吸引了所有宣传与关注，真正改变世界的却是廉价技术。",
+      "tip": "两个 it 都是强调结构中的形式成分；不是具体指代某项技术。"
+    },
+    {
+      "id": "2024-T1-P7-S18",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "The Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost — and it would have achieved little without a parallel collapse in the price of surfaces to write on, thanks to an often-overlooked technology called paper.",
+      "core": "The Gutenberg printing press transformed civilisation ... , and it would have achieved little ...。",
+      "structure": "not by changing ... but by changing ... 是并列方式状语；its 指 writing；破折号后的 and 连接第二个分句；without ... 构成与过去事实相反的含蓄虚拟条件；to write on 修饰 surfaces；called paper 修饰 technology。",
+      "key": "surface：此处不是抽象的“表面”，而是指纸张等可供书写的载体。；collapse：此处指价格“暴跌、大幅下降”，不是实体建筑倒塌。；not by ... but by ...：不是通过……而是通过……。；achieve little without：若没有……便难有多少成效。",
+      "zh": "古腾堡印刷机改变文明，并非因为它改变了书写的本质，而是因为它改变了书写的成本；而若不是得益于一种常被忽视的技术——纸张，使可供书写的载体价格同步大幅下降，印刷机也不会取得多少成效。",
+      "tip": "it 指古腾堡印刷机；a parallel collapse 表示纸张价格与书写成本同步下降。"
+    },
+    {
+      "id": "2024-T1-P7-S19",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Solar panels had few niche uses until they became cheap; now they are transforming the global energy system.",
+      "core": "分号前为 Solar panels had few niche uses；分号后为 they are transforming the global energy system.",
+      "structure": "until they became cheap 是时间从句，同时标明发生转折的条件节点。",
+      "key": "niche：此处作定语，意为“小众的、只适用于特定领域的”。；pull out of：撤离、退出某地。；get one's hands on：设法得到、弄到手。；most of the credit goes to：主要功劳归于……。",
+      "zh": "太阳能板在变得廉价之前只有少数小众用途；如今，它们正在改变全球能源体系。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T2-P1-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested.",
+      "core": "Parenting tips ... may be the key ...；句末 researchers have suggested 是引述语。",
+      "structure": "obtained from hunter-gatherers in Africa 是过去分词短语，修饰 Parenting tips；to bringing up ... 修饰 the key。",
+      "key": "contented：此处指“感到满足、幸福的”，不是“有内容的”。；bring up：此处指“抚养、教育（孩子）”，不是“提出话题”。；parenting tips：育儿经验、建议。；hunter-gatherers：以狩猎和采集为主要生计方式的人群。",
+      "zh": "研究人员指出，从非洲狩猎采集者那里获得的育儿经验，或许是培养出更快乐、更知足的孩子的关键。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T2-P1-S02",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "The idea is based on studies of communities such as the Kung of Botswana, where each child is cared for by many adults.",
+      "core": "The idea is based on studies of communities.",
+      "structure": "such as the Kung of Botswana 举例说明 communities；where ... 是非限制性定语从句，修饰这一社群，并说明其共同育儿特征。",
+      "key": "be based on：以……为基础。；be cared for by：由……照料。",
+      "zh": "这一观点以对多个社群的研究为基础，例如博茨瓦纳的 Kung 人；在那里，每个孩子都由许多成年人共同照料。",
+      "tip": "where 指 Kung 人所在的社群环境，不是泛指整个博茨瓦纳的所有家庭。"
+    },
+    {
+      "id": "2024-T2-P1-S03",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Kung children as young as four will help to look after younger ones and “baby-wearing”, in which infants are carried in slings, is considered the norm.",
+      "core": "Kung children ... will help ... and “baby-wearing” ... is considered the norm.",
+      "structure": "and 连接两个并列分句；as young as four 修饰 children；in which infants are carried in slings 是非限制性定语从句，解释 baby-wearing。",
+      "key": "as young as four：强调年龄低至 4 岁，而非“像 4 岁一样年轻”。；the norm：常态、通行做法，不是数学意义上的“范数”。；look after：照看、照料。；baby-wearing：用背巾等工具将婴儿贴身携带的育儿方式。",
+      "zh": "Kung 人的孩子年仅 4 岁就会帮忙照看年龄更小的孩子；用背巾把婴儿带在身上的“背婴”做法也被视为常态。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T2-P2-S04",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "According to Dr Nikhil Chaudhary, an evolutionary anthropologist at Cambridge University, these practices, known as alloparenting, could lead to less anxiety for children and parents.",
+      "core": "these practices ... could lead to less anxiety.",
+      "structure": "According to ... 交代观点来源；an evolutionary anthropologist ... 是 Dr Nikhil Chaudhary 的同位语；known as alloparenting 是过去分词短语，补充说明 these practices 的名称。",
+      "key": "evolutionary anthropologist：进化人类学家。；alloparenting：共同养育，特指由亲生父母之外的群体成员参与照护儿童。；lead to less anxiety：减少焦虑、使焦虑程度降低。",
+      "zh": "剑桥大学进化人类学家尼基尔·乔杜里博士表示，这些做法被称为“共同养育”，可以减少儿童和父母的焦虑。",
+      "tip": "alloparenting 概括的是前文多名成年人和较年长儿童共同照护的整套做法，不等同于其中单一的“背婴”。"
+    },
+    {
+      "id": "2024-T2-P3-S05",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Dr Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate them into western life.",
+      "core": "Dr Annie Swanepoel believes that ...。",
+      "structure": "a child psychiatrist 是主语的同位语；that 引导宾语从句；to incorporate them into western life 修饰 ways；them 指前文的共同养育做法。",
+      "key": "child psychiatrist：儿童精神科医生。；incorporate A into B：将 A 纳入或融入 B。",
+      "zh": "儿童精神科医生安妮·斯瓦内普尔博士认为，可以找到办法将这些做法融入西方生活。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T2-P3-S07",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "The residents help to look after the children, an arrangement akin to alloparenting.",
+      "core": "The residents help to look after the children.",
+      "structure": "an arrangement akin to alloparenting 是前面整个分句的同位语式补充；akin to alloparenting 修饰 arrangement。",
+      "key": "resident：住户、居住者，此处指养老院中的老人。；akin to：与……相似、类似于……。",
+      "zh": "养老院的居民帮忙照看孩子，这种安排与共同养育相似。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T2-P3-S08",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Another measure could be encouraging friendships between children in different school years, to mirror the unsupervised mixed-age playgroups in hunter-gatherer communities.",
+      "core": "Another measure could be encouraging friendships.",
+      "structure": "动名词短语 encouraging ... 作表语；between children in different school years 修饰 friendships；to mirror ... 是目的状语。",
+      "key": "school year：此处指学生所在年级，而非一整个“学年”时段。；mirror：此处作动词，意为“仿照、反映”，不是名词“镜子”。；mixed-age playgroups：混龄游戏小组。；unsupervised：没有成年人直接监督的。",
+      "zh": "另一项措施可以是鼓励不同年级的孩子建立友谊，以仿照狩猎采集社群中无人监督的混龄游戏小组。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T2-P4-S09",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "In a paper published in the Journal of Child Psychology and Psychiatry, researchers said that the western nuclear family was a recent invention which broke with evolutionary history.",
+      "core": "researchers said that ...。",
+      "structure": "published in ... 是过去分词短语，修饰 paper；that 引导宾语从句；which broke with evolutionary history 是定语从句，修饰 a recent invention，语义上说明西方核心家庭这种新型安排背离进化历史。",
+      "key": "nuclear family：核心家庭，即主要由父母及其未婚子女组成的小家庭，并非“核家庭”。；break with：背离、不再遵循，而不是“与……一起打破”。",
+      "zh": "研究人员在发表于《儿童心理学与精神病学杂志》的一篇论文中指出，西方核心家庭是近代才出现的产物，它背离了人类的进化历史。",
+      "tip": "recent invention 不是说某个人发明了核心家庭，而是强调这种家庭结构在人类历史上出现得很晚。"
+    },
+    {
+      "id": "2024-T2-P4-S10",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "This abrupt shift to an “intensive mothering narrative”, which suggests that mothers should manage childcare alone, was likely to have been harmful.",
+      "core": "This abrupt shift ... was likely to have been harmful.",
+      "structure": "which suggests ... 是非限制性定语从句，修饰 narrative；其中 that mothers should manage childcare alone 作 suggests 的宾语。",
+      "key": "abrupt shift to：突然转向……。；intensive mothering narrative：密集母职叙事，即把高强度、全方位育儿责任主要压在母亲身上的观念。；be likely to have done：很可能已经做过某事，是对过去情况的推断。",
+      "zh": "这种突然转向“密集母职叙事”的变化很可能已经造成了伤害；该叙事主张母亲应独自承担儿童照护。",
+      "tip": "which 就近指 intensive mothering narrative，而不是泛指整个西方核心家庭。"
+    },
+    {
+      "id": "2024-T2-P4-S11",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "“Such narratives can lead to maternal exhaustion and have dangerous consequences,” they wrote.",
+      "core": "引语内部为 Such narratives can lead to ... and have ...。",
+      "structure": "lead to maternal exhaustion 与 have dangerous consequences 是共享情态动词 can 的并列谓语；Such narratives 回指把照护责任集中于母亲的叙事。",
+      "key": "maternal exhaustion：母亲因育儿压力产生的身心耗竭。；lead to：导致、带来。",
+      "zh": "他们写道：“此类叙事可能导致母亲精疲力竭，并带来危险后果。”",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T2-P5-S14",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "It found that infants had an average of 14 alloparents a day by the time they were 18 weeks old, and were passed between caregivers eight times an hour.",
+      "core": "It found that infants had ... and were passed ...。",
+      "structure": "It 指上一句的研究；that 引导宾语从句，其中 had 与 were passed 是并列谓语；by the time they were 18 weeks old 说明达到这一照护模式时婴儿的年龄。",
+      "key": "an average of：平均数量为……。；by the time：到……的时候。；be passed between caregivers：被不同照护者轮流抱持、传递。",
+      "zh": "研究发现，婴儿到 18 周大时，平均每天会得到 14 名共同养育者的照护，而且每小时会在不同照护者之间被传递 8 次。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T2-P6-S15",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Chaudhary said that parents now have less childcare support from family and social networks than during most of humans’ evolutionary history, but introducing additional caregivers could reduce stress and maternal depression, which could have a “knock-on” benefit to a child’s wellbeing.",
+      "core": "Chaudhary said that parents ... have less support ..., but introducing additional caregivers could reduce ...。",
+      "structure": "that 引导宾语从句；从句内部由 but 对比当前支持不足与增加照护者的潜在作用；introducing additional caregivers 是动名词短语作主语；which ... 补充说明减轻压力和母亲抑郁所产生的连锁益处。",
+      "key": "knock-on：由某事进一步引发的、连锁的，此处强调间接的后续益处。；childcare support from family and social networks：来自家庭与社会关系网络的育儿支持。；maternal depression：母亲抑郁。；a benefit to a child’s wellbeing：对儿童身心健康的益处。",
+      "zh": "乔杜里说，与人类进化史上的大部分时期相比，如今父母从家庭和社会网络获得的育儿支持更少；但增加照护者可以减轻压力和母亲抑郁，进而为儿童福祉带来连锁益处。",
+      "tip": "than during most of ... history 比较的是“如今”与“进化史上的大部分时期”所获得的支持多少。"
+    },
+    {
+      "id": "2024-T2-P6-S16",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "An infant born to a hunter-gatherer society could have more than ten caregivers — this contrasts starkly to nursery settings in the UK where regulations call for a ratio of one carer to four children aged two to three.",
+      "core": "An infant ... could have more than ten caregivers; this contrasts ... to nursery settings.",
+      "structure": "born to a hunter-gatherer society 是过去分词短语，修饰 infant；破折号连接对比说明；where ... 是定语从句，修饰 nursery settings in the UK；aged two to three 修饰 children。",
+      "key": "call for：此处意为“要求、规定”，不是“呼喊”。；contrast starkly to：与……形成鲜明对比。；a ratio of one carer to four children：一名照护者对应四名儿童的比例。",
+      "zh": "出生在狩猎采集社会的婴儿可能拥有 10 多名照护者；这与英国托儿所形成鲜明对比，英国法规要求 2 至 3 岁儿童按一名照护者照看四名儿童的比例配置人员。",
+      "tip": "one carer to four children 是法规规定的现行比例，不是英国托儿所未达标；问题在于该比例与共同养育模式相比照护者较少。"
+    },
+    {
+      "id": "2024-T2-P7-S17",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "While hunter-gatherer children learnt from observation and imitation in mixed-age playgroups, researchers said that western “instructive teaching”, where pupils are asked to sit still, may contribute to conditions such as attention deficit hyperactivity disorder.",
+      "core": "researchers said that western “instructive teaching” ... may contribute to conditions ...。",
+      "structure": "句首 While ... 引导对比从句；where pupils are asked to sit still 是非限制性定语从句，具体说明这种教学的课堂要求；such as ... 举例说明 conditions。",
+      "key": "condition：此处指健康或行为方面的病症、问题，不是一般的“条件”。；instructive teaching：此处指由成人明确讲授、要求儿童按指令学习的教学方式。；learn from observation and imitation：通过观察和模仿学习。；contribute to：促成、成为……的部分原因。",
+      "zh": "狩猎采集社会的儿童会在混龄游戏小组中通过观察和模仿来学习；与之相对，研究人员表示，西方那种要求学生静坐的“讲授式教学”可能会促成注意缺陷多动障碍等问题。",
+      "tip": "may contribute to 只表示可能成为部分诱因，不等于这种教学必然或单独导致 ADHD。"
+    },
+    {
+      "id": "2024-T2-P7-S18",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Chaudhary said that Britain should explore the possibility that older siblings helping their parents “might also enhance their own social development.”",
+      "core": "Chaudhary said that Britain should explore the possibility.",
+      "structure": "第一个 that 引导 said 的宾语从句；第二个 that 引导 possibility 的同位语从句；older siblings helping their parents 是动名词复合结构，作同位语从句的主语；their own 指年长的兄姐自身。",
+      "key": "explore the possibility that：探讨……的可能性。；enhance social development：促进社会性发展、提升社会交往能力。；bring up children：抚养、教育孩子。；be cared for by many adults：由多名成年人共同照护。",
+      "zh": "乔杜里说，英国应当探讨这样一种可能性：年龄较大的兄姐帮助父母照看孩子，也可能促进他们自身的社会性发展。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P1-S01",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "A Polish digital artist who uses classical painting styles to create dreamy fantasy landscapes, Greg Rutkowski has made illustrations for games such as Dungeons & Dragons and Magic: The Gathering.",
+      "core": "Greg Rutkowski has made illustrations for games.",
+      "structure": "句首 A Polish digital artist ... 是 Greg Rutkowski 的同位语；who uses ... 是定语从句，修饰 artist；to create ... 是目的状语；such as ... 举例说明 games。",
+      "key": "digital artist：使用数字工具进行创作的艺术家。；dreamy fantasy landscapes：如梦似幻的奇幻风景。；make illustrations for：为……创作插画。",
+      "zh": "波兰数字艺术家格雷格·鲁特科夫斯基运用古典绘画风格创作梦幻般的奇幻风景，并曾为《龙与地下城》和《万智牌》等游戏绘制插画。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P2-S03",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "His distinctive style is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion.",
+      "core": "His distinctive style is ... one of the ... prompts.",
+      "structure": "used 是过去分词，修饰 prompts；Stable Diffusion 是 the ... generator 的同位语。",
+      "key": "prompt：在生成式 AI 语境中指输入给模型、用来规定生成内容的“提示词”，不是一般的“提示”或动词“促使”。；distinctive style：鲜明独特的风格。；one of the most commonly used prompts：最常用的提示词之一。",
+      "zh": "如今，在新型开源 AI 艺术生成器 Stable Diffusion 中，他那独特的风格已成为最常用的提示词之一。",
+      "tip": "这里的 style 被转化为提示词使用，准确说是用户输入他的姓名以调用类似风格，并非风格本身是一段固定文字。"
+    },
+    {
+      "id": "2024-T3-P2-S04",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "The tool, along with other popular image-generation AI models, allows anyone to create impressive images based on text prompts.",
+      "core": "The tool allows anyone to create impressive images.",
+      "structure": "along with ... 是插入式介词短语，不改变主语 The tool 的单数；based on text prompts 是过去分词短语，修饰 images。",
+      "key": "along with：连同、以及；谓语的数通常与前面的中心主语保持一致。；allow sb to do：使某人能够做某事。；based on text prompts：以文字提示为依据。",
+      "zh": "这一工具与其他流行的图像生成 AI 模型一样，让任何人都能依据文字提示创作出令人印象深刻的图像。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P2-S05",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "For example, type in “Wizard with sword and a glowing orb of magic fire fights a fierce dragon Greg Rutkowski,” and the system will produce something that looks not a million miles away from works in Rutkowski’s style.",
+      "core": "祈使句 type in ... 与陈述句 the system will produce something ... 由 and 连接，构成“做……就会……”的条件结果关系。",
+      "structure": "that looks ... 是定语从句，修饰 something；works in Rutkowski’s style 指具有鲁特科夫斯基风格的作品。",
+      "key": "not a million miles away from：字面是“相距不到一百万英里”，实际是弱化式表达，意为“与……相当接近、很相似”。；type in：键入、输入。；a glowing orb of magic fire：一团闪耀的球状魔法火焰。",
+      "zh": "例如，输入“手持宝剑和一团闪耀魔法火球的巫师与凶猛巨龙战斗，格雷格·鲁特科夫斯基”，系统就会生成与鲁特科夫斯基风格作品十分相似的图像。",
+      "tip": "提示词末尾直接加入艺术家姓名，作用是要求系统模仿或逼近其风格。"
+    },
+    {
+      "id": "2024-T3-P3-S06",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "But these open-source programs are built by scraping images from the internet, often without permission and proper attribution to artists.",
+      "core": "these open-source programs are built by scraping images.",
+      "structure": "by scraping ... 说明程序或模型的构建方式；often without ... 补充抓取行为常见的合规缺陷。",
+      "key": "scrape：此处是技术用语，指用程序从网站大规模抓取、收集数据或图像，不是“刮擦”。；attribution：作品署名及来源标注，不是一般的“属性”。；without permission：未经许可。；proper attribution to artists：对艺术家作恰当署名或来源说明。",
+      "zh": "然而，这些开源程序是通过从互联网上抓取图像构建的，而这种抓取往往未经许可，也没有恰当地注明艺术家身份与作品来源。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P4-S09",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "According to the website Lexica, which tracks over 10 million images and prompts generated by Stable Diffusion, Rutkowski’s name has been used as a prompt around 93,000 times.",
+      "core": "Rutkowski’s name has been used as a prompt around 93,000 times.",
+      "structure": "According to ... 交代数据来源；which tracks ... 是非限制性定语从句，修饰 the website Lexica；generated by Stable Diffusion 修饰 images and prompts。",
+      "key": "track：持续追踪、记录。；be used as a prompt：被用作提示词。",
+      "zh": "据 Lexica 网站统计，该网站追踪了 Stable Diffusion 生成的 1,000 多万张图像及其提示词；鲁特科夫斯基的名字被用作提示词约 9.3 万次。",
+      "tip": "9.3 万次指他的姓名被输入为提示词的次数，不代表他本人创作了 9.3 万幅作品。"
+    },
+    {
+      "id": "2024-T3-P4-S10",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Rutkowski was initially surprised but thought it might be a good way to reach new audiences.",
+      "core": "Rutkowski was ... surprised but thought ...。",
+      "structure": "but 连接主语相同的两个谓语；it 指其姓名或风格在 AI 生成器中受到关注这件事；to reach new audiences 修饰 way。",
+      "key": "initially：起初、一开始。；reach new audiences：触达新的受众群体。",
+      "zh": "鲁特科夫斯基起初感到惊讶，但也认为这或许是接触新受众的好办法。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P4-S11",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Then he tried searching for his name to see if a piece he had worked on had been published.",
+      "core": "he tried searching for his name.",
+      "structure": "to see ... 是目的状语；if ... had been published 是 see 的宾语从句；he had worked on 是省略关系代词的定语从句，修饰 a piece。",
+      "key": "try doing：尝试做某事，强调试用一种办法。；a piece：此处指一件艺术作品。",
+      "zh": "后来，他尝试搜索自己的名字，想看看自己参与创作的某件作品是否已经发表。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P4-S12",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "The online search brought back work that had his name attached to it but wasn’t his.",
+      "core": "The online search brought back work.",
+      "structure": "that had ... but wasn’t ... 是定语从句，修饰集合意义的 work；it 指这些作品，his 后省略了 work，意为“不是他的作品”。",
+      "key": "bring back：此处指搜索“返回、呈现”结果，不是“带回来”或“使回忆起”。；have one’s name attached to：被附上某人的名字、以某人的名义标注。",
+      "zh": "网上搜索返回了一些标有他名字、却并非由他创作的作品。",
+      "tip": "搜索结果是带有其姓名的 AI 风格作品，并非他找到自己发表过的真作。"
+    },
+    {
+      "id": "2024-T3-P5-S15",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "I probably won’t be able to find my work out there because the internet will be flooded with AI art,” Rutkowski says.",
+      "core": "I probably won’t be able to find my work.",
+      "structure": "because ... 引导原因从句；将来时 will be flooded 表达他对一年后网络环境的担忧。",
+      "key": "out there：此处指互联网上可公开搜索到的空间。；be flooded with：充斥着、被大量……淹没。",
+      "zh": "到那时，我恐怕会无法在网上找到自己的作品，因为互联网将充斥着 AI 艺术作品。”鲁特科夫斯基说。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P6-S17",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Other artists besides Rutkowski have been surprised by the apparent popularity of their work in text-to-image generators — and some are now fighting back.",
+      "core": "Other artists ... have been surprised ... , and some are now fighting back.",
+      "structure": "besides Rutkowski 修饰 Other artists；of their work ... 修饰 popularity；破折号后的 and 推进到艺术家的实际反应。",
+      "key": "apparent popularity：表面上或看起来很受欢迎；这里并非真正的艺术市场人气，而是作品被纳入数据集、姓名或风格被模型用户调用。；fight back：反击、采取行动维护自身权益。",
+      "zh": "除了鲁特科夫斯基，其他艺术家也惊讶地发现自己的作品似乎在文生图生成器中大受欢迎，而其中一些人如今正开始反击。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P6-S18",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Karla Ortiz, an illustrator based in San Francisco who found her work in Stable Diffusion’s data set, has been raising awareness about the issues around AI art and copyright.",
+      "core": "Karla Ortiz ... has been raising awareness ...。",
+      "structure": "an illustrator ... 是主语的同位语；based in San Francisco 修饰 illustrator；who found ... 是定语从句，继续说明她采取行动的背景。",
+      "key": "be based in：常驻于、以……为工作地点。；data set：数据集。；raise awareness about：提升人们对……的认识，使……受到关注。",
+      "zh": "卡拉·奥尔蒂斯是一位常驻旧金山的插画家，她发现自己的作品出现在 Stable Diffusion 的数据集中，此后一直在推动人们关注 AI 艺术与版权相关的问题。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P7-S19",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Artists say they risk losing income as people start using AI-generated images based on copyrighted material for commercial purposes.",
+      "core": "Artists say (that) they risk losing income.",
+      "structure": "as ... 引导时间兼原因背景；using ... for commercial purposes 是 start 的宾语；AI-generated 与 based on ... 都修饰 images。",
+      "key": "risk doing：面临做某事或遭受某种后果的风险。；copyrighted material：受版权保护的材料。；for commercial purposes：用于商业目的。",
+      "zh": "艺术家们表示，随着人们开始把基于受版权保护材料生成的 AI 图像用于商业目的，他们面临收入损失的风险。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P7-S20",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "But it’s also a lot more personal, Ortiz says, arguing that because art is so closely linked to a person, it could raise data protection and privacy problems.",
+      "core": "it’s also a lot more personal, Ortiz says.",
+      "structure": "arguing that ... 是现在分词短语，补充奥尔蒂斯的理由；that 引导宾语从句；其中 because ... 解释为何会出现数据保护和隐私问题。",
+      "key": "personal：此处不只是“个人的”，还强调艺术风格与创作者身份、人格表达密切相关。；raise ... problems：引发……问题。",
+      "zh": "但奥尔蒂斯说，这个问题也具有更强的个人属性；她认为，由于艺术与创作者本人紧密相连，这种做法还可能引发数据保护和隐私问题。",
+      "tip": "宾语从句中的 it 指 AI 使用与个人紧密相连的艺术作品或风格这件事，不是泛指“艺术”本身会造成隐私问题。"
+    },
+    {
+      "id": "2024-T3-P8-S21",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "“There is a coalition growing within artist industries to figure out how to tackle or mitigate this,” says Ortiz.",
+      "core": "引语内部为 There is a coalition growing ...。",
+      "structure": "growing within artist industries 是现在分词短语，修饰 coalition；to figure out ... 是目的状语；this 回指 AI 抓取和模仿艺术作品所带来的版权、收入与隐私问题。",
+      "key": "coalition：为共同目标组成的联盟。；tackle or mitigate：处理或减轻；tackle 强调着手解决，mitigate 强调降低危害。；figure out how to do：设法弄清如何做某事。",
+      "zh": "奥尔蒂斯说：“艺术行业内部正在形成并壮大一个联盟，以研究如何应对或减轻这一问题。”",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P8-S22",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "The group is in its early days of mobilization, which could involve pushing for new policies or regulation.",
+      "core": "The group is in its early days of mobilization.",
+      "structure": "which ... 是非限制性定语从句，补充说明这种动员可能采取的形式；pushing for ... 作 involve 的宾语。",
+      "key": "push for：积极争取、推动实现，而非字面“推”。；in its early days：尚处于早期阶段。；mobilization：为集体行动而组织、动员。",
+      "zh": "这一团体的动员尚处于早期阶段，后续行动可能包括推动出台新的政策或监管规定。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T3-P8-S23",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "One suggestion is that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists, Ortiz says.",
+      "core": "One suggestion is that ...；句末 Ortiz says 标明说话者。",
+      "structure": "that 引导表语从句；从句内 AI models could be trained ... 与 AI companies could forge ... 由 and 并列，构成两项建议。",
+      "key": "public domain：公有领域，指不受版权限制、公众可依法使用的作品范围；不是“公共机构”。；forge partnerships：建立、缔结合作关系，forge 此处不是“伪造”。；be trained on images：使用图像作为训练材料。；forge partnerships with：与……建立合作关系。",
+      "zh": "奥尔蒂斯说，一项建议是，AI 模型可以改用公有领域中的图像进行训练，同时 AI 公司可以与博物馆和艺术家建立合作关系。",
+      "tip": "images in the public domain 对应改变模型训练策略；与博物馆合作不等于向公共机构提供 AI 服务。"
+    },
+    {
+      "id": "2024-T4-P1-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of land and water.",
+      "core": "The miracle ... lies not in its depths, but in ...。",
+      "structure": "not in ... but in ... 构成对照；第二个 in 后有三个并列宾语：the complexity ...、the interaction ... 和 the mix ...。",
+      "key": "construction：此处不是人工“建筑、施工”，而是海湾天然形成的构造与组成。；lie in：此处意为“存在于、在于”，不是“躺在”或“说谎”。；saline waters：咸水水体。；the interaction of：……之间的相互作用、交汇。",
+      "zh": "切萨皮克湾的奇妙之处不在于水有多深，而在于其自然构造的复杂性、淡水与咸水的交汇，以及陆地与水域的交融。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P1-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destructive storm surges.",
+      "core": "The shallows provide homes for hundreds of species.",
+      "structure": "while 后接三个并列的现在分词 storing、filtering 和 protecting，说明浅水区同时发挥的生态功能。",
+      "key": "the shallows：浅水区，是形容词名词化用法，不是泛指“肤浅之处”。；store floodwaters：蓄纳、暂存洪水，从而缓解洪峰。；filter pollutants from water：从水中过滤污染物。；protect A from B：保护 A 免受 B 影响。",
+      "zh": "这些浅水区为数百种生物提供栖息地，同时还能蓄纳洪水、滤除水中污染物，并保护附近社区免受可能造成破坏的风暴潮侵袭。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P2-S03",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "All this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) far less authority to regulate wetlands and waterways.",
+      "core": "All this was put at great risk.",
+      "structure": "when ... 是时间从句；that provides ... far less authority ... 是定语从句，修饰 a ruling；to regulate ... 说明 authority 的内容。",
+      "key": "put ... at risk：使……处于危险之中。；authority：此处指依法监管的权限、职权，不是“权威人士”。；issue a ruling：作出、发布裁决。；regulate wetlands and waterways：依法监管湿地和水道。",
+      "zh": "上月底，美国最高法院就爱达荷州的一起案件作出裁决，使美国环境保护署（EPA）监管湿地和水道的权限大幅缩减，前述一切生态价值因此面临巨大风险。",
+      "tip": "All this 回指第一段列举的海湾生态构造和功能；法院裁决不是加强而是明显削弱 EPA 权限。"
+    },
+    {
+      "id": "2024-T4-P2-S04",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Specifically, a 5-4 majority decided that wetlands protected by the EPA under its Clean Water Act authority must have a “continuous surface connection” to bodies of water.",
+      "core": "a 5-4 majority decided that wetlands ... must have ...。",
+      "structure": "that 引导宾语从句；protected by the EPA 是过去分词短语，修饰 wetlands；under its Clean Water Act authority 说明 EPA 保护湿地的法律依据。",
+      "key": "a 5-4 majority：以 5 票对 4 票形成的多数意见。；under its ... authority：依据其由……赋予的权限。；continuous surface connection：连续的地表水连接。",
+      "zh": "具体而言，最高法院以 5 比 4 的多数意见裁定，EPA 依据《清洁水法》权限所保护的湿地，必须与水体之间存在“连续的地表连接”。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P2-S05",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "This narrowing of the regulatory scope was a victory for builders, mining operators and other commercial interests often at odds with environmental rules.",
+      "core": "This narrowing ... was a victory for ...。",
+      "structure": "of the regulatory scope 修饰 narrowing；often at odds with environmental rules 修饰并列的商业利益方。",
+      "key": "interest：此处指具有共同利益的商业集团或利益方，不是“兴趣”。；at odds with：与……不一致、相冲突。",
+      "zh": "监管范围的这次收窄，对建筑商、采矿经营者以及其他经常与环境法规利益相冲突的商业集团来说，是一场胜利。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P2-S06",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "And it carries “significant repercussions for water quality and flood control throughout the United States,” as Justice Brett Kavanaugh observed.",
+      "core": "it carries significant repercussions for ...。",
+      "structure": "it 指最高法院裁决或监管范围收窄；as Justice Brett Kavanaugh observed 表示“正如……所指出的”。",
+      "key": "carry repercussions for：给……带来后续影响或严重后果，repercussion 常含负面意味。",
+      "zh": "正如布雷特·卡瓦诺大法官所指出的，这项裁决“将对全美国的水质和防洪产生重大影响”。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P3-S07",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "In Maryland, the good news is that there are many state laws in place that provide wetlands protections.",
+      "core": "the good news is that there are many state laws in place.",
+      "structure": "第一个 that 引导表语从句；第二个 that 引导定语从句，修饰 state laws。",
+      "key": "be in place：已经建立、正在实施或生效。；provide wetlands protections：为湿地提供法律保护。",
+      "zh": "好消息是，马里兰州已经施行多项州法律，为湿地提供保护。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P3-S09",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The reality is that water, and the pollutants that so often come with it, don’t respect state boundaries.",
+      "core": "The reality is that water ... don’t respect state boundaries.",
+      "structure": "that 引导表语从句；and the pollutants ... 是插入的并列主语；that so often come with it 是定语从句，修饰 pollutants；it 指水。",
+      "key": "respect state boundaries：这里是拟人表达，意为“受州界限制、止步于州界”，不是“尊重州界”。",
+      "zh": "现实是，水以及常随水而来的污染物并不受州界约束。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P3-S10",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The Chesapeake draws from a 64,000-square-mile watershed that extends into Virginia, Pennsylvania, New York, West Virginia, the District of Columbia and Delaware.",
+      "core": "The Chesapeake draws from a ... watershed.",
+      "structure": "64,000-square-mile 是复合形容词，修饰 watershed；that extends into ... 是定语从句，列出流域跨越的六个司法辖区。",
+      "key": "draw from：此处指从某一流域汇入、获得水源，而非“从……得出结论”。；watershed：流域、集水区，即降水最终汇向同一水体的区域。",
+      "zh": "切萨皮克湾汇集了一个面积达 6.4 万平方英里的流域来水，该流域延伸至弗吉尼亚州、宾夕法尼亚州、纽约州、西弗吉尼亚州、哥伦比亚特区和特拉华州。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P3-S11",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Will those jurisdictions extend the same protections now denied under Sackett v. EPA?",
+      "core": "Will those jurisdictions extend the same protections?",
+      "structure": "now denied under Sackett v. EPA 是过去分词短语，修饰 protections，说明这些保护因该案裁决而不再由联邦法规覆盖。",
+      "key": "jurisdiction：拥有自身立法或行政权限的辖区，此处指前句列举的各州及哥伦比亚特区。；Sackett v. EPA：“萨克特诉美国环保署案”；v. 表示诉讼双方之间的“诉”。",
+      "zh": "在“萨克特诉美国环保署案”裁决导致联邦层面的这些保护不再适用后，上述各司法辖区会自行提供同等保护吗？",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P3-S12",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Perhaps some, but all?",
+      "core": "见结构",
+      "structure": "这是承接上一问的省略句，完整意思是 Perhaps some jurisdictions will, but will all jurisdictions do so?",
+      "key": "见下方词汇笔记",
+      "zh": "也许有些辖区会，但所有辖区都会吗？",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P4-S14",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "It is too easy, and misleading, to see such court rulings as merely standing up for the rights of land owners when the consequences can be so dire for their neighbors.",
+      "core": "It is too easy, and misleading, to see such court rulings as ...。",
+      "structure": "It 是形式主语，真正主语是 to see ...；see A as B 表示“把 A 看作 B”；when ... 引导背景或原因情境，指出这种看法忽略了严重的外部后果。",
+      "key": "stand up for：支持、捍卫某人或某事物。；dire：极其严重的、可怕的。",
+      "zh": "把这类法院裁决仅仅视为维护土地所有者权利，实在过于简单，也会造成误导，因为其后果对土地所有者的邻近地区和居民可能极其严重。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P4-S15",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "And it’s a reminder that the EPA’s involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special interests in neighboring states.",
+      "core": "it’s a reminder that the EPA’s involvement ... has long been crucial.",
+      "structure": "that 引导 reminder 的同位语从句；从句主语是 the EPA’s involvement ...；as the means to transcend ... 说明这种参与为何关键；to transcend ... 修饰 means。",
+      "key": "deep-pocketed：财力雄厚的，尤指有能力影响政策的利益方。；special interests：特殊利益集团，指推动自身利益而可能损害公共利益的组织或行业力量。；transcend：超越、突破……的限制或影响。",
+      "zh": "这也提醒人们，长期以来，EPA 参与切萨皮克湾计划一直至关重要，因为它使流域保护能够超越邻近各州财力雄厚的特殊利益集团的影响。",
+      "tip": "作者不是赞扬 EPA “尊重各州各自为政”，而是强调它能克服各州特殊利益造成的分散与阻碍。"
+    },
+    {
+      "id": "2024-T4-P4-S16",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Pennsylvania farmers, to use one telling example, aren’t thinking about next year’s blue crab harvest in Maryland when they decide whether to spread animal waste on their fields, yet the runoff into nearby creeks can have enormous impact downstream.",
+      "core": "Pennsylvania farmers aren’t thinking about ... , yet the runoff ... can have enormous impact downstream.",
+      "structure": "to use one telling example 是插入语；when ... 是时间从句；whether to spread ... 作 decide 的宾语；yet 连接转折分句，揭示上游行为对下游的真实影响。",
+      "key": "telling：此处意为“很能说明问题的、有说服力的”，不是“讲述的”。；animal waste：此处主要指农业中的动物粪便、粪肥。；runoff：地表径流，雨水冲刷农田后流入河溪的水体。；whether to do：是否做某事。",
+      "zh": "举一个很能说明问题的例子：宾夕法尼亚州的农民决定是否把动物粪肥撒在田里时，并不会考虑马里兰州下一年的蓝蟹收成；然而，流入附近溪流的地表径流却可能对下游造成巨大影响。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P5-S17",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "And so we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved.",
+      "core": "we would call on state lawmakers ... to consider ... and see ...。",
+      "structure": "from Richmond to Albany 以州府代指流域内从弗吉尼亚州到纽约州的立法者；to consider ... and see ... 是两个并列的不定式补语；involved 修饰 stakes。",
+      "key": "call on sb to do：呼吁、敦促某人做某事。；stakes：此处指成败所牵涉的重大利益与风险，不是“木桩”。；consider reviewing：考虑重新审查。；see for oneself：亲自了解、亲眼确认。",
+      "zh": "因此，我们呼吁从里士满到奥尔巴尼的各州立法者重新审视本州的湿地保护措施，并亲自认清其中牵涉的巨大利害关系。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2024-T4-P5-S18",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "We can offer them a visit to Blackwater National Wildlife Refuge in Dorchester County where bald eagles fly over tidal marshes so shallow you could not paddle a boat across them but teaming with aquatic life.",
+      "core": "We can offer them a visit to ...。",
+      "structure": "where ... 是定语从句，修饰保护区；从句中 so shallow (that) ... 省略 that，表示“浅到无法划船通过”；but teaming with aquatic life 与 so shallow ... 形成转折描述。",
+      "key": "tidal marshes：受潮汐周期性淹没的湿地、潮汐沼泽。；aquatic life：水生生物。；teaming with aquatic life：原文如此拼写，按语境意为“水生生物繁盛”；常见固定搭配写作 teeming with。",
+      "zh": "我们可以邀请他们到多切斯特县的黑水国家野生动物保护区走一趟；在那里，白头海雕翱翔于潮汐沼泽之上，沼泽浅得无法划船通过，却有着繁盛的水生生物。",
+      "tip": "them 指各州立法者；“无法划船”源于水太浅，不是水域危险。"
+    }
+  ],
+  "vocab": [
+    {
+      "w": "pull out of",
+      "pos": "phr.",
+      "cn": "此处不是“拔出”，而是“撤离、退出（某地）”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Nearly 2,000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things.",
+      "forms": [
+        "pull out of"
+      ],
+      "note": "此处不是“拔出”，而是“撤离、退出（某地）”。"
+    },
+    {
+      "w": "leave behind",
+      "pos": "phr.",
+      "cn": "离开时留下。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Nearly 2,000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things.",
+      "forms": [
+        "leave behind"
+      ],
+      "note": "离开时留下。"
+    },
+    {
+      "w": "nearly a million of the things",
+      "pos": "phr.",
+      "cn": "这里的 the things 回指 nails，是略带口语色彩的补充说明。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Nearly 2,000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things.",
+      "forms": [
+        "nearly a million of the things"
+      ],
+      "note": "这里的 the things 回指 nails，是略带口语色彩的补充说明。"
+    },
+    {
+      "w": "hoard",
+      "pos": "词",
+      "cn": "贮藏起来的一批物品，此处指集中埋藏的钉子。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel.",
+      "forms": [
+        "hoard"
+      ],
+      "note": "贮藏起来的一批物品，此处指集中埋藏的钉子。"
+    },
+    {
+      "w": "a four-metre-deep pit",
+      "pos": "phr.",
+      "cn": "一个 4 米深的坑；复合形容词中的名词 metre 用单数。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel.",
+      "forms": [
+        "a four-metre-deep pit"
+      ],
+      "note": "一个 4 米深的坑；复合形容词中的名词 metre 用单数。"
+    },
+    {
+      "w": "rushed",
+      "pos": "v./adj.",
+      "cn": "此处意为“仓促的、匆忙完成的”，不是“冲过去的”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The likely explanation is that the withdrawal was rushed, and they didn’t want the local Caledonians getting their hands on 10 tons of weapon-grade iron.",
+      "forms": [
+        "rushed"
+      ],
+      "note": "此处意为“仓促的、匆忙完成的”，不是“冲过去的”。"
+    },
+    {
+      "w": "get one's hands on",
+      "pos": "phr.",
+      "cn": "设法得到、弄到手，而非字面上的“把手放在……上”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The likely explanation is that the withdrawal was rushed, and they didn’t want the local Caledonians getting their hands on 10 tons of weapon-grade iron.",
+      "forms": [
+        "get one's hands on"
+      ],
+      "note": "设法得到、弄到手，而非字面上的“把手放在……上”。"
+    },
+    {
+      "w": "withdrawal",
+      "pos": "adj.",
+      "cn": "撤退、撤离，对应上一段的 pull out of Scotland。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The likely explanation is that the withdrawal was rushed, and they didn’t want the local Caledonians getting their hands on 10 tons of weapon-grade iron.",
+      "forms": [
+        "withdrawal"
+      ],
+      "note": "撤退、撤离，对应上一段的 pull out of Scotland。"
+    },
+    {
+      "w": "weapon-grade iron",
+      "pos": "phr.",
+      "cn": "质量足以用于制造武器的铁。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The likely explanation is that the withdrawal was rushed, and they didn’t want the local Caledonians getting their hands on 10 tons of weapon-grade iron.",
+      "forms": [
+        "weapon-grade iron"
+      ],
+      "note": "质量足以用于制造武器的铁。"
+    },
+    {
+      "w": "so ... that ...",
+      "pos": "phr.",
+      "cn": "如此……以至于……，引出结果。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The Romans buried the nails so deep that they would not be discovered for almost two millennia.",
+      "forms": [
+        "so ... that ..."
+      ],
+      "note": "如此……以至于……，引出结果。"
+    },
+    {
+      "w": "millennium",
+      "pos": "词",
+      "cn": "一千年；millennia 是其复数形式。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The Romans buried the nails so deep that they would not be discovered for almost two millennia.",
+      "forms": [
+        "millennium"
+      ],
+      "note": "一千年；millennia 是其复数形式。"
+    },
+    {
+      "w": "labour in a nail",
+      "pos": "phr.",
+      "cn": "不是“钉子里的劳动力”，而是指制造一枚钉子所投入的熟练劳动及其价值。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Later civilisations would value the skilled blacksmith’s labour in a nail even more than the raw material.",
+      "forms": [
+        "labour in a nail"
+      ],
+      "note": "不是“钉子里的劳动力”，而是指制造一枚钉子所投入的熟练劳动及其价值。"
+    },
+    {
+      "w": "burn down",
+      "pos": "phr.",
+      "cn": "将建筑物烧毁。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "As Roma Agrawal explains in her new delightful book Nuts and Bolts, early 17th-century Virginians would sometimes burn down their homes if they were planning to relocate.",
+      "forms": [
+        "burn down"
+      ],
+      "note": "将建筑物烧毁。"
+    },
+    {
+      "w": "relocate",
+      "pos": "v.",
+      "cn": "迁居、搬迁。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "As Roma Agrawal explains in her new delightful book Nuts and Bolts, early 17th-century Virginians would sometimes burn down their homes if they were planning to relocate.",
+      "forms": [
+        "relocate"
+      ],
+      "note": "迁居、搬迁。"
+    },
+    {
+      "w": "recover",
+      "pos": "词",
+      "cn": "此处指“找回、回收”，不是“康复”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "This was an attempt to recover the valuable nails, which could be reused after sifting the ashes.",
+      "forms": [
+        "recover"
+      ],
+      "note": "此处指“找回、回收”，不是“康复”。"
+    },
+    {
+      "w": "sift the ashes",
+      "pos": "phr.",
+      "cn": "筛查灰烬，从中分离出钉子。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "This was an attempt to recover the valuable nails, which could be reused after sifting the ashes.",
+      "forms": [
+        "sift the ashes"
+      ],
+      "note": "筛查灰烬，从中分离出钉子。"
+    },
+    {
+      "w": "underline",
+      "pos": "词",
+      "cn": "此处作动词，意为“突出、强调”，不是“在文字下画线”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was.",
+      "forms": [
+        "underline"
+      ],
+      "note": "此处作动词，意为“突出、强调”，不是“在文字下画线”。"
+    },
+    {
+      "w": "technology",
+      "pos": "词",
+      "cn": "此处具体指制钉技术及其产品价值，并非笼统的现代高科技。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was.",
+      "forms": [
+        "technology"
+      ],
+      "note": "此处具体指制钉技术及其产品价值，并非笼统的现代高科技。"
+    },
+    {
+      "w": "fall by 90%",
+      "pos": "phr.",
+      "cn": "下降了 90%；若为 fall to 90% 才是“降至原来的 90%”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The price of nails fell by 90% between the late 1700s and mid-1900s, as economist Daniel Sichel points out in a research paper.",
+      "forms": [
+        "fall by 90%"
+      ],
+      "note": "下降了 90%；若为 fall to 90% 才是“降至原来的 90%”。"
+    },
+    {
+      "w": "point out",
+      "pos": "phr.",
+      "cn": "指出、说明。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The price of nails fell by 90% between the late 1700s and mid-1900s, as economist Daniel Sichel points out in a research paper.",
+      "forms": [
+        "point out"
+      ],
+      "note": "指出、说明。"
+    },
+    {
+      "w": "credit",
+      "pos": "词",
+      "cn": "此处不是“信用”或“学分”，而是“功劳、贡献”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply fo",
+      "forms": [
+        "credit"
+      ],
+      "note": "此处不是“信用”或“学分”，而是“功劳、贡献”。"
+    },
+    {
+      "w": "be driven partly by",
+      "pos": "phr.",
+      "cn": "部分由……推动或造成。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply fo",
+      "forms": [
+        "be driven partly by"
+      ],
+      "note": "部分由……推动或造成。"
+    },
+    {
+      "w": "most of the credit goes to",
+      "pos": "phr.",
+      "cn": "主要功劳归于……。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply fo",
+      "forms": [
+        "most of the credit goes to"
+      ],
+      "note": "主要功劳归于……。"
+    },
+    {
+      "w": "turn A into B",
+      "pos": "phr.",
+      "cn": "把 A 转化、加工成 B。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply fo",
+      "forms": [
+        "turn A into B"
+      ],
+      "note": "把 A 转化、加工成 B。"
+    },
+    {
+      "w": "be different from",
+      "pos": "phr.",
+      "cn": "与……不同。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Roman lamps and Roman chariots are very different from LED strips and sports cars, but Roman nails are still clearly nails.",
+      "forms": [
+        "be different from"
+      ],
+      "note": "与……不同。"
+    },
+    {
+      "w": "LED strips",
+      "pos": "phr.",
+      "cn": "LED 灯带。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Roman lamps and Roman chariots are very different from LED strips and sports cars, but Roman nails are still clearly nails.",
+      "forms": [
+        "LED strips"
+      ],
+      "note": "LED 灯带。"
+    },
+    {
+      "w": "make sense",
+      "pos": "phr.",
+      "cn": "此处意为“合理、说得通”，不是“制造意义”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "It would be absurd to try to track the changing price of sports cars since 1695, but to ask the same question of nails makes perfect sense.",
+      "forms": [
+        "make sense"
+      ],
+      "note": "此处意为“合理、说得通”，不是“制造意义”。"
+    },
+    {
+      "w": "ask the same question of nails",
+      "pos": "phr.",
+      "cn": "意为“针对钉子提出同样的问题”，这里的问题是长期价格如何变化。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "It would be absurd to try to track the changing price of sports cars since 1695, but to ask the same question of nails makes perfect sense.",
+      "forms": [
+        "ask the same question of nails"
+      ],
+      "note": "意为“针对钉子提出同样的问题”，这里的问题是长期价格如何变化。"
+    },
+    {
+      "w": "make no apology for",
+      "pos": "phr.",
+      "cn": "并非真的在讨论“道歉”，而是表示“毫不歉疚、毫不掩饰地坚持……”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "I make no apology for being obsessed by a particular feature of these objects: their price.",
+      "forms": [
+        "make no apology for"
+      ],
+      "note": "并非真的在讨论“道歉”，而是表示“毫不歉疚、毫不掩饰地坚持……”。"
+    },
+    {
+      "w": "be obsessed by",
+      "pos": "phr.",
+      "cn": "对……着迷、念念不忘。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "I make no apology for being obsessed by a particular feature of these objects: their price.",
+      "forms": [
+        "be obsessed by"
+      ],
+      "note": "对……着迷、念念不忘。"
+    },
+    {
+      "w": "after all",
+      "pos": "phr.",
+      "cn": "毕竟，用来补充一个显而易见的解释。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "I am an economist, after all.",
+      "forms": [
+        "after all"
+      ],
+      "note": "毕竟，用来补充一个显而易见的解释。"
+    },
+    {
+      "w": "hype",
+      "pos": "词",
+      "cn": "大肆宣传、热炒与由此带来的关注，常含“言过其实”的意味。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "After writing two books about the history of inventions, one thing I’ve learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it’s",
+      "forms": [
+        "hype"
+      ],
+      "note": "大肆宣传、热炒与由此带来的关注，常含“言过其实”的意味。"
+    },
+    {
+      "w": "cheap technologies",
+      "pos": "phr.",
+      "cn": "此处强调低成本、可广泛采用的技术，不是“质量低劣的技术”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "After writing two books about the history of inventions, one thing I’ve learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it’s",
+      "forms": [
+        "cheap technologies"
+      ],
+      "note": "此处强调低成本、可广泛采用的技术，不是“质量低劣的技术”。"
+    },
+    {
+      "w": "enchantingly sophisticated",
+      "pos": "phr.",
+      "cn": "精妙得令人着迷的、极为复杂先进的。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "After writing two books about the history of inventions, one thing I’ve learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it’s",
+      "forms": [
+        "enchantingly sophisticated"
+      ],
+      "note": "精妙得令人着迷的、极为复杂先进的。"
+    },
+    {
+      "w": "get all the hype",
+      "pos": "phr.",
+      "cn": "获得所有宣传和热度。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "After writing two books about the history of inventions, one thing I’ve learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it’s",
+      "forms": [
+        "get all the hype"
+      ],
+      "note": "获得所有宣传和热度。"
+    },
+    {
+      "w": "surface",
+      "pos": "词",
+      "cn": "此处不是抽象的“表面”，而是指纸张等可供书写的载体。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost — and it would have achieved little without a paralle",
+      "forms": [
+        "surface"
+      ],
+      "note": "此处不是抽象的“表面”，而是指纸张等可供书写的载体。"
+    },
+    {
+      "w": "collapse",
+      "pos": "词",
+      "cn": "此处指价格“暴跌、大幅下降”，不是实体建筑倒塌。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost — and it would have achieved little without a paralle",
+      "forms": [
+        "collapse"
+      ],
+      "note": "此处指价格“暴跌、大幅下降”，不是实体建筑倒塌。"
+    },
+    {
+      "w": "not by ... but by ...",
+      "pos": "phr.",
+      "cn": "不是通过……而是通过……。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost — and it would have achieved little without a paralle",
+      "forms": [
+        "not by ... but by ..."
+      ],
+      "note": "不是通过……而是通过……。"
+    },
+    {
+      "w": "achieve little without",
+      "pos": "phr.",
+      "cn": "若没有……便难有多少成效。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost — and it would have achieved little without a paralle",
+      "forms": [
+        "achieve little without"
+      ],
+      "note": "若没有……便难有多少成效。"
+    },
+    {
+      "w": "thanks to",
+      "pos": "phr.",
+      "cn": "由于、得益于。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost — and it would have achieved little without a paralle",
+      "forms": [
+        "thanks to"
+      ],
+      "note": "由于、得益于。"
+    },
+    {
+      "w": "often-overlooked",
+      "pos": "v./adj.",
+      "cn": "常被忽视的。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost — and it would have achieved little without a paralle",
+      "forms": [
+        "often-overlooked"
+      ],
+      "note": "常被忽视的。"
+    },
+    {
+      "w": "niche",
+      "pos": "词",
+      "cn": "此处作定语，意为“小众的、只适用于特定领域的”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Solar panels had few niche uses until they became cheap; now they are transforming the global energy system.",
+      "forms": [
+        "niche"
+      ],
+      "note": "此处作定语，意为“小众的、只适用于特定领域的”。"
+    },
+    {
+      "w": "contented",
+      "pos": "v./adj.",
+      "cn": "此处指“感到满足、幸福的”，不是“有内容的”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested.",
+      "forms": [
+        "contented"
+      ],
+      "note": "此处指“感到满足、幸福的”，不是“有内容的”。"
+    },
+    {
+      "w": "bring up",
+      "pos": "phr.",
+      "cn": "此处指“抚养、教育（孩子）”，不是“提出话题”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested.",
+      "forms": [
+        "bring up"
+      ],
+      "note": "此处指“抚养、教育（孩子）”，不是“提出话题”。"
+    },
+    {
+      "w": "parenting tips",
+      "pos": "phr.",
+      "cn": "育儿经验、建议。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested.",
+      "forms": [
+        "parenting tips"
+      ],
+      "note": "育儿经验、建议。"
+    },
+    {
+      "w": "hunter-gatherers",
+      "pos": "词",
+      "cn": "以狩猎和采集为主要生计方式的人群。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested.",
+      "forms": [
+        "hunter-gatherers"
+      ],
+      "note": "以狩猎和采集为主要生计方式的人群。"
+    },
+    {
+      "w": "the key to doing",
+      "pos": "phr.",
+      "cn": "做某事的关键，to 是介词，后接动名词。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested.",
+      "forms": [
+        "the key to doing"
+      ],
+      "note": "做某事的关键，to 是介词，后接动名词。"
+    },
+    {
+      "w": "be based on",
+      "pos": "phr.",
+      "cn": "以……为基础。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The idea is based on studies of communities such as the Kung of Botswana, where each child is cared for by many adults.",
+      "forms": [
+        "be based on"
+      ],
+      "note": "以……为基础。"
+    },
+    {
+      "w": "be cared for by",
+      "pos": "phr.",
+      "cn": "由……照料。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The idea is based on studies of communities such as the Kung of Botswana, where each child is cared for by many adults.",
+      "forms": [
+        "be cared for by"
+      ],
+      "note": "由……照料。"
+    },
+    {
+      "w": "as young as four",
+      "pos": "phr.",
+      "cn": "强调年龄低至 4 岁，而非“像 4 岁一样年轻”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Kung children as young as four will help to look after younger ones and “baby-wearing”, in which infants are carried in slings, is considered the norm.",
+      "forms": [
+        "as young as four"
+      ],
+      "note": "强调年龄低至 4 岁，而非“像 4 岁一样年轻”。"
+    },
+    {
+      "w": "the norm",
+      "pos": "phr.",
+      "cn": "常态、通行做法，不是数学意义上的“范数”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Kung children as young as four will help to look after younger ones and “baby-wearing”, in which infants are carried in slings, is considered the norm.",
+      "forms": [
+        "the norm"
+      ],
+      "note": "常态、通行做法，不是数学意义上的“范数”。"
+    },
+    {
+      "w": "look after",
+      "pos": "phr.",
+      "cn": "照看、照料。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Kung children as young as four will help to look after younger ones and “baby-wearing”, in which infants are carried in slings, is considered the norm.",
+      "forms": [
+        "look after"
+      ],
+      "note": "照看、照料。"
+    },
+    {
+      "w": "baby-wearing",
+      "pos": "adj.",
+      "cn": "用背巾等工具将婴儿贴身携带的育儿方式。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Kung children as young as four will help to look after younger ones and “baby-wearing”, in which infants are carried in slings, is considered the norm.",
+      "forms": [
+        "baby-wearing"
+      ],
+      "note": "用背巾等工具将婴儿贴身携带的育儿方式。"
+    },
+    {
+      "w": "sling",
+      "pos": "v./n.",
+      "cn": "此处指婴儿背巾、吊带。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Kung children as young as four will help to look after younger ones and “baby-wearing”, in which infants are carried in slings, is considered the norm.",
+      "forms": [
+        "sling"
+      ],
+      "note": "此处指婴儿背巾、吊带。"
+    },
+    {
+      "w": "evolutionary anthropologist",
+      "pos": "phr.",
+      "cn": "进化人类学家。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "According to Dr Nikhil Chaudhary, an evolutionary anthropologist at Cambridge University, these practices, known as alloparenting, could lead to less anxiety for children",
+      "forms": [
+        "evolutionary anthropologist"
+      ],
+      "note": "进化人类学家。"
+    },
+    {
+      "w": "alloparenting",
+      "pos": "v./n.",
+      "cn": "共同养育，特指由亲生父母之外的群体成员参与照护儿童。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "According to Dr Nikhil Chaudhary, an evolutionary anthropologist at Cambridge University, these practices, known as alloparenting, could lead to less anxiety for children",
+      "forms": [
+        "alloparenting"
+      ],
+      "note": "共同养育，特指由亲生父母之外的群体成员参与照护儿童。"
+    },
+    {
+      "w": "lead to less anxiety",
+      "pos": "phr.",
+      "cn": "减少焦虑、使焦虑程度降低。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "According to Dr Nikhil Chaudhary, an evolutionary anthropologist at Cambridge University, these practices, known as alloparenting, could lead to less anxiety for children",
+      "forms": [
+        "lead to less anxiety"
+      ],
+      "note": "减少焦虑、使焦虑程度降低。"
+    },
+    {
+      "w": "child psychiatrist",
+      "pos": "phr.",
+      "cn": "儿童精神科医生。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Dr Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate them into western life.",
+      "forms": [
+        "child psychiatrist"
+      ],
+      "note": "儿童精神科医生。"
+    },
+    {
+      "w": "incorporate A into B",
+      "pos": "phr.",
+      "cn": "将 A 纳入或融入 B。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Dr Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate them into western life.",
+      "forms": [
+        "incorporate A into B"
+      ],
+      "note": "将 A 纳入或融入 B。"
+    },
+    {
+      "w": "pair A with B",
+      "pos": "phr.",
+      "cn": "使 A 与 B 配对、合作，此处不是简单把两栋建筑放在一起。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "In Germany, one scheme has paired an old people’s home with a nursery.",
+      "forms": [
+        "pair A with B"
+      ],
+      "note": "使 A 与 B 配对、合作，此处不是简单把两栋建筑放在一起。"
+    },
+    {
+      "w": "nursery",
+      "pos": "词",
+      "cn": "此处指托儿所，而非“苗圃”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "In Germany, one scheme has paired an old people’s home with a nursery.",
+      "forms": [
+        "nursery"
+      ],
+      "note": "此处指托儿所，而非“苗圃”。"
+    },
+    {
+      "w": "resident",
+      "pos": "词",
+      "cn": "住户、居住者，此处指养老院中的老人。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The residents help to look after the children, an arrangement akin to alloparenting.",
+      "forms": [
+        "resident"
+      ],
+      "note": "住户、居住者，此处指养老院中的老人。"
+    },
+    {
+      "w": "akin to",
+      "pos": "phr.",
+      "cn": "与……相似、类似于……。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The residents help to look after the children, an arrangement akin to alloparenting.",
+      "forms": [
+        "akin to"
+      ],
+      "note": "与……相似、类似于……。"
+    },
+    {
+      "w": "school year",
+      "pos": "phr.",
+      "cn": "此处指学生所在年级，而非一整个“学年”时段。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Another measure could be encouraging friendships between children in different school years, to mirror the unsupervised mixed-age playgroups in hunter-gatherer communitie",
+      "forms": [
+        "school year"
+      ],
+      "note": "此处指学生所在年级，而非一整个“学年”时段。"
+    },
+    {
+      "w": "mirror",
+      "pos": "词",
+      "cn": "此处作动词，意为“仿照、反映”，不是名词“镜子”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Another measure could be encouraging friendships between children in different school years, to mirror the unsupervised mixed-age playgroups in hunter-gatherer communitie",
+      "forms": [
+        "mirror"
+      ],
+      "note": "此处作动词，意为“仿照、反映”，不是名词“镜子”。"
+    },
+    {
+      "w": "mixed-age playgroups",
+      "pos": "phr.",
+      "cn": "混龄游戏小组。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Another measure could be encouraging friendships between children in different school years, to mirror the unsupervised mixed-age playgroups in hunter-gatherer communitie",
+      "forms": [
+        "mixed-age playgroups"
+      ],
+      "note": "混龄游戏小组。"
+    },
+    {
+      "w": "unsupervised",
+      "pos": "v./adj.",
+      "cn": "没有成年人直接监督的。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Another measure could be encouraging friendships between children in different school years, to mirror the unsupervised mixed-age playgroups in hunter-gatherer communitie",
+      "forms": [
+        "unsupervised"
+      ],
+      "note": "没有成年人直接监督的。"
+    },
+    {
+      "w": "nuclear family",
+      "pos": "phr.",
+      "cn": "核心家庭，即主要由父母及其未婚子女组成的小家庭，并非“核家庭”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "In a paper published in the Journal of Child Psychology and Psychiatry, researchers said that the western nuclear family was a recent invention which broke with evolution",
+      "forms": [
+        "nuclear family"
+      ],
+      "note": "核心家庭，即主要由父母及其未婚子女组成的小家庭，并非“核家庭”。"
+    },
+    {
+      "w": "break with",
+      "pos": "phr.",
+      "cn": "背离、不再遵循，而不是“与……一起打破”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "In a paper published in the Journal of Child Psychology and Psychiatry, researchers said that the western nuclear family was a recent invention which broke with evolution",
+      "forms": [
+        "break with"
+      ],
+      "note": "背离、不再遵循，而不是“与……一起打破”。"
+    },
+    {
+      "w": "abrupt shift to",
+      "pos": "phr.",
+      "cn": "突然转向……。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "This abrupt shift to an “intensive mothering narrative”, which suggests that mothers should manage childcare alone, was likely to have been harmful.",
+      "forms": [
+        "abrupt shift to"
+      ],
+      "note": "突然转向……。"
+    },
+    {
+      "w": "intensive mothering narrative",
+      "pos": "phr.",
+      "cn": "密集母职叙事，即把高强度、全方位育儿责任主要压在母亲身上的观念。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "This abrupt shift to an “intensive mothering narrative”, which suggests that mothers should manage childcare alone, was likely to have been harmful.",
+      "forms": [
+        "intensive mothering narrative"
+      ],
+      "note": "密集母职叙事，即把高强度、全方位育儿责任主要压在母亲身上的观念。"
+    },
+    {
+      "w": "be likely to have done",
+      "pos": "phr.",
+      "cn": "很可能已经做过某事，是对过去情况的推断。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "This abrupt shift to an “intensive mothering narrative”, which suggests that mothers should manage childcare alone, was likely to have been harmful.",
+      "forms": [
+        "be likely to have done"
+      ],
+      "note": "很可能已经做过某事，是对过去情况的推断。"
+    },
+    {
+      "w": "maternal exhaustion",
+      "pos": "phr.",
+      "cn": "母亲因育儿压力产生的身心耗竭。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "“Such narratives can lead to maternal exhaustion and have dangerous consequences,” they wrote.",
+      "forms": [
+        "maternal exhaustion"
+      ],
+      "note": "母亲因育儿压力产生的身心耗竭。"
+    },
+    {
+      "w": "lead to",
+      "pos": "phr.",
+      "cn": "导致、带来。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "“Such narratives can lead to maternal exhaustion and have dangerous consequences,” they wrote.",
+      "forms": [
+        "lead to"
+      ],
+      "note": "导致、带来。"
+    },
+    {
+      "w": "by contrast",
+      "pos": "phr.",
+      "cn": "相比之下，用于引出鲜明对比。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "By contrast, in hunter-gatherer societies adults other than the parents can provide almost half of a child’s care.",
+      "forms": [
+        "by contrast"
+      ],
+      "note": "相比之下，用于引出鲜明对比。"
+    },
+    {
+      "w": "other than",
+      "pos": "phr.",
+      "cn": "除……之外。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "By contrast, in hunter-gatherer societies adults other than the parents can provide almost half of a child’s care.",
+      "forms": [
+        "other than"
+      ],
+      "note": "除……之外。"
+    },
+    {
+      "w": "provide almost half of a child’s care",
+      "pos": "phr.",
+      "cn": "承担儿童近一半的照护。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "By contrast, in hunter-gatherer societies adults other than the parents can provide almost half of a child’s care.",
+      "forms": [
+        "provide almost half of a child’s care"
+      ],
+      "note": "承担儿童近一半的照护。"
+    },
+    {
+      "w": "look at",
+      "pos": "phr.",
+      "cn": "此处不是简单“看一看”，而是“研究、考察”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "One previous study looked at the Efé people of the Democratic Republic of Congo.",
+      "forms": [
+        "look at"
+      ],
+      "note": "此处不是简单“看一看”，而是“研究、考察”。"
+    },
+    {
+      "w": "an average of",
+      "pos": "phr.",
+      "cn": "平均数量为……。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "It found that infants had an average of 14 alloparents a day by the time they were 18 weeks old, and were passed between caregivers eight times an hour.",
+      "forms": [
+        "an average of"
+      ],
+      "note": "平均数量为……。"
+    },
+    {
+      "w": "by the time",
+      "pos": "phr.",
+      "cn": "到……的时候。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "It found that infants had an average of 14 alloparents a day by the time they were 18 weeks old, and were passed between caregivers eight times an hour.",
+      "forms": [
+        "by the time"
+      ],
+      "note": "到……的时候。"
+    },
+    {
+      "w": "be passed between caregivers",
+      "pos": "phr.",
+      "cn": "被不同照护者轮流抱持、传递。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "It found that infants had an average of 14 alloparents a day by the time they were 18 weeks old, and were passed between caregivers eight times an hour.",
+      "forms": [
+        "be passed between caregivers"
+      ],
+      "note": "被不同照护者轮流抱持、传递。"
+    },
+    {
+      "w": "knock-on",
+      "pos": "词",
+      "cn": "由某事进一步引发的、连锁的，此处强调间接的后续益处。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Chaudhary said that parents now have less childcare support from family and social networks than during most of humans’ evolutionary history, but introducing additional c",
+      "forms": [
+        "knock-on"
+      ],
+      "note": "由某事进一步引发的、连锁的，此处强调间接的后续益处。"
+    },
+    {
+      "w": "maternal depression",
+      "pos": "phr.",
+      "cn": "母亲抑郁。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Chaudhary said that parents now have less childcare support from family and social networks than during most of humans’ evolutionary history, but introducing additional c",
+      "forms": [
+        "maternal depression"
+      ],
+      "note": "母亲抑郁。"
+    },
+    {
+      "w": "a benefit to a child’s wellbeing",
+      "pos": "phr.",
+      "cn": "对儿童身心健康的益处。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Chaudhary said that parents now have less childcare support from family and social networks than during most of humans’ evolutionary history, but introducing additional c",
+      "forms": [
+        "a benefit to a child’s wellbeing"
+      ],
+      "note": "对儿童身心健康的益处。"
+    },
+    {
+      "w": "call for",
+      "pos": "phr.",
+      "cn": "此处意为“要求、规定”，不是“呼喊”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "An infant born to a hunter-gatherer society could have more than ten caregivers — this contrasts starkly to nursery settings in the UK where regulations call for a ratio ",
+      "forms": [
+        "call for"
+      ],
+      "note": "此处意为“要求、规定”，不是“呼喊”。"
+    },
+    {
+      "w": "contrast starkly to",
+      "pos": "phr.",
+      "cn": "与……形成鲜明对比。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "An infant born to a hunter-gatherer society could have more than ten caregivers — this contrasts starkly to nursery settings in the UK where regulations call for a ratio ",
+      "forms": [
+        "contrast starkly to"
+      ],
+      "note": "与……形成鲜明对比。"
+    },
+    {
+      "w": "a ratio of one carer to four children",
+      "pos": "phr.",
+      "cn": "一名照护者对应四名儿童的比例。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "An infant born to a hunter-gatherer society could have more than ten caregivers — this contrasts starkly to nursery settings in the UK where regulations call for a ratio ",
+      "forms": [
+        "a ratio of one carer to four children"
+      ],
+      "note": "一名照护者对应四名儿童的比例。"
+    },
+    {
+      "w": "condition",
+      "pos": "n.",
+      "cn": "此处指健康或行为方面的病症、问题，不是一般的“条件”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "While hunter-gatherer children learnt from observation and imitation in mixed-age playgroups, researchers said that western “instructive teaching”, where pupils are asked",
+      "forms": [
+        "condition"
+      ],
+      "note": "此处指健康或行为方面的病症、问题，不是一般的“条件”。"
+    },
+    {
+      "w": "instructive teaching",
+      "pos": "phr.",
+      "cn": "此处指由成人明确讲授、要求儿童按指令学习的教学方式。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "While hunter-gatherer children learnt from observation and imitation in mixed-age playgroups, researchers said that western “instructive teaching”, where pupils are asked",
+      "forms": [
+        "instructive teaching"
+      ],
+      "note": "此处指由成人明确讲授、要求儿童按指令学习的教学方式。"
+    },
+    {
+      "w": "learn from observation and imitation",
+      "pos": "phr.",
+      "cn": "通过观察和模仿学习。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "While hunter-gatherer children learnt from observation and imitation in mixed-age playgroups, researchers said that western “instructive teaching”, where pupils are asked",
+      "forms": [
+        "learn from observation and imitation"
+      ],
+      "note": "通过观察和模仿学习。"
+    },
+    {
+      "w": "contribute to",
+      "pos": "phr.",
+      "cn": "促成、成为……的部分原因。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "While hunter-gatherer children learnt from observation and imitation in mixed-age playgroups, researchers said that western “instructive teaching”, where pupils are asked",
+      "forms": [
+        "contribute to"
+      ],
+      "note": "促成、成为……的部分原因。"
+    },
+    {
+      "w": "attention deficit hyperactivity disorder",
+      "pos": "phr.",
+      "cn": "注意缺陷多动障碍，简称 ADHD。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "While hunter-gatherer children learnt from observation and imitation in mixed-age playgroups, researchers said that western “instructive teaching”, where pupils are asked",
+      "forms": [
+        "attention deficit hyperactivity disorder"
+      ],
+      "note": "注意缺陷多动障碍，简称 ADHD。"
+    },
+    {
+      "w": "explore the possibility that",
+      "pos": "phr.",
+      "cn": "探讨……的可能性。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Chaudhary said that Britain should explore the possibility that older siblings helping their parents “might also enhance their own social development.”",
+      "forms": [
+        "explore the possibility that"
+      ],
+      "note": "探讨……的可能性。"
+    },
+    {
+      "w": "enhance social development",
+      "pos": "phr.",
+      "cn": "促进社会性发展、提升社会交往能力。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Chaudhary said that Britain should explore the possibility that older siblings helping their parents “might also enhance their own social development.”",
+      "forms": [
+        "enhance social development"
+      ],
+      "note": "促进社会性发展、提升社会交往能力。"
+    },
+    {
+      "w": "digital artist",
+      "pos": "phr.",
+      "cn": "使用数字工具进行创作的艺术家。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "A Polish digital artist who uses classical painting styles to create dreamy fantasy landscapes, Greg Rutkowski has made illustrations for games such as Dungeons & Dragons",
+      "forms": [
+        "digital artist"
+      ],
+      "note": "使用数字工具进行创作的艺术家。"
+    },
+    {
+      "w": "dreamy fantasy landscapes",
+      "pos": "phr.",
+      "cn": "如梦似幻的奇幻风景。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "A Polish digital artist who uses classical painting styles to create dreamy fantasy landscapes, Greg Rutkowski has made illustrations for games such as Dungeons & Dragons",
+      "forms": [
+        "dreamy fantasy landscapes"
+      ],
+      "note": "如梦似幻的奇幻风景。"
+    },
+    {
+      "w": "make illustrations for",
+      "pos": "phr.",
+      "cn": "为……创作插画。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "A Polish digital artist who uses classical painting styles to create dreamy fantasy landscapes, Greg Rutkowski has made illustrations for games such as Dungeons & Dragons",
+      "forms": [
+        "make illustrations for"
+      ],
+      "note": "为……创作插画。"
+    },
+    {
+      "w": "a hit",
+      "pos": "phr.",
+      "cn": "此处指大受欢迎的人或事物，不是“击打”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "And he’s become a sudden hit in the new world of text-to-image AI generation.",
+      "forms": [
+        "a hit"
+      ],
+      "note": "此处指大受欢迎的人或事物，不是“击打”。"
+    },
+    {
+      "w": "text-to-image AI generation",
+      "pos": "phr.",
+      "cn": "根据文字提示生成图像的人工智能技术，即“文生图”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "And he’s become a sudden hit in the new world of text-to-image AI generation.",
+      "forms": [
+        "text-to-image AI generation"
+      ],
+      "note": "根据文字提示生成图像的人工智能技术，即“文生图”。"
+    },
+    {
+      "w": "prompt",
+      "pos": "词",
+      "cn": "在生成式 AI 语境中指输入给模型、用来规定生成内容的“提示词”，不是一般的“提示”或动词“促使”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "His distinctive style is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion.",
+      "forms": [
+        "prompt"
+      ],
+      "note": "在生成式 AI 语境中指输入给模型、用来规定生成内容的“提示词”，不是一般的“提示”或动词“促使”。"
+    },
+    {
+      "w": "distinctive style",
+      "pos": "phr.",
+      "cn": "鲜明独特的风格。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "His distinctive style is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion.",
+      "forms": [
+        "distinctive style"
+      ],
+      "note": "鲜明独特的风格。"
+    },
+    {
+      "w": "one of the most commonly used prompts",
+      "pos": "phr.",
+      "cn": "最常用的提示词之一。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "His distinctive style is now one of the most commonly used prompts in the new open-source AI art generator Stable Diffusion.",
+      "forms": [
+        "one of the most commonly used prompts"
+      ],
+      "note": "最常用的提示词之一。"
+    },
+    {
+      "w": "along with",
+      "pos": "phr.",
+      "cn": "连同、以及；谓语的数通常与前面的中心主语保持一致。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The tool, along with other popular image-generation AI models, allows anyone to create impressive images based on text prompts.",
+      "forms": [
+        "along with"
+      ],
+      "note": "连同、以及；谓语的数通常与前面的中心主语保持一致。"
+    },
+    {
+      "w": "allow sb to do",
+      "pos": "phr.",
+      "cn": "使某人能够做某事。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The tool, along with other popular image-generation AI models, allows anyone to create impressive images based on text prompts.",
+      "forms": [
+        "allow sb to do"
+      ],
+      "note": "使某人能够做某事。"
+    },
+    {
+      "w": "based on text prompts",
+      "pos": "phr.",
+      "cn": "以文字提示为依据。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The tool, along with other popular image-generation AI models, allows anyone to create impressive images based on text prompts.",
+      "forms": [
+        "based on text prompts"
+      ],
+      "note": "以文字提示为依据。"
+    },
+    {
+      "w": "not a million miles away from",
+      "pos": "phr.",
+      "cn": "字面是“相距不到一百万英里”，实际是弱化式表达，意为“与……相当接近、很相似”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "For example, type in “Wizard with sword and a glowing orb of magic fire fights a fierce dragon Greg Rutkowski,” and the system will produce something that looks not a mil",
+      "forms": [
+        "not a million miles away from"
+      ],
+      "note": "字面是“相距不到一百万英里”，实际是弱化式表达，意为“与……相当接近、很相似”。"
+    },
+    {
+      "w": "type in",
+      "pos": "phr.",
+      "cn": "键入、输入。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "For example, type in “Wizard with sword and a glowing orb of magic fire fights a fierce dragon Greg Rutkowski,” and the system will produce something that looks not a mil",
+      "forms": [
+        "type in"
+      ],
+      "note": "键入、输入。"
+    },
+    {
+      "w": "a glowing orb of magic fire",
+      "pos": "phr.",
+      "cn": "一团闪耀的球状魔法火焰。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "For example, type in “Wizard with sword and a glowing orb of magic fire fights a fierce dragon Greg Rutkowski,” and the system will produce something that looks not a mil",
+      "forms": [
+        "a glowing orb of magic fire"
+      ],
+      "note": "一团闪耀的球状魔法火焰。"
+    },
+    {
+      "w": "scrape",
+      "pos": "词",
+      "cn": "此处是技术用语，指用程序从网站大规模抓取、收集数据或图像，不是“刮擦”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But these open-source programs are built by scraping images from the internet, often without permission and proper attribution to artists.",
+      "forms": [
+        "scrape"
+      ],
+      "note": "此处是技术用语，指用程序从网站大规模抓取、收集数据或图像，不是“刮擦”。"
+    },
+    {
+      "w": "attribution",
+      "pos": "n.",
+      "cn": "作品署名及来源标注，不是一般的“属性”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But these open-source programs are built by scraping images from the internet, often without permission and proper attribution to artists.",
+      "forms": [
+        "attribution"
+      ],
+      "note": "作品署名及来源标注，不是一般的“属性”。"
+    },
+    {
+      "w": "without permission",
+      "pos": "phr.",
+      "cn": "未经许可。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But these open-source programs are built by scraping images from the internet, often without permission and proper attribution to artists.",
+      "forms": [
+        "without permission"
+      ],
+      "note": "未经许可。"
+    },
+    {
+      "w": "proper attribution to artists",
+      "pos": "phr.",
+      "cn": "对艺术家作恰当署名或来源说明。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But these open-source programs are built by scraping images from the internet, often without permission and proper attribution to artists.",
+      "forms": [
+        "proper attribution to artists"
+      ],
+      "note": "对艺术家作恰当署名或来源说明。"
+    },
+    {
+      "w": "raise questions",
+      "pos": "phr.",
+      "cn": "引发问题、使人质疑，并非“回答问题”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "As a result, they are raising tricky questions about ethics and copyright.",
+      "forms": [
+        "raise questions"
+      ],
+      "note": "引发问题、使人质疑，并非“回答问题”。"
+    },
+    {
+      "w": "have had enough",
+      "pos": "phr.",
+      "cn": "对某事已无法继续容忍、受够了。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "And artists like Rutkowski have had enough.",
+      "forms": [
+        "have had enough"
+      ],
+      "note": "对某事已无法继续容忍、受够了。"
+    },
+    {
+      "w": "track",
+      "pos": "词",
+      "cn": "持续追踪、记录。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "According to the website Lexica, which tracks over 10 million images and prompts generated by Stable Diffusion, Rutkowski’s name has been used as a prompt around 93,000 t",
+      "forms": [
+        "track"
+      ],
+      "note": "持续追踪、记录。"
+    },
+    {
+      "w": "be used as a prompt",
+      "pos": "phr.",
+      "cn": "被用作提示词。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "According to the website Lexica, which tracks over 10 million images and prompts generated by Stable Diffusion, Rutkowski’s name has been used as a prompt around 93,000 t",
+      "forms": [
+        "be used as a prompt"
+      ],
+      "note": "被用作提示词。"
+    },
+    {
+      "w": "initially",
+      "pos": "adv.",
+      "cn": "起初、一开始。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Rutkowski was initially surprised but thought it might be a good way to reach new audiences.",
+      "forms": [
+        "initially"
+      ],
+      "note": "起初、一开始。"
+    },
+    {
+      "w": "reach new audiences",
+      "pos": "phr.",
+      "cn": "触达新的受众群体。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Rutkowski was initially surprised but thought it might be a good way to reach new audiences.",
+      "forms": [
+        "reach new audiences"
+      ],
+      "note": "触达新的受众群体。"
+    },
+    {
+      "w": "try doing",
+      "pos": "phr.",
+      "cn": "尝试做某事，强调试用一种办法。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Then he tried searching for his name to see if a piece he had worked on had been published.",
+      "forms": [
+        "try doing"
+      ],
+      "note": "尝试做某事，强调试用一种办法。"
+    },
+    {
+      "w": "a piece",
+      "pos": "phr.",
+      "cn": "此处指一件艺术作品。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Then he tried searching for his name to see if a piece he had worked on had been published.",
+      "forms": [
+        "a piece"
+      ],
+      "note": "此处指一件艺术作品。"
+    },
+    {
+      "w": "bring back",
+      "pos": "phr.",
+      "cn": "此处指搜索“返回、呈现”结果，不是“带回来”或“使回忆起”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The online search brought back work that had his name attached to it but wasn’t his.",
+      "forms": [
+        "bring back"
+      ],
+      "note": "此处指搜索“返回、呈现”结果，不是“带回来”或“使回忆起”。"
+    },
+    {
+      "w": "have one’s name attached to",
+      "pos": "phr.",
+      "cn": "被附上某人的名字、以某人的名义标注。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The online search brought back work that had his name attached to it but wasn’t his.",
+      "forms": [
+        "have one’s name attached to"
+      ],
+      "note": "被附上某人的名字、以某人的名义标注。"
+    },
+    {
+      "w": "out there",
+      "pos": "phr.",
+      "cn": "此处指互联网上可公开搜索到的空间。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "I probably won’t be able to find my work out there because the internet will be flooded with AI art,” Rutkowski says.",
+      "forms": [
+        "out there"
+      ],
+      "note": "此处指互联网上可公开搜索到的空间。"
+    },
+    {
+      "w": "be flooded with",
+      "pos": "phr.",
+      "cn": "充斥着、被大量……淹没。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "I probably won’t be able to find my work out there because the internet will be flooded with AI art,” Rutkowski says.",
+      "forms": [
+        "be flooded with"
+      ],
+      "note": "充斥着、被大量……淹没。"
+    },
+    {
+      "w": "apparent popularity",
+      "pos": "phr.",
+      "cn": "表面上或看起来很受欢迎；这里并非真正的艺术市场人气，而是作品被纳入数据集、姓名或风格被模型用户调用。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Other artists besides Rutkowski have been surprised by the apparent popularity of their work in text-to-image generators — and some are now fighting back.",
+      "forms": [
+        "apparent popularity"
+      ],
+      "note": "表面上或看起来很受欢迎；这里并非真正的艺术市场人气，而是作品被纳入数据集、姓名或风格被模型用户调用。"
+    },
+    {
+      "w": "fight back",
+      "pos": "phr.",
+      "cn": "反击、采取行动维护自身权益。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Other artists besides Rutkowski have been surprised by the apparent popularity of their work in text-to-image generators — and some are now fighting back.",
+      "forms": [
+        "fight back"
+      ],
+      "note": "反击、采取行动维护自身权益。"
+    },
+    {
+      "w": "be based in",
+      "pos": "phr.",
+      "cn": "常驻于、以……为工作地点。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Karla Ortiz, an illustrator based in San Francisco who found her work in Stable Diffusion’s data set, has been raising awareness about the issues around AI art and copyri",
+      "forms": [
+        "be based in"
+      ],
+      "note": "常驻于、以……为工作地点。"
+    },
+    {
+      "w": "data set",
+      "pos": "phr.",
+      "cn": "数据集。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Karla Ortiz, an illustrator based in San Francisco who found her work in Stable Diffusion’s data set, has been raising awareness about the issues around AI art and copyri",
+      "forms": [
+        "data set"
+      ],
+      "note": "数据集。"
+    },
+    {
+      "w": "raise awareness about",
+      "pos": "phr.",
+      "cn": "提升人们对……的认识，使……受到关注。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Karla Ortiz, an illustrator based in San Francisco who found her work in Stable Diffusion’s data set, has been raising awareness about the issues around AI art and copyri",
+      "forms": [
+        "raise awareness about"
+      ],
+      "note": "提升人们对……的认识，使……受到关注。"
+    },
+    {
+      "w": "risk doing",
+      "pos": "phr.",
+      "cn": "面临做某事或遭受某种后果的风险。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Artists say they risk losing income as people start using AI-generated images based on copyrighted material for commercial purposes.",
+      "forms": [
+        "risk doing"
+      ],
+      "note": "面临做某事或遭受某种后果的风险。"
+    },
+    {
+      "w": "copyrighted material",
+      "pos": "phr.",
+      "cn": "受版权保护的材料。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Artists say they risk losing income as people start using AI-generated images based on copyrighted material for commercial purposes.",
+      "forms": [
+        "copyrighted material"
+      ],
+      "note": "受版权保护的材料。"
+    },
+    {
+      "w": "for commercial purposes",
+      "pos": "phr.",
+      "cn": "用于商业目的。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Artists say they risk losing income as people start using AI-generated images based on copyrighted material for commercial purposes.",
+      "forms": [
+        "for commercial purposes"
+      ],
+      "note": "用于商业目的。"
+    },
+    {
+      "w": "personal",
+      "pos": "adj.",
+      "cn": "此处不只是“个人的”，还强调艺术风格与创作者身份、人格表达密切相关。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But it’s also a lot more personal, Ortiz says, arguing that because art is so closely linked to a person, it could raise data protection and privacy problems.",
+      "forms": [
+        "personal"
+      ],
+      "note": "此处不只是“个人的”，还强调艺术风格与创作者身份、人格表达密切相关。"
+    },
+    {
+      "w": "raise ... problems",
+      "pos": "phr.",
+      "cn": "引发……问题。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But it’s also a lot more personal, Ortiz says, arguing that because art is so closely linked to a person, it could raise data protection and privacy problems.",
+      "forms": [
+        "raise ... problems"
+      ],
+      "note": "引发……问题。"
+    },
+    {
+      "w": "coalition",
+      "pos": "n.",
+      "cn": "为共同目标组成的联盟。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "“There is a coalition growing within artist industries to figure out how to tackle or mitigate this,” says Ortiz.",
+      "forms": [
+        "coalition"
+      ],
+      "note": "为共同目标组成的联盟。"
+    },
+    {
+      "w": "tackle or mitigate",
+      "pos": "phr.",
+      "cn": "处理或减轻；tackle 强调着手解决，mitigate 强调降低危害。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "“There is a coalition growing within artist industries to figure out how to tackle or mitigate this,” says Ortiz.",
+      "forms": [
+        "tackle or mitigate"
+      ],
+      "note": "处理或减轻；tackle 强调着手解决，mitigate 强调降低危害。"
+    },
+    {
+      "w": "figure out how to do",
+      "pos": "phr.",
+      "cn": "设法弄清如何做某事。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "“There is a coalition growing within artist industries to figure out how to tackle or mitigate this,” says Ortiz.",
+      "forms": [
+        "figure out how to do"
+      ],
+      "note": "设法弄清如何做某事。"
+    },
+    {
+      "w": "push for",
+      "pos": "phr.",
+      "cn": "积极争取、推动实现，而非字面“推”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The group is in its early days of mobilization, which could involve pushing for new policies or regulation.",
+      "forms": [
+        "push for"
+      ],
+      "note": "积极争取、推动实现，而非字面“推”。"
+    },
+    {
+      "w": "in its early days",
+      "pos": "phr.",
+      "cn": "尚处于早期阶段。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The group is in its early days of mobilization, which could involve pushing for new policies or regulation.",
+      "forms": [
+        "in its early days"
+      ],
+      "note": "尚处于早期阶段。"
+    },
+    {
+      "w": "mobilization",
+      "pos": "n.",
+      "cn": "为集体行动而组织、动员。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The group is in its early days of mobilization, which could involve pushing for new policies or regulation.",
+      "forms": [
+        "mobilization"
+      ],
+      "note": "为集体行动而组织、动员。"
+    },
+    {
+      "w": "public domain",
+      "pos": "phr.",
+      "cn": "公有领域，指不受版权限制、公众可依法使用的作品范围；不是“公共机构”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "One suggestion is that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists, Ortiz says.",
+      "forms": [
+        "public domain"
+      ],
+      "note": "公有领域，指不受版权限制、公众可依法使用的作品范围；不是“公共机构”。"
+    },
+    {
+      "w": "forge partnerships",
+      "pos": "phr.",
+      "cn": "建立、缔结合作关系，forge 此处不是“伪造”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "One suggestion is that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists, Ortiz says.",
+      "forms": [
+        "forge partnerships"
+      ],
+      "note": "建立、缔结合作关系，forge 此处不是“伪造”。"
+    },
+    {
+      "w": "be trained on images",
+      "pos": "phr.",
+      "cn": "使用图像作为训练材料。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "One suggestion is that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists, Ortiz says.",
+      "forms": [
+        "be trained on images"
+      ],
+      "note": "使用图像作为训练材料。"
+    },
+    {
+      "w": "forge partnerships with",
+      "pos": "phr.",
+      "cn": "与……建立合作关系。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "One suggestion is that AI models could be trained on images in the public domain, and AI companies could forge partnerships with museums and artists, Ortiz says.",
+      "forms": [
+        "forge partnerships with"
+      ],
+      "note": "与……建立合作关系。"
+    },
+    {
+      "w": "construction",
+      "pos": "n.",
+      "cn": "此处不是人工“建筑、施工”，而是海湾天然形成的构造与组成。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of la",
+      "forms": [
+        "construction"
+      ],
+      "note": "此处不是人工“建筑、施工”，而是海湾天然形成的构造与组成。"
+    },
+    {
+      "w": "lie in",
+      "pos": "phr.",
+      "cn": "此处意为“存在于、在于”，不是“躺在”或“说谎”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of la",
+      "forms": [
+        "lie in"
+      ],
+      "note": "此处意为“存在于、在于”，不是“躺在”或“说谎”。"
+    },
+    {
+      "w": "saline waters",
+      "pos": "phr.",
+      "cn": "咸水水体。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of la",
+      "forms": [
+        "saline waters"
+      ],
+      "note": "咸水水体。"
+    },
+    {
+      "w": "the interaction of",
+      "pos": "phr.",
+      "cn": "……之间的相互作用、交汇。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of la",
+      "forms": [
+        "the interaction of"
+      ],
+      "note": "……之间的相互作用、交汇。"
+    },
+    {
+      "w": "the mix of land and water",
+      "pos": "phr.",
+      "cn": "陆地与水域交错融合的格局。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of la",
+      "forms": [
+        "the mix of land and water"
+      ],
+      "note": "陆地与水域交错融合的格局。"
+    },
+    {
+      "w": "the shallows",
+      "pos": "phr.",
+      "cn": "浅水区，是形容词名词化用法，不是泛指“肤浅之处”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destruct",
+      "forms": [
+        "the shallows"
+      ],
+      "note": "浅水区，是形容词名词化用法，不是泛指“肤浅之处”。"
+    },
+    {
+      "w": "store floodwaters",
+      "pos": "phr.",
+      "cn": "蓄纳、暂存洪水，从而缓解洪峰。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destruct",
+      "forms": [
+        "store floodwaters"
+      ],
+      "note": "蓄纳、暂存洪水，从而缓解洪峰。"
+    },
+    {
+      "w": "filter pollutants from water",
+      "pos": "phr.",
+      "cn": "从水中过滤污染物。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destruct",
+      "forms": [
+        "filter pollutants from water"
+      ],
+      "note": "从水中过滤污染物。"
+    },
+    {
+      "w": "protect A from B",
+      "pos": "phr.",
+      "cn": "保护 A 免受 B 影响。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destruct",
+      "forms": [
+        "protect A from B"
+      ],
+      "note": "保护 A 免受 B 影响。"
+    },
+    {
+      "w": "storm surge",
+      "pos": "phr.",
+      "cn": "风暴潮。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destruct",
+      "forms": [
+        "storm surge"
+      ],
+      "note": "风暴潮。"
+    },
+    {
+      "w": "put ... at risk",
+      "pos": "phr.",
+      "cn": "使……处于危险之中。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "All this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) ",
+      "forms": [
+        "put ... at risk"
+      ],
+      "note": "使……处于危险之中。"
+    },
+    {
+      "w": "authority",
+      "pos": "n.",
+      "cn": "此处指依法监管的权限、职权，不是“权威人士”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "All this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) ",
+      "forms": [
+        "authority"
+      ],
+      "note": "此处指依法监管的权限、职权，不是“权威人士”。"
+    },
+    {
+      "w": "issue a ruling",
+      "pos": "phr.",
+      "cn": "作出、发布裁决。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "All this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) ",
+      "forms": [
+        "issue a ruling"
+      ],
+      "note": "作出、发布裁决。"
+    },
+    {
+      "w": "regulate wetlands and waterways",
+      "pos": "phr.",
+      "cn": "依法监管湿地和水道。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "All this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) ",
+      "forms": [
+        "regulate wetlands and waterways"
+      ],
+      "note": "依法监管湿地和水道。"
+    },
+    {
+      "w": "a 5-4 majority",
+      "pos": "phr.",
+      "cn": "以 5 票对 4 票形成的多数意见。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Specifically, a 5-4 majority decided that wetlands protected by the EPA under its Clean Water Act authority must have a “continuous surface connection” to bodies of water",
+      "forms": [
+        "a 5-4 majority"
+      ],
+      "note": "以 5 票对 4 票形成的多数意见。"
+    },
+    {
+      "w": "under its ... authority",
+      "pos": "phr.",
+      "cn": "依据其由……赋予的权限。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Specifically, a 5-4 majority decided that wetlands protected by the EPA under its Clean Water Act authority must have a “continuous surface connection” to bodies of water",
+      "forms": [
+        "under its ... authority"
+      ],
+      "note": "依据其由……赋予的权限。"
+    },
+    {
+      "w": "continuous surface connection",
+      "pos": "phr.",
+      "cn": "连续的地表水连接。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Specifically, a 5-4 majority decided that wetlands protected by the EPA under its Clean Water Act authority must have a “continuous surface connection” to bodies of water",
+      "forms": [
+        "continuous surface connection"
+      ],
+      "note": "连续的地表水连接。"
+    },
+    {
+      "w": "interest",
+      "pos": "词",
+      "cn": "此处指具有共同利益的商业集团或利益方，不是“兴趣”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "This narrowing of the regulatory scope was a victory for builders, mining operators and other commercial interests often at odds with environmental rules.",
+      "forms": [
+        "interest"
+      ],
+      "note": "此处指具有共同利益的商业集团或利益方，不是“兴趣”。"
+    },
+    {
+      "w": "at odds with",
+      "pos": "phr.",
+      "cn": "与……不一致、相冲突。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "This narrowing of the regulatory scope was a victory for builders, mining operators and other commercial interests often at odds with environmental rules.",
+      "forms": [
+        "at odds with"
+      ],
+      "note": "与……不一致、相冲突。"
+    },
+    {
+      "w": "carry repercussions for",
+      "pos": "phr.",
+      "cn": "给……带来后续影响或严重后果，repercussion 常含负面意味。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "And it carries “significant repercussions for water quality and flood control throughout the United States,” as Justice Brett Kavanaugh observed.",
+      "forms": [
+        "carry repercussions for"
+      ],
+      "note": "给……带来后续影响或严重后果，repercussion 常含负面意味。"
+    },
+    {
+      "w": "be in place",
+      "pos": "phr.",
+      "cn": "已经建立、正在实施或生效。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In Maryland, the good news is that there are many state laws in place that provide wetlands protections.",
+      "forms": [
+        "be in place"
+      ],
+      "note": "已经建立、正在实施或生效。"
+    },
+    {
+      "w": "provide wetlands protections",
+      "pos": "phr.",
+      "cn": "为湿地提供法律保护。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "In Maryland, the good news is that there are many state laws in place that provide wetlands protections.",
+      "forms": [
+        "provide wetlands protections"
+      ],
+      "note": "为湿地提供法律保护。"
+    },
+    {
+      "w": "shortsighted",
+      "pos": "v./adj.",
+      "cn": "此处比喻“目光短浅的、只顾眼前的”，不是生理上的“近视”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "But that’s a very shortsighted view, particularly when it comes to the Chesapeake Bay.",
+      "forms": [
+        "shortsighted"
+      ],
+      "note": "此处比喻“目光短浅的、只顾眼前的”，不是生理上的“近视”。"
+    },
+    {
+      "w": "when it comes to",
+      "pos": "phr.",
+      "cn": "谈到、涉及……时。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "But that’s a very shortsighted view, particularly when it comes to the Chesapeake Bay.",
+      "forms": [
+        "when it comes to"
+      ],
+      "note": "谈到、涉及……时。"
+    },
+    {
+      "w": "respect state boundaries",
+      "pos": "phr.",
+      "cn": "这里是拟人表达，意为“受州界限制、止步于州界”，不是“尊重州界”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The reality is that water, and the pollutants that so often come with it, don’t respect state boundaries.",
+      "forms": [
+        "respect state boundaries"
+      ],
+      "note": "这里是拟人表达，意为“受州界限制、止步于州界”，不是“尊重州界”。"
+    },
+    {
+      "w": "draw from",
+      "pos": "phr.",
+      "cn": "此处指从某一流域汇入、获得水源，而非“从……得出结论”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The Chesapeake draws from a 64,000-square-mile watershed that extends into Virginia, Pennsylvania, New York, West Virginia, the District of Columbia and Delaware.",
+      "forms": [
+        "draw from"
+      ],
+      "note": "此处指从某一流域汇入、获得水源，而非“从……得出结论”。"
+    },
+    {
+      "w": "watershed",
+      "pos": "v./adj.",
+      "cn": "流域、集水区，即降水最终汇向同一水体的区域。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The Chesapeake draws from a 64,000-square-mile watershed that extends into Virginia, Pennsylvania, New York, West Virginia, the District of Columbia and Delaware.",
+      "forms": [
+        "watershed"
+      ],
+      "note": "流域、集水区，即降水最终汇向同一水体的区域。"
+    },
+    {
+      "w": "jurisdiction",
+      "pos": "n.",
+      "cn": "拥有自身立法或行政权限的辖区，此处指前句列举的各州及哥伦比亚特区。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Will those jurisdictions extend the same protections now denied under Sackett v. EPA?",
+      "forms": [
+        "jurisdiction"
+      ],
+      "note": "拥有自身立法或行政权限的辖区，此处指前句列举的各州及哥伦比亚特区。"
+    },
+    {
+      "w": "Sackett v. EPA",
+      "pos": "phr.",
+      "cn": "“萨克特诉美国环保署案”；v. 表示诉讼双方之间的“诉”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Will those jurisdictions extend the same protections now denied under Sackett v. EPA?",
+      "forms": [
+        "Sackett v. EPA"
+      ],
+      "note": "“萨克特诉美国环保署案”；v. 表示诉讼双方之间的“诉”。"
+    },
+    {
+      "w": "stand up for",
+      "pos": "phr.",
+      "cn": "支持、捍卫某人或某事物。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "It is too easy, and misleading, to see such court rulings as merely standing up for the rights of land owners when the consequences can be so dire for their neighbors.",
+      "forms": [
+        "stand up for"
+      ],
+      "note": "支持、捍卫某人或某事物。"
+    },
+    {
+      "w": "dire",
+      "pos": "词",
+      "cn": "极其严重的、可怕的。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "It is too easy, and misleading, to see such court rulings as merely standing up for the rights of land owners when the consequences can be so dire for their neighbors.",
+      "forms": [
+        "dire"
+      ],
+      "note": "极其严重的、可怕的。"
+    },
+    {
+      "w": "deep-pocketed",
+      "pos": "v./adj.",
+      "cn": "财力雄厚的，尤指有能力影响政策的利益方。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "And it’s a reminder that the EPA’s involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special intere",
+      "forms": [
+        "deep-pocketed"
+      ],
+      "note": "财力雄厚的，尤指有能力影响政策的利益方。"
+    },
+    {
+      "w": "special interests",
+      "pos": "phr.",
+      "cn": "特殊利益集团，指推动自身利益而可能损害公共利益的组织或行业力量。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "And it’s a reminder that the EPA’s involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special intere",
+      "forms": [
+        "special interests"
+      ],
+      "note": "特殊利益集团，指推动自身利益而可能损害公共利益的组织或行业力量。"
+    },
+    {
+      "w": "transcend",
+      "pos": "词",
+      "cn": "超越、突破……的限制或影响。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "And it’s a reminder that the EPA’s involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special intere",
+      "forms": [
+        "transcend"
+      ],
+      "note": "超越、突破……的限制或影响。"
+    },
+    {
+      "w": "telling",
+      "pos": "v./n.",
+      "cn": "此处意为“很能说明问题的、有说服力的”，不是“讲述的”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Pennsylvania farmers, to use one telling example, aren’t thinking about next year’s blue crab harvest in Maryland when they decide whether to spread animal waste on their",
+      "forms": [
+        "telling"
+      ],
+      "note": "此处意为“很能说明问题的、有说服力的”，不是“讲述的”。"
+    },
+    {
+      "w": "animal waste",
+      "pos": "phr.",
+      "cn": "此处主要指农业中的动物粪便、粪肥。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Pennsylvania farmers, to use one telling example, aren’t thinking about next year’s blue crab harvest in Maryland when they decide whether to spread animal waste on their",
+      "forms": [
+        "animal waste"
+      ],
+      "note": "此处主要指农业中的动物粪便、粪肥。"
+    },
+    {
+      "w": "runoff",
+      "pos": "词",
+      "cn": "地表径流，雨水冲刷农田后流入河溪的水体。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Pennsylvania farmers, to use one telling example, aren’t thinking about next year’s blue crab harvest in Maryland when they decide whether to spread animal waste on their",
+      "forms": [
+        "runoff"
+      ],
+      "note": "地表径流，雨水冲刷农田后流入河溪的水体。"
+    },
+    {
+      "w": "whether to do",
+      "pos": "phr.",
+      "cn": "是否做某事。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Pennsylvania farmers, to use one telling example, aren’t thinking about next year’s blue crab harvest in Maryland when they decide whether to spread animal waste on their",
+      "forms": [
+        "whether to do"
+      ],
+      "note": "是否做某事。"
+    },
+    {
+      "w": "have enormous impact downstream",
+      "pos": "phr.",
+      "cn": "对下游产生巨大影响。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Pennsylvania farmers, to use one telling example, aren’t thinking about next year’s blue crab harvest in Maryland when they decide whether to spread animal waste on their",
+      "forms": [
+        "have enormous impact downstream"
+      ],
+      "note": "对下游产生巨大影响。"
+    },
+    {
+      "w": "call on sb to do",
+      "pos": "phr.",
+      "cn": "呼吁、敦促某人做某事。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "And so we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved.",
+      "forms": [
+        "call on sb to do"
+      ],
+      "note": "呼吁、敦促某人做某事。"
+    },
+    {
+      "w": "stakes",
+      "pos": "词",
+      "cn": "此处指成败所牵涉的重大利益与风险，不是“木桩”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "And so we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved.",
+      "forms": [
+        "stakes"
+      ],
+      "note": "此处指成败所牵涉的重大利益与风险，不是“木桩”。"
+    },
+    {
+      "w": "consider reviewing",
+      "pos": "phr.",
+      "cn": "考虑重新审查。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "And so we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved.",
+      "forms": [
+        "consider reviewing"
+      ],
+      "note": "考虑重新审查。"
+    },
+    {
+      "w": "see for oneself",
+      "pos": "phr.",
+      "cn": "亲自了解、亲眼确认。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "And so we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved.",
+      "forms": [
+        "see for oneself"
+      ],
+      "note": "亲自了解、亲眼确认。"
+    },
+    {
+      "w": "tidal marshes",
+      "pos": "phr.",
+      "cn": "受潮汐周期性淹没的湿地、潮汐沼泽。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "We can offer them a visit to Blackwater National Wildlife Refuge in Dorchester County where bald eagles fly over tidal marshes so shallow you could not paddle a boat acro",
+      "forms": [
+        "tidal marshes"
+      ],
+      "note": "受潮汐周期性淹没的湿地、潮汐沼泽。"
+    },
+    {
+      "w": "aquatic life",
+      "pos": "phr.",
+      "cn": "水生生物。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "We can offer them a visit to Blackwater National Wildlife Refuge in Dorchester County where bald eagles fly over tidal marshes so shallow you could not paddle a boat acro",
+      "forms": [
+        "aquatic life"
+      ],
+      "note": "水生生物。"
+    },
+    {
+      "w": "teaming with aquatic life",
+      "pos": "phr.",
+      "cn": "原文如此拼写，按语境意为“水生生物繁盛”；常见固定搭配写作 teeming with。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "We can offer them a visit to Blackwater National Wildlife Refuge in Dorchester County where bald eagles fly over tidal marshes so shallow you could not paddle a boat acro",
+      "forms": [
+        "teaming with aquatic life"
+      ],
+      "note": "原文如此拼写，按语境意为“水生生物繁盛”；常见固定搭配写作 teeming with。"
+    },
+    {
+      "w": "be worth the drive",
+      "pos": "phr.",
+      "cn": "值得驱车前往。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "It’s worth the scenic drive.",
+      "forms": [
+        "be worth the drive"
+      ],
+      "note": "值得驱车前往。"
+    }
+  ]
+}

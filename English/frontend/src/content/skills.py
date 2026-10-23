@@ -1,0 +1,584 @@
+# -*- coding: utf-8 -*-
+"""阅读方法、题型技巧、猜词训练与 7 日计划。"""
+
+SKILLS = [
+    {
+        "id": "order",
+        "num": "01",
+        "title": "先做哪篇？整卷的时间怎么分",
+        "lede": "不要从第一题开始“平均用力”。考研英语一的分数重心在阅读和写作，完形填空的单位时间得分最低，应该放在后面。",
+        "sections": [
+            {
+                "h": "推荐顺序：写作 → 阅读 → 新题型 → 翻译 → 完形",
+                "p": [
+                    "开考后先把写作完成，避免最后 20 分钟手忙脚乱；然后按 Text 1—4 做阅读，保持每篇 16—18 分钟；"
+                    "接着做新题型和翻译；最后用 15—18 分钟做完形。这个顺序不是死的，模考后按自己的稳定性调整。",
+                ],
+                "table": {
+                    "head": ["板块", "分值", "建议用时", "策略"],
+                    "rows": [
+                        ["写作", "30", "50–55 分钟", "先小作文后大作文；留 3 分钟检查拼写和字数"],
+                        ["阅读 4 篇", "40", "65–72 分钟", "每篇 16–18 分钟；先题干后原文，定位优先"],
+                        ["新题型", "10", "15–18 分钟", "先读选项，抓代词和复现词"],
+                        ["翻译", "10", "18–20 分钟", "先拆结构，再写中文；不要逐词硬译"],
+                        ["完形", "10", "15–18 分钟", "先通读抓主线，再逐空；不会的先空着"],
+                        ["涂卡/检查", "—", "5 分钟", "预留，不要最后 1 分钟才涂"],
+                    ],
+                },
+            },
+            {
+                "h": "一条重要的取舍原则",
+                "p": [
+                    "如果某道阅读题已经花了两分半钟还没有定位，先凭第一感觉选一个，标记后跳过。"
+                    "考研阅读的选项设计会让你“越想越像”，但正确答案通常有明确的原文依据。"
+                    "把时间留给能确定得分的题，比在一道题上死磕更划算。",
+                ],
+            },
+        ],
+    },
+    {
+        "id": "word-decision",
+        "num": "02",
+        "title": "不认识的词，先判断“要不要认识”",
+        "lede": "阅读不是词汇考试。一个词不认识，不等于这句话读不懂。先判断它在句中承担什么功能，再决定要不要停下来猜。",
+        "sections": [
+            {
+                "h": "把生词分成四类",
+                "table": {
+                    "head": ["类型", "例子", "处理方式"],
+                    "rows": [
+                        ["专有名词/例子", "Lincolnshire, Surrey, Phrasee, Acquisio, Box Brownie", "只需知道“地名/公司/产品”，不影响做题；用首字母代替"],
+                        ["逻辑/态度词", "however, rather than, while, justified, unreliable", "必须认识；它们是作者态度的开关"],
+                        ["关键名词/动词", "alleviation, deforestation, attributable, preempt", "用构词法 + 上下文猜；猜不出再标记，往往后文会解释"],
+                        ["熟词僻义", "preserve（专属领域）, take（立场）, see off（击退）", "看搭配和语境，不要背第一个中文义"],
+                    ],
+                },
+            },
+            {
+                "h": "先问三个问题，再决定停不停",
+                "bullets": [
+                    "这个词是主语/谓语/宾语，还是修饰语？如果是修饰语，先跳过，主干可能已经够做题。",
+                    "这个词所在句和题目有关吗？如果只是例子或背景，识别词性即可。",
+                    "这个词在上下句有没有同义复现？考研文章很喜欢用“换个说法”解释前一句。",
+                ],
+                "p": [
+                    "例如 Text 2 的 conditional cash transfers：你不认识 transfer 也没关系，后文马上用 these social assistance "
+                    "programs 解释它；再往后又说 gives money to its poorest residents。把“给穷人发钱的项目”这个意思抓住，"
+                    "就足够做 Q26。",
+                ],
+                "example": {
+                    "en": "Called conditional cash transfers or CCTs, these social assistance programs are designed to reduce inequality and break the cycle of poverty.",
+                    "zh": "这些被称为有条件现金转移（CCT）的社会援助计划旨在减少不平等、打破贫困循环。",
+                    "note": "Called... 是同位语解释；these social assistance programs 是同位复现。生词多，但逻辑是“这个项目是社会保障项目，目的是减贫”。",
+                },
+            },
+        ],
+    },
+    {
+        "id": "context-clues",
+        "num": "03",
+        "title": "六大语境猜词线索",
+        "lede": "猜词不是瞎蒙，而是利用作者已经给你的“路标”。先找定义、并列、转折、因果、举例和指代，再回到词本身。",
+        "sections": [
+            {
+                "h": "线索 1：定义/同位语",
+                "p": [
+                    "看到 called, known as, or, that is, in other words, 破折号、冒号，后面往往是在解释前面的词。"
+                    "CCTs 的定义就是这样给出的：these social assistance programs。",
+                ],
+                "example": {
+                    "en": "Called conditional cash transfers or CCTs, these social assistance programs are designed to reduce inequality.",
+                    "zh": "这些被称为有条件现金转移（CCT）的社会援助计划旨在减少不平等。",
+                    "note": "these social assistance programs 就是 CCTs 的同位解释。",
+                },
+            },
+            {
+                "h": "线索 2：并列/同义复现",
+                "p": [
+                    "A and B、A or B、逗号并列的成分，词义往往在同一语义场。Text 1 的 cramped, unreliable services 中，"
+                    "cramped 和 unreliable 都是负面形容词，即使不认识 cramped，也能判断服务“不好”。",
+                ],
+                "example": {
+                    "en": "passengers must also endure cramped, unreliable services, punctuated by regular chaos",
+                    "zh": "乘客还必须忍受拥挤、不可靠的服务，并时不时被混乱打断",
+                    "note": "cramped 与 unreliable、chaos 构成负面语义链。",
+                },
+            },
+            {
+                "h": "线索 3：转折/对比",
+                "p": [
+                    "but, however, while, rather than, instead, not...but... 前后的词义常相反。Text 2 说 "
+                    "Such programs do not have to negatively affect the environment, though；though 一出现，"
+                    "就知道作者要反驳“项目一定破坏环境”的预期。",
+                ],
+                "example": {
+                    "en": "Such programs do not have to negatively affect the environment, though.",
+                    "zh": "不过，这类计划未必会对环境产生负面影响。",
+                    "note": "though 放在句末，等于 however；提示前文的“冲突论”要被修正。",
+                },
+            },
+            {
+                "h": "线索 4：因果",
+                "p": [
+                    "because, since, therefore, result in, lead to, be attributable to 前后是因果关系。"
+                    "看到 attributable to，就要找“结果”和“原因”：association 是结果，changes in immunity 是原因。",
+                ],
+                "example": {
+                    "en": "For women, the association may be attributable to changes in immunity that resulted from excess abdominal fat.",
+                    "zh": "对女性而言，这种关联或许可归因于腹部脂肪过多所导致的免疫变化。",
+                    "note": "attribute A to B = 把 A 归因于 B；resulted from 又给出一层原因。",
+                },
+            },
+            {
+                "h": "线索 5：举例",
+                "p": [
+                    "such as, for example, including, like 后面的内容，是前面抽象词的例子。Text 2 的 "
+                    "commonalities such as the importance of growing rice and market access，"
+                    "即使不认识 commonalities，也知道后面是“共同点”的具体例子。",
+                ],
+                "example": {
+                    "en": "due to commonalities such as the importance of growing rice and market access",
+                    "zh": "由于种植水稻的重要性和市场准入等共同点",
+                    "note": "such as 提示后面是 commonalities 的具体内容。",
+                },
+            },
+            {
+                "h": "线索 6：指代",
+                "p": [
+                    "this, these, such, the former, the latter, the one, they 都要回指前文。Text 4 的 "
+                    "That means more battles like the one now going on between... 中，the one 指代 battle；"
+                    "Text 3 的 the majority of which 指代 portraits。找不到指代对象，句子就会读散。",
+                ],
+                "example": {
+                    "en": "That means more battles like the one now going on between the Justice Department and California.",
+                    "zh": "这意味着会有更多像司法部与加利福尼亚州之间正在进行的斗争。",
+                    "note": "the one = the battle；which 从句进一步解释 California。",
+                },
+            },
+        ],
+    },
+    {
+        "id": "morphology",
+        "num": "04",
+        "title": "构词法：用“词根 + 词缀”拆开长词",
+        "lede": "考研阅读里最吓人的词，往往只是“常见词根 + 两三个词缀”。先拆前缀定方向，再看词根定核心，最后用后缀定词性。",
+        "sections": [
+            {
+                "h": "高频前缀",
+                "table": {
+                    "head": ["前缀", "含义", "本卷例子"],
+                    "rows": [
+                        ["anti-", "反对", "anti-regulatory, antipoverty, anti-competitive"],
+                        ["de-", "向下/去除", "deforestation, degradation, deregulate"],
+                        ["in-/im-", "不/进入", "inevitable, inequality, inclement, impose"],
+                        ["pre-", "在前/预先", "preempt, preoccupied, previous"],
+                        ["re-", "再/回", "re-evaluate, return, restore"],
+                        ["sub-", "在下面/次级", "subsidise, substantial, subsequent"],
+                        ["trans-", "穿过/转移", "transfer, transferability, translate"],
+                        ["un-", "不/相反", "unhinged, unreliable, unconscious"],
+                    ],
+                },
+            },
+            {
+                "h": "高频后缀",
+                "table": {
+                    "head": ["后缀", "词性/含义", "本卷例子"],
+                    "rows": [
+                        ["-able/-ible", "能……的", "attributable, reliable, available"],
+                        ["-ation/-tion", "名词：过程/状态", "accumulation, deforestation, nationalisation"],
+                        ["-ity", "名词：性质", "causality, inequality, stability, transferability"],
+                        ["-ive", "形容词：有……性质", "competitive, exclusive, innovative"],
+                        ["-ous", "形容词：充满……", "notorious, spontaneous, unanimous"],
+                        ["-ly", "副词", "substantially, predominantly, unanimously"],
+                    ],
+                },
+            },
+            {
+                "h": "拆词示范",
+                "p": [
+                    "deforestation = de-（去除）+ forest（森林）+ -ation（名词）→ 毁林。",
+                    "anti-regulatory = anti-（反对）+ regulate（监管）+ -ory（形容词）→ 反监管的。",
+                    "anachronism = ana-（错/反）+ chron（时间）+ -ism（名词）→ 时代错误。",
+                    "unhinged = un-（不）+ hinge（铰链）+ -ed → 从铰链上脱落 → 脱节的。",
+                ],
+                "p2": [
+                    "拆词只是第一步。词缀能告诉你“方向”和“词性”，但精确含义还要回到上下文验证。"
+                    "例如 preserve 你认识“保护”，但在 the preserve of the super-rich 里，它是名词“专属领域”。",
+                ],
+            },
+        ],
+    },
+    {
+        "id": "sentence-xray",
+        "num": "05",
+        "title": "长难句五步拆解法",
+        "lede": "不要从头到尾逐词翻译。先找谓语，再定主干，然后把从句、非谓语、插入语一层层挂回去。",
+        "sections": [
+            {
+                "h": "五步操作",
+                "table": {
+                    "head": ["步骤", "动作", "要问的问题"],
+                    "rows": [
+                        ["1. 切块", "按标点、连词、从句引导词切开", "哪里是一个完整的意思？"],
+                        ["2. 找谓语", "找有时态/情态/主谓一致的动词", "谁做了什么？"],
+                        ["3. 定主干", "主语 + 谓语 + 宾语/表语", "去掉修饰后，最短的完整句是什么？"],
+                        ["4. 挂修饰", "定语、状语、同位语、插入语分别修饰谁", "这个 that/which/who 指什么？"],
+                        ["5. 还原逻辑", "因果、转折、让步、条件", "作者为什么要用这个结构？"],
+                    ],
+                },
+            },
+            {
+                "h": "现场拆一句（Text 1 第四段）",
+                "example": {
+                    "en": "Yes, more investment is needed, but passengers will not be willing to pay more indefinitely if they must also endure cramped, unreliable services, punctuated by regular chaos when timetables are changed, or planned maintenance is managed incompetently.",
+                    "zh": "是的，需要更多投资，但如果乘客还必须忍受拥挤、不可靠的服务，并且时不时因时刻表变更或计划维护管理不善而陷入混乱，他们就不会愿意无休止地多付钱。",
+                    "note": "主干：passengers will not be willing to pay more。if 条件从句；punctuated by... 修饰 services；when 从句说明 chaos 何时发生。",
+                },
+                "bullets": [
+                    "先抓 but 后的主句：passengers will not be willing to pay more。",
+                    "if 从句给条件：they must also endure services。",
+                    "punctuated by... 是过去分词，补充说明 services 被什么打断。",
+                    "when 从句里有两个并列情形：timetables are changed / planned maintenance is managed incompetently。",
+                ],
+            },
+            {
+                "h": "三个最容易犯的错",
+                "bullets": [
+                    "把修饰语当谓语：The researchers looked at data that included... 中，included 是从句谓语，主句谓语是 looked。",
+                    "把从句主语当主句主语：The only previous study analyzing causality, based on..., supported... 中，supported 才是主句谓语。",
+                    "漏掉省略：may not be（inevitable）、but not their own（services）——省略部分要补回来。",
+                ],
+            },
+        ],
+    },
+    {
+        "id": "locate",
+        "num": "06",
+        "title": "题干定位：先找“证据句”，再选答案",
+        "lede": "考研阅读的正确答案不是“感觉对”，而是能在原文找到对应。定位的关键是：人名、数字、专有名词、极端词、以及题干里的同义替换。",
+        "sections": [
+            {
+                "h": "定位四步",
+                "bullets": [
+                    "圈题干里的“不可替换词”：人名、年份、数字、机构名、引号里的词。",
+                    "回原文找同一段或相邻段；考研阅读通常按顺序出题。",
+                    "找到证据句后，向上看一句、向下看一句，确认逻辑（转折/因果/举例）。",
+                    "把选项与证据句逐词比对，特别注意主体、范围、程度、时间。",
+                ],
+                "example": {
+                    "en": "Q23: It is indicated in Paragraph 3 that train operators _____.",
+                    "zh": "Q23：第三段表明火车运营商……",
+                    "note": "题干已经给出 Paragraph 3，直接定位第三段。证据句是 It is all very well... but passengers should be able to expect a basic level of service。",
+                },
+            },
+            {
+                "h": "同义替换的四种常见方式",
+                "table": {
+                    "head": ["原文", "正确选项", "关系"],
+                    "rows": [
+                        ["well above the CPI measure of inflation", "remains an unreasonable measure", "因果/评价转换"],
+                        ["favor affiliated websites over their rivals'", "show partiality in treating clients", "同义改写"],
+                        ["the result is unhinged from the realities", "is out of touch with reality", "近义替换"],
+                        ["a tiny percentage of the vast catalogue", "rare among photographs of that age", "概括"],
+                    ],
+                },
+            },
+            {
+                "h": "证据句窗口",
+                "p": [
+                    "找到关键词所在句后，不要只读这一句。正确答案经常在“上一句的观点 + 下一句的解释”里。"
+                    "例如 Q27 问墨西哥研究的作用，关键词在第四段，但真正的“目的”在上一句 supported the traditional view，"
+                    "以及下一句 as people got more money...。只读例子本身，容易选成 A（养牛是生计）这种细节。",
+                ],
+            },
+        ],
+    },
+    {
+        "id": "distractors",
+        "num": "07",
+        "title": "选项排除：六种最常见的干扰项",
+        "lede": "考研阅读的干扰项不是随便写的，它们通常只错一个点：主体、范围、程度、时间、因果或态度。学会给选项“挑错”，比反复读原文更有效。",
+        "sections": [
+            {
+                "h": "六种套路",
+                "table": {
+                    "head": ["套路", "表现", "本卷例子"],
+                    "rows": [
+                        ["偷换主体", "把 A 的观点/行为安到 B 身上", "Q38 C：说 AT&T 正在被 FCC 调查，但原文说 FCC 结束了调查"],
+                        ["方向相反", "把“高于”说成“同步”，把“反对”说成“支持”", "Q21 A：涨幅高于通胀，不是 kept pace"],
+                        ["时间错位", "把过去的原因搬到当前", "Q33 B：曝光时间长是 1840–50 年代的原因，不是 1890 年代"],
+                        ["范围扩大/缩小", "把一段的意思说成全文，或反之", "Q30 C/D 只覆盖研究过程或最后一段"],
+                        ["过度推断", "原文没有，但“常识上”似乎合理", "Q24 A/B/C 都是可能后果，但原文明确说的是 nationalisation"],
+                        ["原词复现", "选项照抄原文词，但逻辑关系错了", "Q37 A 用 order 原词，却把“法院维持”说成“FCC 坚持”"],
+                    ],
+                },
+            },
+            {
+                "h": "一个实用的排除顺序",
+                "bullets": [
+                    "先排除与原文方向相反的（support/oppose, increase/decrease）。",
+                    "再排除主体不对的（谁做的、谁说的、谁受影响）。",
+                    "再排除范围/程度过大的（all, never, only, completely）。",
+                    "最后在剩余两项中比较：哪一项能在原文找到完整证据链。",
+                ],
+            },
+            {
+                "h": "不要用“常识”代替原文",
+                "p": [
+                    "Q24 问“如果无法平息乘客，铁路可能面临什么”。A 投资流失、B 运营崩溃、C 收入减少都符合常识，"
+                    "但原文只明确说 nationalisation 的威胁会 return with a vengeance。考研阅读要选“原文说了的”，"
+                    "不是“现实中可能发生的”。",
+                ],
+            },
+        ],
+    },
+    {
+        "id": "question-types",
+        "num": "08",
+        "title": "主旨、标题、态度、例证题怎么答",
+        "lede": "不同题型有不同的“证据位置”。主旨看首尾和复现，标题看范围，态度看评价词和转折，例证看例子前后的观点句。",
+        "sections": [
+            {
+                "h": "主旨/标题题：三要素",
+                "p": [
+                    "一个好标题要同时覆盖：话题（topic）+ 范围（scope）+ 态度/结论（stance）。"
+                    "Q25 的 D “Ever-rising Fares Aren't Sustainable” 同时覆盖票价上涨和作者“不可持续”的判断；"
+                    "A 只覆盖罢工，C 只覆盖国有化，范围都太窄。",
+                ],
+                "bullets": [
+                    "看首段末句和末段首句，通常是主旨句。",
+                    "看反复出现的主题词：fares, passengers, service, nationalisation。",
+                    "排除只覆盖某一段或某个细节的选项。",
+                ],
+            },
+            {
+                "h": "态度题：抓评价词，不抓情节",
+                "p": [
+                    "作者态度常藏在形容词、副词、情态动词和转折里。Text 1 的 grimly, unreliable, incompetently, "
+                    "justified anger 都是负面评价；Text 4 的 rightly argued, unhinged 也表明作者认同批评。"
+                    "不要因为文中出现一个正面词，就判断作者整体态度。",
+                ],
+                "table": {
+                    "head": ["态度", "常见词", "本卷"],
+                    "rows": [
+                        ["批评/不满", "grimly, unreliable, incompetently, unhinged", "Text 1、Text 4"],
+                        ["谨慎乐观", "may, perhaps, suggests, likely", "Text 2 的 may transfer"],
+                        ["客观说明", "shows, suggests, according to", "Text 3 主要说明现象"],
+                    ],
+                },
+            },
+            {
+                "h": "例证题：例子是为观点服务的",
+                "p": [
+                    "问“作者为什么提某个例子”时，答案通常在例子前一句或后一句的观点，而不是例子细节。"
+                    "Q27 问墨西哥研究，例子本身是“人们开垦土地养牛”，但它要证明的是上一句的 traditional view："
+                    "经济增长可能与环境退化相关。A 只是例子细节，不是目的。",
+                ],
+            },
+            {
+                "h": "词义/句意题：回到上下文",
+                "p": [
+                    "不要只按词典义选。先看该词在句中的搭配，再看上下句的解释/对比。"
+                    "Q39 的 unhinged from the realities 如果只认识 hinge“铰链”，很容易懵；但 from the realities "
+                    "提示“脱离现实”，对应 out of touch with reality。",
+                ],
+            },
+        ],
+    },
+    {
+        "id": "cloze-partb",
+        "num": "09",
+        "title": "完形填空与 7 选 5 的衔接逻辑",
+        "lede": "这两个题型看起来不同，本质都在考“上下文的一致性”：词义要符合主线，句子要接得上逻辑和指代。",
+        "sections": [
+            {
+                "h": "完形：先逻辑，后搭配，最后语法",
+                "bullets": [
+                    "先通读全文，抓主线：流体智力随年龄下降 → 研究脂肪/肌肉 → 性别差异 → 生活方式建议。",
+                    "看空格所在句的逻辑词：but, while, because, so that, meanwhile。Q3 的 while 就是让步。",
+                    "看固定搭配：be associated with, compare A to B, take steps, be attributable to。",
+                    "最后才看语法（主谓一致、时态、词性）。",
+                ],
+                "example": {
+                    "en": "This suggests the _____ that lifestyle factors might help prevent or delay this type of decline.",
+                    "zh": "这表明了一种可能性：生活方式因素也许有助于防止或延缓这类衰退。",
+                    "note": "might 提示语气是推测，所以选 possibility，而不是 decision/goal/requirement。",
+                },
+            },
+            {
+                "h": "7 选 5：找“接口”，不是找“意思像”",
+                "p": [
+                    "每个空都要和前后句形成接口。接口有四类：代词指代、词汇复现、逻辑关系、段落功能。"
+                    "Q41 的接口是 hiring → résumés → candidates；Q43 的接口是 insurance → premiums → charge；"
+                    "Q44 的接口是 accuracy → faster and more accurate。",
+                ],
+                "table": {
+                    "head": ["接口", "例子", "作用"],
+                    "rows": [
+                        ["代词", "These are tools... / Before, they...", "回指前文的工具/保险公司"],
+                        ["复现", "hiring → résumés → candidates", "保持同一语义场"],
+                        ["逻辑", "or charge too little / but not their own", "并列或转折"],
+                        ["段旨", "Better hiring / Improved accuracy", "选项必须服务小标题"],
+                    ],
+                },
+            },
+            {
+                "h": "两个多余选项怎么排除",
+                "p": [
+                    "多余选项通常“主题相关但功能不对”。A 说 AI 替代枯燥工作，和全文 without replacing employees 相反；"
+                    "F 说给客户更好渠道，语义太泛，无法和任何一个具体的段旨咬合。先排除明显违背主线的，再用接口匹配剩下的。",
+                ],
+            },
+        ],
+    },
+    {
+        "id": "translation-writing",
+        "num": "10",
+        "title": "翻译与写作：把“看懂”变成“写对”",
+        "lede": "翻译考的是拆句和中文表达，写作考的是任务完成度和结构。两者都可以用“先骨架、后血肉”的方法准备。",
+        "sections": [
+            {
+                "h": "翻译四步",
+                "bullets": [
+                    "拆：按从句、介词短语、非谓语切开。",
+                    "抓：找主谓宾，先译主干。",
+                    "挂：把定语、状语放到中文合适的位置。",
+                    "顺：读一遍中文，删掉翻译腔，补出省略成分。",
+                ],
+                "example": {
+                    "en": "High growth rates increased the chances for academic innovation; they also weakened the forms and processes by which teachers and students are admitted into a community of scholars during periods of stability or slow growth.",
+                    "zh": "高增长率增加了学术创新的机会；但它们也削弱了在稳定或缓慢增长时期教师和学生被接纳为学者共同体的形式和程序。",
+                    "note": "by which 不能漏；admitted 不是“承认”，是“接纳进入”。",
+                },
+            },
+            {
+                "h": "小作文：三个动作",
+                "table": {
+                    "head": ["段落", "写什么", "常用句"],
+                    "rows": [
+                        ["开头", "点明目的 + 表达欢迎/高兴", "I'm delighted to hear that... Here are a few suggestions."],
+                        ["主体", "2–3 条具体建议 + 理由", "First... Second... Finally..."],
+                        ["结尾", "表达愿意帮忙 + 期待回复", "I'd be happy to... Please let me know if..."],
+                    ],
+                },
+            },
+            {
+                "h": "大作文：描述—寓意—评论",
+                "p": [
+                    "第一段 2–3 句：谁在做什么、说了什么。第二段 4–6 句：点明寓意，解释原因/影响。"
+                    "第三段 2–3 句：给建议或评价。不要把三段写成三个并列观点；它们要层层推进。",
+                ],
+                "bullets": [
+                    "描述段用一般现在时，注意人物衣着、动作、对话。",
+                    "寓意段用主题句开头：The drawing conveys a simple yet powerful message...",
+                    "评论段用 In my view / It is high time that... 给出明确判断。",
+                ],
+            },
+        ],
+    },
+]
+
+QUIZ = [
+    {
+        "q": "cramped, unreliable services 中 cramped 最可能的意思是：",
+        "options": ["昂贵的", "拥挤的", "准时的", "豪华的"],
+        "answer": 1,
+        "explain": "与 unreliable、chaos 并列，构成负面语义链；cramped 指空间狭小拥挤。",
+    },
+    {
+        "q": "makeshift insurance policies 中 makeshift 最可能的意思是：",
+        "options": ["正式的", "临时的", "昂贵的", "政府的"],
+        "answer": 1,
+        "explain": "make + shift 原指“权宜之计”；文中说穷人把钱当作应对恶劣天气的临时保险。",
+    },
+    {
+        "q": "inclement weather 最可能的意思是：",
+        "options": ["晴朗的天气", "恶劣的天气", "温暖的天气", "多风的季节"],
+        "answer": 1,
+        "explain": "inclement 是正式用语，形容寒冷、多雨、多风等恶劣天气；与 against 搭配。",
+    },
+    {
+        "q": "a non-committal blank stare 中 non-committal 最可能的意思是：",
+        "options": ["不置可否的", "愤怒的", "热情的", "疲惫的"],
+        "answer": 0,
+        "explain": "commit 是“承诺、投入”；non-committal 就是“不表态、不承诺任何立场”。",
+    },
+    {
+        "q": "the result is unhinged from the realities 中 unhinged 最可能的意思是：",
+        "options": ["与……紧密相连", "与……脱节", "与……一致", "与……无关但正确"],
+        "answer": 1,
+        "explain": "un- + hinge（铰链）→ 从铰链上脱落 → 脱节；对应 out of touch with reality。",
+    },
+    {
+        "q": "the preserve of the super-rich 中 preserve 最可能的意思是：",
+        "options": ["保护区", "专属领域", "保护动作", "保存方法"],
+        "answer": 1,
+        "explain": "此处是名词，表示“某类人独有的领域”；不是动词“保护”。",
+    },
+]
+
+PLAN = [
+    {
+        "day": 1, "theme": "限时模考，先暴露问题", "time": "180 分钟 + 40 分钟复盘",
+        "tasks": [
+            "按 180 分钟完整做一遍 2021 英语一（作文也写）。",
+            "对答案，只标记错题，不急着看解析。",
+            "记录：每篇阅读用时、错题数、最卡的文章。",
+            "把不认识的词圈出来，先不查，第二天再处理。",
+        ],
+    },
+    {
+        "day": 2, "theme": "完形 + Text 1", "time": "100 分钟",
+        "tasks": [
+            "重做完形，逐空写“为什么选它”的逻辑。",
+            "精读 Text 1，整理 6 个长难句（S07–S14）。",
+            "背 25 个完形/Text 1 词汇，重点看搭配。",
+            "做 Q21–Q25，比较错误选项错在哪。",
+        ],
+    },
+    {
+        "day": 3, "theme": "Text 2 + Text 3", "time": "120 分钟",
+        "tasks": [
+            "精读 Text 2，画出“传统观点 vs 新研究”的结构图。",
+            "精读 Text 3，列出“曝光时间—牙齿—体面”三层解释。",
+            "整理 S15–S33，至少复述 5 句的主干。",
+            "背 40 个词汇，重点练“词义猜测”。",
+        ],
+    },
+    {
+        "day": 4, "theme": "Text 4 + 新题型", "time": "110 分钟",
+        "tasks": [
+            "精读 Text 4，画“机构—立场”表（消费者、FCC、法院、国会）。",
+            "做 7 选 5，给每个空写“接口证据”。",
+            "整理 S34–S52。",
+            "背 30 个 Text 4/新题型词汇。",
+        ],
+    },
+    {
+        "day": 5, "theme": "翻译 + 写作", "time": "120 分钟",
+        "tasks": [
+            "重做 46–50，对照参考译文，标出自己漏译的修饰成分。",
+            "背小作文模板，写一篇 100 词建议信。",
+            "写大作文：先列提纲，再写 160–200 词。",
+            "整理写作常用句 10 句。",
+        ],
+    },
+    {
+        "day": 6, "theme": "长难句 + 词汇二轮", "time": "100 分钟",
+        "tasks": [
+            "随机抽 20 个长难句，只看英文说主干。",
+            "用闪卡模式过 80 个词汇，标记仍不熟的。",
+            "重看错题，按“偷换主体/方向相反/时间错位/范围不当”分类。",
+            "复习 Q21、Q27、Q33、Q39 这类易错题。",
+        ],
+    },
+    {
+        "day": 7, "theme": "整套复盘，形成自己的清单", "time": "90 分钟",
+        "tasks": [
+            "不做新题，重做错题。",
+            "默写小作文结构和大作文三段式。",
+            "整理“我的高频错误”清单（不超过 10 条）。",
+            "用一个小时模拟考场时间分配，确认顺序。",
+        ],
+    },
+]

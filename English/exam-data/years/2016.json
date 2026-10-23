@@ -1,0 +1,698 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "柬埔寨的婚姻习俗：择偶、婚礼、婚后居住与离婚",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "本文是一篇说明文，介绍柬埔寨年轻男性的择偶与婚姻习俗：择偶既有本人自主，也有父母包办，还少不了媒人；婚礼漫长而多彩，包含剪发、系圣水棉线、传递蜡烛等仪式；婚后多随女方父母居住；离婚合法却少见，且男女再婚的等待期并不平等。做题时顺着“择偶—婚礼—婚后—离婚”的说明顺序，重点利用固定搭配（marry into、pass...around、divide equally、show up）和连词（after、until、while）判断。",
+    "passage": [
+      {
+        "en": "In Cambodia, the choice of a spouse is a complex one for the young male. It may involve not only his parents and his friends, {{1}} those of the young woman, but also a matchmaker. A young man can {{2}} a likely spouse on his own and then ask his parents to {{3}} the marriage negotiations, or the young man's parents may make the choice of a spouse, giving the child little to say in the selection. {{4}} a girl may veto the spouse her parents have chosen. {{5}} a spouse has been selected, each family investigates the other to make sure its child is marrying {{6}} a good family.",
+        "zh": "在柬埔寨，对年轻男性来说，选择配偶是一件复杂的事。这可能不仅涉及他的父母和朋友，也涉及女方的父母和朋友，还涉及一位媒人。年轻男子可以自己选定一位合适的配偶，然后请父母去安排婚事；也可能由男方的父母挑选配偶，孩子在选择过程中几乎没有发言权。理论上，女孩可以否决父母为她选定的配偶。配偶选定之后，双方家庭会互相打听，以确保自己的孩子是与一个好人家结亲。"
+      },
+      {
+        "en": "The traditional wedding is a long and colorful affair. Formerly it lasted three days, {{7}} by the 1980s it more commonly lasted a day and a half. Buddhist priests offer a short sermon and {{8}} prayers of blessing. Parts of the ceremony involve ritual hair cutting, {{9}} cotton threads soaked in holy water around the bride's and groom's wrists, and {{10}} a candle around a circle of happily married and respected couples to bless the {{11}}.",
+        "zh": "传统婚礼是一场漫长而热闹多彩的盛事。从前，婚礼要持续三天，但到了20世纪80年代，更常见的是持续一天半。佛教僧侣会作一段简短的讲道，并诵念祈福的祷文。仪式的部分环节包括仪式性的剪发，把浸过圣水的棉线系在新娘和新郎的手腕上，以及在一圈婚姻幸福、受人尊敬的夫妇中间传递一支蜡烛，以祝福这对新人的结合。"
+      },
+      {
+        "en": "Newlyweds traditionally move in with the wife's parents and may {{12}} with them up to a year, {{13}} they can build a new house nearby.",
+        "zh": "新婚夫妇传统上会搬去与女方父母同住，并可能与他们一起生活长达一年，直到他们能在附近建起一座新房子。"
+      },
+      {
+        "en": "Divorce is legal and easy to {{14}}, but not common. Divorced persons are {{15}} with some disapproval. Each spouse retains {{16}} property he or she {{17}} into the marriage, and jointly-acquired property is {{18}} equally. Divorced persons may remarry, but a gender prejudice {{19}} up: The divorced male doesn't have a waiting period before he can remarry {{20}} the woman must wait ten months.",
+        "zh": "离婚是合法的，也不难办理，但并不常见。离过婚的人会被人带着几分不赞成的眼光看待。夫妻双方各自保留自己带入婚姻的任何财产，而婚后共同获得的财产则平均分割。离过婚的人可以再婚，但一种性别偏见显现出来：离婚男性再婚前没有等待期，而女性则必须等待十个月。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "A",
+        "options": [
+          "as well as",
+          "by way of",
+          "on behalf of",
+          "with regard to"
+        ],
+        "cn": [
+          "以及，和",
+          "经由，通过",
+          "代表",
+          "关于"
+        ],
+        "explain": "空格所在部分是 not only his parents and his friends, ___ those of the young woman, but also a matchmaker，并列三项：他的父母和朋友、女方的父母和朋友、媒人。as well as 表示“以及”，把 those of the young woman 追加到前面的并列成分中，与 not only... but also... 的递进结构相容。by way of 表方式或途径，on behalf of 表代表某人，with regard to 表“关于”，三者都无法把“女方的父母朋友”与前面的并列项连接起来。",
+        "trap": "D with regard to 在汉语中可译为“关于”，读成“关于女方的父母朋友”似乎通顺，但那样会破坏 not only... but also... 的并列，且空格前有逗号，需要的是并列连接成分。",
+        "type": "介词短语/并列连接"
+      },
+      {
+        "n": 2,
+        "answer": "D",
+        "options": [
+          "adapt to",
+          "provide for",
+          "compete with",
+          "decide on"
+        ],
+        "cn": [
+          "适应",
+          "供养，为……提供",
+          "与……竞争",
+          "选定，决定"
+        ],
+        "explain": "空格后是 a likely spouse on his own，指年轻男子自己___一位合适的配偶。decide on 意为“选定、决定”，与 on his own（靠自己）以及后文“请父母去安排婚事”形成合理顺序：先自己看中人选，再让父母出面。adapt to 是“适应”，provide for 是“供养、为……做准备”，compete with 是“与……竞争”，都不能以 spouse 为宾语表达“选定配偶”。",
+        "trap": "B provide for 有“为……提供”的意思，可能被误读为“为自己物色配偶”，但它强调供给、供养，不表示挑选；A adapt to 则受汉语“适配”干扰。",
+        "type": "动词短语辨析"
+      },
+      {
+        "n": 3,
+        "answer": "C",
+        "options": [
+          "renew",
+          "close",
+          "arrange",
+          "postpone"
+        ],
+        "cn": [
+          "更新，续期",
+          "结束，关闭",
+          "安排，张罗",
+          "推迟"
+        ],
+        "explain": "ask his parents to ___ the marriage negotiations 指请父母去___婚事商议。arrange 意为“安排、张罗”，与 negotiations 搭配自然，也符合柬埔寨传统婚事由长辈出面商谈的语境。renew 用于合同、执照的续期；close 指结束谈判，但此时婚事尚未开始商谈，谈不上“结束”；postpone 是推迟，后文没有推迟的理由。",
+        "trap": "B close 与 negotiations 搭配很常见（close the negotiations 结束谈判），但语境是请父母出面促成婚事，而不是把谈判收尾；注意空格前是 ask his parents to，动作尚未发生。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 4,
+        "answer": "A",
+        "options": [
+          "In theory",
+          "In time",
+          "Above all",
+          "For example"
+        ],
+        "cn": [
+          "理论上",
+          "及时，最终",
+          "最重要的是",
+          "例如"
+        ],
+        "explain": "前文说男方父母可以包办，孩子几乎没有发言权；本句说女孩可以否决父母选定的配偶，语气上是“按制度、理论上讲可以”，与现实的包办形成微妙对照，因此 In theory 最合适。In time 表时间；Above all 表强调；For example 表举例，但本句不是对前句的举例，而是补充另一项规则。",
+        "trap": "D For example 看上去像在举例说明“孩子没有发言权”，但本句恰恰说女孩有否决权，语义并不一致。",
+        "type": "介词短语/逻辑关系"
+      },
+      {
+        "n": 5,
+        "answer": "C",
+        "options": [
+          "Although",
+          "Lest",
+          "After",
+          "Unless"
+        ],
+        "cn": [
+          "虽然",
+          "以免",
+          "在……之后",
+          "除非"
+        ],
+        "explain": "___ a spouse has been selected, each family investigates the other... 逻辑上是“配偶选定之后，双方家庭才互相调查”，After 引导时间状语从句，动作先后清楚。Although 表让步，Lest 表“以免”，Unless 表“除非”，都无法表达这一先后关系；而且时间从句用现在完成时 has been selected，也正符合 after 的用法。",
+        "trap": "D Unless 代入后是“除非选定配偶，否则双方家庭互相调查”，逻辑颠倒；B Lest 后通常接 should 虚拟，且语义不通。",
+        "type": "连词/时间关系"
+      },
+      {
+        "n": 6,
+        "answer": "B",
+        "options": [
+          "within",
+          "into",
+          "from",
+          "through"
+        ],
+        "cn": [
+          "在……之内",
+          "进入",
+          "从……",
+          "通过"
+        ],
+        "explain": "marry into a family 是固定搭配，意为“嫁入、娶进某个家庭”，此处 a good family 指好人家，into 表示进入某一家庭关系。within 是“在……范围内”，from 表来源，through 表途径，都不能与 marry 构成“与……家庭联姻”的意思。",
+        "trap": "A within 受汉语“在……家之内”影响，但 marry within a family 会变成“在家族内部通婚”，与“调查对方是不是好人家”的语境不符。",
+        "type": "介词搭配"
+      },
+      {
+        "n": 7,
+        "answer": "D",
+        "options": [
+          "since",
+          "or",
+          "so",
+          "but"
+        ],
+        "cn": [
+          "自从，因为",
+          "或者",
+          "所以",
+          "但是"
+        ],
+        "explain": "Formerly it lasted three days, ___ by the 1980s it more commonly lasted a day and a half. 前句说过去婚礼持续三天，后句说到了20世纪80年代通常只持续一天半，前后是明显的转折，故用 but。since 表原因或时间起点，or 表选择，so 表结果，均与“今昔对比中的变化”不符。",
+        "trap": "C so 可能被读成“因此”，但“过去三天、后来一天半”不是因果关系，而是今昔对比。",
+        "type": "连词/转折"
+      },
+      {
+        "n": 8,
+        "answer": "B",
+        "options": [
+          "test",
+          "recite",
+          "copy",
+          "create"
+        ],
+        "cn": [
+          "测试",
+          "诵念",
+          "抄写",
+          "创造"
+        ],
+        "explain": "Buddhist priests offer a short sermon and ___ prayers of blessing. 僧侣在婚礼上“诵念祈福的祷文”，recite prayers 是固定搭配，强调按传统念诵已有的经文。test 测试、copy 抄写、create 创造都不符合宗教仪式中念诵既定祷文的场景。",
+        "trap": "D create 看似与 prayers 搭配成“创作祷文”，但僧侣所做的是念诵传统祷文，不是即兴创作；A test 更无从谈起。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 9,
+        "answer": "D",
+        "options": [
+          "folding",
+          "piling",
+          "wrapping",
+          "tying"
+        ],
+        "cn": [
+          "折叠",
+          "堆放",
+          "包裹",
+          "系，绑"
+        ],
+        "explain": "___ cotton threads soaked in holy water around the bride's and groom's wrists 指把浸过圣水的棉线___在新郎和新娘的手腕上。tie... around... 表示“把……系、绑在……上”，是婚礼祝福仪式的常见动作。fold 是折叠，pile 是堆放，wrap 是包裹，都不能准确表达“用线系在手腕上”这一动作。",
+        "trap": "C wrapping 也有“缠绕”之意，容易误选；但 wrap 强调把某物包起来，常用 wrap sth. in sth.，而这里是 tie threads around wrists，强调打结系住。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 10,
+        "answer": "A",
+        "options": [
+          "passing",
+          "lighting",
+          "hiding",
+          "serving"
+        ],
+        "cn": [
+          "传递",
+          "点燃",
+          "隐藏",
+          "端上，服务"
+        ],
+        "explain": "and ___ a candle around a circle of happily married and respected couples 指在一圈幸福已婚、受人尊敬的夫妇之间___一支蜡烛，pass a candle around 是“传递蜡烛”，与 around a circle 搭配自然，也符合婚礼祝福仪式。light 是点燃，hide 是藏，serve 是端上、服务，都不能与 around a circle 构成“依次传递”的意思。",
+        "trap": "B lighting 受“点蜡烛”这一常见搭配吸引，但 around a circle 强调的是传递路线，不是点燃动作。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 11,
+        "answer": "D",
+        "options": [
+          "association",
+          "meeting",
+          "collection",
+          "union"
+        ],
+        "cn": [
+          "协会，联系",
+          "会议",
+          "收集",
+          "结合，婚姻"
+        ],
+        "explain": "to bless the ___ 指祝福这对新人的___。上文讲婚礼仪式，happily married couples 传递蜡烛的目的就是祝福新郎新娘的结合，union 意为“结合、婚姻”，最符合语境。association 指协会或联系，meeting 指会议，collection 指收集，都不能指一场婚姻的结合。",
+        "trap": "A association 有“联系、交往”之意，但 bless the association 不像婚礼用语，且 association 不能表示“结为夫妻”。",
+        "type": "名词辨析"
+      },
+      {
+        "n": 12,
+        "answer": "C",
+        "options": [
+          "grow",
+          "part",
+          "live",
+          "deal"
+        ],
+        "cn": [
+          "生长",
+          "分开",
+          "居住，生活",
+          "处理"
+        ],
+        "explain": "Newlyweds traditionally move in with the wife's parents and may ___ with them up to a year 指新婚夫妇搬去与女方父母同住，并可能与他们一起___长达一年。live with sb. 意为“与某人一起生活”，与 move in with 呼应。grow with 是“随……生长”，part with 是“与……分开”，deal with 虽可表示“应付某人”，但与“搬去同住”的语境不符。",
+        "trap": "B part 与 with 搭配是“与……分离”，正好与“搬去同住”相反；D deal with 虽有“应付某人”之义，但此处与 move in、live with 的同住语境不合。",
+        "type": "动词搭配"
+      },
+      {
+        "n": 13,
+        "answer": "B",
+        "options": [
+          "whereas",
+          "until",
+          "for",
+          "if"
+        ],
+        "cn": [
+          "然而",
+          "直到",
+          "因为",
+          "如果"
+        ],
+        "explain": "they can build a new house nearby 是夫妻与女方父母同住期限的终点：可能同住一年，___他们能在附近建好新房。until 引导时间状语从句，表示“直到……为止”，逻辑顺畅。whereas 表对比，for 表原因，if 表条件，都不能说明“同住到建好房子为止”。",
+        "trap": "D if 代入后变成“如果能建房，就可以同住一年”，把“同住到建房为止”的期限关系改成了条件关系；A whereas 需要两个并列分句的对比，此处只是从句。",
+        "type": "连词/时间"
+      },
+      {
+        "n": 14,
+        "answer": "B",
+        "options": [
+          "follow",
+          "obtain",
+          "challenge",
+          "avoid"
+        ],
+        "cn": [
+          "跟随，遵循",
+          "获得，办到",
+          "挑战",
+          "避免"
+        ],
+        "explain": "Divorce is legal and easy to ___ 指离婚合法，而且容易___。obtain 意为“获得、办到”，easy to obtain 表示“容易获准、容易办理”，与下文“但不常见”形成对照。follow 是跟随，challenge 是质疑，avoid 是避免，都不能表达“取得离婚”这一含义。",
+        "trap": "A follow 可表示“遵循（法律程序）”，但 easy to follow 会变成“容易理解、遵循”，主语是 divorce 时搭配不当；C challenge 则与“合法”矛盾。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 15,
+        "answer": "C",
+        "options": [
+          "isolated",
+          "persuaded",
+          "viewed",
+          "exposed"
+        ],
+        "cn": [
+          "孤立",
+          "说服",
+          "看待",
+          "暴露"
+        ],
+        "explain": "Divorced persons are ___ with some disapproval 指离过婚的人被人带着几分不赞成___。be viewed with... 意为“被以……的眼光看待”，viewed with disapproval 就是“遭到非议、被人不赞成地看待”。isolated with 不搭配，persuaded with 表“被……说服”，exposed with 也不成立。",
+        "trap": "A isolated 有“被孤立”之意，似乎也说得通，但 isolate 通常不与 with some disapproval 搭配，且程度过重；原文说的是社会眼光，而非实际隔离。",
+        "type": "动词被动搭配"
+      },
+      {
+        "n": 16,
+        "answer": "A",
+        "options": [
+          "whatever",
+          "however",
+          "whenever",
+          "wherever"
+        ],
+        "cn": [
+          "无论什么，任何",
+          "无论如何",
+          "无论何时",
+          "无论何处"
+        ],
+        "explain": "Each spouse retains ___ property he or she ___ into the marriage 中，空格与 property 一起在从句中作 brought 的宾语，表示“他或她带入婚姻的任何财产”。whatever 兼具“任何”和连接作用，等于 any property that。however 修饰形容词或副词，whenever 表时间，wherever 表地点，都不能修饰名词 property。",
+        "trap": "B however 在汉语中常译“无论怎样”，容易与 whatever 混淆；但 however 不能直接限定名词，也不能与 property 一起作 brought 的宾语。",
+        "type": "代词/连接限定词"
+      },
+      {
+        "n": 17,
+        "answer": "B",
+        "options": [
+          "changed",
+          "brought",
+          "shaped",
+          "pushed"
+        ],
+        "cn": [
+          "改变",
+          "带来",
+          "塑造",
+          "推"
+        ],
+        "explain": "property he or she ___ into the marriage 指婚前___婚姻的财产，bring... into... 意为“把……带入”，bring property into the marriage 即“把财产带入婚姻”。change into 是“变成”，shape into 是“塑造成”，push into 是“推入”，都不能表达“婚前财产带入婚姻”这一法律含义。",
+        "trap": "A changed 与 into 搭配是“变成”，若选入则变成“配偶保留其变成婚姻的财产”，语义荒谬；C shaped 也因 into 而改变词义。",
+        "type": "动词搭配"
+      },
+      {
+        "n": 18,
+        "answer": "D",
+        "options": [
+          "withdrawn",
+          "invested",
+          "donated",
+          "divided"
+        ],
+        "cn": [
+          "撤回",
+          "投资",
+          "捐赠",
+          "分配，分割"
+        ],
+        "explain": "jointly-acquired property is ___ equally 指婚后共同所得的财产被平等___。divide equally 意为“平均分配”，是离婚财产分割的固定说法。withdraw 是撤回，invest 是投资，donate 是捐赠，都不能与 equally 搭配表示“平分”。",
+        "trap": "C donated 似乎与“财产处理”有关，但 donate 是“捐赠”，与离婚时夫妻分割共同财产的语境不符；B invested 则缺少宾语和投资对象。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 19,
+        "answer": "B",
+        "options": [
+          "clears",
+          "shows",
+          "warms",
+          "breaks"
+        ],
+        "cn": [
+          "清除，放晴",
+          "显现",
+          "变暖",
+          "打破"
+        ],
+        "explain": "a gender prejudice ___ up 指一种性别偏见___出来。show up 意为“显现、显露”，与 prejudice 搭配表示“偏见显现出来”，冒号后男性无等待期、女性须等十个月正是这种偏见的表现。clear up 是“放晴、澄清”，warm up 是“变暖、热身”，break up 是“分手、解散”，都不符合“偏见显现”的意思。",
+        "trap": "A clears up 可表示“澄清（误会）”，但主语是 prejudice 时，clear up 会变成“偏见消失”，与后文女性受歧视的事实相反。",
+        "type": "动词短语"
+      },
+      {
+        "n": 20,
+        "answer": "A",
+        "options": [
+          "while",
+          "once",
+          "so that",
+          "in that"
+        ],
+        "cn": [
+          "而（表对比）",
+          "一旦",
+          "以便",
+          "因为"
+        ],
+        "explain": "The divorced male doesn't have a waiting period before he can remarry ___ the woman must wait ten months. 前后是男女再婚等待期的鲜明对比：男性没有等待期，___女性必须等十个月。while 作并列连词，表示“而、然而”，正好承载这一对比。once 表“一旦”，so that 表目的或结果，in that 表原因，都不能连接两个相反的事实。",
+        "trap": "D in that 有“因为”之意，代入后变成“男性没有等待期，因为女性要等十个月”，因果关系恰好颠倒；C so that 则会把对比误读为目的。",
+        "type": "连词/对比"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 小标题匹配",
+    "en_title": "Upgrade your image at work",
+    "cn_title": "职场形象升级：时机、目标、语境与专业支持",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "职场形象升级的时机、目标、环境语境与专业支持",
+    "type": "headings",
+    "directions": "Read the following text and answer the questions by choosing the most suitable subheading from the list A–G for each of the numbered paragraphs (41–45). There are two extra subheadings. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "小标题匹配先抓段落主旨，再核对标题的概括范围。本文讨论职场形象升级：开篇说明第一印象与职场着装规范的变化，随后从不同角度给出建议。做题时留意段落内的设问句、举例和祈使句，它们往往直接对应标题中的关键词；同时排除只概括段中某一细节、或把范围放得过大的选项。",
+    "blocks": [
+      {
+        "en": "No matter how formal or informal the work environment, the way you present yourself has an impact. This is especially true in first impressions. According to research from Princeton University, people assess your competence, trustworthiness, and likeability in just a tenth of a second, solely based on the way you look.",
+        "zh": "无论工作环境多么正式或非正式，你呈现自己的方式都会产生影响。这一点在第一印象中尤其如此。普林斯顿大学的研究表明，人们仅凭你的外表，在短短十分之一秒内就会评判你的能力、可信度和亲和力。"
+      },
+      {
+        "en": "The difference between today's workplace and the \"dress for success\" era is that the range of options is so much broader. Norms have evolved and fragmented. In some settings, red sneakers or dress T-shirts can convey status; in others not so much. Plus, whatever image we present is magnified by social-media services like LinkedIn. Chances are, your headshots are seen much more often now than a decade or two ago. Millennials, it seems, face the paradox of being the least formal generation yet the most conscious of style and personal branding. It can be confusing.",
+        "zh": "当今职场与“为成功而着装”时代的区别在于，选择的范围宽广得多。规范已经演变并趋于碎片化。在某些场合，红色运动鞋或正装T恤可以彰显地位；在另一些场合则未必。此外，我们呈现的任何形象都会被领英等社交媒体放大。如今，你的头像照被看到的频率很可能比一二十年前高得多。千禧一代似乎面临一个悖论：他们是最不正式的一代，却最在意风格和个人品牌。这确实令人困惑。"
+      },
+      {
+        "en": "So how do we navigate this? How do we know when to invest in an upgrade? And what's the best way to pull off one that enhances our goals? Here are some tips:",
+        "zh": "那么，我们该如何应对？我们如何知道何时该投资于一次形象升级？而实现一次有助于达成目标的升级，最好的方法又是什么？以下是一些建议："
+      },
+      {
+        "en": "{{41}} As an executive coach, I've seen image upgrades be particularly helpful during transitions — when looking for a new job, stepping into a new or more public role, or changing work environments. If you're in a period of change or just feeling stuck and in a rut, now may be a good time. If you're not sure, ask for honest feedback from trusted friends, colleagues and professionals. Look for cues about how others perceive you. Maybe there's no need for an upgrade and that's OK.",
+        "zh": "作为一名高管教练，我发现形象升级在转折时期尤其有帮助——比如找新工作、进入新的或更受关注的职位，或者更换工作环境。如果你正处于变化期，或只是感到停滞不前、一成不变，现在可能就是好时机。如果不确定，就向信任的朋友、同事和专业人士征求诚实的反馈。留意别人如何看待你的线索。也许并不需要升级，那也没关系。"
+      },
+      {
+        "en": "{{42}} Get clear on what impact you're hoping to have. Are you looking to refresh your image or pivot it? For one person, the goal may be to be taken more seriously and enhance their professional image. For another, it may be to be perceived as more approachable, or more modern and stylish. For someone moving from finance to advertising, maybe they want to look more \"SoHo.\" (It's OK to use characterizations like that.)",
+        "zh": "弄清楚你希望产生什么影响。你是想刷新形象，还是彻底转变方向？对一个人来说，目标可能是被更认真地对待、提升职业形象；对另一个人来说，则可能是显得更平易近人，或更现代、更时尚。对于从金融转行到广告业的人，也许他们想让自己看起来更“SoHo”一些。（使用这类描述是可以的。）"
+      },
+      {
+        "en": "{{43}} Look at your work environment like an anthropologist. What are the norms of your environment? What conveys status? Who are your most important audiences? How do the people you respect and look up to present themselves? The better you understand the cultural context, the more control you can have over your impact.",
+        "zh": "像人类学家一样观察你的工作环境。你的环境有哪些规范？什么能彰显地位？谁是你最重要的受众？你尊重和仰慕的人如何呈现自己？你对文化语境理解得越透彻，就越能掌控自己产生的影响。"
+      },
+      {
+        "en": "{{44}} Enlist the support of professionals and share with them your goals and context. Hire a personal stylist, or use the free styling service of a store like J.Crew. Try a hair stylist instead of a barber. Work with a professional photographer instead of your spouse or friend. It's not as expensive as you might think.",
+        "zh": "争取专业人士的支持，并把自己的目标和处境告诉他们。聘请一位私人造型师，或使用 J.Crew 这类商店提供的免费造型服务。找发型师而不是理发师。与专业摄影师合作，而不是让配偶或朋友来拍。这并没有你想象的那么贵。"
+      },
+      {
+        "en": "{{45}} The point of a style upgrade isn't to become more vain or to spend more time fussing over what to wear. Instead, use it as an opportunity to reduce decision fatigue. Pick a standard work uniform or a few go-to options. Buy all your clothes at once with a stylist instead of shopping alone, one article of clothing at a time.",
+        "zh": "风格升级的目的并不是变得更虚荣，也不是花更多时间纠结穿什么。相反，把它当作减少决策疲劳的机会。选定一套标准的工作装，或几套常用搭配。与造型师一次性买齐所有衣服，而不是独自逛街、一件一件地买。"
+      }
+    ],
+    "options": {
+      "A": {
+        "en": "Create a new image of yourself",
+        "zh": "塑造一个全新的自我形象"
+      },
+      "B": {
+        "en": "Have confidence in yourself",
+        "zh": "对自己要有信心"
+      },
+      "C": {
+        "en": "Decide if the time is right",
+        "zh": "判断时机是否合适"
+      },
+      "D": {
+        "en": "Understand the context",
+        "zh": "理解所处的语境"
+      },
+      "E": {
+        "en": "Work with professionals",
+        "zh": "与专业人士合作"
+      },
+      "F": {
+        "en": "Know your goals",
+        "zh": "明确你的目标"
+      },
+      "G": {
+        "en": "Make it efficient",
+        "zh": "让它更高效"
+      }
+    },
+    "fixed_note": "A、B 为多余选项，不填入任何空。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "C",
+        "explain": "本段开头说形象升级在“转折时期”最有帮助，随后列举找新工作、进入新的或更受关注的职位、更换工作环境，并说“现在可能就是好时机”“也许并不需要升级”。全段围绕“何时该升级、时机是否合适”展开，C 概括准确。E 虽提到 professionals，但本段只是建议向专业人士求证，并非核心；F 谈目标，属于下一段。",
+        "clue": "during transitions → now may be a good time → Maybe there's no need for an upgrade"
+      },
+      {
+        "n": 42,
+        "answer": "F",
+        "explain": "本段首句 Get clear on what impact you're hoping to have 直接点明要弄清目标，后面反复出现 the goal may be、want to look...，都是在说明不同人的不同目标，F“明确你的目标”最贴切。A“塑造新形象”只说手段，未抓住“先想清楚要达到什么效果”这一层。",
+        "clue": "what impact you're hoping to have → the goal may be → they want to look more..."
+      },
+      {
+        "n": 43,
+        "answer": "D",
+        "explain": "本段要求像人类学家一样观察工作环境，连续追问 norms、status、audiences、人们如何呈现自己，最后落到 cultural context，强调理解所处环境，D“理解语境”正好概括。G 谈效率，是本段之后的内容；A 谈新形象，范围过大。",
+        "clue": "norms of your environment → cultural context → the more control you can have over your impact"
+      },
+      {
+        "n": 44,
+        "answer": "E",
+        "explain": "本段首句 Enlist the support of professionals 是主题句，随后列举私人造型师、发型师、专业摄影师，都是借助专业人士，E 直接对应。B“要有自信”在本段没有依据；G 的“高效”也不是本段重点。",
+        "clue": "Enlist the support of professionals → personal stylist → hair stylist → professional photographer"
+      },
+      {
+        "n": 45,
+        "answer": "G",
+        "explain": "本段说风格升级不是为了虚荣，而是为了 reduce decision fatigue，并建议选定标准工作装、一次性买齐衣服，核心是简化选择、提高效率，G“让它更高效”最准确。D 谈语境，已在上一段；F 谈目标，也在前文。",
+        "clue": "reduce decision fatigue → a standard work uniform → buy all your clothes at once"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "Mental health is our birthright",
+    "cn_title": "心理健康是我们的天赋权利",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "心理健康的本质：天生具备、可被重新唤醒的内在力量",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on the ANSWER SHEET. (10 points)",
+    "intro": "翻译先拆结构、再定主干，最后按中文语序重排。第46句注意分号后的被动结构以及 in the same way that 引导的比较；第47句注意插入语 like the sun behind a cloud 与两个被动谓语；第48句是三个 with 短语并列，后面各带条件或让步从句；第49句注意 Although 让步从句与 as 原因从句；第50句主语是两个动名词短语并列，谓语用 allow，不要误判单复数。",
+    "paragraphs": [
+      {
+        "en": "Mental health is our birthright. [[46]]We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone.[[/46]] Mental health can't be learned, only reawakened. It is like the immune system of the body, which under stress or through lack of nutrition or exercise can be weakened, but which never leaves us. When we don't understand the value of mental health and we don't know how to gain access to it, mental health will remain hidden from us. [[47]]Our mental health doesn't really go anywhere; like the sun behind a cloud, it can be temporarily hidden from view, but it is fully capable of being restored in an instant.[[/47]]",
+        "zh": "心理健康是我们与生俱来的权利。我们不必去学习如何保持心理健康；它天生就存在于我们体内，正如我们的身体知道如何愈合伤口、如何接好断骨一样。心理健康无法通过学习获得，只能被重新唤醒。它就像人体的免疫系统，在压力之下，或因缺乏营养、缺少锻炼而可能被削弱，却永远不会离开我们。当我们不理解心理健康的价值，也不知道如何获得它时，心理健康就会对我们隐而不现。我们的心理健康并不会真的消失；它就像云层后的太阳，可能暂时看不见，却完全能够在瞬间恢复。"
+      },
+      {
+        "en": "Mental health is the seed that contains self-esteem — confidence in ourselves and an ability to trust in our common sense. It allows us to have perspective on our lives — the ability to not take ourselves too seriously, to laugh at ourselves, to see the bigger picture, and to see that things will work out. It's a form of innate or unlearned optimism. [[48]]Mental health allows us to view others with sympathy if they are having troubles, with kindness if they are in pain, and with unconditional love no matter who they are.[[/48]] Mental health is the source of creativity for solving problems, resolving conflict, making our surroundings more beautiful, managing our home life, or coming up with a creative business idea or invention to make our lives easier. It gives us patience for ourselves and toward others as well as patience while driving, catching a fish, working on our car, or raising a child. It allows us to see the beauty that surrounds us each moment in nature, in culture, in the flow of our daily lives.",
+        "zh": "心理健康是一粒种子，其中蕴含着自尊——对自己的信心，以及信任自己常识的能力。它让我们对生活保持一种全局视角——能够不把自己看得太重，能够自嘲，能够看到更大的图景，并相信事情终会好转。这是一种与生俱来、无需学习的乐观。心理健康使我们能够以同情的眼光看待遇到困难的人，以善意的眼光看待处于痛苦中的人，并以无条件的爱看待所有人，无论他们是谁。心理健康是创造力的源泉：它帮助我们解决问题、化解冲突、让周围环境更美、打理家庭生活，或想出一个有创意的商业点子、一项让生活更便利的发明。它给予我们对自己、对他人的耐心，也给予我们开车、钓鱼、修车或抚养孩子时的耐心。它让我们看见身边每时每刻的美——自然中的美、文化中的美，以及日常生活流转中的美。"
+      },
+      {
+        "en": "[[49]]Although mental health is the cure-all for living our lives, it is perfectly ordinary as you will see that it has been there to direct you through all your difficult decisions.[[/49]] It has been available even in the most mundane of life situations to show you right from wrong, good from bad, friend from foe. Mental health has commonly been called conscience, instinct, wisdom, common sense, or the inner voice. We think of it simply as a healthy and helpful flow of intelligent thought.",
+        "zh": "尽管心理健康是我们生活中的万灵药，它却再平常不过，因为你会明白，它一直就在那里，指引你走过每一个艰难抉择。即便在最为平凡的生活情境中，它也始终存在，为你分辨对错、善恶、敌友。心理健康通常被称为良知、本能、智慧、常识或内心的声音。我们只把它看作一股健康而有益的、充满智慧的思维之流。"
+      },
+      {
+        "en": "[[50]]As you will come to see, knowing that mental health is always available and knowing to trust it allow us to slow down to the moment and live life happily.[[/50]]",
+        "zh": "你终将明白，知道心理健康始终存在，并且懂得去信任它，能让我们放慢脚步、专注于当下，快乐地生活。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone.",
+        "core": "We don't have to learn how to be mentally healthy; it is built into us.",
+        "structure": "分号连接两个并列分句。前一分句 We don't have to learn how to be mentally healthy 中，how to be mentally healthy 作 learn 的宾语；后一分句 it is built into us 是被动结构，it 指心理健康的能力。in the same way that... 作方式状语，that 引导定语从句修饰 way，从句中 our bodies know how to heal a cut or mend a broken bone 是主谓宾结构，how to... 作 know 的宾语。",
+        "key": "have to 必须；mentally healthy 心理健康；be built into 被内置于，天生存在于；in the same way that 正如……一样；heal a cut 愈合伤口；mend a broken bone 接好断骨。",
+        "translation": "我们不必去学习如何保持心理健康；它天生就存在于我们体内，正如我们的身体知道如何愈合伤口、如何接好断骨一样。",
+        "pitfall": "in the same way that 不能译成“用同样的方法”，这里比较的是“心理健康与身体自愈能力一样是天生的”；it 指“心理健康的能力”，不要直译成“它被建造在我们里面”；heal 与 mend 都含“治愈、修复”之意，注意与 cut、broken bone 的搭配。"
+      },
+      "47": {
+        "en": "Our mental health doesn't really go anywhere; like the sun behind a cloud, it can be temporarily hidden from view, but it is fully capable of being restored in an instant.",
+        "core": "Our mental health doesn't go anywhere; it can be hidden, but it is capable of being restored.",
+        "structure": "分号连接两个并列分句。like the sun behind a cloud 是介词短语，作插入状语；it can be temporarily hidden from view 与 but it is fully capable of being restored in an instant 由 but 连接；前者用被动语态，后者用 be capable of being done 结构，均含被动意义；being restored 是动名词的被动式。",
+        "key": "go anywhere 消失、离开；temporarily 暂时地；hide... from view 使……看不见；be capable of 有能力；restore 恢复；in an instant 瞬间。",
+        "translation": "我们的心理健康并不会真的消失；它就像云层后的太阳，可能暂时看不见，却完全能够在瞬间恢复。",
+        "pitfall": "doesn't really go anywhere 是“并没有真的消失”，不是“哪里也不去”；hidden from view 是“被遮住、看不见”，不是“躲起来”；being restored 是被动式，译成“自我恢复”会偏离原意，应体现“得以恢复、被恢复”的含义。"
+      },
+      "48": {
+        "en": "Mental health allows us to view others with sympathy if they are having troubles, with kindness if they are in pain, and with unconditional love no matter who they are.",
+        "core": "Mental health allows us to view others with sympathy, with kindness, and with unconditional love.",
+        "structure": "主干是 Mental health allows us to view others。三个 with 短语 with sympathy、with kindness、with unconditional love 并列作方式状语；每个 with 短语后分别跟 if 条件从句或 no matter who 让步从句：if they are having troubles、if they are in pain、no matter who they are。",
+        "key": "allow sb. to do sth. 使某人能够做；view... with... 以……的眼光看待；sympathy 同情；have troubles 遇到困难；in pain 处于痛苦中；unconditional love 无条件的爱；no matter who 无论谁。",
+        "translation": "心理健康使我们能够以同情的眼光看待遇到困难的人，以善意的眼光看待处于痛苦中的人，并以无条件的爱看待所有人，无论他们是谁。",
+        "pitfall": "三个 with 短语都修饰 view，不是三个并列谓语；no matter who they are 是让步状语，不能译成“不管他们是什么人”而丢掉“无论身份如何”的意思；with kindness 与 with sympathy 一样，表示“以……的态度”，不是“友善地对待”。"
+      },
+      "49": {
+        "en": "Although mental health is the cure-all for living our lives, it is perfectly ordinary as you will see that it has been there to direct you through all your difficult decisions.",
+        "core": "Although mental health is the cure-all, it is perfectly ordinary.",
+        "structure": "Although 引导让步状语从句，主句是 it is perfectly ordinary；as 引导原因状语从句，意为“因为、既然”，从句中 you will see that... 是主谓宾结构，that 引导宾语从句；宾语从句 it has been there to direct you through all your difficult decisions 用现在完成时，to direct... 作目的状语。",
+        "key": "cure-all 万灵药；perfectly ordinary 极其平常；as 因为；see that 明白、看出；be there to do 一直存在以做某事；direct sb. through 指引某人度过；difficult decisions 艰难的决定。",
+        "translation": "尽管心理健康是我们生活中的万灵药，它却再平常不过，因为你会明白，它一直就在那里，指引你走过每一个艰难抉择。",
+        "pitfall": "as 在这里是“因为”，不是“当……时”或“正如”；perfectly ordinary 是“极其普通”，不是“完美而普通”；has been there 是现在完成时，要译出“一直存在”的持续意味；direct you through all your difficult decisions 不宜生硬译成“指导你做出所有困难决定”。"
+      },
+      "50": {
+        "en": "As you will come to see, knowing that mental health is always available and knowing to trust it allow us to slow down to the moment and live life happily.",
+        "core": "Knowing that ... and knowing to trust it allow us to slow down and live life happily.",
+        "structure": "As you will come to see 是状语从句，意为“你终将明白”；主句主语是两个并列的动名词短语 knowing that... 和 knowing to trust it，谓语是 allow，宾语是 us，宾补是 to slow down... and live...；that 引导宾语从句，作 knowing 的宾语。",
+        "key": "come to see 逐渐明白；available 可获得的、始终存在的；trust 信任；allow sb. to do 使某人能够；slow down to the moment 放慢脚步、回到当下；live life happily 快乐地生活。",
+        "translation": "你终将明白，知道心理健康始终存在，并且懂得去信任它，能让我们放慢脚步、专注于当下，快乐地生活。",
+        "pitfall": "主语是两个动名词短语的并列，谓语用 allow 而不是 allows，不要误判主语单复数；knowing to trust it 是“懂得信任它”，不是“知道将要去信任它”；slow down to the moment 不要直译成“慢到那一刻”，应译为“放慢节奏、回到当下”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "A notice & a picture essay",
+    "cn_title": "图书馆新生通知 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "图书馆新生通知；父母以身作则与家庭教育",
+    "intro": "2016 年英语（一）写作由两部分组成：Part A 要求以图书馆员身份写一则面向新入学国际学生的通知，告知图书馆的服务与使用信息；Part B 是两幅对比图画——父亲躺在沙发上刷手机、看电视，却要求儿子“好好学习”，与父亲陪儿子一起伏案学习形成反差，主题是父母以身作则与家庭教育。小作文注意通知的格式与信息条理，大作文按“描述—阐释—评论”三段展开。",
+    "partA": {
+      "title": "Part A · 通知",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Suppose you are a librarian in your university. Write a notice of about 100 words, providing the newly-enrolled international students with relevant information about the library. You should write neatly on the ANSWER SHEET. Do not sign your own name at the end of the notice. Use \"Li Ming\" instead. Do not write the address. (10 points)",
+      "prompt_zh": "假设你是所在大学的图书馆员。请写一则约100词的通知，向新入学的国际学生提供有关图书馆的相关信息。请工整地写在答题卡上；通知末尾不要署自己的名字，用“Li Ming”代替；不要写地址。",
+      "sample": "Notice\n\nTo help newly-enrolled international students use the library, we would like to introduce our services.\n\nThe library is open from 8:00 a.m. to 10:00 p.m. on weekdays and from 9:00 a.m. to 6:00 p.m. on weekends. It houses more than two million books and provides access to major academic databases. Students may borrow up to ten books at a time for one month. A free orientation session will be held in the lecture hall this Friday at 3 p.m., where you can learn how to search for materials and use the study rooms.\n\nPlease bring your student card to enter. We look forward to seeing you there.\n\nLi Ming",
+      "sample_zh": "通知\n\n为帮助新入学的国际学生使用图书馆，我们谨向大家介绍本馆的服务。\n\n图书馆开放时间为工作日早8点至晚10点，周末早9点至晚6点。馆藏图书逾两百万册，并提供主要学术数据库的访问权限。每位学生每次最多可借阅十本书，借期为一个月。本周五下午3点，我们将在报告厅举办免费的新生培训，届时大家可以学习如何检索资料、使用研讨室。\n\n入馆请携带学生证。期待在那里见到大家。\n\n李明",
+      "structure": [
+        [
+          "标题",
+          "Notice"
+        ],
+        [
+          "说明通知对象与目的",
+          "To help newly-enrolled international students use the library, we would like to introduce our services."
+        ],
+        [
+          "开放时间",
+          "The library is open from 8:00 a.m. to 10:00 p.m. on weekdays and from 9:00 a.m. to 6:00 p.m. on weekends."
+        ],
+        [
+          "馆藏与借阅规则",
+          "It houses more than two million books and provides access to major academic databases. Students may borrow up to ten books at a time for one month."
+        ],
+        [
+          "新生培训与入馆要求",
+          "A free orientation session will be held in the lecture hall this Friday at 3 p.m., where you can learn how to search for materials and use the study rooms."
+        ],
+        [
+          "落款",
+          "Li Ming"
+        ]
+      ],
+      "expressions": [
+        "To help newly-enrolled international students use the library, we would like to introduce our services.",
+        "The library is open from ... to ... on weekdays and from ... to ... on weekends.",
+        "It houses more than two million books and provides access to major academic databases.",
+        "Students may borrow up to ten books at a time for one month.",
+        "A free orientation session will be held in the lecture hall this Friday at 3 p.m.",
+        "Please bring your student card to enter.",
+        "We look forward to seeing you there."
+      ],
+      "traps": [
+        "通知对象是新入学的国际学生，应写明开放时间、借阅规则、培训安排等具体信息，不要写成欢迎信、私人邮件或只写一句“欢迎来图书馆”。",
+        "通知需要有标题，语气礼貌清楚，句子宜短；题目要求署名 Li Ming，不能写真实姓名，也不要写地址。",
+        "约100词，信息要有所取舍，不要把图书馆的全部服务都罗列进去而超出词数。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160–200 words based on the following pictures. In your essay, you should 1) describe the pictures briefly, 2) interpret the meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "src": "../assets/writing/2016.png",
+        "caption": "父亲躺在沙发上刷手机、看电视，却要求儿子“好好学习”；父子二人各自伏案学习",
+        "note": "画面分左右两幅。左图：父亲靠在沙发上、翘着腿，手里拿着手机，面前的电视开着，他转头对坐在书桌前、面对一摞书本的儿子说“儿子，你给我好好学习！”；右图：父亲与儿子一前一后各自坐在书桌前，父亲伏案读书写字，儿子也在认真做功课，墙上挂着时钟。两图形成鲜明对比：要求孩子做到的，父母自己应先做到，以身作则才是最好的家庭教育。"
+      },
+      "sample": "The picture presents a sharp contrast. In the left panel, a father lies on the sofa with a phone in one hand and the television on, yet he turns to his son and says, \"Study hard!\" The boy, surrounded by piles of books, looks back helplessly. In the right panel, the same father and son are both bent over their desks, studying in concentration, while a clock ticks on the wall.\n\nThe message is clear: parents teach more by what they do than by what they say. A child told to study while his father spends the evening in front of the television learns that words and actions need not match. When a parent instead picks up a book and works alongside the child, study becomes a shared habit rather than a punishment imposed from above. This is what leading by example really means.\n\nIn my view, family education begins with self-discipline. Parents who want diligent children should first be diligent themselves. A parent who practices what he preaches is worth more than a thousand lectures.",
+      "sample_zh": "这幅画呈现出鲜明的对比。左图中，父亲躺在沙发上，一手拿着手机，面前的电视开着，却转头对儿子说：“好好学习！”被一摞摞书本围住的男孩回头望着父亲，一脸无奈。右图中，同一位父亲和儿子一前一后坐在各自的书桌前，两人都俯身专注于书本，墙上时钟滴答作响。\n\n寓意很清楚：父母的身教胜于言传。如果父亲一边要求孩子学习，一边自己整晚守在电视机前，孩子就会明白，言语和行动并不需要一致。反之，当父母拿起书本、与孩子一起学习时，学习就不再是自上而下的惩罚，而成为一种共同的日常习惯。这才是“以身作则”的真正含义。\n\n在我看来，家庭教育始于自律。希望孩子勤奋的父母，首先应当自己勤奋。一位以身作则的家长，胜过一千次说教。",
+      "structure": [
+        [
+          "第一段·描述图画",
+          "The picture presents a sharp contrast... left panel: father lying on the sofa with a phone while the TV is on, telling his son to study hard; right panel: father and son each bent over their desks."
+        ],
+        [
+          "第二段·解释寓意",
+          "Parents teach more by what they do than by what they say... words and actions need not match... study becomes a shared habit... leading by example."
+        ],
+        [
+          "第三段·给出评论",
+          "Family education begins with self-discipline... parents who want diligent children should first be diligent themselves... practices what he preaches."
+        ]
+      ],
+      "expressions": [
+        "The picture presents a sharp contrast between the two panels.",
+        "a father lies on the sofa with a phone in one hand and the TV on, yet he turns to his son and says, \"Study hard!\"",
+        "The boy, surrounded by piles of books, looks back helplessly.",
+        "parents teach more by what they do than by what they say",
+        "words and actions need not match",
+        "study becomes a shared habit rather than a punishment imposed from above",
+        "This is what leading by example really means.",
+        "A parent who practices what he preaches is worth more than a thousand lectures."
+      ],
+      "traps": [
+        "描述要抓住两幅图的反差：父亲“要求孩子学习”却自己看电视，与父亲“陪孩子一起学习”形成对照，并写出关键引语“儿子，你给我好好学习！”，不要只写“父子俩在学习”。",
+        "寓意应落在“父母以身作则、家庭教育”，不要泛化成“电视的危害”“要努力学习”或“代沟”。",
+        "评论要给出明确态度和可行做法（如父母先自律、与孩子共同学习），避免只喊“父母要爱孩子”的空话。"
+      ]
+    }
+  }
+}

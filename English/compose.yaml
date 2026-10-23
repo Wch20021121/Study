@@ -1,0 +1,27 @@
+# 在 English/ 目录执行：docker compose up -d --build
+name: kaoyan-english
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: kaoyan-english:local
+    container_name: kaoyan-english
+    ports:
+      # 宿主机 5000 -> 容器 80；改宿主机端口用 PORT=8080 docker compose up -d
+      - "${PORT:-5000}:80"
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1/healthz"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

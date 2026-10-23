@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="{{YEAR}} 考研英语（一）阅读精讲：四篇原文、逐句翻译、20 道阅读题解析、长难句和核心词汇。">
+  <title>{{TITLE}}</title>
+  <link rel="stylesheet" href="../assets/reader.css">
+</head>
+<body class="reader-page">
+  <div class="reader-topbar">
+    <a href="../index.html">← 真题总目录</a>
+    <span class="top-mode">{{MODE}} · 英语（一）</span>
+    <span class="top-year">{{YEAR}}</span>
+  </div>
+
+  <header class="reader-hero" id="top" data-year="{{YEAR}}">
+    <p class="hero-kicker">{{YEAR}} 年全国硕士研究生招生考试 · 英语（一）</p>
+    <h1>{{YEAR}}<span>{{MODE}}</span></h1>
+    <p class="hero-lede">{{OVERVIEW}}</p>
+    <div class="hero-stats">
+      <div><strong>4</strong><span>篇阅读</span></div>
+      <div><strong>{{N_Q}}</strong><span>道题</span></div>
+      <div><strong>{{N_SENT}}</strong><span>句长难句</span></div>
+      <div><strong>{{N_VOCAB}}</strong><span>个核心词</span></div>
+    </div>
+  </header>
+
+  <nav class="reader-jump" id="readerJump" aria-label="本页导航">
+    {{NAV}}
+  </nav>
+
+  <div class="reader-stat-line">
+    <span>答案已按本页选项顺序标注</span>
+    <span>题目：<b>{{N_Q}}</b></span>
+    <span>逐句翻译：<b>4 篇</b></span>
+    <span>长难句：<b>{{N_SENT}}</b></span>
+    <span>词汇：<b>{{N_VOCAB}}</b></span>
+  </div>
+
+  <main id="main">
+    <div id="clozeMount"></div>
+    <div id="readingMount"></div>
+    <div id="partbMount"></div>
+    <div id="partcMount"></div>
+    <div id="writingMount"></div>
+
+    <section class="chapter" id="sentences" data-section="sentences">
+      <header class="section-head">
+        <div class="section-index">{{SENT_NO}}</div>
+        <div class="section-title-wrap">
+          <p class="section-kicker">Sentence X-Ray</p>
+          <h2>长难句：先看骨架，再看修饰</h2>
+          <p class="section-topic">{{N_SENT}} 句 · 主干 / 结构 / 关键词 / 翻译 / 提醒</p>
+        </div>
+      </header>
+      <p class="section-lede">先遮住解析，自己说出“谁做了什么”，再展开对照。说不出来，说明你缺的是结构，不是词汇。</p>
+      <div class="filter-bar">
+        <label class="search-box"><span>搜索</span><input type="search" id="sentenceSearch" placeholder="输入英文、中文或语法关键词"></label>
+        <div class="chip-row" id="sentenceSecFilters"></div>
+        <label class="switch-label"><input type="checkbox" id="sentenceUnmastered"> 只看未掌握</label>
+      </div>
+      <div class="list-count" id="sentenceCount"></div>
+      <div class="sentence-list" id="sentenceList"></div>
+    </section>
+
+    <section class="chapter" id="vocab" data-section="vocab">
+      <header class="section-head">
+        <div class="section-index">{{VOCAB_NO}}</div>
+        <div class="section-title-wrap">
+          <p class="section-kicker">Word Bank</p>
+          <h2>核心词汇：按考点背，不按字母背</h2>
+          <p class="section-topic">{{N_VOCAB}} 词 · 文中搭配 + 熟词僻义 + 记忆提示</p>
+        </div>
+      </header>
+      <p class="section-lede">每个词都放回本卷语境里。先看英文和搭配猜意思，再展开中文；星号可以标记“已掌握”。</p>
+      <div class="filter-bar">
+        <label class="search-box"><span>搜索</span><input type="search" id="vocabSearch" placeholder="输入单词或中文释义"></label>
+        <div class="chip-row" id="vocabSecFilters"></div>
+        <label class="switch-label"><input type="checkbox" id="vocabUnmastered"> 只看未掌握</label>
+        <button class="tool-btn tool-btn-red" id="flashcardBtn" type="button">闪卡模式</button>
+      </div>
+      <div class="list-count" id="vocabCount"></div>
+      <div class="vocab-list" id="vocabList"></div>
+    </section>
+
+    <div class="reader-banner">{{SCOPE}}</div>
+
+    <section class="reader-next">
+      <h2>下一步</h2>
+      <p>阅读精讲解决“句子和题目”，全卷精讲还会补完形、新题型、翻译和写作。你可以先去总目录看年份，或打开 2021 全卷样板。</p>
+      <div class="actions">
+        <a class="btn btn-red" href="../index.html">返回真题总目录</a>
+        <a class="btn btn-ghost" href="../2021.html#skills">阅读方法</a>
+        <a class="btn btn-ghost" href="../2021.html#plan">7 日计划</a>
+        <a class="btn btn-ghost" href="../2021.html">看 2021 全卷精讲</a>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <div><p class="footer-mark">{{YEAR}} / 英语（一）</p><p>真题原文与参考译文据公开学习资料整理；答案按本页选项顺序标注。</p></div>
+      <div class="footer-links"><a href="../index.html">总目录</a><a href="#top">回到顶部</a></div>
+    </footer>
+  </main>
+
+  <div id="tip" class="tip" hidden></div>
+  <div id="modal" class="modal" hidden>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-label="学习卡片">
+      <button class="modal-close" id="modalClose" aria-label="关闭">×</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <script>window.__YEAR_DATA__ = {{DATA}};</script>
+  <script src="../assets/reader.js"></script>
+</body>
+</html>

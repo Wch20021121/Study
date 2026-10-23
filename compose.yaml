@@ -1,0 +1,51 @@
+# 学习站点统一编排：408 大题工位 + 英语真题档案
+# 用法：docker compose up -d --build
+# 端口：408 -> 宿主机 40810；英语 -> 宿主机 5001
+name: study-sites
+
+services:
+  exam408:
+    build:
+      context: ./408-exam
+      dockerfile: Dockerfile
+    image: study-408-exam:local
+    container_name: study-408-exam
+    ports:
+      - "${EXAM408_PORT:-40810}:80"
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1/healthz"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  english:
+    build:
+      context: ./English
+      dockerfile: Dockerfile
+    image: kaoyan-english:local
+    container_name: study-english
+    ports:
+      - "${ENGLISH_PORT:-5001}:80"
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1/healthz"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

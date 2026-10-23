@@ -1,0 +1,675 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "野外迷路时如何借助地势与环境特征回到文明社会",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "文章从“手机导航普及、人们很少不带手机进山”切入：一旦手机没电、身边又没有指南针而迷路，可以借助几条野外辨向技巧回到文明社会——顺地势向下、寻找水源、留意熟悉景物、登高寻找人类活动痕迹、夜间寻找人工光源，最后寻找人类留在土地上的标记。做题时抓住“假设迷路—给出办法—逐条展开”的推进线，注意条件句、因果关系以及 Another option、For example、Finally 等列举信号。",
+    "passage": [
+      {
+        "en": "Today we live in a world where GPS systems, digital maps, and other navigation apps are available on our smartphones. {{1}} of us just walk straight into the woods without a phone. But phones {{2}} on batteries, and batteries can die faster than we realize. {{3}} you get lost without a phone or a compass, and you {{4}} can't find north, we have a few tricks to help you navigate {{5}} to civilization, one of which is to follow the land.",
+        "zh": "今天我们生活在一个智能手机上配有 GPS 系统、数字地图和其他导航应用的世界里。我们很少有人会不带手机就径直走进树林。但手机靠电池运行，而电池耗尽的速度可能比我们意识到的更快。如果你在没有手机、也没有指南针的情况下迷了路，又确实找不到北方，我们有几个技巧可以帮你回到文明世界，其中之一就是顺着地势走。"
+      },
+      {
+        "en": "When you find yourself well {{6}} a trail, but not in a completely {{7}} area, you have to answer two questions: Which {{8}} is downhill, in this particular area? And where is the nearest water source? Humans overwhelmingly live in valleys, and on supplies of fresh water. {{9}}, if you head downhill, and follow any H2O you find, you should {{10}} see signs of people.",
+        "zh": "当你发现自己远离小径，但并非身处一个完全陌生的地区时，你必须回答两个问题：在这片特定区域，哪边是下坡？最近的水源在哪里？绝大多数人生活在山谷里，依赖淡水供应。所以，如果你向下坡走，并顺着你找到的任何水源前行，你最终应该能看到人迹。"
+      },
+      {
+        "en": "If you've explored the area before, keep an eye out for familiar sights—you may be {{11}} how quickly identifying a distinctive rock or tree can restore your bearings. Another {{12}}: Climb high and look for signs of human habitation. {{13}}, even in dense forest, you should be able to {{14}} gaps in the tree line due to roads, train tracks, and other paths people carve {{15}} the woods. Head toward these {{16}} to find a way out. At night, scan the horizon for {{17}} light sources, such as fires and streetlights, then walk toward the glow of light pollution.",
+        "zh": "如果你以前探索过这一地区，就留意熟悉的景物——你可能会惊讶地发现，辨认出一块独特的岩石或一棵树，竟能这么快让你重新辨明方向。另一个办法：爬到高处，寻找人类居住的迹象。例如，即使在茂密的森林里，你也应该能找到因道路、铁轨和人们在林中开辟的其他路径而形成的树线缺口。朝这些缺口走，就能找到出路。夜里，扫视地平线，寻找人工光源，比如火光和路灯，然后朝着光污染的光晕走去。"
+      },
+      {
+        "en": "{{18}}, assuming you're lost in an area humans tend to frequent, look for the {{19}} we leave on the landscape. Trail blazes, tire tracks, and other features can {{20}} you to civilization.",
+        "zh": "最后，假设你是在人们经常活动的区域迷了路，那就寻找我们留在景色上的标记。树上的路标、轮胎印和其他痕迹都能把你引向文明世界。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "C",
+        "options": [
+          "Some",
+          "Most",
+          "Few",
+          "All"
+        ],
+        "cn": [
+          "一些",
+          "大多数",
+          "很少",
+          "全部"
+        ],
+        "explain": "空格所在句意为“我们很少有人会不带手机就径直走进树林”。前文强调智能手机上 GPS、数字地图等导航应用一应俱全，说明人们高度依赖手机；Few 表示“很少数人”，与这种依赖心理吻合，也为下句“但手机靠电池运行”作铺垫。",
+        "trap": "B Most 意为“大多数人”，若选入则变成“我们大多数人不带手机就进树林”，与全文“依赖手机导航”的前提相悖；A Some 程度偏轻，D All 过于绝对。",
+        "type": "代词/语义"
+      },
+      {
+        "n": 2,
+        "answer": "C",
+        "options": [
+          "put",
+          "take",
+          "run",
+          "come"
+        ],
+        "cn": [
+          "放置；穿上",
+          "拿；花费",
+          "运行；依靠（run on）",
+          "来"
+        ],
+        "explain": "run on 是固定搭配，意为“靠……运行、以……为动力”。phones run on batteries 即“手机靠电池运行”，与后半句“电池可能比我们意识到的更快耗尽”自然衔接。",
+        "trap": "A put on 意为“穿上、增加”，B take on 意为“承担、呈现”，D come on 意为“开始、加油”，都不能说明手机的动力来源。",
+        "type": "动词短语"
+      },
+      {
+        "n": 3,
+        "answer": "B",
+        "options": [
+          "Since",
+          "If",
+          "Though",
+          "Until"
+        ],
+        "cn": [
+          "既然；自从",
+          "如果",
+          "尽管",
+          "直到"
+        ],
+        "explain": "此处提出一种假设情形：“如果你在没有手机、也没有指南针的情况下迷了路”。后文“我们有几个技巧可以帮你”是对这一假设的应对，故用 If 引导条件状语从句。",
+        "trap": "A Since 表原因或时间，但迷路并非已知事实；C Though 表让步，D Until 表时间，均无法与后文“我们有办法帮你”构成条件—应对关系。",
+        "type": "连词/条件"
+      },
+      {
+        "n": 4,
+        "answer": "D",
+        "options": [
+          "formally",
+          "relatively",
+          "gradually",
+          "literally"
+        ],
+        "cn": [
+          "正式地",
+          "相对地",
+          "逐渐地",
+          "确实；字面上"
+        ],
+        "explain": "literally 在此起强调作用，意为“确实、真的”，说明在既无手机又无指南针时“你真的找不到北方”，突出处境的紧迫，从而引出下文的辨向技巧。",
+        "trap": "A formally“正式地”、B relatively“相对地”、C gradually“逐渐地”都不能修饰 can't find north 并传递“真的找不到”的强调语气。",
+        "type": "副词/语义"
+      },
+      {
+        "n": 5,
+        "answer": "A",
+        "options": [
+          "back",
+          "next",
+          "around",
+          "away"
+        ],
+        "cn": [
+          "回；向后",
+          "下一个",
+          "四处；环绕",
+          "离开"
+        ],
+        "explain": "navigate back to civilization 意为“导航回到文明世界”。全文讨论的是迷路后如何脱困，back 表明从野外返回人类聚居地，方向明确。",
+        "trap": "B next to 意为“紧邻”，C around 意为“四处”，D away 意为“离开”，都与“回到文明世界”的方向相反或无关。",
+        "type": "副词/方向"
+      },
+      {
+        "n": 6,
+        "answer": "B",
+        "options": [
+          "onto",
+          "off",
+          "across",
+          "alone"
+        ],
+        "cn": [
+          "到……上面",
+          "离开；偏离",
+          "穿过",
+          "独自"
+        ],
+        "explain": "off a trail 意为“偏离小径、不在小径上”。句中 well off a trail 与后半句 but not in a completely unfamiliar area 形成对照：虽然偏离了路线，但还没有完全陌生。",
+        "trap": "A onto 意为“到……上面”，C across 意为“穿过”，D alone 意为“独自”，都不能与 well 搭配表示“远离小径”。",
+        "type": "介词/方位"
+      },
+      {
+        "n": 7,
+        "answer": "D",
+        "options": [
+          "unattractive",
+          "uncrowded",
+          "unchanged",
+          "unfamiliar"
+        ],
+        "cn": [
+          "不吸引人的",
+          "不拥挤的",
+          "未改变的",
+          "不熟悉的"
+        ],
+        "explain": "此处说“偏离小径，但并非身处一个完全陌生的地区”。unfamiliar 与上文的 off a trail 相呼应，说明仍可能识别地形，因此可以借助下文的方法辨向。",
+        "trap": "A unattractive“不吸引人的”、B uncrowded“不拥挤的”、C unchanged“未改变的”都不能与 completely 搭配来描述“地区是否为人所熟悉”。",
+        "type": "形容词/语境"
+      },
+      {
+        "n": 8,
+        "answer": "C",
+        "options": [
+          "site",
+          "point",
+          "way",
+          "place"
+        ],
+        "cn": [
+          "地点；场所",
+          "点",
+          "方向；路线",
+          "地方"
+        ],
+        "explain": "Which way is downhill 意为“哪边是下坡”，way 表示方向。下文“哪边下坡”“最近的水源在哪里”都是在确定方向，故用 way。",
+        "trap": "A site 指具体场所，B point 指点，D place 指地方，都不能与 downhill 搭配表示“朝哪个方向”。",
+        "type": "名词/搭配"
+      },
+      {
+        "n": 9,
+        "answer": "A",
+        "options": [
+          "So",
+          "Yet",
+          "Instead",
+          "Besides"
+        ],
+        "cn": [
+          "所以",
+          "然而",
+          "相反",
+          "此外"
+        ],
+        "explain": "前两句说明人类绝大多数住在山谷、依赖淡水，本句由此得出结论：“所以，如果你向下坡走，并顺着找到的水源前行，最终应该能看到人迹。”前后是因果关系，用 So。",
+        "trap": "B Yet 表转折，C Instead 表替代，D Besides 表递进，都无法体现“由人类居住规律推出辨向方法”的因果逻辑。",
+        "type": "逻辑关系/因果"
+      },
+      {
+        "n": 10,
+        "answer": "D",
+        "options": [
+          "immediately",
+          "intentionally",
+          "unexpectedly",
+          "eventually"
+        ],
+        "cn": [
+          "立刻",
+          "故意地",
+          "出乎意料地",
+          "最终"
+        ],
+        "explain": "顺着下坡和水源走，可能要走一段路才会遇到人，因此用 eventually“最终”。它强调经过一个过程后出现结果，符合野外寻路的实际情况。",
+        "trap": "A immediately“立刻”过于绝对，与长途寻路不符；B intentionally“故意地”和 C unexpectedly“出乎意料地”都不能说明结果是在持续前行后出现。",
+        "type": "副词/语义"
+      },
+      {
+        "n": 11,
+        "answer": "A",
+        "options": [
+          "surprised",
+          "annoyed",
+          "frightened",
+          "confused"
+        ],
+        "cn": [
+          "惊讶的",
+          "恼火的",
+          "害怕的",
+          "困惑的"
+        ],
+        "explain": "句意为“你可能会惊讶地发现，辨认出一块独特的岩石或一棵树，竟能如此迅速地让你重新辨明方向”。surprised 描述人对这种效果的积极反应，符合语境。",
+        "trap": "B annoyed“恼火的”、C frightened“害怕的”带负面情绪，D confused“困惑的”与“恢复方向感”的结果相反。",
+        "type": "形容词/情感"
+      },
+      {
+        "n": 12,
+        "answer": "B",
+        "options": [
+          "problem",
+          "option",
+          "view",
+          "result"
+        ],
+        "cn": [
+          "问题",
+          "选择；办法",
+          "观点",
+          "结果"
+        ],
+        "explain": "Another option 意为“另一个办法”。上段讲顺地势和水源走，本段再给一个办法：爬到高处寻找人类活动迹象，后文又列举夜间看光源、寻找地面标记，都是并列的 option。",
+        "trap": "A problem“问题”与后文给出的办法相反；C view“观点”、D result“结果”都不能引出具体的辨向做法。",
+        "type": "名词/语义"
+      },
+      {
+        "n": 13,
+        "answer": "D",
+        "options": [
+          "Above all",
+          "In contrast",
+          "On average",
+          "For example"
+        ],
+        "cn": [
+          "首先；最重要的是",
+          "相比之下",
+          "平均而言",
+          "例如"
+        ],
+        "explain": "前句提出“爬到高处，寻找人类居住的迹象”，本句举“即使在茂密的森林里，也能看到树线缺口”为例，具体说明如何寻找迹象，故用 For example。",
+        "trap": "A Above all 表强调，B In contrast 表对比，C On average 表平均，都不能引出对上一句的具体例证。",
+        "type": "逻辑关系/举例"
+      },
+      {
+        "n": 14,
+        "answer": "C",
+        "options": [
+          "bridge",
+          "avoid",
+          "spot",
+          "separate"
+        ],
+        "cn": [
+          "架桥；弥合",
+          "避免",
+          "发现；看见",
+          "分开"
+        ],
+        "explain": "spot 作动词意为“发现、看见”，后接 gaps in the tree line，即“看到树线上的缺口”。这些缺口由道路、铁轨等造成，正是寻找出路的线索。",
+        "trap": "A bridge 意为“架桥、弥合”，B avoid 意为“避开”，D separate 意为“分开”，都不能表示“从高处看见缺口”。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 15,
+        "answer": "B",
+        "options": [
+          "from",
+          "through",
+          "beyond",
+          "under"
+        ],
+        "cn": [
+          "从",
+          "穿过",
+          "超出",
+          "在……下面"
+        ],
+        "explain": "paths people carve through the woods 意为“人们在林中开辟的路径”。through 表示从树林内部穿过，与 carve paths 搭配自然。",
+        "trap": "A from 表示起点，C beyond 表示超出，D under 表示在下方，都不能说明道路在树林中穿行。",
+        "type": "介词/方位"
+      },
+      {
+        "n": 16,
+        "answer": "D",
+        "options": [
+          "posts",
+          "links",
+          "shades",
+          "breaks"
+        ],
+        "cn": [
+          "柱子；帖子",
+          "连接",
+          "阴影",
+          "缺口；断裂处"
+        ],
+        "explain": "these breaks 回指上文的 gaps in the tree line，指树线上因道路、铁轨等形成的“缺口”。break 作名词有“缺口、断裂处”之意，与 gaps 同义复现。",
+        "trap": "A posts“柱子”、B links“连接”、C shades“阴影”都不能与 gaps 形成同义复现，也解释不了“朝这些缺口走就能找到出路”。",
+        "type": "名词/同义复现"
+      },
+      {
+        "n": 17,
+        "answer": "A",
+        "options": [
+          "artificial",
+          "mysterious",
+          "hidden",
+          "limited"
+        ],
+        "cn": [
+          "人造的；人工的",
+          "神秘的",
+          "隐藏的",
+          "有限的"
+        ],
+        "explain": "夜里扫视地平线，寻找“人工光源”，如火光和路灯，再朝着光污染的光晕走。artificial 与自然光相对，且与下文的 light pollution 相呼应。",
+        "trap": "B mysterious“神秘的”、C hidden“隐藏的”与“扫视地平线寻找”的动作矛盾；D limited“有限的”不能概括火光、路灯这类光源的共同特征。",
+        "type": "形容词/语境"
+      },
+      {
+        "n": 18,
+        "answer": "A",
+        "options": [
+          "Finally",
+          "Consequently",
+          "Incidentally",
+          "Generally"
+        ],
+        "cn": [
+          "最后",
+          "因此",
+          "顺便一提",
+          "一般而言"
+        ],
+        "explain": "前文已给出顺地势走、登高观察、夜间寻找光源等办法，本段提出最后一条：寻找人类留在土地上的标记。Finally 表示列举中的最后一项。",
+        "trap": "B Consequently 表结果，C Incidentally 表附带提及，D Generally 表概括，都不能标明这是系列建议中的最后一条。",
+        "type": "逻辑关系/列举"
+      },
+      {
+        "n": 19,
+        "answer": "B",
+        "options": [
+          "memories",
+          "marks",
+          "notes",
+          "belongings"
+        ],
+        "cn": [
+          "记忆",
+          "标记；痕迹",
+          "笔记",
+          "财物"
+        ],
+        "explain": "the marks we leave on the landscape 意为“我们留在景色上的标记”。后文列举的 trail blazes（树上路标）、tire tracks（轮胎印）正是这类 marks，构成同义复现。",
+        "trap": "A memories“记忆”留在脑中而非土地上；C notes“笔记”、D belongings“财物”也不是人们留在野外、可供辨向的痕迹。",
+        "type": "名词/同义复现"
+      },
+      {
+        "n": 20,
+        "answer": "C",
+        "options": [
+          "restrict",
+          "adopt",
+          "lead",
+          "expose"
+        ],
+        "cn": [
+          "限制",
+          "采用",
+          "引导；通向",
+          "暴露"
+        ],
+        "explain": "lead sb to somewhere 意为“把某人引向某处”。这些路标、轮胎印等痕迹能“把你引向文明世界”，与全文“迷路后回到文明社会”的主线一致。",
+        "trap": "A restrict“限制”、B adopt“采用”、D expose“暴露”都不能与 to civilization 构成“引向文明世界”的搭配。",
+        "type": "动词/搭配"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 排序",
+    "en_title": "How to Win an Argument",
+    "cn_title": "如何“赢”得争论",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "争论不是打架或比赛，而是通过讲理增进理解",
+    "type": "ordering",
+    "directions": "The following paragraphs are given in a wrong order. For questions 41–45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A–G and filling them into the numbered boxes. Paragraphs C and F have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "排序题先定首段，再逐段找“接口”：代词指代、连接词、例证关系和同义复现。本题 C、F 两段已给定；F 位于第 3 段，C 位于全文末段。剩余 A、B、D、E、G 填入 41–45。注意段间重复出现的名言、比较关系和转折信号，先判断“错误观念—危害—正确做法”的大框架，再定位具体段落。",
+    "paragraphs": {
+      "A": {
+        "en": "These tools can help you win every argument—not in the unhelpful sense of beating your opponents but in the better sense of learning about the issues that divide people, learning why they disagree with us and learning to talk and work together with them. If we readjust our view of arguments—from a verbal fight or tennis game to a reasoned exchange through which we all gain mutual respect and understanding—then we change the very nature of what it means to \"win\" an argument.",
+        "zh": "这些工具能帮你赢得每一场争论——不是以击败对手那种无益的方式，而是以更好的方式：了解使人们产生分歧的问题，了解他们为什么不同意我们，并学会与他们交谈、合作。如果我们调整对争论的看法——把它从一场口水战或网球赛，变成一种人人都有所收获、彼此尊重与理解的理性交流——那么我们就会改变“赢得”争论这件事的本质。"
+      },
+      "B": {
+        "en": "Of course, many discussions are not so successful. Still, we need to be careful not to accuse opponents of bad arguments too quickly. We need to learn how to evaluate them properly. A large part of evaluation is calling out bad arguments, but we also need to admit good arguments by opponents and to apply the same critical standards to ourselves. Humility requires you to recognize weakness in your own arguments and sometimes also to accept reasons on the opposite side.",
+        "zh": "当然，许多讨论并没有那么成功。不过，我们要小心，不要过早指责对手的论点糟糕。我们需要学会恰当地评价它们。评价的很大一部分是指出糟糕的论点，但我们也需要承认对手的好论点，并用同样的批判标准要求自己。谦逊要求你认识到自己论点中的弱点，有时也要接受对立面的理由。"
+      },
+      "C": {
+        "en": "None of these will be easy but you can start even if others refuse to. Next time you state your position, formulate an argument for what you claim and honestly ask yourself whether your argument is any good. Next time you talk with someone who takes a stand, ask them to give you a reason for their view. Spell out their argument fully and charitably. Assess its strength impartially. Raise objections and listen carefully to their replies.",
+        "zh": "这些都不容易，但即使别人不愿意，你也可以开始。下次你表明立场时，为自己的主张提出一个论证，并诚实地问自己：这个论证站得住脚吗？下次与持某种立场的人交谈时，请他们给出支持自己观点的理由。把他们的论证完整而善意地表述出来，公正地评估其力度，提出异议，并认真倾听他们的回答。"
+      },
+      "D": {
+        "en": "Carnegie would be right if arguments were fights, which is how we often think of them. Like physical fights, verbal fights can leave both sides bloodied. Even when you win, you end up no better off. Your prospects would be almost as dismal if arguments were even just competitions—like, say, tennis games. Pairs of opponents hit the ball back and forth until one winner emerges from all who entered. Everybody else loses. This kind of thinking is why so many people try to avoid arguments, especially about politics and religion.",
+        "zh": "如果争论就是打架——我们常常这样看待争论——那么卡内基说得对。就像肢体冲突一样，口水战会让双方都流血。即使你赢了，最终也得不到什么好处。如果争论仅仅是一场比赛——比如网球赛——你的前景同样黯淡。对手双方把球打来打去，直到所有参赛者中产生一个赢家，其余所有人都输了。正是这种想法，让那么多人试图回避争论，尤其是关于政治和宗教的争论。"
+      },
+      "E": {
+        "en": "In his 1936 work How to Win Friends and Influence People, Dale Carnegie wrote: \"There is only one way ... to get the best of an argument—and that is to avoid it.\" This aversion to arguments is common, but it depends on a mistaken view of arguments that causes profound problems for our personal and social lives—and in many ways misses the point of arguing in the first place.",
+        "zh": "戴尔·卡内基在 1936 年的《人性的弱点》（How to Win Friends and Influence People）中写道：“要想在争论中占上风，只有一个办法——那就是避免争论。”这种对争论的厌恶很常见，但它源于一种错误的争论观；这种观念给我们的个人生活和社会生活带来严重问题，并在许多方面错失了争论本身的意义。"
+      },
+      "F": {
+        "en": "These views of arguments also undermine reason. If you see a conversation as a fight or competition, you can win by cheating as long as you don't get caught. You will be happy to convince people with bad arguments. You can call their views stupid, or joke about how ignorant they are. None of these tricks will help you understand them, their positions or the issues that divide you, but they can help you win—in one way.",
+        "zh": "这些对争论的看法还会损害理性。如果你把一场对话看作打架或比赛，那么只要不被抓住，你就可以靠作弊取胜。你会乐于用糟糕的论点说服别人。你可以说他们的观点愚蠢，或者拿他们的无知开玩笑。这些伎俩都不能帮你理解他们、他们的立场或你们之间的分歧，但它们确实能帮你赢——在某一种意义上。"
+      },
+      "G": {
+        "en": "There is a better way to win arguments. Imagine that you favor increasing the minimum wage in our state, and I do not. If you yell, \"Yes,\" and I yell, \"No,\" neither of us learns anything. We neither understand nor respect each other, and we have no basis for compromise or cooperation. In contrast, suppose you give a reasonable argument: that full-time workers should not have to live in poverty. Then I counter with another reasonable argument: that a higher minimum wage will force businesses to employ fewer people for less time. Now we can understand each other's positions and recognize our shared values, since we both care about needy workers.",
+        "zh": "还有一种更好的赢法。假设你支持提高我们州的最低工资，而我不支持。如果你喊“支持”，我喊“反对”，我们谁也学不到东西。我们既不理解也不尊重对方，也没有妥协或合作的基础。相反，假设你给出一个合理的论证：全职工作者不应生活在贫困之中。然后我用另一个合理的论证反驳：提高最低工资会迫使企业减少雇佣人数、缩短用工时间。现在，我们就能理解彼此的立场，并认识到我们共同的价值观，因为我们都关心贫困的劳动者。"
+      }
+    },
+    "fixed_note": "原卷已给定两段：F 为第 3 段（位于 42 与 43 之间），C 为第 7 段（位于 45 之后，即全文末段）。41–45 从剩余段落中选择，最终顺序为 E–D–F–G–A–B–C。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "E",
+        "explain": "E 以卡内基《人性的弱点》中的名言开篇，指出“避免争论”是常见却错误的做法，并说明这种观念会给个人与社会生活带来严重问题，具备引出全文话题、总起下文的功能，应为首段。E 末句的 mistaken view of arguments 又直接引出 D 对“争论即打架”的假设。",
+        "clue": "开篇引名言＋提出错误观念；E 末句 a mistaken view of arguments → D 首句 Carnegie would be right if arguments were fights"
+      },
+      {
+        "n": 42,
+        "answer": "D",
+        "explain": "D 紧承 E：E 引卡内基“避免争论”之说，D 顺势假设“如果争论就是打架，卡内基就说得对”，继而说明把争论视为打架或网球赛为何让双方都受损，并解释人们为何回避争论。D 末句 This kind of thinking 又为 F 的 These views of arguments 作铺垫。",
+        "clue": "E 的 mistaken view → D 的 arguments were fights / competitions；D 末句 This kind of thinking → F 首句 These views"
+      },
+      {
+        "n": 43,
+        "answer": "G",
+        "explain": "F 已给定为第 3 段，指出把争论当打架或比赛会“损害理性”，使人靠作弊和糟糕的论证取胜。G 开头 There is a better way to win arguments 形成转折，提出正确做法，并以最低工资为例说明理性论证如何让双方理解彼此立场、发现共同价值。",
+        "clue": "F 的 undermine reason / win by cheating → G 的 There is a better way；F 的否定铺垫 → G 的正面举例"
+      },
+      {
+        "n": 44,
+        "answer": "A",
+        "explain": "G 的例子说明：给出理由、理解对方立场，双方才能相互理解并发现共同价值。A 开头 These tools 正指 G 中“提出合理论证、倾听对方论证”的方法，进一步指出这些工具能帮我们了解分歧、学会与不同意见者共处，从而改变“赢”的含义。",
+        "clue": "G 的 give a reasonable argument / understand each other's positions → A 的 These tools；G 的 shared values → A 的 mutual respect and understanding"
+      },
+      {
+        "n": 45,
+        "answer": "B",
+        "explain": "A 把“赢”重新定义为通过理性交流获得相互尊重与理解。B 以 Of course, many discussions are not so successful 作让步，提醒不要急于指责对方论点糟糕，要学会评价论证、承认对方的好论点并保持谦逊，与 A 的积极主张形成“理想—现实”的衔接。C 已给定为末段，用 None of these will be easy 总结 B 提出的要求。",
+        "clue": "A 的 reasoned exchange / mutual respect → B 的 not so successful / evaluate properly / humility；B 的 these requirements → C 的 None of these"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "Bad Science in Medical Journals",
+    "cn_title": "医学期刊里的“糟糕科学”",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "医学期刊中大量糟糕论文的成因、评价机制及其长期代价",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on the ANSWER SHEET. (10 points)",
+    "intro": "本次翻译取材于一篇批评医学期刊“糟糕科学”的文章。五个画线句分别涉及非限制性定语从句与过去分词状语、倍数表达与过去将来完成时的被动、被动句与 incorporate...into... 结构、if it were not for 后的同位语从句，以及两个 ensure 引导的不同结构。翻译时先抓主干，再处理修饰成分，最后按中文习惯调整语序；抽象名词和评价性表达要译得自然，不要逐词硬搬。",
+    "paragraphs": [
+      {
+        "en": "It was only after I started to write a weekly column about the medical journals, and began to read scientific papers from beginning to end, that I realised just how bad much of the medical literature frequently was. I came to recognise various signs of a bad paper: the kind of paper that purports to show that people who eat more than one kilo of broccoli a week were 1.17 times more likely than those who eat less to suffer late in life from pernicious anaemia. [[46]]There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms.[[/46]]",
+        "zh": "我是在开始为医学期刊写每周专栏、并从头到尾阅读科学论文之后，才意识到医学文献中很大一部分常常糟糕到什么程度。我逐渐学会辨认糟糕论文的各种迹象：这类论文声称要证明，每周吃一公斤以上西兰花的人，晚年患恶性贫血的可能性是吃得较少者的 1.17 倍。医学期刊中充斥着大量这类无稽之谈，一旦被广播机构和大众媒体拿来做文章，就会既引发健康恐慌，又掀起短命的饮食热潮。"
+      },
+      {
+        "en": "Why is so much bad science published? A recent paper, titled \"The Natural Selection of Bad Science\", published on the Royal Society's open science website, attempts to answer this intriguing and important question. It says that the problem is not merely that people do bad science, but that our current system of career advancement positively encourages it. What is important is not truth, but publication, which has become almost an end in itself. There has been a kind of inflationary process at work: [[47]]nowadays anyone applying for a research post has to have published twice the number of papers that would have been required for the same post only 10 years ago.[[/47]] Never mind the quality, then, count the number.",
+        "zh": "为什么会有这么多糟糕的科学被发表？最近一篇题为《糟糕科学的自然选择》的论文发表在皇家学会的开放科学网站上，试图回答这个有趣而重要的问题。文章说，问题不仅在于人们做糟糕的科学，而且在于我们现行的职业晋升制度实际上在鼓励这种做法。重要的不是真理，而是发表，发表几乎本身成了目的。有一种通货膨胀式的过程在起作用：如今，任何申请研究职位的人，其已发表论文的数量都必须是仅仅 10 年前同一职位所要求数量的两倍。于是，别管质量，只管数数量。"
+      },
+      {
+        "en": "[[48]]Attempts have been made to curb this tendency, for example, by trying to incorporate some measure of quality as well as quantity into the assessment of an applicant's papers.[[/48]] This is the famed citation index, that is to say the number of times a paper has been quoted elsewhere in the scientific literature, the assumption being that an important paper will be cited more often than one of small account. [[49]]This would be reasonable if it were not for the fact that scientists can easily arrange to cite themselves in their future publications, or get associates to do so for them in return for similar favours.[[/49]]",
+        "zh": "人们已经尝试遏制这一趋势，例如，设法把对质量的某种衡量与数量一并纳入对申请人论文的评估。这就是著名的引文索引，即一篇论文在科学文献中被其他地方引用的次数；其假定是，重要的论文会比无足轻重的论文被引用得更多。这本是合理的，但事实并非如此：科学家可以轻易安排在自己未来的论文中引用自己，或者让同事替他们这样做，以换取类似的回报。"
+      },
+      {
+        "en": "Boiling down an individual's output to simple metrics, such as number of publications or journal impacts, entails considerable savings in time, energy and ambiguity. Unfortunately, the long-term costs of using simple quantitative metrics to assess researcher merit are likely to be quite great. [[50]]If we are serious about ensuring that our science is both meaningful and reproducible, we must ensure that our institutions encourage that kind of science.[[/50]]",
+        "zh": "把一个人的科研成果简化为发表数量或期刊影响因子等简单指标，能在时间、精力和模糊性上节省不少。遗憾的是，用简单的定量指标评估研究者水平的长期代价可能相当大。如果我们真的想让我们的科学既有意义又可重复，就必须确保我们的机构鼓励那样的科学。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms.",
+        "core": "There is a great deal of this kind of nonsense in the medical journals.",
+        "structure": "There be 句型作主干；which 引导非限制性定语从句，修饰 this kind of nonsense（而非 medical journals）；when taken up by broadcasters and the lay press 是过去分词短语作时间状语，逻辑主语即 which 所指的 nonsense；generates 后接 both...and... 并列的两个宾语。",
+        "key": "a great deal of 大量的；nonsense 无稽之谈；take up 采纳、报道；broadcaster 广播机构；the lay press 大众报刊、非专业媒体；health scares 健康恐慌；short-lived 短暂的；dietary enthusiasm 饮食热潮。",
+        "translation": "医学期刊中有大量这类无稽之谈，一旦被广播机构和大众媒体拿来做文章，就会既引发健康恐慌，又掀起短命的饮食热潮。",
+        "pitfall": "which 从句修饰的是 nonsense，不是 journals；when taken up 是被动结构，不能译成“当它们拿起”；the lay press 指大众媒体，不是“外行出版社”；short-lived 修饰 enthusiasms，不修饰 health scares。"
+      },
+      "47": {
+        "en": "nowadays anyone applying for a research post has to have published twice the number of papers that would have been required for the same post only 10 years ago.",
+        "core": "Anyone applying for a research post has to have published twice the number of papers.",
+        "structure": "主干为 anyone...has to have published...；applying for a research post 是现在分词短语作后置定语；has to have published 表示“到申请时必须已经发表”；twice the number of papers 是倍数表达；that would have been required for the same post only 10 years ago 是定语从句，修饰 the number of papers，其中 would have been required 为过去将来完成时的被动形式。",
+        "key": "research post 研究职位；apply for 申请；twice the number of 是……的两倍数量；require 要求；the same post 同一职位。",
+        "translation": "如今，任何申请研究职位的人，其已发表论文的数量都必须是仅仅 10 年前同一职位所要求数量的两倍。",
+        "pitfall": "twice the number of 是“数量为两倍”，不是“两次”；has to have published 强调“必须已经发表”，不能译成“必须发表”；that 从句修饰 the number，不是修饰 papers；only 10 years ago 要译出“仅仅十年前”的对比意味。"
+      },
+      "48": {
+        "en": "Attempts have been made to curb this tendency, for example, by trying to incorporate some measure of quality as well as quantity into the assessment of an applicant's papers.",
+        "core": "Attempts have been made to curb this tendency.",
+        "structure": "Attempts have been made 为被动句，to curb this tendency 作目的状语；for example 是插入语；by trying to incorporate... 是方式状语，说明“尝试”的具体途径；incorporate A as well as B into C 中，A 为 some measure of quality，B 为 quantity，C 为 the assessment of an applicant's papers。",
+        "key": "attempt 尝试；curb 遏制；tendency 趋势；incorporate...into... 把……纳入……；some measure of quality 对质量的某种衡量；assessment 评估；as well as 以及。",
+        "translation": "人们已经尝试遏制这一趋势，例如，设法把对质量的某种衡量与数量一并纳入对申请人论文的评估。",
+        "pitfall": "Attempts have been made 宜译成“人们已经尝试”，不要生硬直译“尝试被做出”；some measure of quality 是“对质量的某种衡量”，不是“一些质量措施”；as well as quantity 是“以及数量”，不是“和数量一样好”；into 的宾语是 assessment，不能漏译“评估”。"
+      },
+      "49": {
+        "en": "This would be reasonable if it were not for the fact that scientists can easily arrange to cite themselves in their future publications, or get associates to do so for them in return for similar favours.",
+        "core": "This would be reasonable if it were not for the fact that scientists can easily arrange to cite themselves or get associates to do so.",
+        "structure": "主句 This would be reasonable 用虚拟语气；if it were not for the fact that... 意为“要不是……”，that 引导同位语从句说明 fact 的内容；从句中 can easily arrange to cite... 与 (can) get associates to do so 为并列谓语；in return for similar favours 作目的状语。",
+        "key": "if it were not for 要不是；arrange to do 设法安排做；cite 引用；associate 同事、合作者；do so 这样做（指自引）；in return for 作为……的回报；favour 人情、恩惠。",
+        "translation": "这本是合理的，但事实并非如此：科学家可以轻易安排在自己未来的论文中引用自己，或者让同事替他们这样做，以换取类似的回报。",
+        "pitfall": "虚拟语气要译出“本来会……，要不是……”的转折；do so 指代 cite themselves，不能笼统译成“做同样的事”而丢掉“自引”；in return for similar favours 是“以换取类似的人情”，不是“作为类似的恩惠”。"
+      },
+      "50": {
+        "en": "If we are serious about ensuring that our science is both meaningful and reproducible, we must ensure that our institutions encourage that kind of science.",
+        "core": "We must ensure that our institutions encourage that kind of science.",
+        "structure": "If 引导条件状语从句；are serious about ensuring that... 中，about 后接动名词 ensuring，that 引导宾语从句；both meaningful and reproducible 是并列的补语；主句 must ensure that... 再带一个宾语从句；that kind of science 回指前文“既有意义又可重复的科学”。",
+        "key": "be serious about 认真对待、真心想；ensure 确保；meaningful 有意义的；reproducible 可重复的；institution 机构（此处指科研机构、大学）；that kind of science 那样的科学。",
+        "translation": "如果我们真的想确保我们的科学既有意义又可重复，就必须确保我们的机构鼓励那样的科学。",
+        "pitfall": "be serious about 不是“对……严肃”，而是“真心致力于、认真想做到”；两个 ensure 一个接动名词、一个接宾语从句，注意区分；that kind of science 有回指作用，翻译时要让读者明白指的是“有意义且可重复的科学”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "An email & a picture essay",
+    "cn_title": "回信 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "回复国际学生志愿者关于支教项目的咨询；爬山图中“休息后继续前行”的坚持",
+    "intro": "小作文考“电子邮件格式 + 以项目成员身份回复国际学生志愿者的咨询，说明支教项目的具体细节”；大作文考“描述两人爬山、一人想放弃而另一人递水鼓励的图画 + 揭示‘疲惫时可以休息，但休息后要继续前行’的寓意 + 发表评论”。",
+    "partA": {
+      "title": "Part A · 电子邮件",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Suppose you are working for the \"Aiding Rural Primary School\" project of your university. Write an email to answer the inquiry from an international student volunteer, specifying the details of the project. You should write about 100 words on the ANSWER SHEET. Do not use your own name in the email. Use \"Li Ming\" instead. (10 points)",
+      "prompt_zh": "假设你在我校“援助乡村小学”项目中工作。请给一位国际学生志愿者写一封电子邮件，回复他/她的咨询，说明该项目的具体细节。约100词；不要使用自己的真实姓名，用“Li Ming”代替。",
+      "sample": "Dear Sir or Madam,\n\nThank you for your inquiry about the \"Aiding Rural Primary School\" project. Here are the details.\n\nThe project will run from July 10 to August 10 at Xinghua Primary School in Hebei Province. Volunteers teach English, music and art to children in grades three to six, and help organize reading and sports activities. Classes are given in the morning, leaving the afternoon for lesson preparation. The school provides accommodation and meals, and arranges transport from the county station.\n\nTo join us, please send your CV and a short teaching plan before June 20.\n\nYours sincerely,\nLi Ming",
+      "sample_zh": "尊敬的先生/女士：\n\n感谢您咨询“援助乡村小学”项目。以下是具体情况。\n\n项目将于7月10日至8月10日在河北省兴华小学开展。志愿者为三至六年级的孩子教授英语、音乐和美术，并协助组织阅读和体育活动。课程安排在上午，下午留作备课时间。学校提供食宿，并安排从县城车站到学校的交通。\n\n如果您愿意加入我们，请在6月20日前发送简历和一份简短的教学计划。\n\n此致\n敬礼\n李明",
+      "structure": [
+        [
+          "称呼",
+          "Dear Sir or Madam,"
+        ],
+        [
+          "点明写信目的",
+          "Thank you for your inquiry about the \"Aiding Rural Primary School\" project. Here are the details."
+        ],
+        [
+          "项目时间与地点",
+          "The project will run from July 10 to August 10 at Xinghua Primary School in Hebei Province."
+        ],
+        [
+          "志愿工作内容",
+          "Volunteers teach English, music and art to children in grades three to six, and help organize reading and sports activities."
+        ],
+        [
+          "作息与生活安排",
+          "Classes are given in the morning... The school provides accommodation and meals, and arranges transport from the county station."
+        ],
+        [
+          "报名方式与截止时间",
+          "To join us, please send your CV and a short teaching plan before June 20."
+        ],
+        [
+          "落款",
+          "Yours sincerely, Li Ming"
+        ]
+      ],
+      "expressions": [
+        "Thank you for your inquiry about...",
+        "I am writing to give you the details.",
+        "The project will run from... to... at...",
+        "Volunteers teach... to children in grades...",
+        "Classes are given in the morning, leaving the afternoon for...",
+        "The school provides simple accommodation and meals.",
+        "We will arrange transport from...",
+        "If you would like to join us, please send... before...",
+        "I look forward to hearing from you.",
+        "Yours sincerely,"
+      ],
+      "traps": [
+        "题目要求“answer the inquiry”，必须先回应对方的咨询，再给出时间、地点、工作内容、食宿交通、报名方式等具体细节，不能只写“欢迎加入”。",
+        "身份是“Aiding Rural Primary School”项目成员，收信人是国际学生志愿者，语气应礼貌、清楚，信息要具体，避免空泛宣传。",
+        "署名必须用 Li Ming，不能写真实姓名；不要写地址；称呼、正文、结尾敬语要符合 email 格式。",
+        "约100词，细节取3–4项即可，不要写成项目策划书；时态以一般将来时和一般现在时为主。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160-200 words based on the picture below. In your essay, you should 1) describe the picture briefly, 2) interpret the implied meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "src": "../assets/writing/2019.png",
+        "caption": "累了，我不爬了。／别呀！休息一下再接着爬。",
+        "note": "图画中两名年轻人正在登山。右边一人坐在石阶上，双手托腮，背包放在身旁，说：“累了，我不爬了。”左边一人站在下方，递出一瓶水，说：“别呀！休息一下再接着爬。”画面以“半途坐下想放弃”与“递水鼓励再出发”构成对照，寓意在于：疲惫时可以休息，但休息之后仍要接着前行。"
+      },
+      "sample": "The picture shows two young men climbing a mountain. One has sat down on the stone steps, with his backpack beside him, saying, \"I'm tired. I won't climb any more.\" The other, standing a little lower, holds out a bottle of water and says, \"Come on! Take a rest and then keep climbing.\"\n\nThe drawing conveys a clear message: success belongs not to those who never feel tired, but to those who know how to rest and then move on. On any long journey, fatigue is natural. What matters is whether we treat a short break as an excuse to give up or as a chance to recover. The seated man turns a pause into a full stop, while his companion understands that rest is part of progress. In study, work and life, many goals are missed not because they are impossible, but because people stop when they most need to go on.\n\nIn my view, we should learn from the second climber. When we feel exhausted, we may sit down and adjust our pace, but we must not let comfort become surrender. Only by resting wisely and starting again can we reach the top.",
+      "sample_zh": "图中两名年轻人正在登山。一人坐在石阶上，背包放在身旁，说：“累了，我不爬了。”另一人站在稍低处，递出一瓶水说：“别呀！休息一下再接着爬。”\n\n这幅画传达了一个清晰的道理：成功不属于从不感到疲惫的人，而属于懂得休息之后继续前行的人。在任何漫长的旅途中，疲劳都是正常的。关键在于我们把短暂的休息当作放弃的借口，还是当作恢复的机会。坐着的人把暂停变成了句号，而他的同伴明白，休息是前进的一部分。在学习、工作和生活中，许多目标之所以落空，并不是因为它们不可能实现，而是因为人们在最需要继续前行的时候停了下来。\n\n在我看来，我们应当向第二位登山者学习。感到筋疲力尽时，我们可以坐下来调整节奏，但不能让安逸变成投降。只有明智地休息并重新出发，我们才能到达山顶。",
+      "structure": [
+        [
+          "第一段·描述图画",
+          "The picture shows two young men climbing a mountain. One has sat down on the stone steps... saying, \"I'm tired. I won't climb any more.\" The other... holds out a bottle of water and says, \"Come on! Take a rest and then keep climbing.\""
+        ],
+        [
+          "第二段·揭示寓意",
+          "Success belongs not to those who never feel tired, but to those who know how to rest and then move on... a short break is a chance to recover, not an excuse to give up... a pause vs. a full stop."
+        ],
+        [
+          "第三段·发表评论",
+          "We should learn from the second climber... rest wisely, adjust our pace and start again... Only by... can we reach the top."
+        ]
+      ],
+      "expressions": [
+        "The picture shows two young men climbing a mountain.",
+        "One has sat down on the stone steps, saying...",
+        "The other... holds out a bottle of water and says...",
+        "The drawing conveys a simple but powerful message:...",
+        "Success belongs not to..., but to...",
+        "What matters is whether we treat... as... or as...",
+        "The seated man turns a pause into a full stop, while...",
+        "In my view, we should learn from...",
+        "Only by resting wisely and starting again can we reach the top."
+      ],
+      "traps": [
+        "描述要写出两人的动作和两句关键对话：一人坐在石阶上想放弃，另一人递水劝他休息后继续爬；不能只写“两人在爬山”。",
+        "寓意要落在“疲惫时可以休息，但休息不是放弃，休息后要继续坚持”，不要偏成“爬山有益健康”“要懂得适时放弃”或“团队合作最重要”。",
+        "第二段要分析“暂停”与“放弃”的区别，第三段要给出自己的评论和做法，避免两段重复同一层意思。",
+        "160–200词，三段为宜；描述图画和引用对话用一般现在时；不要逐字照抄图中的汉语。",
+        "注意人物关系：坐着的是想放弃的人，站着递水的是鼓励者，褒贬和立场不能颠倒。"
+      ]
+    }
+  }
+}

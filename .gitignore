@@ -9,3 +9,13 @@ cs-408/
 .idea/
 .vscode/
 *.swp
+
+# 本地静态服务
+English/.run_english.pid
+English/.run_english.log
+
+# Docker 本地环境变量
+English/.env
+
+# 根目录 Docker 环境变量
+.env

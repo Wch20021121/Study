@@ -1,0 +1,691 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "英国周日烤肉传统与食品标准局对丙烯酰胺的警告",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "本文是一篇议论性说明文，围绕英国的“周日烤肉”传统与食品标准局（FSA）对丙烯酰胺的健康警告展开：先写周日烤肉在英国人心中的分量，再介绍官方警告的具体内容，随即质疑其证据不足，指出可以依据“预防原则”谨慎听从，最后批评这类健康警告咄咄逼人、最终只会让人充耳不闻。做题时顺着“传统—警告—质疑—辩解—批评”的论述顺序，重点利用固定搭配（match it、issue a warning、at high temperatures、on the basis of、serve up、end up with）和逻辑连接（while、after all、to be fair）判断。",
+    "passage": [
+      {
+        "en": "Even if families don't sit down to eat together as frequently as before, millions of Britons will nonetheless have got a share this weekend of one of that nation's great traditions: the Sunday roast. {{1}} a cold winter's day, few culinary pleasures can {{2}} it. Yet as we report now, the food police are determined that this {{3}} should be rendered yet another guilty pleasure {{4}} to damage our health.",
+        "zh": "即便如今一家人同桌吃饭已不如从前频繁，数百万英国人本周末仍会分享这个国家的伟大传统之一：周日烤肉。在寒冷的冬日，很少有哪种饮食之乐能与它相比。然而正如我们此刻所报道的，那些“食品警察”下定决心，要把这份享受变成又一个必定损害我们健康的“罪恶快感”。"
+      },
+      {
+        "en": "The Food Standards Authority (FSA) has {{5}} a public warning about the risks of a compound called acrylamide that forms in some foods cooked {{6}} high temperatures. This means that people should {{7}} crisping their roast potatoes, reject thin-crust pizzas and only {{8}} toast their bread. But where is the evidence to support such alarmist advice? {{9}} studies have shown that acrylamide can cause neurological damage in mice, there is no {{10}} evidence that it causes cancer in humans.",
+        "zh": "食品标准局（FSA）发布公开警告，指出一种名为丙烯酰胺的化合物存在风险，这种物质会在某些以高温烹制的食物中形成。这意味着人们应当避免把烤土豆烤得焦脆，拒绝薄底比萨，并且只把面包烤到微微上色。但支持这种危言耸听之建议的证据在哪里呢？尽管有研究表明丙烯酰胺会对小鼠造成神经损伤，却没有确凿证据表明它会在人体中致癌。"
+      },
+      {
+        "en": "Scientists say the compound is {{11}} to cause cancer but have no hard scientific proof. {{12}} the precautionary principle, it could be argued that it is {{13}} to follow the FSA advice. {{14}}, it was rumoured that smoking caused cancer for years before the evidence was found to prove a {{15}}.",
+        "zh": "科学家说这种物质很可能致癌，但并没有过硬的科学证据。依据预防原则，可以说听从食品标准局的建议是明智的。毕竟，在证据被找到并证明吸烟与癌症之间存在关联之前，有关吸烟致癌的传言已经流传多年。"
+      },
+      {
+        "en": "Doubtless a piece of boiled beef can always be {{16}} up on Sunday alongside some steamed vegetables, without the Yorkshire pudding and no wine. But would life be worth living? {{17}}, the FSA says it is not telling people to cut out roast foods {{18}}, but to reduce their lifetime intake. However, their {{19}} risks coming across as being pushy and overprotective. Constant health scares just {{20}} with no one listening.",
+        "zh": "毫无疑问，周日的餐桌上总还能端上一块水煮牛肉，配上一些蒸蔬菜，不要约克郡布丁，也不喝酒。但这样的生活还值得过吗？公平地说，食品标准局表示，他们并不是要人们完全不吃烤制食物，而是要减少一生的摄入总量。然而，他们的这场宣传运动有可能给人留下咄咄逼人、过度保护的印象。接连不断的健康警告，最终只会落得无人理会。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "C",
+        "options": [
+          "In",
+          "Towards",
+          "On",
+          "Till"
+        ],
+        "cn": [
+          "在……（较长时段或范围内）",
+          "朝向，接近",
+          "在……（具体某一天或某一天某时）",
+          "直到"
+        ],
+        "explain": "空格所在部分是 ___ a cold winter's day，作全句的时间状语，意为“在寒冷的冬日”。英语中表示具体某一天、或某一天中的某段时间（如 a cold winter's day、Sunday morning）用介词 on；in 用于年份、季节、月份等较长时段；towards 表示方向或“接近（某时间）”；till 表示“直到”，都无法与后面的 few culinary pleasures can match it 组成通顺的时间状语。",
+        "trap": "A In 受 in winter 的影响，容易读成“in a cold winter's day”；但这里的中心词是 day，具体到某一天必须用 on，这与“in winter”用 in 并不矛盾。",
+        "type": "介词/时间状语"
+      },
+      {
+        "n": 2,
+        "answer": "A",
+        "options": [
+          "match",
+          "express",
+          "satisfy",
+          "influence"
+        ],
+        "cn": [
+          "与……相匹敌，比得上",
+          "表达",
+          "满足",
+          "影响"
+        ],
+        "explain": "few culinary pleasures can ___ it 意为“很少有哪种饮食之乐能与它相比”，it 指上文的 the Sunday roast。match 作动词有“与……匹敌、比得上”之义，与 few... can 构成“几乎没有能比得上”的比较含义。express 是“表达”，宾语通常是感情、观点；satisfy 是“满足（需求、欲望）”，不能以“饮食之乐”为宾语；influence 是“影响”，与“与之媲美”的语义不符。",
+        "trap": "C satisfy 受汉语“满足”影响，似乎可译成“满足这种乐趣”，但 satisfy 的逻辑宾语应是需要或欲望，此处 it 指烤肉这一享受本身，不能“满足”它。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 3,
+        "answer": "B",
+        "options": [
+          "patience",
+          "enjoyment",
+          "surprise",
+          "concern"
+        ],
+        "cn": [
+          "耐心",
+          "享受，乐趣",
+          "惊讶",
+          "担忧"
+        ],
+        "explain": "this ___ 指上文所说的周日烤肉带来的美好体验。后文说 food police 要把它变成 another guilty pleasure，即“又一样让人有负罪感的享受”，因此空格应填 enjoyment，与 guilty pleasure 前后呼应。patience（耐心）、surprise（惊讶）、concern（担忧）都不能指这种饮食之乐。",
+        "trap": "D concern 受下文“食品警察”发出警告的影响，容易以为此处谈的是“担忧”；但 this 指代的是上文的 culinary pleasure，而且后文 guilty pleasure 也提示这里说的正是“享受”。",
+        "type": "名词辨析"
+      },
+      {
+        "n": 4,
+        "answer": "D",
+        "options": [
+          "intensified",
+          "privileged",
+          "compelled",
+          "guaranteed"
+        ],
+        "cn": [
+          "被加强的",
+          "享有特权的",
+          "被迫的",
+          "必定会……的"
+        ],
+        "explain": "another guilty pleasure ___ to damage our health 中，空格处是过去分词短语作后置定语，修饰 guilty pleasure，意为“必定损害健康的罪恶快感”。be guaranteed to do 表示“必定、保证会”，与上文 food police 的强硬态度吻合。intensified（被加强的）、privileged（享有特权的）、compelled（被迫的）都不能与 to damage 构成“定会损害”的含义。",
+        "trap": "C compelled 可表示“被迫的”，代入后像是“被迫损害健康”，但 guilty pleasure 本身不会“被迫”去做某事；此处强调的是结果的必然性，而不是被迫性。",
+        "type": "分词后置定语"
+      },
+      {
+        "n": 5,
+        "answer": "A",
+        "options": [
+          "issued",
+          "received",
+          "ignored",
+          "cancelled"
+        ],
+        "cn": [
+          "发布",
+          "收到",
+          "忽视",
+          "取消"
+        ],
+        "explain": "The Food Standards Authority has ___ a public warning about the risks... 主语是食品标准局，宾语是“公开警告”，机构“发布警告”用 issue。receive 的主语应是警告的接受者；ignore 是“忽视”，与监管机构发布警告的职责正好相反；cancel 是“取消”，后文并没有取消警告的迹象。",
+        "trap": "B received 受汉语“收到警告”影响，但主语是发布警告的机构，动作方向应是“发出”，而不是“收到”。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 6,
+        "answer": "B",
+        "options": [
+          "under",
+          "at",
+          "for",
+          "by"
+        ],
+        "cn": [
+          "在……之下",
+          "在……（温度、速度等水平）",
+          "为……，持续……",
+          "通过"
+        ],
+        "explain": "foods cooked ___ high temperatures 指“以高温烹制的食物”。at 用于表示温度、速度、价格等具体水平，at high temperatures 是固定搭配。under 多表示“在……之下（承受压力、处于某种状况）”；for 表示目的或时长；by 表示方式、手段，都不能与 temperatures 搭配表示“在高温下”。",
+        "trap": "A under 受汉语“在高温下”的直接影响，但英语中温度、速度一类度量用 at，如 at a high speed、at 200℃。",
+        "type": "介词搭配"
+      },
+      {
+        "n": 7,
+        "answer": "D",
+        "options": [
+          "forget",
+          "regret",
+          "finish",
+          "avoid"
+        ],
+        "cn": [
+          "忘记",
+          "后悔",
+          "完成",
+          "避免"
+        ],
+        "explain": "people should ___ crisping their roast potatoes, reject thin-crust pizzas and only partially toast their bread 中，三个动作并列，都是为减少丙烯酰胺而采取的“避免”措施。avoid doing sth. 表示“避免做某事”，与后面的 reject、only partially toast 在语义上一致。forget doing 是“忘记做过”，regret doing 是“后悔做过”，finish doing 是“做完”，都与“减少摄入”的建议相反或无关。",
+        "trap": "C finish 与 crisping 搭配成“把土豆烤脆”，看似通顺，但全句是建议人们“不要”这么做；A forget 则会把建议变成“忘记把土豆烤脆”，语义不通。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 8,
+        "answer": "A",
+        "options": [
+          "partially",
+          "regularly",
+          "easily",
+          "initially"
+        ],
+        "cn": [
+          "部分地，不完全地",
+          "经常",
+          "容易地",
+          "最初"
+        ],
+        "explain": "only ___ toast their bread 与前面的 avoid crisping、reject thin-crust pizzas 并列，都是“降低烤制程度”的具体做法，partially 表示“只烤到一部分、略微烤一下”，与 only 搭配自然。regularly（经常）、easily（容易地）、initially（最初）都不能说明烤面包的程度。",
+        "trap": "D initially 表示时间上的“最初”，only initially 会变成“只在最初烤一下”，与降低丙烯酰胺的语境无关；B regularly 与 only 连用还会自相矛盾。",
+        "type": "副词辨析"
+      },
+      {
+        "n": 9,
+        "answer": "D",
+        "options": [
+          "Unless",
+          "Since",
+          "If",
+          "While"
+        ],
+        "cn": [
+          "除非",
+          "既然，因为",
+          "如果",
+          "虽然，尽管"
+        ],
+        "explain": "___ studies have shown that acrylamide can cause neurological damage in mice, there is no conclusive evidence that it causes cancer in humans. 前句承认动物实验已有发现，后句指出人体证据不足，两者是让步对比关系，While 意为“虽然、尽管”，最合适。Unless 表否定条件，Since 表原因，If 表条件，都不能体现这种“承认一方面、但另一方面”的转折。",
+        "trap": "B Since 容易被读成“既然动物实验已表明有害”，从而把两句理解为因果；但作者恰恰是在质疑“动物实验能否推到人身上”，前后是让步而非因果。",
+        "type": "连词/让步对比"
+      },
+      {
+        "n": 10,
+        "answer": "C",
+        "options": [
+          "secondary",
+          "external",
+          "conclusive",
+          "negative"
+        ],
+        "cn": [
+          "次要的",
+          "外部的",
+          "确凿的，决定性的",
+          "负面的"
+        ],
+        "explain": "there is no ___ evidence that it causes cancer in humans 意为“没有确凿证据表明它会使人类患癌”。conclusive evidence 是固定搭配，表示“确凿的证据、定论性证据”，与上句“动物实验有发现”形成对照：动物身上有，人体尚无定论。secondary（次要的）、external（外部的）、negative（负面的）都不能修饰 evidence 表达“定论性”。",
+        "trap": "A secondary 代入后是“没有次要证据”，逻辑上反而暗示“主要证据已经有了”，与作者质疑警告的立场相反；D negative evidence 指“反面证据”，也不符合“尚无定论”之意。",
+        "type": "形容词辨析"
+      },
+      {
+        "n": 11,
+        "answer": "C",
+        "options": [
+          "insufficient",
+          "bound",
+          "likely",
+          "slow"
+        ],
+        "cn": [
+          "不足的",
+          "必定",
+          "可能",
+          "缓慢的"
+        ],
+        "explain": "Scientists say the compound is ___ to cause cancer but have no hard scientific proof 中，but 后的“没有过硬证据”提示前面只是一种“可能”的判断，be likely to do 表示“很可能”，与科学家谨慎的措辞一致。insufficient 作表语时意为“不足的”，说明不了“致癌的可能性”；slow 不能接 to cause 表示“致癌缓慢”；bound 语气过强。",
+        "trap": "B bound 也有“必定”之义（be bound to），语法上成立，但“必定致癌”与后半句 have no hard scientific proof 直接矛盾，科学家不会在没有硬证据时下此断言。",
+        "type": "形容词辨析"
+      },
+      {
+        "n": 12,
+        "answer": "A",
+        "options": [
+          "On the basis of",
+          "At the cost of",
+          "In addition to",
+          "In contrast to"
+        ],
+        "cn": [
+          "根据，基于",
+          "以……为代价",
+          "除……之外还",
+          "与……相对"
+        ],
+        "explain": "___ the precautionary principle, it could be argued that... 意为“依据预防原则，可以这样论证”。on the basis of 表示“根据、基于”，后接 principle 这类依据，逻辑通顺。at the cost of 是“以……为代价”；in addition to 是“除……之外还”，后面应接并列的同类内容；in contrast to 是“与……形成对比”，都无法引出“论证的依据”。",
+        "trap": "C In addition to 后接名词时表示“除……之外还”，代入后会变成“除了预防原则，还可以论证……”，与后文“听从建议是明智的”这一结论不衔接。",
+        "type": "介词短语/逻辑关系"
+      },
+      {
+        "n": 13,
+        "answer": "B",
+        "options": [
+          "interesting",
+          "advisable",
+          "urgent",
+          "fortunate"
+        ],
+        "cn": [
+          "有趣的",
+          "明智的，可取的",
+          "紧急的",
+          "幸运的"
+        ],
+        "explain": "it could be argued that it is ___ to follow the FSA advice 中，it 是形式主语，真正的主语是 to follow the FSA advice。advisable 表示“明智的、可取的”，说明在证据不足但风险可能存在的情况下，听从建议是稳妥的选择。interesting（有趣的）、urgent（紧急的）、fortunate（幸运的）都不能准确表达这种基于预防原则的判断。",
+        "trap": "C urgent 受汉语“应该赶紧听从”的语感吸引，但本句讨论的是“是否可取”，而不是“是否紧急”；预防原则强调的是谨慎，不是紧迫。",
+        "type": "形容词辨析"
+      },
+      {
+        "n": 14,
+        "answer": "D",
+        "options": [
+          "As usual",
+          "In particular",
+          "By definition",
+          "After all"
+        ],
+        "cn": [
+          "像往常一样",
+          "尤其，特别是",
+          "从定义上说",
+          "毕竟，别忘了"
+        ],
+        "explain": "空格后举出吸烟致癌的例子：在证据出现之前，相关传言已流传多年。这是为上文“依据预防原则可以先听从建议”补充一个同类先例，After all（毕竟、别忘了）用来引出支持性理由，最贴切。As usual 表“照例”，In particular 表举例强调，By definition 表“从定义上讲”，都不能承担这种补充理由的功能。",
+        "trap": "B In particular 也表示强调，但它通常紧接上文某一类事物加以特指；这里是从“预防原则”转到“历史先例”，属于补充论据，用 After all 更自然。",
+        "type": "介词短语/逻辑关系"
+      },
+      {
+        "n": 15,
+        "answer": "C",
+        "options": [
+          "resemblance",
+          "combination",
+          "connection",
+          "pattern"
+        ],
+        "cn": [
+          "相似",
+          "结合",
+          "关联，联系",
+          "模式"
+        ],
+        "explain": "the evidence was found to prove a ___ 指找到证据证明吸烟与癌症之间存在“关联”。prove a connection 是常见搭配，connection 表示两事物之间的因果或相关联系。resemblance 是“相似”，combination 是“结合”，pattern 是“模式”，都不能准确表达“吸烟导致癌症”这一因果关联。",
+        "trap": "D pattern 可与 prove 搭配，如 prove a pattern，但此处需要的是“吸烟与癌症之间的联系”；A resemblance 只强调外表相似，容易望文生义。",
+        "type": "名词辨析"
+      },
+      {
+        "n": 16,
+        "answer": "B",
+        "options": [
+          "made",
+          "served",
+          "saved",
+          "used"
+        ],
+        "cn": [
+          "制作，编造",
+          "端上（餐桌），供应",
+          "节省，攒下",
+          "使用，用尽"
+        ],
+        "explain": "a piece of boiled beef can always be ___ up on Sunday alongside some steamed vegetables 指周日餐桌上“端上一块水煮牛肉，配上一些蒸蔬菜”。serve up 意为“把……端上桌、供应（饭菜）”，与 alongside some steamed vegetables 搭配自然。make up 是“编造、组成、化妆”，save up 是“攒钱”，use up 是“用尽”，都不能表示上菜。",
+        "trap": "A made up 有“做（饭）”的错觉，但 make up 并不表示“做饭、上菜”；D used up 意为“用完”，与“还能端上桌”的意思正好相反。",
+        "type": "动词短语"
+      },
+      {
+        "n": 17,
+        "answer": "A",
+        "options": [
+          "To be fair",
+          "For instance",
+          "To be brief",
+          "In general"
+        ],
+        "cn": [
+          "公平地说，说句公道话",
+          "例如",
+          "简言之",
+          "总的来说"
+        ],
+        "explain": "上文刚说“这样的生活还值得过吗”，语气带有嘲讽；本句转而说明食品标准局并非要人们完全不吃烤制食物，是在为对方说句公道话，To be fair（公平地说）正好承担这一转折。For instance 表举例，To be brief 表简言之，In general 表总体而言，都不能体现这种替对方澄清的语气。",
+        "trap": "B For instance 容易因为后文出现具体说明而误选，但后文并不是举例，而是对 FSA 立场的澄清与限定。",
+        "type": "介词短语/语篇衔接"
+      },
+      {
+        "n": 18,
+        "answer": "B",
+        "options": [
+          "reluctantly",
+          "entirely",
+          "gradually",
+          "carefully"
+        ],
+        "cn": [
+          "不情愿地",
+          "完全地",
+          "逐渐地",
+          "小心地"
+        ],
+        "explain": "it is not telling people to cut out roast foods ___, but to reduce their lifetime intake 中，not... but... 形成对比：不是要人们“完全”不吃，而是减少终生摄入量。entirely 表示“完全地”，与 but 后的 reduce 形成“彻底戒除”与“减少总量”的对照。reluctantly（不情愿地）、gradually（逐渐地）、carefully（小心地）都不能与 cut out 构成“彻底戒掉”的意思。",
+        "trap": "C gradually 与 cut out 搭配成“逐渐戒掉”，本身通顺，但后文 but to reduce their lifetime intake 对比的是“完全戒除”与“减少总量”，只有 entirely 能承担这一对照，gradually 会让 not... but... 失去对应关系。",
+        "type": "副词辨析"
+      },
+      {
+        "n": 19,
+        "answer": "C",
+        "options": [
+          "promise",
+          "experience",
+          "campaign",
+          "competition"
+        ],
+        "cn": [
+          "承诺",
+          "经历",
+          "运动，宣传活动",
+          "竞争"
+        ],
+        "explain": "their ___ risks coming across as being pushy and overprotective 中，their 指食品标准局，上文一直在讲它发布警告、提出建议，这是一场“宣传运动”，campaign 最合适；come across as 表示“给人的印象是”。promise（承诺）、experience（经历）、competition（竞争）都与 FSA 发布健康警告的行为不符。",
+        "trap": "A promise 受“官方承诺”的影响，但下文评价是 pushy and overprotective（咄咄逼人、过度保护），这更像是对一场宣传运动的批评，而不是对承诺的评价。",
+        "type": "名词辨析"
+      },
+      {
+        "n": 20,
+        "answer": "D",
+        "options": [
+          "follow up",
+          "pick up",
+          "open up",
+          "end up"
+        ],
+        "cn": [
+          "跟进",
+          "捡起，接人",
+          "打开，开创",
+          "最终落得，以……告终"
+        ],
+        "explain": "Constant health scares just ___ with no one listening 意为“接连不断的健康警告最终只会落得无人理会”。end up with 表示“以……告终、最终落得”，与 no one listening 搭配自然，也总结了作者对这类警告的批评。follow up 是“跟进”，pick up 是“捡起、接人”，open up 是“打开、开创”，都不能与 with no one listening 构成“结果是……”的含义。",
+        "trap": "A follow up 与“警告”话题接近，容易读成“后续跟进”；但 follow up 表示“跟进、接着采取行动”，主语通常是人或机构，不能像 end up 那样引出“最终落得……”的结果。",
+        "type": "动词短语"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 小标题匹配",
+    "en_title": "Here's what hard science reveals about eye contact",
+    "cn_title": "眼神接触的硬科学：友好信号、生理机制与攻击性",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "眼神接触的社会含义、生理基础与人格差异",
+    "type": "headings",
+    "directions": "Read the following text and answer the questions by choosing the most suitable subheading from the list A–G for each of the numbered paragraphs (41–45). There are two extra subheadings. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "小标题匹配先抓段落主旨，再核对标题的概括范围。本文讨论眼神接触：开篇指出它既可以是友好的关注，也可能是敌意的信号；随后从不同角度展开。做题时留意段落首尾的主题句、反复出现的关键词，并排除只概括段中某一细节、或与段落主旨方向相反的选项。",
+    "blocks": [
+      {
+        "en": "In a social situation, eye contact with another person can show that you are paying attention in a friendly way. But it can also be antagonistic, such as when a political candidate turns toward their competitor during a debate and makes eye contact that signals hostility. Here's what hard science reveals about eye contact:",
+        "zh": "在社交场合，与另一个人进行眼神接触可以表明你正以友好的方式关注对方。但它也可能是对抗性的，比如政治候选人在辩论中转向对手，用眼神接触传递敌意。以下是硬科学对眼神接触的揭示："
+      },
+      {
+        "en": "{{41}} We know that a typical infant will instinctively gaze into its mother's eyes, and she will look back. This mutual gaze is a major part of the attachment between mother and child. In adulthood, looking someone else in a pleasant way can be a complimentary sign of paying attention. It can catch someone's attention in a crowded room. \"Eye contact and smile\" can signal availability and confidence, a common-sense notion supported in studies by psychologist Monica Moore.",
+        "zh": "我们知道，典型的婴儿会本能地凝视母亲的眼睛，而母亲也会回望。这种相互凝视是母婴依恋的重要组成部分。成年之后，以愉快的方式看着别人，可以是一种表示关注、带有赞许意味的信号。它能让你在拥挤的房间里引起某人的注意。“眼神接触加微笑”可以传递“我乐于交流”和自信，这一常识性看法得到了心理学家莫妮卡·摩尔研究的支持。"
+      },
+      {
+        "en": "{{42}} Neuroscientist Bonnie Auyeung found that the hormone oxytocin increased the amount of eye contact from men toward the interviewer during a brief interview when the direction of their gaze was recorded. This was also found in high-functioning men with some autistic spectrum symptoms, who may tend to avoid eye contact. Specific brain regions that respond during direct gaze are being explored by other researchers, using advanced methods of brain scanning.",
+        "zh": "神经科学家邦妮·奥因发现，在一场记录视线方向的简短面试中，催产素这种激素增加了男性与面试者之间的眼神接触。在一些带有自闭症谱系症状、可能倾向于回避眼神接触的高功能男性身上，也发现了同样的效果。其他研究者正利用先进的脑部扫描方法，探索在直接注视时作出反应的特定脑区。"
+      },
+      {
+        "en": "{{43}} With the use of eye-tracking technology, Julia Minson of the Harvard Kennedy School of Government concluded that eye contact can signal very different kinds of messages, depending on the situation. While eye contact may be a sign of connection or trust in friendly situations, it's more likely to be associated with dominance or intimidation in adversarial situations. \"Whether you're a politician or a parent, it might be helpful to keep in mind that trying to maintain eye contact may backfire if you're trying to convince someone who has a different set of beliefs than you,\" said Minson.",
+        "zh": "借助眼动追踪技术，哈佛大学肯尼迪政府学院的朱莉娅·明森得出结论：眼神接触可以传递极为不同的信息，这取决于具体情境。在友好的情境中，眼神接触可能是亲近或信任的标志；而在对抗性情境中，它更可能与支配或恐吓相联系。明森说：“无论你是政治家还是父母，都不妨记住：如果你想说服一个与你信念不同的人，一味保持眼神接触可能会适得其反。”"
+      },
+      {
+        "en": "{{44}} When we look at a face or a picture, our eyes pause on one spot at a time, often on the eyes or mouth. These pauses typically occur at about three per second, and the eyes then jump to another spot, until several important points in the image are registered like a series of snapshots. How the whole image is then assembled and perceived is still a mystery although it is the subject of current research.",
+        "zh": "当我们看一张面孔或一幅图片时，我们的眼睛一次只停留在一个点上，通常是眼睛或嘴部。这些停顿通常大约每秒出现三次，随后眼睛会跳到另一个点，直到图像中几个重要的点像一连串快照一样被记录下来。整幅图像此后如何被组合、被感知，仍然是个谜，尽管它正是当前研究的课题。"
+      },
+      {
+        "en": "{{45}} In people who score high in a test of neuroticism, a personality dimension associated with self-consciousness and anxiety, eye contact triggered more activity associated with avoidance, according to the Finnish researcher Jari Hietanen and colleagues. \"Our findings indicate that people do not only feel different when they are the centre of attention but that their brain reactions also differ.\" A more direct finding is that people who scored highly for negative emotions like anxiety looked at others for shorter periods of time and reported more comfortable feelings when others did not look directly at them.",
+        "zh": "芬兰研究者亚里·希耶塔宁及其同事发现，在神经质——一种与自我意识和焦虑相关的人格维度——测试中得分较高的人，其眼神接触会引发更多与回避相关的活动。“我们的研究结果表明，人们在成为关注焦点时不仅感受不同，大脑反应也不同。”一个更直接的发现是：在焦虑等负面情绪上得分较高的人看别人的时间更短，并且在别人不直视他们时表示感觉更自在。"
+      }
+    ],
+    "options": {
+      "A": {
+        "en": "Eye fixations are brief",
+        "zh": "目光的注视是短暂的"
+      },
+      "B": {
+        "en": "Too much eye contact is instinctively felt to be rude",
+        "zh": "过多的眼神接触会本能地让人觉得无礼"
+      },
+      "C": {
+        "en": "Eye contact can be a friendly social signal",
+        "zh": "眼神接触可以是一种友好的社交信号"
+      },
+      "D": {
+        "en": "Personality can affect how a person reacts to eye contact",
+        "zh": "人格会影响一个人对眼神接触的反应"
+      },
+      "E": {
+        "en": "Biological factors behind eye contact are being investigated",
+        "zh": "眼神接触背后的生物学因素正在被研究"
+      },
+      "F": {
+        "en": "Most people are not comfortable holding eye contact with strangers",
+        "zh": "大多数人与陌生人保持眼神接触时会不自在"
+      },
+      "G": {
+        "en": "Eye contact can also be aggressive",
+        "zh": "眼神接触也可能是攻击性的"
+      }
+    },
+    "answers": [
+      {
+        "n": 41,
+        "answer": "C",
+        "explain": "本段从婴儿与母亲的本能对视写起，说明相互凝视是母婴依恋的重要部分；随后转向成年，指出愉快地注视别人是表示关注、带有赞许意味的信号，能在拥挤的房间里引起注意，“眼神接触加微笑”还能传递乐于交流和自信。全段都在讲眼神接触作为友好社交信号的作用，C 概括准确。E 虽与下一段的生理研究相近，但本段并未涉及激素或脑区；G 与本段“友好”的方向相反。",
+        "clue": "mutual gaze → a complimentary sign of paying attention → \"Eye contact and smile\" can signal availability and confidence"
+      },
+      {
+        "n": 42,
+        "answer": "E",
+        "explain": "本段先讲催产素（oxytocin）这种激素增加了男性与面试者的眼神接触，接着提到高功能自闭症谱系男性也有同样效果，最后说其他研究者正用脑部扫描探索直接注视时作出反应的特定脑区。激素、脑区、脑扫描都属于生物学因素，E“眼神接触背后的生物学因素正在被研究”正好概括。B 谈“无礼”，F 谈“与陌生人不自在”，本段都没有涉及。",
+        "clue": "the hormone oxytocin → Specific brain regions → advanced methods of brain scanning"
+      },
+      {
+        "n": 43,
+        "answer": "G",
+        "explain": "本段借明森的研究指出：眼神接触传递的信息取决于情境，在友好情境中可能是亲近或信任，而在对抗性情境中更可能与 dominance（支配）或 intimidation（恐吓）相关；末尾还提醒，想说服信念不同的人时一味保持眼神接触可能 backfire。可见本段强调的是眼神接触的攻击性一面，G 最贴切。C 只对应段中“友好情境”那一半，概括不全；F 谈陌生人不自在，本段没有依据。",
+        "clue": "more likely to be associated with dominance or intimidation → in adversarial situations → may backfire"
+      },
+      {
+        "n": 44,
+        "answer": "A",
+        "explain": "本段说我们看面孔或图片时，眼睛一次只停留在一个点上，停顿大约每秒三次，然后跳到另一个点，直到若干重要之处像一连串快照被记录下来。整段讲的是注视点的短暂停留与跳跃，A“目光的注视是短暂的”正是对 pause... at about three per second 的概括。E 谈生理研究，D 谈人格，均与本段无关。",
+        "clue": "our eyes pause on one spot at a time → about three per second → jump to another spot"
+      },
+      {
+        "n": 45,
+        "answer": "D",
+        "explain": "本段以神经质这一人格维度为切入点：在该测试中得分高的人，眼神接触会引发更多与回避相关的活动；研究还发现，焦虑等负面情绪得分高的人看别人的时间更短，别人不直视他们时反而更自在。全段讲的是人格差异如何影响人对眼神接触的反应，D 概括准确。F 把范围限定为“与陌生人”，本段并未提陌生人；E 说的是生理机制，与本段的“人格差异”角度不同。",
+        "clue": "a personality dimension associated with self-consciousness and anxiety → brain reactions also differ → scored highly for negative emotions"
+      }
+    ],
+    "fixed_note": "B、F 为多余选项，不填入任何空。"
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "The Renaissance and the Age of Reason",
+    "cn_title": "文艺复兴与理性时代：从神权到理性的思想转折",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "文艺复兴冲破教会思想权威、近代科学兴起与理性时代的到来",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on the ANSWER SHEET. (10 points)",
+    "intro": "翻译先拆结构、再定主干，最后按中文语序重排。第46句注意 with 复合结构表原因，以及 had been bridged 的被动；第47句注意同位语从句与过去完成时；第48句注意过去进行时的被动语态和 at a rate that... 定语从句；第49句注意 As 表“随着”，以及 and 连接的两个并列分句；第50句主语后跟两个并列不定式，另有 what 引导的宾语从句和 after 引导的时间状语从句。",
+    "paragraphs": [
+      {
+        "en": "Following the explosion of creativity in Florence during the 14th century known as the Renaissance, the modern world saw a departure from what it had once known. It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being. Renaissance ideas had spread throughout Europe well into the 17th century, with the arts and sciences flourishing extraordinarily among those with a more logical disposition. [[46]]With the Church's teachings and ways of thinking eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories.[[/46]]",
+        "zh": "继14世纪佛罗伦萨那场被称为“文艺复兴”的创造力大爆发之后，现代世界与它曾经熟悉的一切渐行渐远。它不再以神和罗马天主教会的权威为中心，转而青睐一种更为人本主义的生存方式。文艺复兴的思想一直传播到17世纪，在那些更具理性倾向的人中间，艺术与科学异常繁荣。随着教会的教义和思维方式在文艺复兴的冲击下黯然失色，中世纪与现代时期之间的鸿沟被弥合了，从而通向一片片新的、未被探索的知识领域。"
+      },
+      {
+        "en": "During the Renaissance, the great minds of Nicolaus Copernicus, Johannes Kepler and Galileo Galilei demonstrated the power of scientific study and discovery. [[47]]Before each of their revelations, many thinkers at the time had sustained more ancient ways of thinking, including the geocentric view that the Earth was at the centre of our universe.[[/47]] Copernicus theorized in 1543 that all of the planets that we knew of revolved not around the Earth, but the Sun, a system that was later upheld by Galileo at his own expense. Offering up such a theory during a time of high tension between scientific and religious minds was branded as heresy, and any such heretics that continued to spread these lies were to be punished by imprisonment or even death. [[48]]Despite attempts by the Church to suppress this new generation of logicians and rationalists, more explanations for how the universe functioned were being made at a rate that the people could no longer ignore.[[/48]] It was with these great revelations that a new kind of philosophy founded in reason was born.",
+        "zh": "文艺复兴时期，尼古拉·哥白尼、约翰内斯·开普勒和伽利略·伽利雷这些伟大的头脑展示了科学研究与发现的力量。在他们每一次重大发现之前，当时的许多思想家一直秉持着更为古老的思维方式，其中包括认为地球位于宇宙中心的地心说。哥白尼在1543年提出理论：我们所知的所有行星都不是绕地球运行，而是绕太阳运行；这一体系后来由伽利略不惜以自己的声誉为代价加以维护。在科学与宗教思想高度紧张的时代提出这样的理论，会被斥为异端，任何继续传播这些“谎言”的异端分子都将被处以监禁甚至死刑。尽管教会试图压制这新一代逻辑学家和理性主义者，但关于宇宙如何运行的解释还是以人们再也无法忽视的速度不断涌现。正是在这些伟大发现之中，一种建立在理性之上的新哲学诞生了。"
+      },
+      {
+        "en": "The Church's long-standing dogma was losing the great battle for truth to rationalists and scientists. This very fact embodied the new ways of thinking that swept through Europe during most of the 17th century. [[49]]As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, the Renaissance was over and it was time for a new era — the Age of Reason.[[/49]]",
+        "zh": "教会长期奉行的教义在与理性主义者和科学家的真理之争中节节败退。这一事实本身就体现了17世纪大部分时间里席卷欧洲的新思维方式。随着许多人承担起把推理与科学哲学融入世界的责任，文艺复兴结束了，是时候进入一个新时代——理性时代了。"
+      },
+      {
+        "en": "The 17th and 18th centuries were times of radical change and curiosity. Scientific method, reductionism and the questioning of Church ideals was to be encouraged, as were ideas of liberty, tolerance and progress. [[50]]Such actions to seek knowledge and to understand what information we already knew were captured by the Latin phrase 'sapere aude' or 'dare to know', after Immanuel Kant used it in his essay An Answer to the Question: What is Enlightenment?[[/50]] It was the purpose and responsibility of great minds to go forth and seek out the truth, which they believed to be founded in knowledge.",
+        "zh": "17、18世纪是剧烈变革、充满好奇的时代。科学方法、还原论以及对教会观念的质疑受到鼓励，自由、宽容与进步的观念同样如此。这种探求知识、理解我们已知信息的行动，被拉丁短语“sapere aude”（即“敢于求知”）所概括——伊曼努尔·康德曾在其《答复这个问题：什么是启蒙？》一文中使用过这一短语。伟大头脑的目标与责任，就是走出去探寻真理，他们相信真理建立在知识之上。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "With the Church's teachings and ways of thinking eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories.",
+        "core": "The gap between the Medieval and modern periods had been bridged.",
+        "structure": "句首是 with 复合结构：with + 宾语 the Church's teachings and ways of thinking + 宾语补足语 eclipsed by the Renaissance，整个结构作原因状语。主句是 the gap between the Medieval and modern periods had been bridged，为过去完成时的被动语态；leading to new and unexplored intellectual territories 是现在分词短语作结果状语，逻辑主语是前面整件事。",
+        "key": "eclipse 使黯然失色、盖过；teachings 教义；ways of thinking 思维方式；bridge the gap 弥合鸿沟；the Medieval period 中世纪；explored 被探索的；intellectual 知识的、智力的；territories 领域。",
+        "translation": "随着教会的教义和思维方式在文艺复兴的冲击下黯然失色，中世纪与现代时期之间的鸿沟被弥合了，从而通向一片片新的、未被探索的知识领域。",
+        "pitfall": "with 结构中的 eclipsed 是过去分词，表被动，不能译成“随着文艺复兴黯然失色”；had been bridged 是过去完成时的被动，动作发生在现代时期展开之前，要译出“被弥合”；leading to 的逻辑主语是整件事，不宜译成“鸿沟通向……”。"
+      },
+      "47": {
+        "en": "Before each of their revelations, many thinkers at the time had sustained more ancient ways of thinking, including the geocentric view that the Earth was at the centre of our universe.",
+        "core": "Many thinkers had sustained more ancient ways of thinking.",
+        "structure": "Before each of their revelations 是时间状语，放在句首；主句 many thinkers at the time had sustained more ancient ways of thinking 用过去完成时，表示在那些重大发现出现之前一直如此；including... 是介词短语，补充说明 ways of thinking；that the Earth was at the centre of our universe 是同位语从句，说明 the geocentric view 的具体内容。",
+        "key": "revelation 揭示、重大发现；at the time 当时；sustain 维持、坚持；ancient 古老的；including 包括；geocentric 地心说的；at the centre of 在……的中心。",
+        "translation": "在他们每一次重大发现之前，当时的许多思想家一直秉持着更为古老的思维方式，其中包括认为地球位于宇宙中心的地心说。",
+        "pitfall": "each of their revelations 指“他们每个人的每一次重大发现”，不是“他们各自的启示”；had sustained 的过去完成时要体现“在……之前一直如此”；that 从句是同位语从句而非定语从句，可用“认为……的学说”或“即……”处理，不要译成“地球位于宇宙中心的那个观点”。"
+      },
+      "48": {
+        "en": "Despite attempts by the Church to suppress this new generation of logicians and rationalists, more explanations for how the universe functioned were being made at a rate that the people could no longer ignore.",
+        "core": "More explanations were being made at a rate that the people could no longer ignore.",
+        "structure": "Despite + 名词短语 attempts by the Church to suppress... 作让步状语；主句 more explanations... were being made 是过去进行时的被动语态，表示当时不断有人提出；for how the universe functioned 是介词短语修饰 explanations，其中 how 从句作 for 的宾语；at a rate that... 作方式状语，that 引导定语从句修饰 rate。",
+        "key": "despite 尽管；attempt 尝试、企图；suppress 压制；logician 逻辑学家；rationalist 理性主义者；function 运行、运作；at a rate 以……的速度；ignore 忽视。",
+        "translation": "尽管教会试图压制这新一代逻辑学家和理性主义者，但关于宇宙如何运行的解释还是以人们再也无法忽视的速度不断涌现。",
+        "pitfall": "were being made 是过去进行时的被动，强调“不断被提出”，不要译成“已经被提出”；at a rate that the people could no longer ignore 中 that 修饰 rate，应处理为“以……的速度，快到人们再也无法忽视”；this new generation of 指“新一代的”，不是“这一代新的”。"
+      },
+      "49": {
+        "en": "As many took on the duty of trying to integrate reasoning and scientific philosophies into the world, the Renaissance was over and it was time for a new era — the Age of Reason.",
+        "core": "The Renaissance was over and it was time for a new era.",
+        "structure": "As 引导时间状语从句，意为“随着”；从句谓语是 took on the duty of trying to integrate...，of 后接动名词短语，trying to 表示“试图、努力”；主句由 and 连接两个并列分句 the Renaissance was over 与 it was time for a new era；破折号后的 the Age of Reason 是 a new era 的同位语。",
+        "key": "take on 承担；duty 责任；integrate... into... 把……融入……；reasoning 推理；scientific philosophies 科学哲学思想；be over 结束；era 时代；the Age of Reason 理性时代。",
+        "translation": "随着许多人承担起把推理与科学哲学融入世界的责任，文艺复兴结束了，是时候进入一个新时代——理性时代了。",
+        "pitfall": "As 在此表“随着”，不是“因为”，否则会把“文艺复兴结束”说成原因；took on the duty of trying to... 中 trying 是动名词，不能译成“尝试的责任”；破折号后的 the Age of Reason 是同位语，需用“即/——”引出，不能另起一句当作新的主语。"
+      },
+      "50": {
+        "en": "Such actions to seek knowledge and to understand what information we already knew were captured by the Latin phrase 'sapere aude' or 'dare to know', after Immanuel Kant used it in his essay An Answer to the Question: What is Enlightenment?",
+        "core": "Such actions were captured by the Latin phrase 'sapere aude' or 'dare to know'.",
+        "structure": "主干是 Such actions... were captured by the Latin phrase...；to seek knowledge and to understand... 是两个并列的不定式短语，作后置定语修饰 actions；what information we already knew 是 understand 的宾语从句，翻译时语序要还原；after Immanuel Kant used it... 是时间状语从句，it 指前面的拉丁短语。",
+        "key": "seek knowledge 探求知识；capture 概括、表达；Latin phrase 拉丁短语；sapere aude 敢于求知；dare to know 敢于认知；essay 文章；Enlightenment 启蒙。",
+        "translation": "这种探求知识、理解我们已知信息的行动，被拉丁短语“sapere aude”（即“敢于求知”）所概括——伊曼努尔·康德曾在其《答复这个问题：什么是启蒙？》一文中使用过这一短语。",
+        "pitfall": "were captured by 不是“被……俘获”，而是“被……概括、表达”；Such actions 后接两个并列不定式，翻译时不要漏掉 to understand；what information we already knew 是宾语从句，不能按原语序直译成“什么信息我们已经知道”；after 在此表示“在……之后（使用过）”，不是“追随”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "A notice & a picture essay",
+    "cn_title": "歌唱比赛通知 + 习惯图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "校园歌唱比赛通知；习惯与拖延：及早动手与拖到最后的对比",
+    "intro": "2020 年英语（一）写作由两部分组成：Part A 要求以学生会名义写一则通知，告知国际学生即将举行的歌唱比赛；Part B 是两幅对比图画——一位女性在办公桌前埋头工作，说“尽早完成才放心”，与一位男性瘫坐在椅子上、说“不到最后不动手”形成反差，主题是习惯、拖延与自律。小作文注意通知的格式与信息条理，大作文按“描述—阐释—评论”三段展开。",
+    "partA": {
+      "title": "Part A · 通知",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "The Students Union of your university has assigned you to inform the international students about an upcoming singing contest. Write a notice in about 100 words. Write your answer on the ANSWER SHEET. Do not use your own name in the notice. (10 points)",
+      "prompt_zh": "你所在大学的学生会指派你告知国际学生即将举行的一场歌唱比赛。请写一则约100词的通知。请将答案工整地写在答题卡上，通知中不要使用自己的真实姓名。",
+      "sample": "Notice\n\nTo help international students enjoy campus life, the Students Union will hold a singing contest in the university auditorium at 7 p.m. on Saturday, May 16.\n\nAll international students are welcome to take part, either as contestants or as audience members. Contestants may sing in any language and should register at the Students Union office before May 10. Prizes will be awarded to the top three singers, and the audience will vote for the most popular performance.\n\nPlease come and cheer for your friends. We look forward to hearing your voice on stage.\n\nThe Students Union",
+      "sample_zh": "通知\n\n为帮助国际学生享受校园生活，学生会将于5月16日（星期六）晚7点在大学礼堂举办歌唱比赛。\n\n欢迎所有国际学生参加，既可以作为选手参赛，也可以作为观众观赛。选手可用任何语言演唱，并须在5月10日前到学生会办公室报名。比赛将评出前三名并颁发奖品，现场观众还将投票选出最受欢迎的表演。\n\n欢迎前来为朋友们加油。我们期待在舞台上听到你的歌声。\n\n学生会",
+      "structure": [
+        [
+          "标题",
+          "Notice"
+        ],
+        [
+          "活动目的与时间地点",
+          "To help international students enjoy campus life, the Students Union will hold a singing contest in the university auditorium at 7 p.m. on Saturday, May 16."
+        ],
+        [
+          "参赛对象与报名方式",
+          "All international students are welcome to take part, either as contestants or as audience members. Contestants may sing in any language and should register at the Students Union office before May 10."
+        ],
+        [
+          "奖项与观众投票",
+          "Prizes will be awarded to the top three singers, and the audience will vote for the most popular performance."
+        ],
+        [
+          "欢迎参与",
+          "Please come and cheer for your friends. We look forward to hearing your voice on stage."
+        ],
+        [
+          "落款",
+          "The Students Union"
+        ]
+      ],
+      "expressions": [
+        "To help international students enjoy campus life, the Students Union will hold a singing contest in the university auditorium at 7 p.m. on Saturday, May 16.",
+        "All international students are welcome to take part, either as contestants or as audience members.",
+        "Contestants may sing in any language and should register at the Students Union office before May 10.",
+        "Prizes will be awarded to the top three singers.",
+        "The audience will vote for the most popular performance.",
+        "Please come and cheer for your friends.",
+        "We look forward to hearing your voice on stage."
+      ],
+      "traps": [
+        "题目要求写 notice（通知），必须有标题，并交代活动时间、地点、报名方式等具体信息，不要写成邀请信、私人邮件或只有口号的海报。",
+        "通知中不能使用自己的真实姓名，以“The Students Union”落款即可；语气应清楚、礼貌、简洁，不必写称呼和地址。",
+        "约100词，信息要有所取舍，不要把比赛规则、曲目要求、奖项设置全部罗列而严重超词。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160–200 words based on the picture below. In your essay, you should 1) describe the picture briefly, 2) interpret the implied meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。请工整地写在答题卡上。",
+      "picture": {
+        "src": "../assets/writing/2020.png",
+        "caption": "左图：女性伏案工作，说“尽早完成才放心”；右图：男性瘫坐椅上，说“不到最后不动手”",
+        "note": "画面分左右两幅。左图：一位年轻女性坐在办公桌前，手执钢笔伏案书写，桌子左右各堆着一摞文件，她头顶的对话框写着“尽早完成才放心”；右图：一位年轻男性瘫坐在扶手椅上、双腿交叠，面前的办公桌上摊着一本打开的书和一支笔，他却仰头靠向椅背，对话框写着“不到最后不动手”。两图形成鲜明对比：同样面对手头的工作，有人及早动手、以完成求安心，有人一拖再拖、非到最后不开始，折射出习惯与自律的差异。"
+      },
+      "sample": "The picture presents a striking contrast between two attitudes towards work. In the left panel, a young woman sits at her desk, pen in hand, working through two piles of documents. Above her head floats the remark, \"I can only relax after finishing it early.\" In the right panel, a young man leans back in his chair with his legs crossed and an open book lying untouched on the desk. His words are, \"I will not lift a finger until the last minute.\"\n\nThe message is plain: habits decide how we work and feel. The woman puts duty first and buys herself peace of mind; the man gives in to procrastination and ends up racing against deadlines. In the long run, the difference is not merely efficiency but confidence. Those who act early can revise their work and stay calm when problems arise, while those who delay are always at the mercy of time.\n\nIn my view, good habits are not born but built. We can begin with small tasks, set a deadline earlier than required, and reward ourselves for finishing on time. Self-discipline today is the most reliable guarantee of freedom tomorrow.",
+      "sample_zh": "这幅画呈现出两种工作态度的鲜明对比。左图中，一位年轻女性坐在办公桌前，手执钢笔，正一份份处理桌上的两摞文件。她头顶浮现出一句话：“尽早完成才放心。”右图中，一位年轻男性双腿交叠、仰靠在椅子上，旁边桌上摊着一本打开的书，他却碰也没碰。他的话是：“不到最后不动手。”\n\n寓意很清楚：习惯决定我们如何工作、感受如何。这位女性把责任放在首位，为自己换来安心；那位男性则向拖延妥协，最终只能被截止日期追着跑。从长远看，差别不仅在效率，更在信心。及早动手的人可以从容修改，遇到问题时也能保持镇定；而一再拖延的人则始终受制于时间。\n\n在我看来，好习惯不是天生的，而是养成的。我们可以从小任务做起，把期限定得比要求更早，并在按时完成后奖励自己。今天的自律，是明天自由最可靠的保障。",
+      "structure": [
+        [
+          "第一段·描述图画",
+          "The picture presents a striking contrast... left panel: a woman working steadily at a desk piled with documents, saying she can relax only after finishing early; right panel: a man leaning back with legs crossed, an open book untouched, saying he will not start until the last minute."
+        ],
+        [
+          "第二段·解释寓意",
+          "Habits decide how we work and feel... the woman buys peace of mind while the man surrenders to procrastination... acting early allows revision and calm, delay leaves one at the mercy of time."
+        ],
+        [
+          "第三段·给出评论",
+          "Good habits are built, not born... start with small tasks, set an earlier deadline, reward completion... self-discipline is the guarantee of freedom."
+        ]
+      ],
+      "expressions": [
+        "The picture presents a striking contrast between two attitudes towards work.",
+        "a young woman sits at her desk, pen in hand, working her way through two piles of documents",
+        "a young man leans back in his chair with his legs crossed, while an open book and a pen lie untouched on the desk",
+        "The woman puts duty first and buys herself peace of mind.",
+        "the man gives in to procrastination and ends up racing against deadlines",
+        "the difference is not merely efficiency but confidence",
+        "those who delay are always at the mercy of time",
+        "good habits are not born but built",
+        "Self-discipline today is the most reliable guarantee of freedom tomorrow."
+      ],
+      "traps": [
+        "描述要抓住两幅图的反差和两句关键引语（“尽早完成才放心”“不到最后不动手”），并点出办公桌、成堆文件、摊开的书等细节，不要只写“两个人在工作”。",
+        "寓意应落在“习惯、拖延与自律”，不要泛化成“男女差异”“工作压力大”或“要努力奋斗”。",
+        "评论要给出明确态度和可行做法（如提前设定期限、从小任务做起），避免只喊“我们要养成好习惯”的空话。"
+      ]
+    }
+  }
+}

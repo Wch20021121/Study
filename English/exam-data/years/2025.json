@@ -1,0 +1,684 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "The Sunken City of Pavlopetri",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "海底古城帕夫洛佩特里：从新石器时代聚落到水下遗址的发现与重启发掘",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "文章介绍希腊伯罗奔尼撒半岛南部的海底遗址帕夫洛佩特里：它原是公元前 3500 年左右的新石器时代聚落，因地震、海啸与海平面上升沉入水下；1967 年，海洋学家弗莱明在考察中偶然发现遗址，但此后数十年无人问津；2009 年考古队借助水下考古的新技术重启发掘，使这座水下城镇重见天日；出土的大量织机重锤表明，这里曾是繁荣的纺织贸易中心。做题时注意因果与时间标记：which caused、In 1967、Despite、Since the 1960s 等，它们往往决定上下句的逻辑走向。",
+    "passage": [
+      {
+        "en": "Located in the southern Peloponnesian peninsula, Pavlopetri (the modern name of the site) emerged as a Neolithic settlement around 3500 B.C. This area of the Aegean Sea is {{1}} to earthquakes and tsunamis, which caused the city to {{2}} sink. The slow sea level rise in the Mediterranean {{3}} the city more than 3,000 years ago.",
+        "zh": "帕夫洛佩特里（该遗址的现代名称）位于伯罗奔尼撒半岛南部，约在公元前 3500 年作为新石器时代聚落出现。这片爱琴海海域易受地震和海啸侵袭，这些灾害使这座城市逐渐下沉。地中海海平面的缓慢上升在 3000 多年前淹没了这座城市。"
+      },
+      {
+        "en": "For millennia, the city's {{4}} lay unseen below some 13 feet of water. They were covered by a thick layer of sand {{5}} the island of Laconia. In recent decades, shifting {{6}} and climate change have eroded a natural barrier that {{7}} Pavlopetri. In 1967, a scientific survey of the Peloponnesian coast was {{8}} data to analyze changes in sea levels {{9}} British oceanographer Nicholas Flemming first spotted the sunken {{10}}. A year later, he returned with a few students to {{11}} the location and map the site. The team identified some 15 buildings, courtyards, a network of streets, and two chamber tombs. {{12}} the exciting initial finds, the site would lie {{13}} for decades before archaeologists would return.",
+        "zh": "数千年来，这座城市的遗迹一直无人得见，静卧在约 13 英尺深的水下。它们被一层厚厚的沙子覆盖，这层沙位于拉科尼亚岛附近的海域。近几十年来，不断变化的洋流和气候变化侵蚀了一道原本保护帕夫洛佩特里的天然屏障。1967 年，一项针对伯罗奔尼撒海岸的科学考察正在收集数据，以分析海平面的变化，就在这时，英国海洋学家尼古拉斯·弗莱明首次发现了这些沉没的建筑。一年后，他带着几名学生重返此地，考察该地点并绘制遗址地图。团队确认了约 15 座建筑、若干庭院、一个街道网络和两座室状墓。尽管最初的发现令人兴奋，但在考古学家重返这里之前，该遗址还是沉寂了数十年。"
+      },
+      {
+        "en": "In 2009 archaeologists Chrysanthi Gallon and Jon Henderson {{14}} excavation of Pavlopetri in cooperation with the Greek Ministry of Culture. Since the 1960s, underwater archaeology {{15}} and tools had made huge advances. The team {{16}} robotics, sonar mapping, and state-of-the-art graphics to survey the site. From 2009 to 2013 they were able to bring the underwater town to {{17}}.",
+        "zh": "2009 年，考古学家赫里桑西·加隆和乔恩·亨德森与希腊文化部合作，重启了对帕夫洛佩特里的发掘。自 20 世纪 60 年代以来，水下考古的技术与工具已取得巨大进步。团队运用机器人技术、声呐测绘和先进的图形技术对遗址进行勘测。从 2009 年到 2013 年，他们使这座水下城镇重见天日。"
+      },
+      {
+        "en": "Covering about two and a half acres, Pavlopetri's three main roads {{18}} some 50 rectangular buildings, all of which had open courtyards. Excavations revealed a large number of Minoan-style loom weights, {{19}} Pavlopetri was a thriving trade center with a {{20}} textile industry.",
+        "zh": "帕夫洛佩特里占地约两英亩半，三条主路连接着约 50 座长方形建筑，这些建筑都带有开放式庭院。发掘出土了大量米诺斯风格的织机重锤，这表明帕夫洛佩特里曾是一个繁荣的贸易中心，拥有发达的纺织业。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "B",
+        "options": [
+          "relevant",
+          "prone",
+          "available",
+          "alien"
+        ],
+        "cn": [
+          "相关的，有关的",
+          "易于……的，有……倾向的",
+          "可获得的，可用的",
+          "陌生的，格格不入的"
+        ],
+        "explain": "be prone to 是固定搭配，意为“易于遭受（某种不幸）”。本句说这片爱琴海海域易受地震和海啸侵袭，正好解释下文城市为何下沉，语义与逻辑都吻合。",
+        "trap": "A relevant to 意为“与……相关”，语法虽通，但“海域与地震相关”并不能说明灾害频发；C available to 指“可供……使用”；D alien to 指“与……格格不入”，均不表示“易受……影响”。",
+        "type": "形容词辨析/固定搭配"
+      },
+      {
+        "n": 2,
+        "answer": "C",
+        "options": [
+          "accidentally",
+          "frequently",
+          "gradually",
+          "temporarily"
+        ],
+        "cn": [
+          "偶然地，意外地",
+          "频繁地",
+          "逐渐地",
+          "暂时地"
+        ],
+        "explain": "地震和海啸使城市“逐渐”下沉，gradually 强调一个缓慢、渐进的过程，与下文 slow sea level rise 以及城市最终没入水下的结果相呼应。",
+        "trap": "A accidentally 强调偶然、意外，与灾害长期作用不符；B frequently 说的是频率，不能修饰“沉没”这一渐变过程；D temporarily 意为“暂时地”，与遗址在水下沉睡数千年的事实矛盾。",
+        "type": "副词辨析/逻辑关系"
+      },
+      {
+        "n": 3,
+        "answer": "B",
+        "options": [
+          "disguised",
+          "submerged",
+          "relocated",
+          "isolated"
+        ],
+        "cn": [
+          "伪装，掩饰",
+          "淹没，使沉入水中",
+          "迁移，重新安置",
+          "隔离，使孤立"
+        ],
+        "explain": "submerge 意为“使没入水中、淹没”。海平面缓慢上升，把这座城市淹没，与上文 sink、下文 underwater 构成同一语义场。",
+        "trap": "A disguised 意为“伪装”；C relocated 意为“迁移”，城市不会因海平面上升而自行搬迁；D isolated 意为“使孤立”，与“沉入水下”无关。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 4,
+        "answer": "C",
+        "options": [
+          "legends",
+          "programs",
+          "remains",
+          "surroundings"
+        ],
+        "cn": [
+          "传说，传奇",
+          "计划，项目",
+          "遗迹，残存物",
+          "环境，周围的事物"
+        ],
+        "explain": "后一句用 They 指代这里填入的复数名词；remains 作名词意为“遗迹、残存物”，lay unseen below... 正是说城市遗迹在水下无人得见，与下文被沙层覆盖、后来被考察队发现相衔接。",
+        "trap": "A legends 是“传说”，不会被厚厚的沙子覆盖；B programs“计划”、D surroundings“环境”都不能指代被沙层掩埋的城市遗存。注意 remains 形似复数，此处正作复数名词。",
+        "type": "名词辨析/指代"
+      },
+      {
+        "n": 5,
+        "answer": "B",
+        "options": [
+          "across",
+          "off",
+          "under",
+          "via"
+        ],
+        "cn": [
+          "横跨，穿过",
+          "在……附近的海面上，离……不远处",
+          "在……下面",
+          "经由，通过"
+        ],
+        "explain": "off 表示“在……附近的海面上、离……不远处”，a thick layer of sand off the island of Laconia 即“拉科尼亚岛附近海域的一层厚沙”，说明沙层的位置。",
+        "trap": "A across 意为“横跨”；C under 意为“在岛的下方”，沙层位于岛屿附近的海底，而非岛体之下；D via 表示“经由”，用于路径，不能表示位置。",
+        "type": "介词辨析"
+      },
+      {
+        "n": 6,
+        "answer": "A",
+        "options": [
+          "currents",
+          "rivers",
+          "seasons",
+          "winds"
+        ],
+        "cn": [
+          "水流，洋流",
+          "河流",
+          "季节",
+          "风"
+        ],
+        "explain": "currents 指（海）洋流。不断变化的洋流冲刷海岸、侵蚀屏障，与 climate change 并列，说明帕夫洛佩特里的天然保护屏障为何被破坏。",
+        "trap": "B rivers 与这片爱琴海海域不符；C seasons 季节变化不直接侵蚀水下屏障；D winds 虽也可与 shifting 搭配，但对淹没在水下的屏障侵蚀作用有限，且 shifting currents 是更常见的海洋学搭配。",
+        "type": "名词辨析/搭配"
+      },
+      {
+        "n": 7,
+        "answer": "D",
+        "options": [
+          "elevated",
+          "separated",
+          "comprised",
+          "protected"
+        ],
+        "cn": [
+          "抬高，提升",
+          "分隔，使分开",
+          "包含，由……组成",
+          "保护，防护"
+        ],
+        "explain": "定语从句 that ___ Pavlopetri 修饰 a natural barrier，说明这道天然屏障原本“保护”着遗址；如今屏障被侵蚀，遗址才逐渐暴露。",
+        "trap": "A elevated“抬高”与屏障的作用不符；B separated“分隔”通常接 from，本句没有 from；C comprised“包含、由……组成”逻辑相反，屏障并不包含城市。",
+        "type": "动词辨析/定语从句"
+      },
+      {
+        "n": 8,
+        "answer": "A",
+        "options": [
+          "gathering",
+          "restoring",
+          "updating",
+          "supplying"
+        ],
+        "cn": [
+          "收集，采集",
+          "恢复，修复",
+          "更新，刷新",
+          "供应，提供"
+        ],
+        "explain": "gather data 意为“收集数据”。1967 年的科学考察正在收集数据，以分析海平面变化，to analyze 表目的，was gathering 用过去进行时交代发现遗址时的背景动作。",
+        "trap": "B restoring“恢复数据”讲不通；C updating“更新数据”与首次考察的语境不符；D supplying 意为“提供数据”，但考察队是在采集数据，而不是向他人提供数据。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 9,
+        "answer": "A",
+        "options": [
+          "when",
+          "until",
+          "after",
+          "once"
+        ],
+        "cn": [
+          "当……时；就在这时",
+          "直到……为止",
+          "在……之后",
+          "一旦，一经"
+        ],
+        "explain": "此处是 was doing... when... 句型：考察队正在收集数据，“就在这时”弗莱明偶然发现了沉没的建筑。when 引出突如其来的新情况，是全句的时间转折点。",
+        "trap": "B until 需与否定或持续到某时的动作搭配；C after 会把“发现”推到收集数据之后，失去“考察途中偶遇”的意味；D once“一旦”表条件，与句意不符。",
+        "type": "连词/句式"
+      },
+      {
+        "n": 10,
+        "answer": "D",
+        "options": [
+          "belongings",
+          "resources",
+          "products",
+          "structures"
+        ],
+        "cn": [
+          "财物，随身物品",
+          "资源",
+          "产品，产物",
+          "建筑物，构造物"
+        ],
+        "explain": "前文说考察队绘制遗址地图，后文列举 buildings、courtyards、streets，可见弗莱明发现的是沉没的“建筑物”；structures 可指建筑、构造物。",
+        "trap": "A belongings“财物”、B resources“资源”、C products“产品”都不能概括海底的城市建筑群；注意 structures 在此不是“结构、框架”的抽象义。",
+        "type": "名词辨析/上下文"
+      },
+      {
+        "n": 11,
+        "answer": "D",
+        "options": [
+          "preserve",
+          "select",
+          "display",
+          "examine"
+        ],
+        "cn": [
+          "保护，保存",
+          "挑选，选择",
+          "展示，陈列",
+          "考察，检查"
+        ],
+        "explain": "examine 意为“考察、查看”，与 and map the site 构成先后动作：先实地考察地点，再绘制遗址地图。",
+        "trap": "A preserve“保护”在 1968 年尚未开始，保护是后来考古发掘阶段的事；B select“挑选”与遗址已被发现矛盾；C display“展示”在尚未发掘时无从谈起。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 12,
+        "answer": "A",
+        "options": [
+          "Despite",
+          "Unlike",
+          "Besides",
+          "Among"
+        ],
+        "cn": [
+          "尽管，虽然",
+          "与……不同",
+          "除……之外（还）",
+          "在……之中"
+        ],
+        "explain": "前后构成让步关系：尽管最初的发现令人兴奋，遗址在此后数十年却一直无人问津。Despite 后接名词短语 the exciting initial finds，正好表达这一转折。",
+        "trap": "B Unlike 表对比，需要两个比较对象；C Besides 表递进“除此之外”，与“沉寂数十年”的转折语气相反；D Among 意为“在……之中”，无法连接让步逻辑。",
+        "type": "介词/逻辑关系"
+      },
+      {
+        "n": 13,
+        "answer": "D",
+        "options": [
+          "unchallenged",
+          "unknown",
+          "unorganized",
+          "undisturbed"
+        ],
+        "cn": [
+          "未受挑战的",
+          "未知的，不出名的",
+          "无组织的",
+          "未受打扰的，未被动过的"
+        ],
+        "explain": "lie undisturbed 意为“未受打扰地静置”。遗址虽早已被发现，但考古学家数十年没有回来发掘，undisturbed 准确概括了这种“搁置”状态。",
+        "trap": "B unknown 看似合理，但遗址已被弗莱明发现并测绘，并非“不为人知”；A unchallenged“未受挑战”、C unorganized“无组织的”都不能修饰遗址的搁置状态。",
+        "type": "形容词辨析/逻辑"
+      },
+      {
+        "n": 14,
+        "answer": "C",
+        "options": [
+          "suspended",
+          "transferred",
+          "resumed",
+          "canceled"
+        ],
+        "cn": [
+          "暂停，中止",
+          "转移，调动",
+          "重新开始，恢复",
+          "取消"
+        ],
+        "explain": "resume 意为“重新开始、恢复”。1967—1968 年首次考察后遗址沉寂数十年，2009 年考古学家才“重启”发掘，时间线前后呼应。",
+        "trap": "A suspended“暂停”与 2009 年开始发掘的事实相反；B transferred“转移”需接 from/to 说明去向；D canceled“取消”与后文团队取得勘测成果矛盾。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 15,
+        "answer": "D",
+        "options": [
+          "policies",
+          "theories",
+          "documents",
+          "techniques"
+        ],
+        "cn": [
+          "政策，方针",
+          "理论，学说",
+          "文件，文献",
+          "技术，方法"
+        ],
+        "explain": "techniques and tools 并列，指水下考古的“技术与工具”。自 1960 年代以来，这两方面都取得巨大进步，才使 2009 年的重新勘测成为可能。",
+        "trap": "A policies“政策”、B theories“理论”、C documents“文献”都不能与 tools 并列，说明勘测手段的进步；此处强调的是操作方法层面的革新。",
+        "type": "名词辨析"
+      },
+      {
+        "n": 16,
+        "answer": "C",
+        "options": [
+          "ordered",
+          "provided",
+          "employed",
+          "adjusted"
+        ],
+        "cn": [
+          "订购，命令",
+          "提供，供应",
+          "使用，采用",
+          "调整，调节"
+        ],
+        "explain": "employ 意为“采用、使用”。团队采用机器人技术、声呐测绘和先进图形技术来勘测遗址，employ 后接具体手段，符合语境。",
+        "trap": "A ordered“订购”只涉及购买设备，涵盖不了 sonar mapping、graphics 的使用；B provided“提供”会使主语和宾语关系颠倒；D adjusted“调整”不能表示“运用技术”。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 17,
+        "answer": "B",
+        "options": [
+          "effect",
+          "light",
+          "reality",
+          "mind"
+        ],
+        "cn": [
+          "效果，作用",
+          "光；bring to light 使显露",
+          "现实，实际",
+          "头脑，心智"
+        ],
+        "explain": "bring... to light 是固定短语，意为“使……为人所知、使显露”。2009—2013 年的勘测让这座水下城镇重见天日，与上文 lie unseen 形成对照。",
+        "trap": "A 表示“使生效”的搭配是 bring... into effect，bring to effect 并不地道；C bring... to reality 表达不自然；D bring to mind 意为“想起”，与“发掘显现”无关。",
+        "type": "固定搭配"
+      },
+      {
+        "n": 18,
+        "answer": "B",
+        "options": [
+          "crossed",
+          "connected",
+          "blocked",
+          "altered"
+        ],
+        "cn": [
+          "穿过，横过",
+          "连接，连通",
+          "阻塞，堵住",
+          "改变，改动"
+        ],
+        "explain": "connect 意为“连接”。三条主路把约 50 座长方形建筑连接起来，勾勒出城市布局，符合道路的功能。",
+        "trap": "A crossed“穿过”强调从建筑中间穿过，不符合道路串联建筑的布局；C blocked“阻塞”、D altered“改变”都与道路在城市中的作用不符。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 19,
+        "answer": "B",
+        "options": [
+          "expecting",
+          "suggesting",
+          "predicting",
+          "recalling"
+        ],
+        "cn": [
+          "期待，预料",
+          "表明，暗示",
+          "预测，预言",
+          "回忆起，使想起"
+        ],
+        "explain": "现在分词 suggesting 作结果状语，意为“表明、暗示”。出土大量米诺斯风格织机重锤，这一证据“表明”帕夫洛佩特里曾是繁荣的贸易中心。",
+        "trap": "A expecting“期待”的主语应是人；C predicting“预测”用于尚未发生之事，而此处是对已出土文物的推断；D recalling“使人回想起”主语通常也是人。",
+        "type": "动词辨析/分词"
+      },
+      {
+        "n": 20,
+        "answer": "A",
+        "options": [
+          "robust",
+          "diverse",
+          "marginal",
+          "dependent"
+        ],
+        "cn": [
+          "强劲的，健全的",
+          "多样的，不同的",
+          "边缘的，微弱的",
+          "依赖的，取决于"
+        ],
+        "explain": "robust 意为“强劲的、健全的”，与 thriving trade center 呼应，说明纺织业规模大、发展好；a robust textile industry 是常见搭配。",
+        "trap": "B diverse“多样的”强调种类多，而织机重锤只能说明纺织业发达，不能说明种类；C marginal“边缘的、微弱的”与 thriving 矛盾；D dependent“依赖的”需接 on，且语义不符。",
+        "type": "形容词辨析"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 排序",
+    "en_title": "In Pursuit of Butterflies",
+    "cn_title": "追拍蝴蝶起飞的人",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "英国摄影师安德鲁·富塞克·彼得斯拍摄蝴蝶起飞的故事，以及英国蝴蝶数量下降的生态忧思",
+    "type": "ordering",
+    "directions": "The following paragraphs are given in a wrong order. For questions 41-45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A-H and filling them into the numbered boxes. Paragraphs A, C, and H have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "排序题先看已给定的三段：C 位于第 3 段，H 位于第 5 段，A 位于第 7 段，它们把全文切成几个区间；41、42、43、44、45 从 B、D、E、F、G 五段中选择。先判断这三段各讲什么、在全文里起什么作用，再处理其余五段，抓住三类线索——时间与事件链（人物如何出场、故事如何推进）、问答与指代链（设问之后必有回答，That / These / They 必有所指）、话题复现（同一技术名词、同一评价词反复出现）。每确定一段，就把它与左右邻段试接，读一遍是否顺承。",
+    "paragraphs": {
+      "A": {
+        "en": "Peters likes to photograph butterflies in a landscape, celebrating the beauty of their surroundings as well as the insects themselves. His pictures of a Glanville fritillary rising from the sea-pinks beside the chalk cliffs of Compton Bay on the Isle of Wight are particularly glorious. These take-off shots are even more challenging because they require a wide-angle lens, which means he must be less than 2cm from the butterfly. It's incredibly difficult to get that close to a skittish sun-warmed insect. Unlike some photographers, who \"cheat\" by keeping insects in a fridge to slow them down, Peters refuses to tamper with wild butterflies.",
+        "zh": "彼得斯喜欢在风景中拍摄蝴蝶，既赞美昆虫本身，也赞美它们所处环境之美。他在怀特岛康普顿湾拍摄的那张英国豹蛱蝶从海石竹丛中振翅升起的照片，尤其壮丽。这类“起飞”镜头的难度更大，因为需要使用广角镜头，这意味着他必须离蝴蝶不到两厘米。要如此靠近一只晒得暖洋洋、极易受惊的昆虫，实在难上加难。有些摄影师靠把昆虫放进冰箱、让它们行动迟缓来“作弊”，彼得斯却不同，他拒绝干扰野生蝴蝶。"
+      },
+      "B": {
+        "en": "Peters' signature shot is a butterfly \"take-off\", showing the multiple wing-beats of one butterfly in one frame as it lifts off from a flower. How does he capture it? Technology helps. A typical digital SLR camera shoots 20 frames a second. He uses a high-speed OM System which shoots 120 frames a second.",
+        "zh": "彼得斯的招牌作品是蝴蝶“起飞”：在同一张照片里呈现一只蝴蝶从花朵上起飞时的多次振翅。他是怎么拍到的？技术帮了大忙。一台普通数码单反相机每秒可拍 20 帧，而他使用的是每秒 120 帧的高速 OM System 相机。"
+      },
+      "C": {
+        "en": "Britain has relatively few butterfly species compared with mainland Europe and 80% are in decline, mostly because intensive chemical farming has reduced many species to tiny fragments of habitat and small nature reserves. Global heating is benefiting some species but others are too isolated to find suitable new habitat, and gardening habits — paving over gardens and using pesticides — aren't helping either. Butterflies may not pollinate as many plants as wild bees and hoverflies, but because British butterflies are the best-studied group of insects in the world, they are an extremely useful indicator of the wider declines in flying insects.",
+        "zh": "与欧洲大陆相比，英国的蝴蝶种类相对较少，其中 80% 正在减少，主要原因是集约化的化学农业把许多物种逼退到零碎的栖息地和小型自然保护区。全球变暖让一些物种受益，但另一些物种因过于孤立而找不到合适的新栖息地；人们的园艺习惯——把花园铺成硬地、使用杀虫剂——也雪上加霜。蝴蝶为植物传粉的作用或许不如野蜂和食蚜蝇，但由于英国蝴蝶是世界上研究得最透彻的昆虫类群，它们能极好地指示飞行昆虫的整体减少趋势。"
+      },
+      "D": {
+        "en": "Five years ago, at summer's end, Andrew Fusek Peters was diagnosed with bowel cancer. \"I was waiting for surgery, feeling really ill, sitting in my garden. It was amazing weather and there were painted lady butterflies everywhere,\" he says. \"They were a symbol of fragile life, of hope and defiance, and something appealed to my soul.\"",
+        "zh": "五年前，夏末时节，安德鲁·富塞克·彼得斯被诊断出肠癌。“我当时正等着做手术，身体很难受，坐在自家花园里。天气好极了，到处是小红蛱蝶，”他说，“它们是脆弱生命的象征，是希望与抗争的象征，某种东西触动了我的灵魂。”"
+      },
+      "E": {
+        "en": "That makes it sound easy, and artificial, but Peters insists it is still a massive challenge. He typically takes between 10,000 and 20,000 shots to get one butterfly take-off sequence in focus. At such high shutter speeds, the depth of field is tiny, and as butterflies do not fly in a straight line they swiftly flutter out of focus. As well as thousands of attempts, it takes patience and fieldcraft to anticipate a butterfly's likely flight-line — and catch it — in focus.",
+        "zh": "这听起来轻松，也显得人工，但彼得斯坚称这仍是一项巨大的挑战。通常他要拍上一万到两万张照片，才能得到一组对焦准确的蝴蝶起飞序列。在如此高的快门速度下，景深极小；而蝴蝶不会沿直线飞行，很快便飞出焦点。除了成千上万次尝试，还需要耐心和野外拍摄技巧，去预判蝴蝶可能的飞行路线，并在焦点之内把它捕捉下来。"
+      },
+      "F": {
+        "en": "So what's the appeal of a long, sweaty day in pursuit of an elusive, fast-moving wild animal? \"It just feels bloody brilliant,\" says Peters. \"If I've had a full day of good encounters with butterflies, met interesting butterfly people and I've got some good shots, that becomes a vault in my spiritual bank. It's a happy feeling.\"",
+        "zh": "那么，花一整天汗流浃背地追寻一只难以捉摸、动作迅捷的野生动物，究竟有什么吸引力？“就是感觉特别棒，”彼得斯说，“如果我一整天都与蝴蝶有美好的相遇，遇到有趣的观蝶人，还拍到了一些好照片，那就像在我精神的银行里存了一笔钱。那是一种幸福的感觉。”"
+      },
+      "G": {
+        "en": "A children's author and poet who had become a keen amateur photographer, Peters watched the butterflies and idly wondered if he could capture them in flight. It swiftly became an obsession as he recovered from a successful operation to remove the cancer. In recent summers, he has travelled the length and breadth of Britain to photograph all 58 native species of butterfly. Now the fruits of those summers have been published in a beautiful new book.",
+        "zh": "彼得斯是一位儿童文学作家和诗人，后来成了热心的业余摄影师。他观察着这些蝴蝶，闲来便想，自己能不能把它们飞行的瞬间拍下来。在成功接受切除肿瘤的手术后，这份念头迅速变成了一种痴迷。近几个夏天，他走遍英国各地，拍摄了全部 58 种本土蝴蝶。如今，这些夏天结出的果实已结集成一本精美的新书出版。"
+      },
+      "H": {
+        "en": "A butterfly takes off so quickly it is still impossible to react quickly enough to capture that take-off but if he half-presses the shutter, the camera saves the 70 previous frames before the moment he actually takes the picture. \"It's time travel, so I don't miss the moment of take-off,\" he says. After he's captured the butterfly taking off, he layers 10 to 15 frames together in Photoshop.",
+        "zh": "蝴蝶起飞太快，人仍然来不及反应、无法拍下那个起飞的瞬间；但如果他半按快门，相机就会保存下他真正按下快门前的那 70 帧画面。“这就像时间旅行，所以我不会错过起飞的瞬间，”他说。拍下蝴蝶起飞后，他会在 Photoshop 里把 10 到 15 帧画面叠加在一起。"
+      }
+    },
+    "fixed_note": "A、C、H 为已给定的三段，位置分别是：C 在第 3 段（42 之后、43 之前），H 在第 5 段（43 之后、44 之前），A 在第 7 段（44 之后、45 之前）。完整顺序为 D—G—C—B—H—E—A—F，故 41—D、42—G、43—B、44—E、45—F。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "D",
+        "explain": "D 以 Five years ago 开篇，交代人物（Andrew Fusek Peters）、时间与事件（确诊肠癌），并写他在花园里看到成群小红蛱蝶，把它们视为“脆弱生命、希望与抗争”的象征。这一段没有任何指代上文的内容，却提供了全文的起点和情感动机，因此只能放在第 1 段。",
+        "clue": "Five years ago ... diagnosed with bowel cancer ... painted lady butterflies everywhere → 人物、时间、情感起点；G 紧接 Peters watched the butterflies"
+      },
+      {
+        "n": 42,
+        "answer": "G",
+        "explain": "G 开头用同位语 A children's author and poet... 补充介绍彼得斯，随后 watched the butterflies 直接承接 D 中花园里的蝴蝶；由“看着蝴蝶”到“想拍下它们飞行的瞬间”，再到走遍英国拍摄 58 种蝴蝶、结集出书，完成了从缘起到成果的过渡。",
+        "clue": "watched the butterflies → wondered if he could capture them in flight → obsession → all 58 native species → new book"
+      },
+      {
+        "n": 43,
+        "answer": "B",
+        "explain": "C 末句说蝴蝶是飞行昆虫整体减少的“极好指示物”，B 把话题拉回彼得斯：点明他的招牌作品是蝴蝶“起飞”连拍，并用设问 How does he capture it? 引出技术手段（每秒 120 帧），与 H 对相机操作的说明构成一问一答。",
+        "clue": "signature shot ... take-off ... How does he capture it? Technology helps ... 120 frames a second"
+      },
+      {
+        "n": 44,
+        "answer": "E",
+        "explain": "H 讲了半按快门预存 70 帧、再用 Photoshop 叠加 10 到 15 帧；E 以 That makes it sound easy, and artificial 回指这套技术，随即转折，强调实拍仍是巨大挑战：要拍一两万张、景深极小、蝴蝶飞行路线难测。H 与 E 构成“技术—难度”的完整链条。",
+        "clue": "That makes it sound easy, and artificial, but ... still a massive challenge ... 10,000 and 20,000 shots"
+      },
+      {
+        "n": 45,
+        "answer": "F",
+        "explain": "A 以彼得斯拒绝用冰箱冻虫、不干扰野生蝴蝶作结，F 顺势用 So what's the appeal of a long, sweaty day...? 设问，并以“就是感觉特别棒”“精神的银行里存了一笔钱”收束全文，回答他为何甘愿辛苦追寻。",
+        "clue": "So what's the appeal ... It just feels bloody brilliant ... a vault in my spiritual bank"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "Citizen Science",
+    "cn_title": "公民科学：让科学走出机构",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "公民科学的兴起：公众参与如何推动科学民主化与创新",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. (10 points)",
+    "intro": "本次翻译取材于一篇讨论公民科学的短文。五个画线句分别考查：see + 宾语 + 宾补与 where 定语从句（46）；形式主语 it 与两个 by 方式状语（47）；such as 后并列动名词及 make...into... 结构（48）；现在分词 seeking 作后置定语及其中的并列不定式（49）；四个并列谓语与 without 介词短语（50）。翻译时先拎出主干，再把定语、状语按中文习惯拆分或前置。",
+    "paragraphs": [
+      {
+        "en": "Innovation and research have relied on public participation in science for centuries. It was a musician who discovered the planet Uranus in the 18th century by making his own telescope with mirrors composed of copper and tin. [[46]]Recent decades have seen science move into a convention where engagement in the subject can only be done through institutions, such as a university.[[/46]] Citizen science provides an opportunity for greater public engagement and the democratisation of science.",
+        "zh": "几个世纪以来，创新与研究一直依赖于公众对科学的参与。18 世纪，正是一位音乐家自己动手制作了以铜和锡为镜面的望远镜，从而发现了天王星。近几十年来，科学逐渐形成一种惯例：要参与这门学科，只能通过大学等机构来进行。公民科学则为公众更广泛地参与科学、实现科学民主化提供了机会。"
+      },
+      {
+        "en": "In the information era, large data sets, small teams and financial restrictions have slowed scientific process. [[47]]But by utilising the natural curiosity of the general public it is possible to overcome many of these challenges by engaging non-scientists directly in the research process.[[/47]] Anyone can be a citizen scientist, regardless of age, nationality or academic experience. You don't even need any formal training, just an inquisitive mind and the enthusiasm to join one of the thousands of citizen science projects to generate new knowledge and the means to understand a genuine scientific outcome.",
+        "zh": "在信息时代，庞大的数据集、小规模的团队和资金限制拖慢了科学研究的进程。但是，利用公众与生俱来的好奇心，让非科学家直接参与研究过程，就有可能克服其中的许多难题。任何人无论年龄、国籍或学术背景，都可以成为公民科学家。你甚至不需要任何正规训练，只需一颗好奇的心，以及加入成千上万个公民科学项目、去生成新知识并掌握理解真实科学成果之方法的热情。"
+      },
+      {
+        "en": "[[48]]Scientists have employed a variety of ways to engage the general public in their research, such as making data analysis into an online game or sample collection into a smartphone application.[[/48]] They've implored citizens to help with bug counting and categorising cancer cells, and even identifying distant galaxies.",
+        "zh": "科学家采用了多种方式让公众参与他们的研究，例如把数据分析做成网络游戏，或把样本采集变成手机应用。他们恳请公众帮助统计昆虫数量、对癌细胞进行分类，甚至辨认遥远的星系。"
+      },
+      {
+        "en": "This form of accessible science means that great minds are able to join the race to create and develop projects with the potential to change the world. A citizen science-based approach can extend the field of vision and include different ideas and different brains to problem-solve and create, making innovation faster and more effective.",
+        "zh": "这种易于参与的科学形式意味着，有才智的人都能加入这场创建和开发有望改变世界的项目的竞赛。以公民科学为基础的方法能够拓宽视野，吸纳不同的想法和不同的头脑来解决问题、进行创造，从而使创新更快、更有效。"
+      },
+      {
+        "en": "The rise of citizen science has grown alongside the rise of do-it-yourself biology laboratories around the world. [[49]]These groups of people are part of a rapidly expanding biotechnological social movement of citizen scientists and professional scientists seeking to take discovery out of institutions and put it into the hands of anyone with the enthusiasm.[[/49]]",
+        "zh": "公民科学的兴起与世界各地“自己动手”生物实验室的兴起相伴而行。这些群体属于一场迅速扩大的生物技术社会运动，参与者包括公民科学家和专业科学家，他们力图把发现带出机构，交到任何怀有热情的人手中。"
+      },
+      {
+        "en": "There are around 40 official do-it-yourself biology centres across the globe in locations including Paris, London, Sydney, and Tel Aviv. [[50]]They pool resources, collaborate, think outside the box, and find solutions and ways around obstacles to explore science for the sake of science without the traditional boundaries of working inside a formal setting.[[/50]] So is it time to take the Petri dish out of the laboratory and into the garage?",
+        "zh": "全球约有 40 个官方的“自己动手”生物中心，分布在巴黎、伦敦、悉尼和特拉维夫等地。它们汇集资源、开展合作、打破常规思维，寻找解决方案和绕过障碍的办法，为科学而探索科学，不受在正式机构内工作的传统界限束缚。那么，现在是不是该把培养皿从实验室搬进车库了？"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "Recent decades have seen science move into a convention where engagement in the subject can only be done through institutions, such as a university.",
+        "core": "Recent decades have seen science move into a convention.",
+        "structure": "主句为 Recent decades have seen science move into a convention，see 后接“宾语 + 不带 to 的不定式”作宾补；where engagement in the subject can only be done through institutions 是定语从句，修饰 convention；such as a university 举例说明 institutions。",
+        "key": "see 见证、经历（主语为时间）；move into 进入、形成；convention 惯例、常规（不是“会议”）；engagement in the subject 参与这门学科；institution 机构（此处指大学、研究所等）；democratisation 民主化。",
+        "translation": "近几十年来，科学逐渐形成一种惯例：要参与这门学科，只能通过大学等机构来进行。",
+        "pitfall": "convention 在此不是“大会、会议”，而是“惯例、常规”；engagement 不是“订婚”，而是“参与、投入”；have seen science move 是“见证科学进入……”，不要译成“看到了科学并且移动”；where 从句修饰 convention，翻译时可拆成“在这种惯例下……”。"
+      },
+      "47": {
+        "en": "But by utilising the natural curiosity of the general public it is possible to overcome many of these challenges by engaging non-scientists directly in the research process.",
+        "core": "it is possible to overcome many of these challenges.",
+        "structure": "But 引导转折；by utilising the natural curiosity of the general public 与 by engaging non-scientists directly in the research process 是两个方式状语，前者说明凭借什么，后者说明通过什么途径；it 为形式主语，真正的主语是 to overcome...；engage sb in sth 意为“使某人参与某事”。",
+        "key": "utilise 利用；natural curiosity 天生的好奇心；the general public 公众；overcome 克服；engage non-scientists directly in the research process 让非科学家直接参与研究过程；challenge 难题。",
+        "translation": "但是，利用公众与生俱来的好奇心，让非科学家直接参与研究过程，就有可能克服其中的许多难题。",
+        "pitfall": "两个 by 短语并非同义重复：前一个 by 说明凭借什么，后一个 by 说明通过什么途径，译文要体现层次；it is possible to... 是形式主语句，不能译成“它是可能的”；these challenges 指上文的数据集庞大、团队规模小、经费受限，不能脱离上下文泛译。"
+      },
+      "48": {
+        "en": "Scientists have employed a variety of ways to engage the general public in their research, such as making data analysis into an online game or sample collection into a smartphone application.",
+        "core": "Scientists have employed a variety of ways to engage the general public in their research.",
+        "structure": "主句为 Scientists have employed a variety of ways；to engage... 为目的状语；such as 后接两个并列的动名词短语 making data analysis into an online game 与 (making) sample collection into a smartphone application，第二个 making 承前省略；into 表示“变成”。",
+        "key": "employ 采用、使用；a variety of 多种多样的；engage sb in sth 使某人参与某事；data analysis 数据分析；sample collection 样本采集；smartphone application 手机应用。",
+        "translation": "科学家采用了多种方式让公众参与他们的研究，例如把数据分析做成网络游戏，或把样本采集变成手机应用。",
+        "pitfall": "such as 后两个动名词共用一个 making，第二个 making 省略，翻译时要把“把……变成……”补出来；employ 在此不是“雇用”；engage 后接 in，不能只译成“吸引公众”，要保留“参与”的含义；into 是“变成”，不是“进入”。"
+      },
+      "49": {
+        "en": "These groups of people are part of a rapidly expanding biotechnological social movement of citizen scientists and professional scientists seeking to take discovery out of institutions and put it into the hands of anyone with the enthusiasm.",
+        "core": "These groups of people are part of a rapidly expanding biotechnological social movement.",
+        "structure": "主句为 These groups of people are part of a... social movement；of citizen scientists and professional scientists 是介词短语，说明这场运动的参与者；seeking to take discovery out of institutions and put it into the hands of anyone with the enthusiasm 是现在分词短语作后置定语，修饰两类科学家，其中 take... out of... and put... into... 为并列结构。",
+        "key": "be part of 是……的一部分；rapidly expanding 迅速扩大的；biotechnological 生物技术的；social movement 社会运动；seek to 力图、试图；take discovery out of institutions 把发现带出机构；put it into the hands of 把它交到……手中；anyone with the enthusiasm 任何怀有热情的人。",
+        "translation": "这些群体属于一场迅速扩大的生物技术社会运动，参与者包括公民科学家和专业科学家，他们力图把发现带出机构，交到任何怀有热情的人手中。",
+        "pitfall": "seeking 的逻辑主语是 citizen scientists and professional scientists，不是 social movement，翻译时要把这层关系交代清楚；put it into the hands of... 中的 it 指 discovery；biotechnological 修饰 social movement，不能译成“生物技术运动的社会性”。"
+      },
+      "50": {
+        "en": "They pool resources, collaborate, think outside the box, and find solutions and ways around obstacles to explore science for the sake of science without the traditional boundaries of working inside a formal setting.",
+        "core": "They pool resources, collaborate, think outside the box, and find solutions and ways around obstacles.",
+        "structure": "主句由四个并列谓语构成：pool、collaborate、think、find；to explore science for the sake of science 是目的状语；without the traditional boundaries of working inside a formal setting 是介词短语作状语，说明探索科学时不受何种界限约束，其中 working inside a formal setting 作 of 的宾语。",
+        "key": "pool 汇集、集中（资源）；collaborate 合作；think outside the box 打破常规思维、跳出框框思考；ways around obstacles 绕过障碍的办法；for the sake of 为了……本身；boundary 界限；formal setting 正式机构、正式环境。",
+        "translation": "它们汇集资源、开展合作、打破常规思维，寻找解决方案和绕过障碍的办法，为科学而探索科学，不受在正式机构内工作的传统界限束缚。",
+        "pitfall": "pool 在此是动词“汇集”，不是“水池”；think outside the box 是习语“跳出固有思维”，不能直译“在盒子外面思考”；for the sake of science 是“为科学本身”，不是“为了科学的利益”；without... 修饰的是 explore science，不要误读成“没有正式机构的工作”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "An email & a table essay",
+    "cn_title": "回复邮件 + 表格作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "回复同学 Paul 关于手艺人进校园的邮件；全国居民耐用消费品拥有量表格所反映的生活水平提高与消费升级",
+    "intro": "2025 年小作文要求回复同学 Paul 的邮件：他听说你要邀请年轻手艺人到校园展示创新手工艺，想知道展示内容，并表示愿意帮忙。大作文为表格作文：给出 2014、2017、2020、2023 年全国居民平均每百户年末空调、洗衣机、电冰箱的拥有量，要求描述表格、解释寓意并发表评论，主题落在生活水平提高与消费升级上。",
+    "partA": {
+      "title": "Part A · 电子邮件（回复）",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Read the following email from your classmate Paul and write him a reply.\n\nDear Li Ming,\nI was really excited to hear that you'd invite some young craftsmen to demonstrate their innovative craft-making on campus. May I know more about what they'll show? Also, I'd like to help with your preparation work. Please let me know what I can do.\n\nYours,\nPaul\n\nWrite your answer in about 100 words on the ANSWER SHEET. Do not use your own name in your email; use \"Li Ming\" instead. (10 points)",
+      "prompt_zh": "阅读你同学保罗发来的以下邮件，并给他写一封回信。\n\n亲爱的李明：\n听说你要邀请一些年轻手艺人到校园里展示他们的创新手工艺，我特别兴奋。能多告诉我一些他们将展示什么吗？另外，我也想为你的准备工作出一份力。请告诉我能做些什么。\n\n你的\n保罗\n\n请在答题卡上写约 100 词。不要在邮件中使用自己的真实姓名，用“Li Ming”代替。",
+      "sample": "Dear Paul,\n\nGreat to hear from you! The young craftsmen will give live demonstrations in the art centre next Wednesday afternoon. They will show how traditional skills can be reinvented: bamboo weaving turned into lamp shades, hand-dyed cloth printed with digital patterns, and clay figurines modelled with 3D-printed moulds. Each session lasts about 30 minutes, and visitors can try a simple piece themselves.\n\nYour help would be a big plus. Could you design the posters and take photos during the event? We also need two people at the sign-in desk. Let me know which part you prefer.\n\nThanks a lot!\nLi Ming",
+      "sample_zh": "亲爱的保罗：\n\n很高兴收到你的来信！这些年轻手艺人将于下周三下午在艺术中心进行现场演示。他们会展示传统技艺如何被重新创造：竹编变成灯罩，手工染布印上数码图案，泥塑人偶借助 3D 打印模具成型。每场演示约 30 分钟，参观者还可以亲手尝试做一件简单的小作品。\n\n你的帮助会非常有用。你能设计海报并在活动期间拍照吗？我们还需要两个人在签到台帮忙。请告诉我你更愿意做哪一项。\n\n多谢！\n李明",
+      "structure": [
+        [
+          "称呼",
+          "Dear Paul,"
+        ],
+        [
+          "回应来信、交代活动时间地点",
+          "Great to hear from you! The young craftsmen will give live demonstrations in the art centre next Wednesday afternoon."
+        ],
+        [
+          "说明展示内容（创新手工艺）",
+          "They will show how traditional skills can be reinvented: bamboo weaving turned into lamp shades, hand-dyed cloth printed with digital patterns, and clay figurines modelled with 3D-printed moulds."
+        ],
+        [
+          "补充活动安排",
+          "Each session lasts about 30 minutes, and visitors can try a simple piece themselves."
+        ],
+        [
+          "回应“愿意帮忙”，提出具体任务",
+          "Your help would be a big plus. Could you design the posters and take photos during the event? We also need two people at the sign-in desk."
+        ],
+        [
+          "询问意愿、致谢与落款",
+          "Let me know which part you prefer. Thanks a lot! Li Ming"
+        ]
+      ],
+      "expressions": [
+        "Great to hear from you!",
+        "The young craftsmen will give live demonstrations of...",
+        "They will show how traditional skills can be reinvented.",
+        "bamboo weaving turned into lamp shades",
+        "hand-dyed cloth printed with digital patterns",
+        "Each session lasts about 30 minutes.",
+        "Visitors can try a simple piece themselves.",
+        "Your help would be a big plus.",
+        "Could you design the posters and take photos during the event?",
+        "Let me know which part you prefer."
+      ],
+      "traps": [
+        "这是回信，不是另起一封信：开头要回应 Paul 的来信（Great to hear from you），并逐一回答他的两个问题——展示什么、他能帮什么，缺一不可。",
+        "展示内容要具体：至少写出两三项手工艺项目，并体现“创新”（传统技艺 + 新设计或新技术），不能只写 some traditional crafts 一带而过。",
+        "约100词，两个问题都要答，但每项一两句即可；不要写成活动策划书，也不必介绍手艺人的生平。",
+        "语气应友好、口语化，符合同学之间的邮件；署名必须是 Li Ming，结尾可用 Thanks a lot / Best wishes。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 表格作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160-200 words based on the following table. In your essay, you should 1) describe the table briefly, 2) explain its intended meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据下面的表格写一篇 160—200 词的短文。文中应：1）简要描述表格；2）解释其寓意；3）给出你的评论。请工整地写在答题卡上。",
+      "picture": {
+        "src": "../assets/writing/2025.png",
+        "caption": "近年来全国居民平均每百户年末主要耐用消费品拥有量（单位：台）",
+        "note": "表格统计 2014、2017、2020、2023 年全国居民平均每百户年末主要耐用消费品的拥有量，单位为台。空调由 75.2 台升至 145.9 台，增幅最大，已超过每户一台；洗衣机由 83.7 台升至 98.2 台，电冰箱由 85.5 台升至 103.4 台，二者稳步增长并先后突破百台。三类家电共同指向生活水平提高与消费升级：从“有没有”到“好不好”，再到追求舒适与品质。"
+      },
+      "sample": "The table shows the average number of major durable consumer goods owned per 100 households in China at the end of 2014, 2017, 2020 and 2023. Air conditioners increased most dramatically, from 75.2 to 145.9, while washing machines and refrigerators rose more steadily, from 83.7 to 98.2 and from 85.5 to 103.4 respectively.\n\nThese figures reflect the steady improvement of living standards. A generation ago, a refrigerator or a washing machine was a luxury that an ordinary family might save for years to buy; today they are basic equipment in nearly every home. The surge in air conditioners is particularly telling. It shows not only higher incomes but also a growing demand for comfort and a higher quality of life. Behind the numbers lie rapid urbanisation, a more reliable power supply and a mature home-appliance industry that has brought prices within reach.\n\nIn my view, such upgrading means more than spending more. It means families can devote a larger share of their income to convenience, health and experience. At the same time, it reminds us to favour energy-efficient models, so that a better life does not come at the expense of the environment.",
+      "sample_zh": "表格呈现了 2014、2017、2020 和 2023 年末中国每百户家庭平均拥有的主要耐用消费品数量。空调增幅最大，从 75.2 台升至 145.9 台；洗衣机和电冰箱的上升则较为平稳，分别从 83.7 台升至 98.2 台、从 85.5 台升至 103.4 台。\n\n这些数字反映出生活水平的稳步提高。几十年前，一台电冰箱或洗衣机还是普通家庭需要攒钱多年才能买到的奢侈品；如今它们几乎已是家家户户的基本配置。空调的激增尤其说明问题：它不仅意味着收入提高，也意味着人们对舒适与更高生活品质的追求。数字背后是快速城镇化、更可靠的电力供应，以及把价格拉低到普通家庭可承受范围的成熟家电产业。\n\n在我看来，这样的消费升级不只是多花钱，而是家庭能把更大比例的收入用于便利、健康与体验。与此同时，它也提醒我们优先选择节能产品，让更好的生活不以环境负担为代价。",
+      "structure": [
+        [
+          "第一段·描述表格",
+          "The table shows the average number of major durable consumer goods owned by every 100 households in China at the end of 2014, 2017, 2020 and 2023. Air conditioners increased most dramatically, from 75.2 to 145.9, while washing machines and refrigerators rose more steadily..."
+        ],
+        [
+          "第二段·解释寓意",
+          "These figures reflect the steady improvement of living standards... a luxury that an ordinary family might save for years to buy... The surge in air conditioners shows higher incomes and a growing demand for comfort... Behind the numbers lie urbanisation, a reliable power supply and a mature home-appliance industry."
+        ],
+        [
+          "第三段·发表评论",
+          "Consumption upgrading means more than spending more money... families devote a larger share of their income to convenience, health and experience... favour energy-efficient models, so that a better life does not come at the expense of the environment."
+        ]
+      ],
+      "expressions": [
+        "The table shows / presents...",
+        "rose sharply / increased most dramatically from... to...",
+        "rose more steadily / climbed modestly",
+        "These figures reflect the steady improvement of living standards.",
+        "a luxury that an ordinary family might save for years to buy",
+        "The surge in... is particularly telling.",
+        "Behind the numbers lie...",
+        "consumption upgrading",
+        "devote a larger share of income to...",
+        "come at the expense of..."
+      ],
+      "traps": [
+        "这是表格作文，不是图画作文：开头应点明表格的主题、统计口径（每百户年末拥有量）和年份，不要虚构图中人物或对话。",
+        "描述数据要“简要”：不必把 12 个数字全部罗列，抓住空调增幅最大、洗衣机与电冰箱稳步上升这两条主线，用 from... to... 概括即可。",
+        "第二段要解释“意味着什么”，不能只是把数字再抄一遍；应落到生活水平提高、消费升级以及家电普及的原因（收入、城镇化、供给）上。",
+        "第三段要有自己的评论，可辩证：肯定消费升级，同时提醒节能环保，避免只写“生活越来越好”。",
+        "160–200 词，注意三段比例：描述约 50 词，分析约 80 词，评论约 50 词；不要写成数据报告。"
+      ]
+    }
+  }
+}

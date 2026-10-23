@@ -1,0 +1,23 @@
+# 构建上下文只需要 frontend/ 静态产物
+.git
+.gitignore
+**/.DS_Store
+**/._*
+.agents/
+.claude/
+.opencode/
+READ/
+temp/
+exam-data/
+真题/
+frontend/src/
+frontend/build.py
+frontend/README.md
+.run_english.pid
+.run_english.log
+Dockerfile
+DOCKER.md
+compose.yaml
+.env
+.env.example
+run_english.sh

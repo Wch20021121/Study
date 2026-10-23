@@ -1,0 +1,693 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "朋友之间的基因相似性：全基因组研究的发现与解释",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "文章从“朋友之间共享约1%的基因、亲缘程度堪比第四代表亲”这一研究结论切入，依次介绍全基因组分析的样本设计、遗传学家的评论、嗅觉基因而非免疫基因的相似性，以及相似基因进化更快的发现，最后提醒读者：这些发现并不能简单归因于族裔背景。做题时抓住研究报道的语篇链条（结论—方法—解释—推论），注意 what 引导的表语从句、conducted on、both samples、there is more to it、rather than、see that 等固定表达。",
+    "passage": [
+      {
+        "en": "Though not biologically related, friends are as \"related\" as fourth cousins, sharing about 1% of genes. That is {{1}} a study, published from the University of California and Yale University in the Proceedings of the National Academy of Sciences, has {{2}}. The study is a genome-wide analysis conducted {{3}} 1,932 unique subjects which {{4}} pairs of unrelated friends and unrelated strangers. The same people were used in both {{5}}.",
+        "zh": "尽管没有血缘关系，朋友之间的“亲缘”程度却堪比第四代表亲，彼此共享约1%的基因。这正是加州大学和耶鲁大学发表在《美国国家科学院院刊》上的一项研究所得出的结论。该研究是一项全基因组分析，以1,932名互不重复的受试者为对象，比较了没有亲缘关系的朋友对与没有亲缘关系的陌生人对。两个样本使用的是同一批人。"
+      },
+      {
+        "en": "While 1% may seem {{6}}, it is not so to a geneticist. As James Fowler, professor of medical genetics at UC San Diego, says, \"Most people do not even {{7}} their fourth cousins but somehow manage to select as friends the people who {{8}} our kin.\"",
+        "zh": "1%也许显得微不足道，但在遗传学家眼中并非如此。正如加州大学圣迭戈分校医学遗传学教授詹姆斯·福勒所说：“大多数人甚至不认识自己的第四代表亲，却不知怎么总能挑中那些与我们的亲属相像的人当朋友。”"
+      },
+      {
+        "en": "The study {{9}} found that the genes for smell were something shared in friends but not genes for immunity. Why this similarity exists in smell genes is difficult to explain, for now. {{10}}, as the team suggests, it draws us to similar environments but there is more {{11}} it. There could be many mechanisms working together that {{12}} us in choosing genetically similar friends {{13}} \"functional kinship\" of being friends with {{14}}. One of the remarkable findings of the study was that the similar genes seem to be evolving {{15}} than other genes. Studying this could help {{16}} why human evolution picked pace in the last 30,000 years, with social environment being a major {{17}} factor.",
+        "zh": "该研究还发现，朋友之间共同拥有的是嗅觉基因，而不是免疫基因。目前还难以解释嗅觉基因为何会有这种相似性。也许正如研究团队所推测的，这种相似性把我们引向相似的环境，但其中还有更多缘由。可能有多种机制共同作用，驱使我们去选择基因相似的朋友，而不是为了得到好处而与“有用的人”结成所谓“功能性亲缘关系”。这项研究的一个引人注目的发现是，相似的基因似乎比其他基因进化得更快。研究这一点有助于理解人类进化为何在过去3万年里加快了步伐，而社会环境是一个重要的促成因素。"
+      },
+      {
+        "en": "The findings do not simply explain people's {{18}} to befriend those of similar {{19}} backgrounds, say the researchers. Though all the subjects were drawn from a population of European extraction, care was taken to {{20}} that all subjects, friends and strangers, were taken from the same population.",
+        "zh": "研究人员说，这些发现并不只是解释了人们为何倾向于与族裔背景相似的人交朋友。尽管所有受试者都取自欧洲血统的人群，研究仍谨慎地确保所有受试者——无论朋友还是陌生人——都来自同一人群。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "D",
+        "options": [
+          "when",
+          "why",
+          "how",
+          "what"
+        ],
+        "cn": [
+          "当……时",
+          "为什么",
+          "如何",
+          "什么"
+        ],
+        "explain": "空格所在句 That is ___ a study ... has ___ 中，is 后需要引导表语从句的连接词，且该词要在从句中作 has 的宾语，即 a study has concluded what。what 既连接从句又充当宾语，意为“这正是……所得出的结论”。A when、B why、C how 都是疑问副词，不能作 concluded 的宾语；若选入，句意会变成“这就是研究何时/为何/如何……”，与上文“朋友共享约1%基因”这一具体结论对不上。",
+        "trap": "C how 受汉语“这就是研究如何得出的”影响，看上去通顺；但从句缺的是宾语，how 无法填补，而且语义重心在“结论是什么”。",
+        "type": "名词性从句/连接词"
+      },
+      {
+        "n": 2,
+        "answer": "B",
+        "options": [
+          "defended",
+          "concluded",
+          "withdrawn",
+          "advised"
+        ],
+        "cn": [
+          "为……辩护",
+          "得出结论",
+          "撤回",
+          "建议"
+        ],
+        "explain": "主语 a study 与过去分词短语 published... 一起说明“一项发表在某刊上的研究”，谓语 has ___ 后省略了宾语 what（即上句的结论）。conclude 表示“得出结论”，has concluded 与 That is what... 构成“这正是……所得出的结论”。A defended“为……辩护”需要明确辩护的对象，而研究不会为“朋友相似”这一事实辩护；C withdrawn“撤回”与 published 语义矛盾；D advised“建议”不能以 what 为宾语表示“建议某个结论”。",
+        "trap": "C withdrawn 会让人联想“论文发表后又被撤回”，但 published 与 has withdrawn 相互冲突，而且撤回的不是结论。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 3,
+        "answer": "C",
+        "options": [
+          "for",
+          "with",
+          "on",
+          "by"
+        ],
+        "cn": [
+          "为了",
+          "与……一起",
+          "对……，以……为对象",
+          "由，通过"
+        ],
+        "explain": "an analysis conducted ___ 1,932 unique subjects 意为“以1,932名受试者为对象进行的分析”。conduct an analysis on sb./sth. 是固定搭配，on 表示分析所作用的对象。A for 表目的，B with 表伴随，D by 表施动者；若用 by，句意会变成“由受试者进行的分析”，与主语 analysis 矛盾。",
+        "trap": "D by 受被动语态“由……进行”的思维影响最大，但 by 后应接动作的发出者，而不是被研究的对象。",
+        "type": "介词搭配"
+      },
+      {
+        "n": 4,
+        "answer": "A",
+        "options": [
+          "compared",
+          "sought",
+          "separated",
+          "connected"
+        ],
+        "cn": [
+          "比较",
+          "寻找",
+          "分开",
+          "连接"
+        ],
+        "explain": "which 引导定语从句修饰 a genome-wide analysis，说明这项分析“比较了”互不相关的朋友对与陌生人对。compare 与 pairs of... and... 搭配，正对应研究设计中的对照组。B sought“寻找”与 pairs 搭配不当；C separated“分开”与“比较两组人”相反，且下文说 the same people were used in both samples，重点不在分离；D connected“连接”无法说明研究如何得出基因相似性。",
+        "trap": "C separated 受“把两类人分开”的直觉影响，但研究的关键动作是对照比较，而不是分离。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 5,
+        "answer": "C",
+        "options": [
+          "tests",
+          "objects",
+          "samples",
+          "examples"
+        ],
+        "cn": [
+          "测试",
+          "对象",
+          "样本",
+          "例子"
+        ],
+        "explain": "The same people were used in both ___ 指前文两组比较（朋友对与陌生人对）使用的是同一批人，即两个“样本”。在统计与实验语境中，sample 指从总体中抽取的研究对象，both samples 与 genome-wide analysis 的专业语域一致。A tests“测试”指实验程序，人是被测试者而非测试本身；B objects“对象”虽可指研究对象，但 both objects 不表示两次抽样；D examples“例子”更不符合学术语境。",
+        "trap": "B objects 有“研究对象”之义，容易被当成 sample 的同义词；但此处强调的是两次抽样的“样本”，且与 both 搭配的是 samples。",
+        "type": "名词辨析"
+      },
+      {
+        "n": 6,
+        "answer": "A",
+        "options": [
+          "insignificant",
+          "unexpected",
+          "unreliable",
+          "incredible"
+        ],
+        "cn": [
+          "微不足道的",
+          "出乎意料的",
+          "不可靠的",
+          "难以置信的"
+        ],
+        "explain": "While 1% may seem ___ , it is not so to a geneticist 中，While 表让步，后半句说“在遗传学家看来并非如此”，因此空格应表示“少、不重要”。insignificant 意为“微不足道的”，与 1% 的微小比例吻合。B unexpected“出乎意料的”与“多少”无关；C unreliable“不可靠的”说的是数据可信度；D incredible“难以置信的”强调难以相信，而遗传学家并不否认 1% 的存在。",
+        "trap": "D incredible 貌似可以表达“1% 令人难以置信”，但下文争的不是真假，而是这 1% 重不重要。",
+        "type": "形容词辨析"
+      },
+      {
+        "n": 7,
+        "answer": "D",
+        "options": [
+          "visit",
+          "miss",
+          "seek",
+          "know"
+        ],
+        "cn": [
+          "拜访",
+          "想念，错过",
+          "寻找",
+          "认识"
+        ],
+        "explain": "Most people do not even ___ their fourth cousins but somehow manage to select as friends... 中，but 前后形成对比：人们甚至不___自己的第四代表亲，却能挑出像亲属的人做朋友。know 表示“认识”，与“第四代表亲”搭配自然，也解释了为何“选朋友像选亲戚”令人惊讶。A visit“拜访”把关系具体化为走动，B miss“想念、错过”与文意无关，C seek“寻找”与后半句 select 语义重复。",
+        "trap": "A visit 受汉语“走亲戚”的联想影响；但此处对比的是“认识与否”，不是“是否走动”。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 8,
+        "answer": "A",
+        "options": [
+          "resemble",
+          "influence",
+          "favor",
+          "surpass"
+        ],
+        "cn": [
+          "与……相似",
+          "影响",
+          "偏爱",
+          "超过"
+        ],
+        "explain": "select as friends the people who ___ our kin 意为“挑中那些与我们的亲属相似的人做朋友”。resemble 意为“与……相像”，与上句“朋友共享约1%基因、亲缘堪比第四代表亲”相呼应。B influence“影响”会使句意变成“影响我们的亲属”；C favor“偏爱”意为“偏爱我们的亲属”，对象错位；D surpass“超过”与“相似”无关。",
+        "trap": "C favor 有“偏爱”义，似乎可接 our kin，但 who 指朋友，朋友“偏爱我们的亲属”讲不通。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 9,
+        "answer": "B",
+        "options": [
+          "again",
+          "also",
+          "instead",
+          "thus"
+        ],
+        "cn": [
+          "再次",
+          "也，还",
+          "相反",
+          "因此"
+        ],
+        "explain": "上文已说朋友共享约1%基因、彼此像亲戚，本句说研究___发现嗅觉基因在朋友间共享，这是在前一发现之外补充的新发现，故用 also“还、也”。A again 表示同一事的重复，C instead 表替代转折，D thus 表因果，均不能体现“另一项发现”的递进关系。",
+        "trap": "A again 貌似表示“研究又一次发现”，但这里不是重复验证同一结论，而是新增一类基因的发现。",
+        "type": "副词/逻辑"
+      },
+      {
+        "n": 10,
+        "answer": "D",
+        "options": [
+          "Meanwhile",
+          "Furthermore",
+          "Likewise",
+          "Perhaps"
+        ],
+        "cn": [
+          "与此同时",
+          "此外",
+          "同样地",
+          "也许"
+        ],
+        "explain": "空格后 as the team suggests 表明这是研究团队的一种推测：这种相似性“也许”把我们引向相似的环境。Perhaps 表推测，与 suggests 语气一致。A Meanwhile 表时间并列，B Furthermore 表递进，C Likewise 表类比，都不能引出对原因的不确定解释。",
+        "trap": "B Furthermore 受“前文还有发现，这里继续补充”的影响，但后半句是假设性解释而非又一事实。",
+        "type": "副词/逻辑"
+      },
+      {
+        "n": 11,
+        "answer": "B",
+        "options": [
+          "about",
+          "to",
+          "from",
+          "like"
+        ],
+        "cn": [
+          "关于",
+          "对，于",
+          "从",
+          "像"
+        ],
+        "explain": "there is more ___ it 是固定表达 there is more to it (than meets the eye)，意为“事情还不止于此、其中还有更多缘由”。to 表示“附属于、关乎某事物”。A about 虽可表“关于”，但不构成该习语；C from、D like 与 more 搭配均无此义。",
+        "trap": "A about 受汉语“关于它还有更多”的直译影响，但英语固定说 there is more to it。",
+        "type": "固定搭配"
+      },
+      {
+        "n": 12,
+        "answer": "A",
+        "options": [
+          "drive",
+          "observe",
+          "confuse",
+          "limit"
+        ],
+        "cn": [
+          "驱使，推动",
+          "观察",
+          "使困惑",
+          "限制"
+        ],
+        "explain": "many mechanisms working together that ___ us in choosing genetically similar friends 意为“多种共同作用的机制驱使我们选择基因相似的朋友”。drive sb. in doing sth. 表示推动、驱使某人做某事，与 mechanisms（机制）搭配自然。B observe“观察”与“机制”不搭；C confuse“使困惑”不含方向；D limit“限制”与“促使我们选择”的语义相反。",
+        "trap": "D limit 貌似“限定我们的选择范围”，但原文强调的是背后的推动力，而非限制。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 13,
+        "answer": "B",
+        "options": [
+          "according to",
+          "rather than",
+          "regardless of",
+          "along with"
+        ],
+        "cn": [
+          "根据",
+          "而不是",
+          "不管，不顾",
+          "与……一起"
+        ],
+        "explain": "choosing genetically similar friends ___ \"functional kinship\" of being friends with benefits 中，前后是两种交友方式的取舍：选择基因相似的朋友，而不是建立“功能性亲缘关系”。rather than 表示“而不是”，连接两个并列成分。A according to“根据”不构成对比；C regardless of“不管”语义不通；D along with“与……一起”会变成两种方式并存，与 rather than 的取舍相反。",
+        "trap": "D along with 受“既……又……”的汉语表达影响，但此处是二选一的对比，不是并存。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 14,
+        "answer": "D",
+        "options": [
+          "chances",
+          "responses",
+          "missions",
+          "benefits"
+        ],
+        "cn": [
+          "机会",
+          "回应",
+          "使命",
+          "好处，利益"
+        ],
+        "explain": "\"functional kinship\" of being friends with ___ 是对“功能性亲缘”的解释：与能带来好处的人交朋友。benefit 意为“好处、利益”，friends with benefits 也是英语中现成的说法，此处借以讽刺功利的交友观。A chances“机会”、B responses“回应”、C missions“使命”都不能体现“功利、有所图”的含义。",
+        "trap": "A chances 受“交朋友能带来机会”的联想影响，但 chances 不能概括“功能性亲缘”的功利本质。",
+        "type": "名词辨析/习语"
+      },
+      {
+        "n": 15,
+        "answer": "C",
+        "options": [
+          "later",
+          "slower",
+          "faster",
+          "earlier"
+        ],
+        "cn": [
+          "更晚",
+          "更慢",
+          "更快",
+          "更早"
+        ],
+        "explain": "the similar genes seem to be evolving ___ than other genes 之后，紧接着说 Studying this could help understand why human evolution picked pace...（有助于理解人类进化为何加快），picked pace 明确提示相似基因进化得“更快”。A later、D earlier 表时间先后而非速度快慢；B slower 与 picked pace 矛盾。",
+        "trap": "B slower 若只盯着 evolving 容易误选，但下句的 picked pace 已给出“加速”的明确信号。",
+        "type": "副词/上下文"
+      },
+      {
+        "n": 16,
+        "answer": "C",
+        "options": [
+          "forecast",
+          "remember",
+          "understand",
+          "express"
+        ],
+        "cn": [
+          "预测",
+          "记得",
+          "理解",
+          "表达"
+        ],
+        "explain": "Studying this could help ___ why human evolution picked pace 意为“研究这一点有助于理解人类进化为何加快”。understand 与 why 从句搭配，表示“理解……的原因”，符合科学研究的目的是解释已发生的现象。A forecast“预测”针对未来，而这里谈的是过去3万年的进化；B remember“记得”与“研究”无关；D express“表达”不能接 why 从句表示解释。",
+        "trap": "A forecast 受“科学研究可以预测”的常识影响，但此处解释的是已经发生的进化加速。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 17,
+        "answer": "B",
+        "options": [
+          "unpredictable",
+          "contributory",
+          "controllable",
+          "disruptive"
+        ],
+        "cn": [
+          "不可预测的",
+          "起促成作用的",
+          "可控的",
+          "破坏性的"
+        ],
+        "explain": "with social environment being a major ___ factor 意为“社会环境是一个重要的促成因素”。contributory 意为“起促成作用的”，与上文“社会环境推动人类进化加快”一致。A unpredictable“不可预测的”、C controllable“可控的”、D disruptive“破坏性的”都不能说明社会环境对进化的正面推动作用。",
+        "trap": "D disruptive 语气强、看似“有影响”，但 disruptive 指扰乱、破坏，与文中“促进进化加速”的方向相反。",
+        "type": "形容词辨析"
+      },
+      {
+        "n": 18,
+        "answer": "D",
+        "options": [
+          "endeavor",
+          "decision",
+          "arrangement",
+          "tendency"
+        ],
+        "cn": [
+          "努力",
+          "决定",
+          "安排",
+          "倾向"
+        ],
+        "explain": "people's ___ to befriend those of similar ethnic backgrounds 中，tendency to do sth. 是固定搭配，意为“做某事的倾向”，说明人们往往不自觉地与背景相似的人交朋友。A endeavor“努力”含刻意为之之意，B decision“决定”强调有意识的选择，C arrangement“安排”更与人的自然倾向无关。",
+        "trap": "A endeavor 表示“努力”，似乎也接 to do，但下文说的是普遍倾向，并非人们刻意努力去结交同类。",
+        "type": "名词辨析/搭配"
+      },
+      {
+        "n": 19,
+        "answer": "C",
+        "options": [
+          "political",
+          "religious",
+          "ethnic",
+          "economic"
+        ],
+        "cn": [
+          "政治的",
+          "宗教的",
+          "族裔的",
+          "经济的"
+        ],
+        "explain": "similar ___ backgrounds 与末句 a population of European extraction（欧洲血统）呼应，说明研究关注的是“族裔”背景。ethnic backgrounds 是固定搭配，意为“族裔背景”。A political、B religious、D economic 虽都能与 background 搭配，但与 European extraction 所指的血统、族裔不对应。",
+        "trap": "B religious 受“背景”搭配习惯的干扰，但 European extraction 说的是血统来源，不是宗教信仰。",
+        "type": "形容词/上下文"
+      },
+      {
+        "n": 20,
+        "answer": "A",
+        "options": [
+          "see",
+          "show",
+          "prove",
+          "tell"
+        ],
+        "cn": [
+          "确保，务必",
+          "表明",
+          "证明",
+          "告诉"
+        ],
+        "explain": "care was taken to ___ that all subjects ... were taken from the same population 意为“研究谨慎地确保所有受试者都来自同一人群”。see that 是固定表达，意为“确保、务必使”，主语是研究者，符合“研究设计中的控制措施”。B show“表明”、C prove“证明”后面接的是结论，而不是研究者的操作；D tell 不能接 that 从句表示“确保”。",
+        "trap": "C prove 受“研究要证明”的思维影响最大，但此处是研究者的操作保证，不是论证结论。",
+        "type": "动词辨析/搭配"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 7选5",
+    "en_title": "How does your reading proceed?",
+    "cn_title": "阅读如何进行：推断、语境与意义的建构",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "阅读是主动建构意义的过程，受读者身份与阅读目的影响",
+    "type": "7选5",
+    "directions": "In the following text, some sentences have been removed. For Questions 41–45, choose the most suitable one from the list A–G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on ANSWER SHEET. (10 points)",
+    "intro": "7选5 先读空格前后的句子，抓代词指代、关键词复现和逻辑连接词。本文讨论“阅读是怎样进行的”：从逐词理解、猜测词义，到推断语境、主动建构意义，再到读者身份与阅读目的如何影响解读。注意段落之间的复现词和转折信号。",
+    "blocks": [
+      {
+        "en": "How does your reading proceed? Clearly you try to comprehend, in the sense of identifying meanings for individual words and working out relationships between them, drawing on your implicit knowledge of English grammar. {{41}} You begin to infer a context for the text, for instance by making decisions about what kind of speech event is involved: Who is making the utterance, to whom, when and where.",
+        "zh": "你的阅读是怎样进行的？显然，你会努力去理解，也就是为每个单词确定含义、理清词与词之间的关系，并借助你潜在的英语语法知识。{{41}} 你开始为文本推断出一个语境，例如判断它涉及的是哪一种言语事件：谁在说话，对谁说，在何时、何地说。"
+      },
+      {
+        "en": "The ways of reading indicated here are without doubt kinds of comprehension. But they show comprehension to consist not just of passive assimilation but of active engagement in inference and problem-solving. You infer information you feel the writer has invited you to grasp by presenting you with specific evidence and clues. {{42}}",
+        "zh": "这里所说的阅读方式无疑都属于理解。但它们表明，理解不仅包括被动地吸收，还包括主动地进行推断和解决问题。你推断出的是这样一种信息：你觉得作者通过提供具体的证据和线索，邀请你去把握它。{{42}}"
+      },
+      {
+        "en": "Conceived in this way, comprehension will not follow exactly the same track for each reader. What is in question is not the retrieval of an absolute, fixed or \"true\" meaning that can be read off and checked for accuracy, or some timeless relation of the text to the world. {{43}}",
+        "zh": "这样来看，理解并不会对每个读者都沿着完全相同的轨迹进行。这里要问的，不是去提取某种绝对的、固定的或“真实的”意义——那种意义可以一读便知、可以核对是否准确——也不是文本与世界之间某种永恒不变的关系。{{43}}"
+      },
+      {
+        "en": "Such background material inevitably reflects who we are. {{44}} This doesn't, however, make interpretation merely relative or even pointless. Precisely because readers from different historical periods, places and social experiences produce different but overlapping readings of the same words on the page — including for texts that engage with fundamental human concerns — debates about texts can play an important role in social discussion of beliefs and values.",
+        "zh": "这样的背景材料必然反映出我们是谁。{{44}} 然而，这并不会使解读仅仅成为相对的，甚至变得毫无意义。恰恰因为来自不同历史时期、不同地点和不同社会经历的读者，对书页上同样的文字会产生不同却相互重叠的解读——对于那些涉及人类根本关切的文本也是如此——关于文本的讨论才能在有关信念与价值的社会讨论中发挥重要作用。"
+      },
+      {
+        "en": "How we read a given text also depends to some extent on our particular interest in reading it. {{45}} Such dimensions of reading suggest — as others introduced later in the book will also do — that we bring an implicit (often unacknowledged) agenda to any act of reading. It doesn't then necessarily follow that one kind of reading is fuller, more advanced or more worthwhile than another. Ideally, different kinds of reading inform each other, and act as useful reference points for and counterbalances to one another. Together, they make up the reading component of your overall literacy, or relationship to your surrounding textual environment.",
+        "zh": "我们如何阅读一个特定的文本，在某种程度上还取决于我们阅读它的特定兴趣。{{45}} 这些阅读维度表明——正如本书后文还将介绍的其他维度一样——我们在任何一次阅读中都带着一份隐性的（往往未被意识到的）议程。但这并不必然意味着某一种阅读比另一种更完整、更高级或更有价值。理想情况下，不同的阅读方式相互启发，互为有用的参照和制衡。它们共同构成了你整体读写能力中的阅读部分，也就是你与周围文本环境的关系。"
+      }
+    ],
+    "options": {
+      "A": {
+        "en": "Are we studying that text and trying to respond in a way that fulfils the requirement of a given course? Reading it simply for pleasure? Skimming it for information? Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room.",
+        "zh": "我们是在研读那篇文章，并试图以符合某门课程要求的方式作出回应吗？还是仅仅为了消遣而读？或是为了获取信息而快速浏览？在火车上或床上阅读的方式，很可能与在研讨室里阅读大不相同。"
+      },
+      "B": {
+        "en": "Factors such as the place and period in which we are reading, our gender, ethnicity, age and social class will encourage us towards certain interpretations but at the same time obscure or even close off others.",
+        "zh": "我们阅读时所处的地点和时代，以及我们的性别、族裔、年龄和社会阶层等因素，会把我们引向某些特定的解读，同时也会遮蔽甚至封闭另外一些解读。"
+      },
+      "C": {
+        "en": "If you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the context. On the assumption that they will become relevant later, you make a mental note of discourse entities as well as possible links between them.",
+        "zh": "如果你对某些单词或习语不熟悉，你会借助上下文提供的线索去猜测它们的意思。基于它们之后会变得相关的假设，你会在心里记下语篇实体以及它们之间可能的联系。"
+      },
+      "D": {
+        "en": "In effect, you try to reconstruct the likely meanings or effects that any given sentence, image or reference might have had: These might be the ones the author intended.",
+        "zh": "实际上，你是在努力重建任何一个句子、意象或典故可能具有的意思或效果：这些也许正是作者想要表达的东西。"
+      },
+      "E": {
+        "en": "You make further inferences, for instance, about how the text may be significant to you, or about its validity — inferences that form the basis of a personal response for which the author will inevitably be far less responsible.",
+        "zh": "你会作出进一步的推断，例如推断这篇文章对你可能有什么意义，或者推断它是否站得住脚——这些推断构成了个人化反应的基础，而作者对此所负的责任必然要小得多。"
+      },
+      "F": {
+        "en": "In plays, novels and narrative poems, characters speak as constructs created by the author, not necessarily as mouthpieces for the author's own thoughts.",
+        "zh": "在戏剧、小说和叙事诗中，人物是作为作者创造出来的构造物在说话，并不一定是作者本人思想的传声筒。"
+      },
+      "G": {
+        "en": "Rather, we ascribe meanings to texts on the basis of interaction between what we might call textual and contextual material: between kinds of organization or patterning we perceive in a text's formal structures (so especially its language structures) and various kinds of background, social knowledge, belief and attitude that we bring to the text.",
+        "zh": "相反，我们把意义赋予文本，依据的是我们所谓的文本材料与语境材料之间的相互作用：一方面是我们从文本的形式结构（尤其是语言结构）中感知到的组织方式或模式，另一方面是我们带给文本的各种背景、社会知识、信念和态度。"
+      }
+    },
+    "fixed_note": "D、F 为多余选项，不填入任何空。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "C",
+        "explain": "空格前讲逐词理解词义、理清词间关系，靠的是潜在的语法知识；空格后说“你开始推断语境”。C 正是词义层面的应对策略：遇到不熟悉的词就借助上下文线索猜测，并把语篇实体及其可能的联系记在心里，恰好是从“词”过渡到“语境”的桥梁。D 讲重建句子、意象的“可能含义”，层次更高，与“语法知识”衔接不上；F 谈戏剧、小说中人物与作者的关系，与段落话题无关。",
+        "clue": "identifying meanings for individual words → unfamiliar with words or idioms, you guess at their meaning → You begin to infer a context"
+      },
+      {
+        "n": 42,
+        "answer": "E",
+        "explain": "前句说“你推断的是作家通过具体证据和线索邀请你去把握的信息”，E 以 You make further inferences 承接，把推断从“作者邀请的信息”推进到“文本对你的意义、文本是否成立”，并点出这是“个人化反应”的基础、作者对此责任更小。下一段开头“这样理解，阅读轨迹不会人人相同”正是个人化反应的延伸。D 说的是重建作者意图，方向与“作者责任更小”相反，与下段的衔接也生硬。",
+        "clue": "You infer information ... invited you to grasp → You make further inferences ... personal response ... far less responsible → not follow exactly the same track for each reader"
+      },
+      {
+        "n": 43,
+        "answer": "G",
+        "explain": "前句用 not... 否定“存在绝对、固定、可核对的‘真’意义”，G 以 Rather 直接承接这一否定，提出意义来自“文本材料”与“语境材料”的互动；G 末尾“我们带给文本的各种背景、社会知识、信念和态度”正是下一句 Such background material 所指。",
+        "clue": "not the retrieval of an absolute, fixed or \"true\" meaning → Rather, we ascribe meanings ... textual and contextual material → Such background material"
+      },
+      {
+        "n": 44,
+        "answer": "B",
+        "explain": "前句说这些背景材料必然反映“我们是谁”，B 具体列举地点、时代、性别、族裔、年龄、阶层等因素，说明它们如何把人引向某些解读、又遮蔽另一些解读，正是“我们是谁”的展开；后句 This doesn't, however, make interpretation merely relative 中的 This 指 B 所说的受身份影响的解读。",
+        "clue": "reflects who we are → Factors such as ... place and period ... gender, ethnicity, age and social class → This doesn't ... make interpretation merely relative"
+      },
+      {
+        "n": 45,
+        "answer": "A",
+        "explain": "前句说阅读方式还取决于“我们对读它的特定兴趣”，A 连用三个问句列出读书的几种目的（修课、消遣、查信息），并比较火车上、床上与研讨室里的读法，直接说明“兴趣、目的”如何改变阅读方式；后句 Such dimensions of reading 概括的正是这些目的与场合的维度。",
+        "clue": "our particular interest in reading it → studying ... for pleasure ... skimming for information → Such dimensions of reading"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "A tide of emigration",
+    "cn_title": "移民潮与美国性格的形成",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "欧洲移民潮如何塑造美国的社会性格与自然环境",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET. (10 points)",
+    "intro": "翻译先拆结构、再定主干，最后按中文语序重排。第46句注意 driven by 分词短语作后置定语与并列谓语；第47句注意破折号后的同位语和 which 从句的修饰对象；第48句是三个并列长主语共用一个谓语，须先锁定 caused；第49句注意 bound for 后置定语与 which 从句；第50句注意 with 短语和 which 从句的归属。",
+    "paragraphs": [
+      {
+        "en": "Within the span of a hundred years, in the seventeenth and early eighteenth centuries, a tide of emigration — one of the great folk wanderings of history — swept from Europe to America. [[46]]This movement, driven by powerful and diverse motivations, built a nation out of a wilderness and, by its nature, shaped the character and destiny of an uncharted continent.[[/46]]",
+        "zh": "在十七世纪到十八世纪初这一百年的时间里，一股移民潮——历史上伟大的民族迁徙之一——从欧洲席卷向美洲。这场运动受种种强大而多样的动机驱动，在荒野之上建起了一个国家，并且就其本质而言，塑造了一片未探明大陆的性格与命运。"
+      },
+      {
+        "en": "[[47]]The United States is the product of two principal forces — the immigration of European peoples with their varied ideas, customs, and national characteristics and the impact of a new country which modified these traits.[[/47]] Of necessity, colonial America was a projection of Europe. Across the Atlantic came successive groups of Englishmen, Frenchmen, Germans, Scots, Irishmen, Dutchmen, Swedes, and many others who attempted to transplant their habits and traditions to the new world. [[48]]But the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one another, and the sheer difficulty of maintaining old-world ways in a raw, new continent caused significant changes.[[/48]] These changes were gradual and at first scarcely visible. But the result was a new social pattern which, although it resembled European society in many ways, had a character that was distinctly American.",
+        "zh": "美国是两种主要力量的产物：一是欧洲各民族带着各自不同的观念、习俗和民族特性移居于此，二是一个新国家对上述特性加以改造所产生的影响。殖民地时期的美洲必然是欧洲的投射。一批又一批的英格兰人、法国人、德国人、苏格兰人、爱尔兰人、荷兰人、瑞典人以及其他许多人横渡大西洋而来，试图把他们的习惯和传统移植到新世界。但美洲所特有的地理条件所产生的力量、各个不同民族群体之间的相互作用，以及在一片原始的新大陆上维持旧世界生活方式的极大困难，共同造成了重大的变化。这些变化是渐进的，起初几乎看不出来。但其结果是一种新的社会模式，它虽然在许多方面与欧洲社会相似，却具有一种明显属于美国的性格。"
+      },
+      {
+        "en": "[[49]]The first shiploads of immigrants bound for the territory which is now the United States crossed the Atlantic more than a hundred years after the 15th- and 16th-century explorations of North America.[[/49]] In the meantime, thriving Spanish colonies had been established in Mexico, the West Indies, and South America. These travelers to North America came in small, unmercifully overcrowded craft. During their six- to twelve-week voyage, they survived on barely enough food allotted to them. Many of the ships were lost in storms, many passengers died of disease, and infants rarely survived the journey. Sometimes storms blew the vessels far off their course, and often calm brought unbearably long delay.",
+        "zh": "第一批满载移民、驶向如今美国所在领土的船只，是在15、16世纪对北美进行探险之后一百多年，才横渡大西洋的。在此期间，繁荣的西班牙殖民地已在墨西哥、西印度群岛和南美洲建立起来。这些前往北美的旅行者乘坐的是狭小、拥挤得近乎残酷的船只。在六到十二周的航程中，他们仅靠分配到的勉强够吃的食物维持生存。许多船只在风暴中失事，许多乘客死于疾病，婴儿很少能熬过这段航程。有时风暴把船只吹得远离航线，而风平浪静又常常带来难以忍受的漫长耽搁。"
+      },
+      {
+        "en": "To the anxious travelers the sight of the American shore brought almost inexpressible relief. Said one recorder of events, \"The air at twelve leagues' distance smelt as sweet as a new-blown garden.\" The colonists' first glimpse of the new land was a sight of dense woods. [[50]]The virgin forest with its richness and variety of trees was a real treasure-house which extended from Maine all the way down to Georgia.[[/50]] Here was abundant fuel and lumber. Here was the raw material of houses and furniture, ships and potash, dyes and naval stores.",
+        "zh": "对焦虑不安的旅行者来说，看到美洲海岸带给他们几乎难以言表的宽慰。一位事件记录者说：“远在十二里格之外，空气闻起来就像初绽的花园一样甜美。”殖民者对新大陆的第一瞥，是一片茂密的森林。这片原始森林树木繁茂、种类繁多，是一座真正的宝库，从缅因一直向南延伸到佐治亚。这里有充足的燃料和木材。这里有建造房屋和家具、制造船只和钾碱、染料和海军用品的原料。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "This movement, driven by powerful and diverse motivations, built a nation out of a wilderness and, by its nature, shaped the character and destiny of an uncharted continent.",
+        "core": "This movement built a nation out of a wilderness and shaped the character and destiny of a continent.",
+        "structure": "主干是 This movement built a nation and shaped the character and destiny。driven by powerful and diverse motivations 是过去分词短语作后置定语，相当于 which was driven by...；out of a wilderness 是介词短语作状语，表示“从荒野之中”；by its nature 是插入性状语，意为“就其本质而言”；of an uncharted continent 修饰 character and destiny。",
+        "key": "driven by 受……驱动；diverse 多种多样的；motivation 动机；build... out of... 用……建起；by its nature 就其本质而言；uncharted 未探明的，未绘入地图的；destiny 命运。",
+        "translation": "这场运动受种种强大而多样的动机驱动，在荒野之上建起了一个国家，并且就其本质而言，塑造了一片未探明大陆的性格与命运。",
+        "pitfall": "driven by... 是修饰 movement 的后置定语，不能译成“这场运动驱动了……”或单独成句；by its nature 中的 its 指这场运动，不是“国家”；uncharted 是“未探明的”，不要望文生义译成“未充电的”。"
+      },
+      "47": {
+        "en": "The United States is the product of two principal forces — the immigration of European peoples with their varied ideas, customs, and national characteristics and the impact of a new country which modified these traits.",
+        "core": "The United States is the product of two principal forces: immigration and the impact of a new country.",
+        "structure": "主干为主系表结构 The United States is the product of two principal forces。破折号后是 two principal forces 的同位语，由 and 连接两个并列成分：the immigration of European peoples... 与 the impact of a new country...；with their varied ideas, customs, and national characteristics 是介词短语修饰 peoples；which modified these traits 是定语从句修饰 a new country，these traits 回指前面列举的观念、习俗和民族特性。",
+        "key": "principal 主要的；force 力量；immigration 移民（不可数）；customs 习俗；national characteristics 民族特性；impact 影响；modify 改变，改造；traits 特征。",
+        "translation": "美国是两种主要力量的产物：一是欧洲各民族带着各自不同的观念、习俗和民族特性移居于此，二是这个新国家对上述特性加以改造所产生的影响。",
+        "pitfall": "which 从句修饰 a new country（新国家），不是修饰 traits；with their varied ideas... 是修饰 peoples 的后置定语，翻译时应转化为“带着……的欧洲各民族”；两个并列成分共用一个 of，不要把 the impact 误当成 immigration 的并列宾语而漏译“影响”。"
+      },
+      "48": {
+        "en": "But the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one another, and the sheer difficulty of maintaining old-world ways in a raw, new continent caused significant changes.",
+        "core": "The force of geographic conditions, the interplay of national groups, and the difficulty of maintaining old-world ways caused significant changes.",
+        "structure": "主语是三个并列名词短语：the force of geographic conditions peculiar to America、the interplay of the varied national groups upon one another、the sheer difficulty of maintaining old-world ways in a raw, new continent；谓语是 caused，宾语是 significant changes。peculiar to America 是后置形容词短语修饰 conditions；of maintaining... 是介词短语补充说明 difficulty 的内容。",
+        "key": "peculiar to 为……所特有的；interplay 相互作用；upon one another 相互之间；sheer 纯粹的，十足的；old-world ways 旧世界的生活方式；raw 原始的，未开发的；significant 重大的。",
+        "translation": "但是，美洲所特有的地理条件所产生的力量、各个不同民族群体之间的相互作用，以及在一片原始的新大陆上维持旧世界生活方式的极大困难，共同造成了重大的变化。",
+        "pitfall": "三个并列主语很长，须先找出谓语 caused，再逐一处理；peculiar to America 后置修饰 conditions，不能译成“特殊的美洲”；sheer 在此表示程度“十足的、极大的”，不是“纯粹的”；raw 修饰 continent，意为“原始的、未开发的”，不是“生的”。"
+      },
+      "49": {
+        "en": "The first shiploads of immigrants bound for the territory which is now the United States crossed the Atlantic more than a hundred years after the 15th- and 16th-century explorations of North America.",
+        "core": "The first shiploads of immigrants crossed the Atlantic more than a hundred years after the explorations.",
+        "structure": "主干为 The first shiploads of immigrants crossed the Atlantic。bound for the territory 是过去分词短语作后置定语修饰 immigrants；which is now the United States 是定语从句修饰 territory；more than a hundred years after the 15th- and 16th-century explorations of North America 是时间状语，说明横渡大西洋比北美探险晚一百多年。",
+        "key": "shipload 一船之量；bound for 开往，前往；territory 领土；cross the Atlantic 横渡大西洋；exploration 探险，探索；more than 超过。",
+        "translation": "第一批满载移民、驶向如今美国所在领土的船只，是在15、16世纪对北美进行探险之后一百多年，才横渡大西洋的。",
+        "pitfall": "bound for... 是修饰 immigrants 的后置定语，不能译成“被束缚在”；which 从句修饰 territory，不是 immigrants；more than a hundred years after... 是时间状语，说明横渡的时间晚于探险一百多年，不要误译成“一百多年后探险才开始”。"
+      },
+      "50": {
+        "en": "The virgin forest with its richness and variety of trees was a real treasure-house which extended from Maine all the way down to Georgia.",
+        "core": "The virgin forest was a real treasure-house.",
+        "structure": "主干为主系表结构 The virgin forest ... was a real treasure-house。with its richness and variety of trees 是介词短语作后置定语，说明森林树木繁茂、种类繁多；which extended from Maine all the way down to Georgia 是定语从句，修饰 treasure-house（也可理解为修饰 forest），说明这座“宝库”的范围。",
+        "key": "virgin forest 原始森林；richness 丰富；variety 多样；treasure-house 宝库；extend from... to... 从……延伸到……；all the way down to 一直向南到。",
+        "translation": "这片原始森林树木繁茂、种类繁多，是一座真正的宝库，从缅因一直向南延伸到佐治亚。",
+        "pitfall": "with its richness and variety of trees 修饰 forest，翻译时可前置为“树木繁茂、种类繁多的”；which 从句说明宝库的范围，不能漏译；all the way down to 中的 down 表示“向南”，不译作“向下”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "An email & a picture essay",
+    "cn_title": "推荐书目邮件 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "向读书会成员推荐一本书；餐桌上看手机与面对面交流的缺失",
+    "intro": "小作文考“邮件格式 + 向读书会成员推荐一本书并说明理由”；大作文考“描述餐桌上看手机的图画 + 解释科技对面对面交流与亲情的侵蚀 + 评论”。",
+    "partA": {
+      "title": "Part A · 电子邮件",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "You are going to host a club reading session. Write an email of about 100 words recommending a book to the club members. You should state reasons for your recommendation. You should write neatly on the ANSWER SHEET. Do not sign your own name at the end of the letter, use \"Li Ming\" instead. Do not write the address. (10 points)",
+      "prompt_zh": "你将主持一次读书会。请给读书会成员写一封约100词的电子邮件，推荐一本书，并说明推荐理由。结尾不要签自己的名字，用“Li Ming”；不要写地址。",
+      "sample": "Subject: A Book Recommendation for Our Next Session\n\nDear fellow members,\n\nI am writing to recommend a book for our next reading session: The Old Man and the Sea by Ernest Hemingway.\n\nThe novel is short but carries great weight. It tells how an old fisherman battles a giant fish, and it shows what dignity and perseverance mean when a person is defeated but refuses to give in. Its language is plain but powerful, which makes it ideal for discussion.\n\nWe will meet at 7 p.m. next Friday in Room 302 of the library. Please finish it before then and bring one sentence that impressed you most.\n\nLooking forward to seeing you.\n\nYours,\nLi Ming",
+      "sample_zh": "主题：为下次读书会推荐一本书\n\n各位书友：\n\n我写信是想为我们的下一次读书会推荐一本书：欧内斯特·海明威的《老人与海》。\n\n这部小说篇幅不长，却分量十足。它讲述一位老渔夫与一条巨鱼搏斗的故事，展现了一个人虽被打败却拒不认输时，尊严与坚韧意味着什么。它的语言朴素而有力，非常适合讨论。\n\n我们将于下周五晚上7点在图书馆302室聚会。请提前读完，并带来一句最打动你的话。\n\n期待与大家见面。\n\n此致\n李明",
+      "structure": [
+        [
+          "主题行",
+          "Subject: A Book Recommendation for Our Next Session"
+        ],
+        [
+          "称呼",
+          "Dear fellow members,"
+        ],
+        [
+          "开门见山说明写信目的",
+          "I am writing to recommend a book for our next reading session: The Old Man and the Sea by Ernest Hemingway."
+        ],
+        [
+          "推荐理由一：篇幅短而分量重",
+          "The novel is short but carries great weight."
+        ],
+        [
+          "推荐理由二：主题关于尊严与坚韧",
+          "It shows what dignity and perseverance mean when a person is defeated but refuses to give in."
+        ],
+        [
+          "推荐理由三：语言朴素有力，适合讨论",
+          "Its language is plain but powerful, which makes it ideal for discussion."
+        ],
+        [
+          "读书会的时间地点与会前准备",
+          "We will meet at 7 p.m. next Friday in Room 302 of the library. Please finish it before then and bring one sentence that impressed you most."
+        ],
+        [
+          "落款",
+          "Yours, Li Ming"
+        ]
+      ],
+      "expressions": [
+        "I am writing to recommend ... for our next reading session.",
+        "The novel is short but carries great weight.",
+        "It tells how ... and it shows what ... mean.",
+        "Its language is plain but powerful, which makes it ideal for discussion.",
+        "We will meet at ... in ...",
+        "Please finish it before then and bring one sentence that impressed you most.",
+        "Looking forward to seeing you."
+      ],
+      "traps": [
+        "题目要求以读书会主持人的身份写给成员，语气应友好而略带号召力；结尾署 Li Ming，不写真实姓名，也不写地址。",
+        "必须说明推荐理由（内容、主题、语言、可讨论性），只写书名和“值得一读”会显得空洞。",
+        "约100词，注意邮件格式（主题行、称呼、正文、结束语、署名），不要写成书评或通知。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160–200 words based on the following picture. In your essay, you should 1) describe the picture briefly, 2) interpret its intended meaning, and 3) give your comments. You should write neatly on ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "src": "../assets/writing/2015.png",
+        "caption": "餐桌上的“聚会”：丰盛的饭菜与各自低头看手机的四个人",
+        "note": "画面中四个人围坐在一张圆桌旁，桌上摆满鱼、饺子、蔬菜等丰盛饭菜；然而每个人都低着头，专注地盯着手里的手机，彼此之间没有任何交流。图画以家庭或朋友聚餐的场景，讽刺手机和移动互联网对面对面交流与亲情的侵蚀。"
+      },
+      "sample": "The picture shows four people sitting around a dinner table loaded with dishes — fish, dumplings, vegetables and fruit. Yet nobody is eating or talking. Each of them is staring down at a smartphone, as if the person beside them did not exist. A family dinner, supposedly warm and noisy, has turned into four silent individuals sharing the same table.\n\nThe cartoon exposes a common scene in the digital age. Smartphones were invented to connect people, but they often do the opposite: they draw us into distant conversations while shutting out those sitting next to us. When a son reports his life to online friends but says nothing to his parents, when a daughter photographs the dishes instead of tasting the laughter around them, the dinner table becomes the loneliest place in the house. What is lost is not merely conversation but the emotional bond that only face-to-face contact can build.\n\nOf course, we need not demonise technology. The point is to set boundaries. At meals, we can put our phones away and give our full attention to the people we love. After all, a meal is not only about food; it is about being together.",
+      "sample_zh": "这幅画中，四个人围坐在一张摆满饭菜的圆桌旁——有鱼、饺子、蔬菜和水果。然而没有人在吃，也没有人在说话。每个人都低头盯着智能手机，仿佛身边的人并不存在。一顿本该温暖热闹的家庭晚餐，变成了四个沉默的人同坐一桌。\n\n这幅漫画揭示了数字时代一个司空见惯的场景。手机发明出来本是为了连接人与人，却常常适得其反：它把我们拉进与远方之人的对话，却把坐在身边的人关在外面。当儿子向网友汇报自己的生活，却对父母一言不发；当女儿拍下桌上的菜，却不去品味身边的欢笑，餐桌就成了家里最孤独的地方。失去的不仅是交谈，更是只有面对面接触才能建立的情感纽带。\n\n当然，我们不必把技术妖魔化。关键在于划清界限。吃饭时，我们可以把手机收起来，把全部注意力交给所爱的人。毕竟，一顿饭不只是关于食物，更是关于在一起。",
+      "structure": [
+        [
+          "第一段·描述图画",
+          "The picture shows four people around a dinner table loaded with dishes... each staring down at a smartphone... a family dinner turned into four silent individuals."
+        ],
+        [
+          "第二段·解释寓意",
+          "The cartoon exposes a common scene in the digital age... phones connect us to distant people while shutting out those beside us... what is lost is the emotional bond."
+        ],
+        [
+          "第三段·给出评论",
+          "We need not demonise technology; the point is to set boundaries... put phones away at meals... a meal is about being together."
+        ]
+      ],
+      "expressions": [
+        "The picture shows four people sitting around a dinner table loaded with dishes.",
+        "Each of them is staring down at a smartphone, as if the person beside them did not exist.",
+        "A family dinner, supposedly warm and noisy, has turned into four silent individuals.",
+        "Smartphones were invented to connect people, but they often do the opposite.",
+        "What is lost is not merely conversation but the emotional bond that only face-to-face contact can build.",
+        "Of course, we need not demonise technology. The point is to set boundaries.",
+        "After all, a meal is not only about food; it is about being together."
+      ],
+      "traps": [
+        "描述要抓住“丰盛饭菜 + 四人各自低头看手机 + 零交流”的反差，不要只写“一家人在吃饭”。",
+        "寓意应落在“手机、科技对面对面交流与亲情的侵蚀”，不要泛化成“科技利弊”或“要珍惜粮食”。",
+        "评论要给出可行的态度或建议（如划清界限、吃饭时放下手机），避免只喊“多陪家人”的空话。"
+      ]
+    }
+  }
+}

@@ -1,0 +1,680 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "笑对身体机能的作用及其与情绪的关系",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on ANSWER SHEET 1. (10 points)",
+    "intro": "文章从亚里士多德“笑有益健康”的说法入手，随即指出笑对体能其实影响很小；接着转折说明笑能放松肌肉、缓和压力；最后用 1988 年的实验说明表情可以反过来影响情绪。做题时抓住“先否定—再转折—给证据—得结论”的推进线，注意 but、however、although、instead 等信号词。",
+    "passage": [
+      {
+        "en": "Ancient Greek philosopher Aristotle viewed laughter as \"a bodily exercise precious to health.\" But {{1}} some claims to the contrary, laughing probably has little influence on physical fitness. Laughter does {{2}} short-term changes in the function of the heart and its blood vessels, {{3}} heart rate and oxygen consumption. But because hard laughter is difficult to {{4}}, a good laugh is unlikely to have {{5}} benefits the way, say, walking or jogging does.",
+        "zh": "古希腊哲学家亚里士多德把笑看作“一种对健康极为宝贵的身体运动”。但是，尽管有一些相反的说法，笑很可能对体能影响甚微。笑确实会给心脏及其血管的功能带来短期的变化，使心率和耗氧量上升。但由于大笑难以持续，一场痛快的笑不太可能像散步或慢跑那样带来可测量的益处。"
+      },
+      {
+        "en": "{{6}} instead of straining muscles to build them, as exercise does, laughter apparently accomplishes the {{7}}. Studies dating back to the 1930s indicate that laughter {{8}} muscles, decreasing muscle tone for up to 45 minutes after the laugh dies down.",
+        "zh": "事实上，笑并不像体育锻炼那样绷紧肌肉以增强它们，而显然起到了相反的作用。早在20世纪30年代的研究就表明，笑能使肌肉放松，在笑声平息后长达45分钟内降低肌肉张力。"
+      },
+      {
+        "en": "Such bodily reaction might conceivably help {{9}} the effects of psychological stress. Anyway, the act of laughing probably does produce other types of {{10}} feedback that improve an individual's emotional state. {{11}} one classical theory of emotion, our feelings are partially rooted {{12}} physical reactions. It was argued at the end of the 19th century that humans do not cry {{13}} they are sad but they become sad when the tears begin to flow.",
+        "zh": "这种身体反应或许有助于缓和心理压力的影响。无论如何，笑这一动作很可能确实会产生其他类型的身体反馈，从而改善个人的情绪状态。根据一种经典的情绪理论，我们的感受部分扎根于身体反应。19世纪末有人提出，人不是因为悲伤才哭，而是当眼泪开始流下时才变得悲伤。"
+      },
+      {
+        "en": "Although sadness also {{14}} tears, evidence suggests that emotions can flow {{15}} muscular responses. In an experiment published in 1988, social psychologist Fritz Strack of the University of Würzburg in Germany asked volunteers to {{16}} a pen either with their teeth—thereby creating an artificial smile—or with their lips, which would produce a(n) {{17}} expression. Those forced to exercise their smiling muscles {{18}} more enthusiastically to funny cartoons than did those whose mouths were contracted in a frown, {{19}} that expressions may influence emotions rather than just the other way around. {{20}}, the physical act of laughter could improve mood.",
+        "zh": "尽管悲伤也会先于眼泪出现，但有证据表明，情绪也可以源自肌肉反应。在1988年发表的一项实验中，德国维尔茨堡大学的社会心理学家弗里茨·施特拉克请志愿者用牙齿衔住一支笔——从而做出一个假笑——或者用嘴唇含住笔，这会形成一种失望的表情。那些被迫调动微笑肌肉的人，对滑稽动画片的反应比那些嘴部皱成苦相的人更热烈，这表明表情可能影响情绪，而不只是情绪影响表情。同样，笑这一身体动作也可能改善心情。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "C",
+        "options": [
+          "among",
+          "except",
+          "despite",
+          "like"
+        ],
+        "cn": [
+          "在……之中",
+          "除……之外",
+          "尽管",
+          "像……一样"
+        ],
+        "explain": "despite some claims to the contrary 意为“尽管有一些相反的说法”，介词 despite 后接名词短语，与后半句 probably has little influence 构成让步关系。among 表范围，except 表排除，like 表比较，都不能引导让步。",
+        "trap": "B except 与 despite 形近，且都可译成“除……”，但 except 表示排除在外，不表让步；此处需要“尽管”。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 2,
+        "answer": "D",
+        "options": [
+          "reflect",
+          "demand",
+          "indicate",
+          "produce"
+        ],
+        "cn": [
+          "反映",
+          "要求",
+          "表明",
+          "产生"
+        ],
+        "explain": "produce short-term changes 表示“产生短期变化”，与 changes 搭配自然，主语是笑这一动作，强调它造成的结果。reflect 的主语通常是数据、迹象等，indicate 多指“表明某一事实”，demand 与 changes 不搭配。",
+        "trap": "A reflect 看似可译“反映出变化”，但 reflect changes 的主语往往是被观察对象，而不是“笑”这一生理动作；此处强调笑“造成”变化。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 3,
+        "answer": "B",
+        "options": [
+          "stabilizing",
+          "boosting",
+          "impairing",
+          "determining"
+        ],
+        "cn": [
+          "使稳定",
+          "提高",
+          "损害",
+          "决定"
+        ],
+        "explain": "现在分词 boosting 作结果状语，具体说明短期变化的表现：使心率和耗氧量上升。stabilizing“使稳定”、impairing“损害”、determining“决定”都与 heart rate and oxygen consumption 的生理变化方向不符。",
+        "trap": "C impairing 与“变化”搭配也说得通，但使心率“受损”不合生理常识；此处说的是心率上升。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 4,
+        "answer": "B",
+        "options": [
+          "transmit",
+          "sustain",
+          "evaluate",
+          "observe"
+        ],
+        "cn": [
+          "传递",
+          "维持",
+          "评估",
+          "观察"
+        ],
+        "explain": "hard laughter is difficult to sustain 意为“大笑难以持续”，sustain 与 laughter 搭配表示“维持、持续”，正是后文“不能像散步那样带来可测量益处”的原因。transmit“传递”、evaluate“评估”、observe“观察”都不能与 laughter 构成这一语义。",
+        "trap": "D observe 可接“笑”，但主语是 hard laughter，成了“大笑难以观察”，与上下文因果链无关；A transmit 更不能与 laughter 搭配。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 5,
+        "answer": "A",
+        "options": [
+          "measurable",
+          "manageable",
+          "affordable",
+          "renewable"
+        ],
+        "cn": [
+          "可测量的",
+          "可管理的",
+          "负担得起的",
+          "可再生的"
+        ],
+        "explain": "measurable benefits 指“可测量的益处”，与 walking or jogging 这类效果可量化的运动形成对比。manageable、affordable、renewable 与 benefits 搭配都不表“可量化”。",
+        "trap": "B manageable 与 measurable 形近，但意为“可控制的、可应付的”，不能修饰 benefits 表示“可测量的益处”。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 6,
+        "answer": "B",
+        "options": [
+          "In turn",
+          "In fact",
+          "In addition",
+          "In brief"
+        ],
+        "cn": [
+          "转而；依次",
+          "事实上",
+          "此外",
+          "简言之"
+        ],
+        "explain": "上文说笑对体质影响甚微，本句进一步指出笑的作用与锻炼“相反”，用 In fact 对上文加以确认和推进。In turn 表顺承或轮流，In addition 表补充，In brief 表总结。",
+        "trap": "A In turn 常被误当成“反过来”，但它表示“依次、转而”，不能引出对前句的进一步证实。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 7,
+        "answer": "A",
+        "options": [
+          "opposite",
+          "impossible",
+          "average",
+          "expected"
+        ],
+        "cn": [
+          "相反的事物",
+          "不可能的事",
+          "平均水平",
+          "预料之中的事"
+        ],
+        "explain": "accomplishes the opposite 意为“起到相反的作用”，与前半句 instead of straining muscles to build them 形成对照：锻炼绷紧肌肉以增强，笑却放松肌肉。",
+        "trap": "D expected 若填 the expected，意为“预料之中的事”，与 instead of 的转折语气相冲突。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 8,
+        "answer": "D",
+        "options": [
+          "hardens",
+          "weakens",
+          "tightens",
+          "relaxes"
+        ],
+        "cn": [
+          "使变硬",
+          "使变弱",
+          "使绷紧",
+          "使放松"
+        ],
+        "explain": "relaxes muscles 与后文 decreasing muscle tone 同义复现，说明笑使肌肉放松、张力下降。hardens、tightens 方向相反，weakens 指“使虚弱”，不指肌肉松弛。",
+        "trap": "B weakens 也可说“使肌肉无力”，但对应 decreasing muscle tone（张力下降）的准确表达是 relax；“变弱”不等于“放松”。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 9,
+        "answer": "C",
+        "options": [
+          "aggravate",
+          "generate",
+          "moderate",
+          "enhance"
+        ],
+        "cn": [
+          "加剧",
+          "产生",
+          "缓和",
+          "增强"
+        ],
+        "explain": "moderate the effects of psychological stress 意为“缓和心理压力的影响”，与 might conceivably help 的推测语气一致。aggravate“加剧”、enhance“增强”方向相反；generate 与 effects 搭配是“产生作用”，而“帮助产生压力影响”不合逻辑。",
+        "trap": "A aggravate 与 moderate 语义相反，若只看到 help 容易误选；help 后接动词原形，并不决定语义方向。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 10,
+        "answer": "A",
+        "options": [
+          "physical",
+          "mental",
+          "subconscious",
+          "internal"
+        ],
+        "cn": [
+          "身体的",
+          "心理的",
+          "潜意识的",
+          "内在的"
+        ],
+        "explain": "other types of physical feedback 指“其他类型的身体反馈”，与前文 bodily reaction、heart rate 等生理变化呼应，也与 emotional state 形成“身体—情绪”的对照。",
+        "trap": "B mental 与 emotional state 语义重复，且“心理反馈”不如“身体反馈”贴合上文；D internal 过于笼统。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 11,
+        "answer": "B",
+        "options": [
+          "Except for",
+          "According to",
+          "Due to",
+          "As for"
+        ],
+        "cn": [
+          "除……之外",
+          "根据",
+          "由于",
+          "至于"
+        ],
+        "explain": "According to one classical theory of emotion 意为“根据一种经典的情绪理论”，引出下文的理论依据。Except for、Due to、As for 都不能这样引出观点来源。",
+        "trap": "C Due to 表原因，填进去成了“由于一种理论”，把依据说成了原因，逻辑倒置。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 12,
+        "answer": "C",
+        "options": [
+          "with",
+          "on",
+          "in",
+          "at"
+        ],
+        "cn": [
+          "与……一起",
+          "在……上",
+          "在……之中",
+          "在……"
+        ],
+        "explain": "be rooted in 是固定搭配，意为“扎根于、源于”，our feelings are partially rooted in physical reactions 即“我们的感受部分源于身体反应”。",
+        "trap": "B on 受 root“在……上”的汉语联想干扰，但英语固定搭配是 rooted in。",
+        "type": "固定搭配"
+      },
+      {
+        "n": 13,
+        "answer": "D",
+        "options": [
+          "unless",
+          "until",
+          "if",
+          "because"
+        ],
+        "cn": [
+          "除非",
+          "直到",
+          "如果",
+          "因为"
+        ],
+        "explain": "do not cry because they are sad 意为“不是因为悲伤才哭”，because 引导原因状语从句；后文 but they become sad when the tears begin to flow 给出相反的因果顺序。unless、until、if 都不表原因。",
+        "trap": "C if 会使句意变成“如果他们悲伤就不哭”，与“因果倒置”这一主题不符；还要注意 not 否定的范围是 because 从句。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 14,
+        "answer": "C",
+        "options": [
+          "exhausts",
+          "follows",
+          "precedes",
+          "suppresses"
+        ],
+        "cn": [
+          "耗尽",
+          "跟随",
+          "先于",
+          "压抑"
+        ],
+        "explain": "Although sadness also precedes tears 意为“尽管悲伤也会先于眼泪”，即承认悲伤能引起流泪；这与后文“情绪也可以源自肌肉反应”构成让步转折。",
+        "trap": "B follows 方向相反，若填 follows 就成了“悲伤跟随眼泪”，与 although 引出的让步逻辑相冲突。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 15,
+        "answer": "B",
+        "options": [
+          "into",
+          "from",
+          "towards",
+          "beyond"
+        ],
+        "cn": [
+          "进入",
+          "从……来",
+          "朝向",
+          "超出"
+        ],
+        "explain": "flow from muscular responses 意为“源自肌肉反应”，flow from 表示“来自、由……产生”，与上文 rooted in physical reactions 相呼应，说明情绪的来源。",
+        "trap": "A into 方向相反，成了“情绪流入肌肉反应”；此处强调的是来源而非去向。",
+        "type": "固定搭配"
+      },
+      {
+        "n": 16,
+        "answer": "D",
+        "options": [
+          "fetch",
+          "bite",
+          "pick",
+          "hold"
+        ],
+        "cn": [
+          "去取",
+          "咬",
+          "挑选",
+          "衔住"
+        ],
+        "explain": "hold a pen either with their teeth or with their lips 意为“用牙齿或嘴唇衔住一支笔”，hold 表示使某物保持在某一位置。fetch“去取”、bite“咬”、pick“挑选”都不能准确描述这一实验动作。",
+        "trap": "B bite 似与“用牙”呼应，但 bite a pen 是“咬笔”，而实验要求用牙齿“衔住”笔以牵动笑肌，hold 更准确。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 17,
+        "answer": "A",
+        "options": [
+          "disappointed",
+          "excited",
+          "joyful",
+          "indifferent"
+        ],
+        "cn": [
+          "失望的",
+          "兴奋的",
+          "高兴的",
+          "冷漠的"
+        ],
+        "explain": "用嘴唇含笔会使嘴部肌肉收紧、嘴角下垂，产生 a disappointed expression“失望的表情”，与前面 artificial smile 形成对照，也为下文 frown 作铺垫。",
+        "trap": "C joyful 与 artificial smile 同向，无法构成对照；B excited 也不符合嘴唇含笔时的面部形态。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 18,
+        "answer": "D",
+        "options": [
+          "adapted",
+          "catered",
+          "turned",
+          "reacted"
+        ],
+        "cn": [
+          "适应",
+          "迎合",
+          "转向",
+          "作出反应"
+        ],
+        "explain": "reacted more enthusiastically to funny cartoons 意为“对滑稽动画片反应更热烈”，react to 是固定搭配。adapted to 是“适应”，catered to 是“迎合”，turned to 是“求助于”，均不合实验语境。",
+        "trap": "C turned 与 to 连用是“转向、求助”，不能表示“对……作出反应”；A adapted to 意为“适应”，与“更热烈”不搭。",
+        "type": "固定搭配"
+      },
+      {
+        "n": 19,
+        "answer": "A",
+        "options": [
+          "suggesting",
+          "requiring",
+          "mentioning",
+          "supposing"
+        ],
+        "cn": [
+          "表明",
+          "要求",
+          "提及",
+          "假设"
+        ],
+        "explain": "现在分词 suggesting 作结果状语，意为“这表明”，引出实验结论：表情可能影响情绪。requiring、mentioning、supposing 都不能引出由实验得出的结论。",
+        "trap": "D supposing 是“假设”，会把已经完成的实验结果降格为假定；此处需要表示“表明”的 suggest。",
+        "type": "语法/结构"
+      },
+      {
+        "n": 20,
+        "answer": "C",
+        "options": [
+          "Eventually",
+          "Consequently",
+          "Similarly",
+          "Conversely"
+        ],
+        "cn": [
+          "最终",
+          "因此",
+          "同样地",
+          "相反地"
+        ],
+        "explain": "前文说表情可以影响情绪，末句由此类推到笑这一身体动作也能改善心情，用 Similarly 表示类比。Eventually 表时间，Consequently 表因果，Conversely 表相反。",
+        "trap": "B Consequently 似可表因果，但此处是由实验结果“类推”到笑的整体作用，并非严格因果；D Conversely 方向相反。",
+        "type": "逻辑关系"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 排序",
+    "en_title": "The Marketplace of Ideas: Reform and Resistance in the American University",
+    "cn_title": "美国大学：专业化、博士培养与通识教育的困境",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "美国大学中人文学科的专业化与博士培养问题",
+    "type": "ordering",
+    "directions": "The following paragraphs are given in a wrong order. For Questions 41–45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A–G and filling them into the numbered boxes. Paragraphs E and G have been correctly placed. Mark your answers on ANSWER SHEET 1. (10 points)",
+    "intro": "排序题先定首段，再逐段找“接口”：代词指代、连接词、同义复现和“总—分”关系。本题 G 已放在第 1 段，E 已放在第 4 段；剩下 B、D、A、C、F 五段，注意 His concern、such courses、this separation、Equally unsurprisingly 这些衔接信号。",
+    "paragraphs": {
+      "A": {
+        "en": "No disciplines have seized on professionalism with as much enthusiasm as the humanities. You can, Mr. Menand points out, become a lawyer in three years and a medical doctor in four. But the regular time it takes to get a doctoral degree in the humanities is nine years. Not surprisingly, up to half of all doctoral students in English drop out before getting their degrees.",
+        "zh": "没有哪个学科像人文学科这样热切地拥抱专业化。梅南德先生指出，你可以在三年内成为律师，在四年内成为医生。但在人文学科获得博士学位通常需要九年。毫不奇怪，多达一半的英语专业博士生在拿到学位之前就退学了。"
+      },
+      "B": {
+        "en": "His concern is mainly with the humanities: literature, languages, philosophy and so on. These are disciplines that are going out of style: 22% of American college graduates now major in business compared with only 2% in history and 4% in English. However, many leading American universities want their undergraduates to have a grounding in the basic canon of ideas that every educated person should possess. But most find it difficult to agree on what a \"general education\" should look like. At Harvard, Mr. Menand notes, \"the great books are read because they have been read\" — they form a sort of social glue.",
+        "zh": "他关注的主要是人文学科：文学、语言、哲学等。这些学科正在过时：如今22%的美国大学毕业生主修商科，而主修历史和英语的分别只有2%和4%。然而，许多美国顶尖大学希望本科生在基本思想经典方面打下基础，而这些经典是每一个受教育者都应掌握的。但大多数学校难以就“通识教育”应当是什么样子达成一致。梅南德先生指出，在哈佛，“伟大著作之所以被阅读，是因为它们一直被阅读”——它们构成某种社会黏合剂。"
+      },
+      "C": {
+        "en": "Equally unsurprisingly, only about half end up with professorships for which they entered graduate school. There are simply too few posts. This is partly because universities continue to produce ever more PhDs. But fewer students want to study humanities subjects: English departments awarded more bachelor's degrees in 1970-71 than they did 20 years later. Fewer students require fewer teachers. So, at the end of a decade of thesis-writing, many humanities students leave the profession to do something for which they have not been trained.",
+        "zh": "同样毫不奇怪的是，只有约一半的人最终获得他们当初读研时所追求的那类教授职位。职位实在太少。部分原因是大学不断培养出越来越多的博士。但愿意学习人文学科的学生却越来越少：英语系在1970—1971学年授予的学士学位比20年后还要多。学生越少，需要的教师就越少。于是，在写了十年论文之后，许多人文学科的学生离开这一行业，去做他们从未受过相关训练的工作。"
+      },
+      "D": {
+        "en": "One reason why it is hard to design and teach such courses is that they cut across the insistence by top American universities that liberal-arts education and professional education should be kept separate, taught in different schools. Many students experience both varieties. Although more than half of Harvard undergraduates end up in law, medicine or business, future doctors and lawyers must study a non-specialist liberal-arts degree before embarking on a professional qualification.",
+        "zh": "这类课程之所以难以设计和讲授，一个原因在于它们与美国顶尖大学的一贯主张相冲突，即博雅教育与专业教育应当分开、由不同的学院教授。许多学生却两种教育都经历过。尽管哈佛一半以上的本科生最终进入法律、医学或商界，未来的医生和律师仍必须先攻读一个非专业性的博雅学位，然后才能开始专业资格的学习。"
+      },
+      "E": {
+        "en": "Besides professionalising the professions by this separation, top American universities have professionalised the professor. The growth in public money for academic research has speeded the process: federal research grants rose fourfold between 1960 and 1990, but faculty teaching hours fell by half as research took its toll. Professionalism has turned the acquisition of a doctoral degree into a prerequisite for a successful academic career: as late as 1969 a third of American professors did not possess one. But the key idea behind professionalisation, argues Mr. Menand, is that \"the knowledge and skills needed for a particular specialisation are transmissible but not transferable.\" So disciplines acquire a monopoly not just over the production of knowledge, but also over the production of the producers of knowledge.",
+        "zh": "除了通过这种分离使各行各业专业化之外，美国顶尖大学还使教授本身专业化了。用于学术研究的公共资金增长加快了这一进程：1960年至1990年间联邦研究拨款增长到原来的四倍，但随着研究占用大量精力，教师的教学时数下降了一半。专业化使获得博士学位成为学术生涯成功的先决条件：直到1969年，仍有三分之一的美国教授没有博士学位。但梅南德先生认为，专业化背后的核心观念是“某一特定专业所需的知识和技能可以传授，但不可转移”。于是，各学科不仅垄断了知识的生产，也垄断了知识生产者的生产。"
+      },
+      "F": {
+        "en": "The key to reforming higher education, concludes Mr. Menand, is to alter the way in which \"the producers of knowledge are produced\". Otherwise, academics will continue to think dangerously alike, increasingly detached from the societies which they study, investigate and criticise. \"Academic inquiry, at least in some fields, may need to become less exclusionary and more holistic.\" Yet quite how that happens, Mr. Menand does not say.",
+        "zh": "梅南德先生总结说，改革高等教育的关键在于改变“知识生产者被生产出来”的方式。否则，学者们将继续危险地千人一面，越来越脱离他们所研究、调查和批评的社会。“学术探究，至少在某些领域，可能需要变得不那么排他、更加整体化。”然而，究竟如何做到这一点，梅南德先生并没有说。"
+      },
+      "G": {
+        "en": "The subtle and intelligent little book The Marketplace of Ideas: Reform and Resistance in the American University should be read by every student thinking of applying to take a doctoral degree. They may then decide to go elsewhere. For something curious has been happening in American universities, and Louis Menand, a professor of English at Harvard University, captured it skillfully.",
+        "zh": "每一个打算申请攻读博士学位的学生都应该读一读《思想的市场：美国大学的改革与抵制》这本精巧而富有智慧的小书。读完之后，他们也许会决定另谋出路。因为美国大学里一直在发生某种奇怪的事情，而哈佛大学英语教授路易斯·梅南德巧妙地捕捉到了它。"
+      }
+    },
+    "fixed_note": "原卷已给定两段：G 位于第 1 段，E 位于第 4 段（即 41、42 之后，43 之前）。41–45 只需从剩余段落中选择，最终顺序为 G–41–42–E–43–44–45。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "B",
+        "explain": "G 末句说美国大学里正在发生某种奇怪的事，梅南德把它捕捉了下来；B 紧承其后，用 His concern is mainly with the humanities 说明他关注的对象，再以人文学科“正在过时”的数据和“通识教育”难以界定展开，是全文的话题段。",
+        "clue": "His concern → Menand；the humanities；going out of style → 22% business vs. 2% history"
+      },
+      {
+        "n": 42,
+        "answer": "D",
+        "explain": "B 末句落在“大多数学校难以就通识教育该是什么样子达成一致”，D 以 One reason why it is hard to design and teach such courses 直接承接，such courses 指的就是 B 所说的 general education 课程，随后说明其难在跨越博雅教育与专业教育的分界。",
+        "clue": "such courses → general education；hard to design and teach"
+      },
+      {
+        "n": 43,
+        "answer": "A",
+        "explain": "E 末句说各学科不仅垄断知识的生产，也垄断“知识生产者的生产”；A 以 No disciplines have seized on professionalism with as much enthusiasm as the humanities 把话题收窄到人文学科，用律师三年、医生四年与文科博士九年的对比说明其专业化程度之高。",
+        "clue": "professionalism → the humanities；lawyer in three years vs. nine years for a PhD"
+      },
+      {
+        "n": 44,
+        "answer": "C",
+        "explain": "A 末句说多达一半的英语博士生拿不到学位就退学，C 以 Equally unsurprisingly 承接这一“不令人意外”的事实，进一步指出即使拿到学位，也只有约一半的人能获得当初读研时想要的教职。",
+        "clue": "Not surprisingly → Equally unsurprisingly；half drop out → only about half end up with professorships"
+      },
+      {
+        "n": 45,
+        "answer": "F",
+        "explain": "C 末句说许多人文学科学生最终离开学术行业，F 以 The key to reforming higher education 收束全文，提出梅南德的改革主张——改变“知识生产者被生产出来”的方式，并以“究竟如何做到，他并没有说”作结。",
+        "clue": "reforming higher education → alter the way \"the producers of knowledge are produced\""
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "As a Man Thinketh",
+    "cn_title": "《如你所思》：思想、境遇与成长",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "詹姆斯·艾伦《如你所思》中思想与境遇的关系",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on ANSWER SHEET 2. (10 points)",
+    "intro": "翻译先拆结构，再定主干，最后按中文语序重排。注意同位语从句、让步状语从句、被动语态和分号并列句；justification、rationalization 这类抽象名词要译成“为……提供理由／使……合理化”的动词结构才自然。",
+    "paragraphs": [
+      {
+        "en": "With its theme that \"Mind is the master weaver,\" creating our inner character and outer circumstances, the book As a Man Thinketh by James Allen is an in-depth exploration of the central idea of self-help writing.",
+        "zh": "詹姆斯·艾伦的《如你所思》以“思想是主织工”为主题，认为思想织就了我们内在的性格与外在的境遇；这本书深入探讨了自助类写作的核心观念。"
+      },
+      {
+        "en": "[[46]]Allen's contribution was to take an assumption we all share — that because we are not robots we therefore control our thoughts — and reveal its erroneous nature.[[/46]] Because most of us believe that mind is separate from matter, we think that thoughts can be hidden and made powerless; this allows us to think one way and act another. However, Allen believed that the unconscious mind generates as much action as the conscious mind, and [[47]]while we may be able to sustain the illusion of control through the conscious mind alone, in reality we are continually faced with a question: \"Why cannot I make myself do this or achieve that?\"[[/47]]",
+        "zh": "艾伦的贡献在于，他拿出一个我们共有的假设——即因为我们不是机器人，所以能控制自己的思想——并揭示其谬误本质。因为我们大多数人都相信思想与物质是分离的，所以我们以为思想可以被隐藏、可以被弄得无能为力；这就使我们能够想一套、做一套。然而，艾伦认为无意识的心智所产生的行动与有意识的心智一样多；而且，尽管我们或许能仅凭有意识的心智维持一种控制的幻觉，但在现实中，我们不断面对这样一个问题：“为什么我无法让自己去做这件事或实现那个目标？”"
+      },
+      {
+        "en": "Since desire and will are damaged by the presence of thoughts that do not accord with desire, Allen concluded: \"We do not attract what we want, but what we are.\" Achievement happens because you as a person embody the external achievement; you don't \"get\" success but become it. There is no gap between mind and matter.",
+        "zh": "既然欲望和意志会被与欲望不相符的思想所破坏，艾伦得出结论：“我们吸引来的不是我们想要的东西，而是我们本身的样子。”成就之所以发生，是因为你这个人本身就体现了外在的成就；你不是“得到”成功，而是成为成功。思想与物质之间没有鸿沟。"
+      },
+      {
+        "en": "Part of the fame of Allen's book is its contention that \"Circumstances do not make a person, they reveal him.\" [[48]]This seems a justification for neglect of those in need, and a rationalization of exploitation, of the superiority of those at the top and the inferiority of those at the bottom.[[/48]]",
+        "zh": "艾伦这本书之所以出名，部分原因在于它主张“境遇并不造就一个人，而是揭示一个人”。这似乎是在为忽视需要帮助的人提供理由，也是在为剥削、为上层人的优越和底层人的卑下寻找合理化依据。"
+      },
+      {
+        "en": "This, however, would be a knee-jerk reaction to a subtle argument. Each set of circumstances, however bad, offers a unique opportunity for growth. If circumstances always determined the life and prospects of people, then humanity would never have progressed. In fact, [[49]]circumstances seem to be designed to bring out the best in us, and if we feel that we have been \"wronged\" then we are unlikely to begin a conscious effort to escape from our situation.[[/49]] Nevertheless, as any biographer knows, a person's early life and its conditions are often the greatest gift to an individual.",
+        "zh": "然而，这是对一个精微论点的本能反应。每一组境遇，无论多么糟糕，都提供了独特的成长机会。如果境遇总是决定人的生活与前途，那么人类就永远不会进步。事实上，境遇似乎就是要激发我们身上最好的东西；如果我们觉得自己受到了“不公对待”，那么我们就不太可能开始有意识地努力摆脱自己的处境。尽管如此，正如任何传记作家所知，一个人的早年生活及其条件往往是个体得到的最大的礼物。"
+      },
+      {
+        "en": "The sobering aspect of Allen's book is that we have no one else to blame for our present condition except ourselves. [[50]]The upside is the possibilities contained in knowing that everything is up to us; where before we were experts in the array of limitations, now we become authorities of what is possible.[[/50]]",
+        "zh": "艾伦这本书令人清醒的一面在于：对于自己目前的状况，除了我们自己，我们没有别人可以责怪。好的一面在于，认识到一切都取决于我们自己，这其中蕴含着种种可能；从前我们是列举种种局限的专家，如今我们则成了把握可能性的行家。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "Allen's contribution was to take an assumption we all share — that because we are not robots we therefore control our thoughts — and reveal its erroneous nature.",
+        "core": "Allen's contribution was to take an assumption and reveal its erroneous nature.",
+        "structure": "主语 Allen's contribution，系动词 was，表语由并列不定式 to take... and reveal... 充当；we all share 是省略关系词的定语从句，修饰 assumption；两个破折号之间是 assumption 的同位语从句，其中 because 引导原因状语从句。",
+        "key": "contribution 贡献；assumption 假设；share 共有、认同；erroneous 错误的；reveal 揭示。",
+        "translation": "艾伦的贡献在于，他拿出一个我们共有的假设——即因为我们不是机器人，所以能控制自己的思想——并揭示其谬误本质。",
+        "pitfall": "不要漏掉破折号中的同位语从句，也不要把它当成可省略的插入语；to take 与 to reveal 是并列的表语，不能把 reveal 误认作与 was 并列的谓语。"
+      },
+      "47": {
+        "en": "while we may be able to sustain the illusion of control through the conscious mind alone, in reality we are continually faced with a question: \"Why cannot I make myself do this or achieve that?\"",
+        "core": "we are continually faced with a question.",
+        "structure": "while 引导让步状语从句，意为“尽管”；主句是被动结构 be faced with；冒号后的直接引语说明 question 的具体内容。",
+        "key": "sustain 维持；illusion 幻觉；conscious mind 有意识的心智；be faced with 面临；continually 不断。",
+        "translation": "尽管我们或许能仅凭有意识的心智维持一种控制的幻觉，但在现实中，我们不断面对这样一个问题：“为什么我无法让自己去做这件事或实现那个目标？”",
+        "pitfall": "while 在此表让步而非时间，不能译成“当……时”；alone 修饰 through the conscious mind，意为“仅仅凭借”，不是“独自”。"
+      },
+      "48": {
+        "en": "This seems a justification for neglect of those in need, and a rationalization of exploitation, of the superiority of those at the top and the inferiority of those at the bottom.",
+        "core": "This seems a justification and a rationalization.",
+        "structure": "主语 This，系动词 seems，两个并列表语 a justification for... 与 a rationalization of...；of 后接三个并列成分：exploitation、the superiority of those at the top、the inferiority of those at the bottom。",
+        "key": "justification 正当理由、辩护；neglect 忽视；those in need 需要帮助的人；rationalization 合理化；exploitation 剥削；superiority/inferiority 优越／卑下。",
+        "translation": "这似乎是在为忽视需要帮助的人提供理由，也是在为剥削、为上层人的优越和底层人的卑下寻找合理化依据。",
+        "pitfall": "seems 后是两个并列名词短语，不能只译出 justification 而丢掉 rationalization；of 引出三个并列宾语，exploitation 并不只与 neglect 并列。"
+      },
+      "49": {
+        "en": "circumstances seem to be designed to bring out the best in us, and if we feel that we have been \"wronged\" then we are unlikely to begin a conscious effort to escape from our situation.",
+        "core": "circumstances seem to be designed to bring out the best in us.",
+        "structure": "and 连接两个并列分句；前一分句是 seem to be designed to do 结构；后一分句 if 引导条件从句，主句为 we are unlikely to begin a conscious effort...。",
+        "key": "be designed to 旨在、为……而设计；bring out the best in us 激发我们最好的一面；wrong 不公正地对待；conscious effort 有意识的努力。",
+        "translation": "境遇似乎就是要激发我们身上最好的东西；如果我们觉得自己受到了“不公对待”，那么我们就不太可能开始有意识地努力摆脱自己的处境。",
+        "pitfall": "wronged 是动词 wrong 的过去分词，意为“受到不公正对待”，不是“错了”；be designed to 不必死译为“被设计”，可译“似乎就是要……”。"
+      },
+      "50": {
+        "en": "The upside is the possibilities contained in knowing that everything is up to us; where before we were experts in the array of limitations, now we become authorities of what is possible.",
+        "core": "The upside is the possibilities; now we become authorities of what is possible.",
+        "structure": "分号连接两个并列分句；contained in knowing that... 是过去分词短语作后置定语，修饰 possibilities，that 引导宾语从句；后一分句由 where 引出对比，where before... now... 表示今昔对照。",
+        "key": "upside 好的一面、积极面；be up to 取决于；array 一系列；limitations 局限；authorities 权威、行家。",
+        "translation": "好的一面在于，认识到一切都取决于我们自己，这其中蕴含着种种可能；从前我们是列举种种局限的专家，如今我们则成了把握可能性的行家。",
+        "pitfall": "upside 不是方位词“上方”；where 在此表对比而非地点，不能译成“在那里”；authorities of what is possible 不是“可能之事的当局”，应译“把握可能性的行家”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "A letter & a picture essay",
+    "cn_title": "推荐信 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "向朋友推荐一部电影；旅游与人类活动造成的水污染",
+    "intro": "小作文考“书信格式 + 推荐一部电影并说明理由”；大作文考“描述图画 + 揭示旅游与人类活动造成的水污染 + 评论”。",
+    "partA": {
+      "title": "Part A · 书信",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Write a letter to a friend of yours to 1) recommend one of your favorite movies and 2) give reasons for your recommendation. You should write about 100 words on ANSWER SHEET 2. Do not sign your own name at the end of the letter. Use \"Li Ming\" instead. Do not write the address. (10 points)",
+      "prompt_zh": "给你的一位朋友写一封信：1）推荐一部你最喜欢的电影；2）说明推荐理由。约100词；结尾不要签自己的名字，用“Li Ming”；不要写地址。",
+      "sample": "Dear Peter,\n\nI am writing to recommend a film I saw last week — The Pursuit of Happyness, starring Will Smith. It is based on the true story of a single father who loses his home but never his hope, and finally becomes a stockbroker.\n\nTwo things make it worth your time. First, the acting is powerful: Smith makes every silence speak. Second, the film offers encouragement without empty slogans, reminding us that dignity matters more than comfort.\n\nI know you are preparing for a difficult exam, and this film may give you the strength you need. Do tell me what you think of it.\n\nYours,\nLi Ming",
+      "sample_zh": "亲爱的彼得：\n\n我写信是想向你推荐我上周看的一部电影——《当幸福来敲门》，由威尔·史密斯主演。它改编自一个真实故事：一位单亲父亲失去了住所，却从未失去希望，最终成为一名股票经纪人。\n\n有两点值得你花时间一看。第一，表演很有力量：史密斯让每一处沉默都在说话。第二，这部电影给人鼓励却不喊空洞的口号，它提醒我们，尊严比安逸更重要。\n\n我知道你正在准备一场艰难的考试，这部电影或许能给你需要的力量。看完后一定要告诉我你的感受。\n\n你的朋友\n李明",
+      "structure": [
+        [
+          "称呼",
+          "Dear Peter,"
+        ],
+        [
+          "写信目的",
+          "I am writing to recommend a film I saw last week — The Pursuit of Happyness."
+        ],
+        [
+          "内容简介",
+          "a single father who loses his home but never his hope"
+        ],
+        [
+          "理由一",
+          "First, the acting is powerful: Smith makes every silence speak."
+        ],
+        [
+          "理由二",
+          "Second, the film offers encouragement without empty slogans."
+        ],
+        [
+          "结合对方处境",
+          "I know you are preparing for a difficult exam... may give you the strength you need."
+        ],
+        [
+          "期待回应",
+          "Do tell me what you think of it."
+        ],
+        [
+          "落款",
+          "Yours, Li Ming"
+        ]
+      ],
+      "expressions": [
+        "I am writing to recommend...",
+        "It is based on the true story of...",
+        "Two things make it worth your time.",
+        "First... Second...",
+        "What impresses me most is...",
+        "It reminds us that...",
+        "Do tell me what you think of it."
+      ],
+      "traps": [
+        "题目要求写给朋友，语气要亲切自然，署名必须用 Li Ming，不要写真实姓名，也不要写地址。",
+        "两个要点都要落实：推荐哪部电影 + 具体理由（表演、主题、对自己的触动等），只罗列剧情而不给理由会失分。",
+        "约100词，不要写成影评或说明书；书信要有称呼和结尾敬语，推荐理由用一般现在时即可。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160–200 words based on the following drawing. In your essay, you should 1) describe the drawing briefly, 2) explain its intended meaning, and 3) give your comments. You should write neatly on ANSWER SHEET 2. (20 points)",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "src": "../assets/writing/2011.png",
+        "caption": "水面上的游船与水面下的垃圾",
+        "note": "画面上方是一条带篷的游船：船头一人手持鱼竿垂钓，船尾两名游客并坐，身旁放着野餐篮和饮料，正悠闲地观光；船下的水面却漂满塑料袋、纸片、瓶子、破鞋，甚至还有鱼骨和废弃物。同一片水域，船上的人只看见风景，看不见水下的污染。"
+      },
+      "sample": "The drawing presents a scene that is at once pleasant and disturbing. On the surface of a lake, a canopied boat drifts slowly: a man stands at the bow with a fishing rod, while two passengers sit at the stern beside a picnic basket and drinks, enjoying the view. Beneath them, however, the water is choked with rubbish — plastic bags, bottles, paper scraps, a worn-out shoe and even a fish skeleton.\n\nThe contrast carries an obvious message. Tourism and everyday human activity are polluting the very waters we admire. What makes the scene ironic is that the passengers see only the beautiful surface, unaware that their pleasure depends on an environment they are helping to destroy. If nothing is done, the lake will soon offer nothing worth photographing.\n\nTo reverse this trend, efforts must come from several directions. Governments should punish the dumping of waste into rivers and lakes, and scenic spots should provide enough bins and clear rubbish regularly. As individuals, we should take our trash away with us rather than treating nature as a dumping ground. Only then can the boat and the water remain part of the same beautiful picture.",
+      "sample_zh": "这幅画呈现的场景既宜人又令人不安。湖面上，一条带篷的游船缓缓漂行：船头一人持竿垂钓，船尾两名乘客坐在野餐篮和饮料旁，享受着风景。然而在他们脚下，水面却被垃圾堵塞——塑料袋、瓶子、纸片、一只破鞋，甚至还有鱼骨。\n\n这种对比传达出明显的寓意。旅游业和日常的人类活动正在污染我们欣赏的这片水域。这一场景之所以具有讽刺意味，是因为船上的乘客只看见美丽的表面，却没有意识到他们的愉悦依赖于一个正被他们破坏的环境。如果再不采取行动，这片湖很快将没有任何值得拍摄的东西。\n\n要扭转这一趋势，需要多方努力。政府应惩处向江河湖泊倾倒废弃物的行为，景区应提供足够的垃圾桶并定期清理垃圾。作为个人，我们应当把自己的垃圾带走，而不是把自然当作免费的垃圾场。只有这样，游船与湖水才能继续留在同一幅美丽的画中。",
+      "structure": [
+        [
+          "第一段·描述",
+          "The drawing presents a scene... a canopied boat... two passengers enjoying the view... beneath them the water is choked with rubbish."
+        ],
+        [
+          "第二段·寓意",
+          "The contrast carries an obvious message: tourism and everyday activity pollute the waters we admire; passengers see only the surface."
+        ],
+        [
+          "第三段·评论",
+          "To reverse this trend... governments, scenic spots and individuals... Only then can..."
+        ]
+      ],
+      "expressions": [
+        "The drawing presents a scene that is at once pleasant and disturbing.",
+        "On the surface of..., a canopied boat drifts slowly.",
+        "Beneath them, however, the water is choked with rubbish.",
+        "The contrast carries an obvious message.",
+        "What makes the scene ironic is that...",
+        "To reverse this trend, efforts must come from several directions.",
+        "Rather than treating nature as a dumping ground, we should..."
+      ],
+      "traps": [
+        "描述要抓住“船上的悠闲观光”与“水下的成堆垃圾”这一上下对比，不要只写“有人在湖上乱扔垃圾”。",
+        "寓意要落在“旅游／人类活动造成水污染与环境破坏”，不要写成“禁止钓鱼”“保护鱼类”或单纯的“公民素质”。",
+        "评论段要给出可操作的方向（监管、景区管理、个人习惯），避免只喊“保护环境人人有责”的空话。",
+        "160–200词，三段为宜；描述图画和阐述寓意都用一般现在时。"
+      ]
+    }
+  }
+}

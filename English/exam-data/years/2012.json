@@ -1,0 +1,707 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "最高法院大法官的伦理、政治与司法独立性",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on ANSWER SHEET 1. (10 points)",
+    "intro": "文章围绕最高法院大法官的伦理与政治化问题展开：先指出法院的正当性因法官像政客一样行事而受损，再以斯卡利亚为例说明问题，接着追溯宪法制定者的制度设计，最后提出法官应受行为准则约束。做题时抓住“问题—例证—根源—对策”的链条。",
+    "passage": [
+      {
+        "en": "The ethical judgments of the Supreme Court justices have become an important issue recently. The court cannot {{1}} its legitimacy as guardian of the rule of law {{2}} justices behave like politicians. Yet, in several instances, justices acted in ways that {{3}} the court's reputation for being independent and impartial.",
+        "zh": "最高法院大法官的伦理判断近来已成为一个重要问题。当法官像政客一样行事时，法院便无法维持其作为法治守护者的正当性。然而，在若干情形中，法官的行为方式削弱了法院独立、公正的声誉。"
+      },
+      {
+        "en": "Justice Antonin Scalia, for example, appeared at political events. That kind of activity makes it less likely that the court's decisions will be {{4}} as impartial judgments. Part of the problem is that the justices are not {{5}} by an ethics code. At the very least, the court should make itself {{6}} to the code of conduct that {{7}} to the rest of the federal judiciary.",
+        "zh": "例如，大法官安东宁·斯卡利亚曾出现在政治活动中。这类活动使法院的裁决不太可能被视为公正的判决。部分问题在于，法官并不受道德准则的约束。至少，法院应当使自己服从适用于联邦司法系统其余部分的行为准则。"
+      },
+      {
+        "en": "This and other similar cases {{8}} the question of whether there is still a {{9}} between the court and politics.",
+        "zh": "这件事和其他类似案件提出了一个问题：法院与政治之间是否仍有一条界线。"
+      },
+      {
+        "en": "The framers of the Constitution envisioned law {{10}} having authority apart from politics. They gave justices permanent positions {{11}} they would be free to {{12}} those in power and have no need to {{13}} political support. Our legal system was designed to set law apart from politics precisely because they are so closely {{14}}. Constitutional law is political because it results from choices rooted in fundamental social {{15}} like liberty and property. When the court deals with social policy decisions, the law it {{16}} is inescapably political — which is why decisions split along ideological lines are so easily {{17}} as unjust. The justices must {{18}} doubts about the court's legitimacy by making themselves {{19}} to the code of conduct. That would make rulings more likely to be seen as separate from politics and, {{20}}, convincing as law.",
+        "zh": "宪法的制定者设想法律具有独立于政治的权威。他们赋予法官终身职位，以便法官能够自由地触怒当权者，而无须争取政治支持。我们的法律体系之所以被设计成让法律与政治分离，恰恰是因为二者联系得如此紧密。宪法之所以具有政治性，是因为它源于植根于自由、财产等基本社会概念的选择。当法院处理社会政策决定时，它所塑造的法律不可避免地具有政治性——这就是为什么按意识形态路线分裂的裁决如此容易被斥为不公正。法官必须通过使自己接受行为准则的约束来消除人们对法院正当性的疑虑。这将使裁决更可能被视为与政治分离，并因此作为法律而令人信服。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "B",
+        "options": [
+          "emphasize",
+          "maintain",
+          "modify",
+          "recognize"
+        ],
+        "cn": [
+          "强调",
+          "维持",
+          "修改",
+          "承认"
+        ],
+        "explain": "maintain its legitimacy 表示“维持其作为法治守护者的正当性”。主语是 the court，宾语是 legitimacy，只有 maintain 能构成“维持合法性”的搭配。 A emphasize“强调”、C modify“修改”、D recognize“承认”都不能与 legitimacy 构成“维持”之意；recognize 虽可接 legitimacy，但“法院无法承认自己的合法性”逻辑不通。",
+        "trap": "D recognize 易因“承认”义被误选，但“法院无法承认自身合法性”不合逻辑；应选 maintain“维持”。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 2,
+        "answer": "A",
+        "options": [
+          "when",
+          "lest",
+          "before",
+          "unless"
+        ],
+        "cn": [
+          "当……时",
+          "唯恐",
+          "在……之前",
+          "除非"
+        ],
+        "explain": "when 引导时间/条件状语从句：当法官像政客一样行事时，法院就无法维持其正当性。前后构成“行为—后果”的条件关系。 B lest“唯恐”、C before“在……之前”、D unless“除非”都会破坏逻辑；尤其 unless 会把句意变成“除非法官像政客一样行事，否则法院不能维持合法性”，与全文批评法官政治化的立场完全相反。",
+        "trap": "D unless 最具迷惑性，但“除非……否则不能维持合法性”与文意相反，应选 when。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 3,
+        "answer": "B",
+        "options": [
+          "restored",
+          "weakened",
+          "established",
+          "eliminated"
+        ],
+        "cn": [
+          "恢复",
+          "削弱",
+          "建立",
+          "消除"
+        ],
+        "explain": "weakened the court's reputation 表示“削弱了法院……的声誉”。Yet 转折：前面说法院应保持独立公正，实际却有法官的行为损害了这种声誉。 A restored“恢复”与转折逻辑矛盾；C established“建立”方向相反；D eliminated“消除”与 reputation 搭配不当。",
+        "trap": "A restored 与 Yet 的转折语气相反，不能选“恢复声誉”。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 4,
+        "answer": "D",
+        "options": [
+          "challenged",
+          "compromised",
+          "suspected",
+          "accepted"
+        ],
+        "cn": [
+          "质疑",
+          "损害",
+          "怀疑",
+          "接受"
+        ],
+        "explain": "decisions will be accepted as impartial judgments 表示“裁决会被接受为公正的判决”。be accepted as 是“被当作……而接受”。 A challenged“质疑”、B compromised“损害”、C suspected“怀疑”都与“显得公正”相反，且不能与 as impartial judgments 构成“被视为”的结构。",
+        "trap": "B compromised 是“妥协/损害”，不能与 as 构成“被视为”的结构。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 5,
+        "answer": "C",
+        "options": [
+          "advanced",
+          "caught",
+          "bound",
+          "founded"
+        ],
+        "cn": [
+          "推进",
+          "抓住",
+          "约束",
+          "建立"
+        ],
+        "explain": "be bound by an ethics code 表示“受道德准则约束”。bind 的过去分词 bound 表被动，符合“法官不受准则约束”的语境。 A advanced“推进”、B caught“抓住”、D founded“建立”都不能表示“受……约束”；be caught by 是“被抓住”，不合语境。",
+        "trap": "D founded 与“准则”不搭配，且“法官被建立”不合逻辑。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 6,
+        "answer": "B",
+        "options": [
+          "resistant",
+          "subject",
+          "immune",
+          "prone"
+        ],
+        "cn": [
+          "抵制的",
+          "服从的",
+          "免疫的",
+          "易于……的"
+        ],
+        "explain": "make itself subject to the code of conduct 表示“使自己服从行为准则”。be subject to 是固定搭配“受……约束、服从”。 A resistant“抵制”、C immune“免疫”、D prone“易于”都与“服从准则”相反或不合；be prone to 后常接不好的事。",
+        "trap": "C immune 与上下文“应受约束”完全相反，是典型的反义干扰。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 7,
+        "answer": "D",
+        "options": [
+          "resorts",
+          "sticks",
+          "leads",
+          "applies"
+        ],
+        "cn": [
+          "诉诸",
+          "坚持",
+          "导致",
+          "适用于"
+        ],
+        "explain": "the code of conduct that applies to the rest of the federal judiciary 表示“适用于联邦司法系统其余部分的行为准则”。apply to 是“适用于”。 A resorts to“诉诸”、B sticks to“坚持”、C leads to“导致”都不能表示“适用于”；resort to 后接手段，语义不符。",
+        "trap": "B sticks to 是“坚持”，不能表示准则的适用范围。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 8,
+        "answer": "B",
+        "options": [
+          "evade",
+          "raise",
+          "deny",
+          "settle"
+        ],
+        "cn": [
+          "回避",
+          "提出",
+          "否认",
+          "解决"
+        ],
+        "explain": "raise the question 是固定搭配“提出问题”。主语 cases 为复数，raise 用原形。 A evade“回避”、C deny“否认”、D settle“解决”都不能与 the question of whether... 构成“提出疑问”；evade the question 是“回避问题”，与后文展开讨论矛盾。",
+        "trap": "D settle 是“解决问题”，但后文只是提出疑问，并未解决。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 9,
+        "answer": "A",
+        "options": [
+          "line",
+          "barrier",
+          "similarity",
+          "conflict"
+        ],
+        "cn": [
+          "界线",
+          "障碍",
+          "相似之处",
+          "冲突"
+        ],
+        "explain": "a line between the court and politics 表示“法院与政治之间的界线”。line 与 between 搭配，呼应“法律与政治分离”的主题。 B barrier“障碍”、C similarity“相似”、D conflict“冲突”都不能表示“界限”；barrier between 是“障碍”，语义不符。",
+        "trap": "B barrier 是“障碍”，不是“界线”，易因“隔开两者”的联想误选。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 10,
+        "answer": "B",
+        "options": [
+          "by",
+          "as",
+          "through",
+          "towards"
+        ],
+        "cn": [
+          "通过",
+          "作为",
+          "通过",
+          "朝向"
+        ],
+        "explain": "envision law as having authority 表示“设想法律拥有权威”。envision sth as doing 是“设想某物做某事”。 A by“通过”、C through“通过”、D towards“朝向”都不能接 having 作宾语补足语。",
+        "trap": "A/C 的“通过”义与 envision 不搭，envision 后常接 as 短语。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 11,
+        "answer": "A",
+        "options": [
+          "so",
+          "since",
+          "provided",
+          "though"
+        ],
+        "cn": [
+          "以便",
+          "既然",
+          "假如",
+          "虽然"
+        ],
+        "explain": "so (that) they would be free to... 表示目的“以便他们能自由地……”。 B since“既然”、C provided“假如”、D though“虽然”分别引导原因、条件、让步，不能表示目的。",
+        "trap": "C provided 引导条件，会把“终身职位”变成条件而不是目的。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 12,
+        "answer": "C",
+        "options": [
+          "serve",
+          "satisfy",
+          "upset",
+          "replace"
+        ],
+        "cn": [
+          "服务",
+          "满足",
+          "触怒",
+          "取代"
+        ],
+        "explain": "upset those in power 表示“触怒当权者”。终身职位使法官敢于作出不利于当权者的裁决，而不必担心失去职位，这与后半句“无须争取政治支持”构成完整的因果链。 A serve“服务”、B satisfy“满足”都意味着迎合当权者，与“司法独立”的主旨相反；D replace“取代”与 those in power 搭配不当。",
+        "trap": "A serve 字面顺口，但“自由地服务于当权者”恰好说明不独立，与上下文矛盾。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 13,
+        "answer": "C",
+        "options": [
+          "confirm",
+          "express",
+          "cultivate",
+          "offer"
+        ],
+        "cn": [
+          "确认",
+          "表达",
+          "培养/争取",
+          "提供"
+        ],
+        "explain": "cultivate political support 表示“培养/争取政治支持”。终身职位使法官不必为保住职位而经营政治支持。 A confirm“确认”、B express“表达”、D offer“提供”都不能表达“争取支持”的含义；express/offer support 是“表达/提供支持”，与“无须”搭配不合逻辑。",
+        "trap": "B express 是“表达支持”，不是“争取支持”，易因搭配顺口而误选。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 14,
+        "answer": "D",
+        "options": [
+          "guarded",
+          "followed",
+          "studied",
+          "tied"
+        ],
+        "cn": [
+          "被守护",
+          "被跟随",
+          "被研究",
+          "紧密相连"
+        ],
+        "explain": "closely tied 表示“紧密相连”。法律与政治之所以要分开，正是因为二者联系太紧密。 A guarded“被守护”、B followed“被跟随”、C studied“被研究”都不能表示“相互联系”；be closely followed 是“被密切跟踪”。",
+        "trap": "A guarded 与 closely 搭配表示“严密守卫”，不合语境。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 15,
+        "answer": "A",
+        "options": [
+          "concepts",
+          "theories",
+          "divisions",
+          "conventions"
+        ],
+        "cn": [
+          "概念",
+          "理论",
+          "分歧",
+          "惯例"
+        ],
+        "explain": "fundamental social concepts like liberty and property 表示“自由、财产等基本社会概念”。concepts 与 rooted in、like 举例搭配自然。 B theories“理论”过于学术化；C divisions“分歧”与 liberty/property 不属同类；D conventions“惯例”不能涵盖自由、财产这类基本价值。",
+        "trap": "D conventions 是“惯例”，不能概括自由、财产这类基本概念。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 16,
+        "answer": "C",
+        "options": [
+          "excludes",
+          "questions",
+          "shapes",
+          "controls"
+        ],
+        "cn": [
+          "排除",
+          "质疑",
+          "塑造",
+          "控制"
+        ],
+        "explain": "the law it shapes 表示“法院所塑造的法律”。shape 是“塑造、形成”，与 social policy decisions 呼应。 A excludes“排除”、B questions“质疑”、D controls“控制”都不能表示“形成法律”；control 语气过强，法院是解释和塑造法律，不是控制法律。",
+        "trap": "D controls 语气过强，法院是解释和塑造法律，不是控制法律。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 17,
+        "answer": "A",
+        "options": [
+          "dismissed",
+          "released",
+          "ranked",
+          "distorted"
+        ],
+        "cn": [
+          "斥为/不予考虑",
+          "发布",
+          "排名",
+          "歪曲"
+        ],
+        "explain": "be dismissed as unjust 表示“被斥为不公正而不予考虑”。dismiss sth as... 是“把……视为……而否定”。 B released“发布”、C ranked“排名”、D distorted“歪曲”都不能与 as unjust 构成“被视为不公正”的结构。",
+        "trap": "D distorted 是“歪曲”，主语通常是行为，而非裁决“被歪曲为不公”。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 18,
+        "answer": "C",
+        "options": [
+          "suppress",
+          "exploit",
+          "address",
+          "ignore"
+        ],
+        "cn": [
+          "压制",
+          "利用",
+          "回应/处理",
+          "忽视"
+        ],
+        "explain": "address doubts 表示“回应/消除疑虑”。address 有“处理、应对”之意。 A suppress“压制”、B exploit“利用”、D ignore“忽视”都与“通过遵守准则来消除疑虑”的积极做法相反。",
+        "trap": "A suppress 是“压制疑虑”，不是“回应疑虑”，且与 by making themselves accountable 不搭。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 19,
+        "answer": "D",
+        "options": [
+          "accessible",
+          "amiable",
+          "agreeable",
+          "accountable"
+        ],
+        "cn": [
+          "可接近的",
+          "和蔼的",
+          "令人愉快的",
+          "负有责任的"
+        ],
+        "explain": "make themselves accountable to the code of conduct 表示“使自己接受行为准则的问责/约束”。be accountable to 是“对……负责”。 A accessible“可接近”、B amiable“和蔼”、C agreeable“令人愉快”都不能表示“受约束、可问责”。",
+        "trap": "C agreeable 是“令人愉快的”，与准则搭配不当。",
+        "type": "语义/搭配"
+      },
+      {
+        "n": 20,
+        "answer": "D",
+        "options": [
+          "by all means",
+          "at all costs",
+          "in a word",
+          "as a result"
+        ],
+        "cn": [
+          "务必",
+          "不惜一切代价",
+          "总之",
+          "因此/结果"
+        ],
+        "explain": "as a result 表示结果：裁决被视为与政治分离，并因此作为法律而令人信服。 A by all means“务必”、B at all costs“不惜一切代价”、C in a word“总之”都不能表示因果；in a word 用于总结，不用于承接结果。",
+        "trap": "C in a word 是“总之”，不是“结果”，易因位置在句末而误选。",
+        "type": "逻辑关系"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 7选5",
+    "en_title": "The networked computer",
+    "cn_title": "网络计算机：下载、上传与文化",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "网络计算机时代下载与上传的对立及创造性文化",
+    "type": "7选5",
+    "directions": "In the following text, some sentences have been removed. For Questions 41–45, choose the most suitable one from the list A–G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on ANSWER SHEET 1. (10 points)",
+    "intro": "7选5 先看空格前后：代词指代、重复词、逻辑连接词和段落功能。本文主线是“网络计算机带来下载与上传之争”，注意 superfluous、pyramid、television、upload 等复现词，以及 However、For example 之类的接口。",
+    "blocks": [
+      {
+        "en": "Think of those fleeting moments when you look out of an aeroplane window and realise that you are flying, higher than a bird. Now think of your laptop, thinner than a brown-paper envelope, or your cellphone in the palm of your hand. Take a moment or two to wonder at those marvels. You are the lucky inheritor of a dream come true.",
+        "zh": "想一想那些转瞬即逝的时刻：你望向飞机窗外，意识到自己正在飞行，飞得比鸟儿还高。再想想你的笔记本电脑，它比牛皮纸信封还薄；或者你掌心里的手机。花一两分钟惊叹于这些奇迹吧。你是梦想成真的幸运继承者。"
+      },
+      {
+        "en": "The second half of the 20th century saw a collection of geniuses, warriors, entrepreneurs and visionaries labour to create a fabulous machine that could function as a typewriter and printing press, studio and theatre, paintbrush and gallery, piano and radio, the mail as well as the mail carrier. {{41}}",
+        "zh": "20世纪下半叶，一群天才、勇士、企业家和远见者共同努力，创造出一台神奇的机器，它可以充当打字机和印刷机、录音室和剧院、画笔和画廊、钢琴和收音机、邮件以及邮递员。{{41}}"
+      },
+      {
+        "en": "The networked computer is an amazing device, the first media machine that serves as the mode of production, means of distribution, site of reception, and place of praise and critique. The computer is the 21st century's culture machine.",
+        "zh": "联网计算机是一台了不起的设备，是第一台集生产方式、传播手段、接收场所和赞赏与批评之地于一身的媒介机器。计算机是21世纪的文化机器。"
+      },
+      {
+        "en": "But for all the reasons there are to celebrate the computer, we must also act with caution. {{42}} I call it a secret war for two reasons. First, most people do not realise that there are strong commercial agendas at work to keep them in passive consumption mode. Second, the majority of people who use networked computers to upload are not even aware of the significance of what they are doing.",
+        "zh": "但是，尽管我们有种种理由为计算机喝彩，我们也必须谨慎行事。{{42}} 我称其为一场秘密战争，原因有二。第一，大多数人没有意识到，有强大的商业议程在运作，使他们保持在被动消费模式中。第二，大多数使用联网计算机上传的人甚至没有意识到自己所作所为的意义。"
+      },
+      {
+        "en": "All animals download, but only a few upload. Beavers build dams and birds make nests. Yet for the most part, the animal kingdom moves through the world downloading. Humans are unique in their capacity to not only make tools but then turn around and use them to create superfluous material goods — paintings, sculpture and architecture — and superfluous experiences — music, literature, religion and philosophy. {{43}}",
+        "zh": "所有动物都在下载，但只有少数会上传。河狸筑坝，鸟儿筑巢。然而，动物王国在很大程度上只是通过下载在世界中前行。人类的独特之处在于，他们不仅能制造工具，还能反过来利用工具创造多余的物质产品——绘画、雕塑和建筑——以及多余的体验——音乐、文学、宗教和哲学。{{43}}"
+      },
+      {
+        "en": "For all the possibilities of our new culture machines, most people are still stuck in download mode. Even after the advent of widespread social media, a pyramid of production remains, with a small number of people uploading material, a slightly larger group commenting on or modifying that content, and a huge percentage remaining content to just consume. {{44}}",
+        "zh": "尽管我们的新文化机器有种种可能性，大多数人仍然困在下载模式中。即使在大众社交媒体出现之后，生产金字塔依然存在：少数人上传材料，稍多一些人评论或修改这些内容，而绝大多数人则满足于仅仅消费。{{44}}"
+      },
+      {
+        "en": "Television is a one-way tap flowing into our homes. The hardest task that television asks of anyone is to turn the power off after he has turned it on. {{45}}",
+        "zh": "电视是流入我们家庭的一根单向水龙头。电视要求任何人做的最难的事，就是在打开它之后把电源关掉。{{45}}"
+      },
+      {
+        "en": "What counts as meaningful uploading? My definition revolves around the concept of \"stickiness\" — creations and experiences to which others adhere.",
+        "zh": "什么才算有意义的上传？我的定义围绕“黏性”这一概念展开——即他人会依附其上的创作和体验。"
+      }
+    ],
+    "options": {
+      "A": {
+        "en": "Of course, it is precisely these superfluous things that define human culture and ultimately what it is to be human. Downloading and consuming culture requires great skills, but failing to move beyond downloading is to strip oneself of a defining constituent of humanity.",
+        "zh": "当然，正是这些多余之物定义了人类文化，并最终定义了何以为人。下载和消费文化需要高超的技能，但未能超越下载，就等于剥夺了人性中一个定义性的构成部分。"
+      },
+      "B": {
+        "en": "Applications like tumblr.com, which allow users to combine pictures, words and other media in creative ways and then share them, have the potential to add stickiness by amusing, entertaining and enlightening others.",
+        "zh": "像 tumblr.com 这样的应用，允许用户以创造性的方式组合图片、文字和其他媒介并加以分享，它们有可能通过愉悦、娱乐和启发他人来增加“黏性”。"
+      },
+      "C": {
+        "en": "Not only did they develop such a device but by the turn of the millennium they had also managed to embed it in a worldwide system accessed by billions of people every day.",
+        "zh": "他们不仅研制出了这样的设备，而且到千年之交，还成功将其嵌入一个每天有数十亿人访问的全球系统。"
+      },
+      "D": {
+        "en": "This is because the networked computer has sparked a secret war between downloading and uploading — between passive consumption and active creation — whose outcome will shape our collective future in ways we can only begin to imagine.",
+        "zh": "这是因为联网计算机引发了一场下载与上传之间——被动消费与主动创造之间——的秘密战争，其结果将以我们只能开始想象的方式塑造我们的共同未来。"
+      },
+      "E": {
+        "en": "The challenge the computer mounts to television thus bears little similarity to one format being replaced by another in the manner of record players being replaced by CD players.",
+        "zh": "因此，计算机对电视构成的挑战，与一种格式被另一种格式取代（就像唱片机被 CD 机取代）几乎没有相似之处。"
+      },
+      "F": {
+        "en": "One reason for the persistence of this pyramid of production is that for the past half-century, much of the world's media culture has been defined by a single medium — television — and television is defined by downloading.",
+        "zh": "这种生产金字塔得以持续的一个原因是，在过去半个世纪里，世界媒体文化的大部分一直由单一媒介——电视——来定义，而电视的定义性特征就是下载。"
+      },
+      "G": {
+        "en": "The networked computer offers the first chance in 50 years to reverse the flow, to encourage thoughtful downloading and, even more importantly, meaningful uploading.",
+        "zh": "联网计算机提供了五十年来第一次扭转这一流向的机会，鼓励有思考的下载，更重要的是，鼓励有意义的上传。"
+      }
+    },
+    "fixed_note": "B、G 为多余选项，不填入任何空。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "C",
+        "explain": "空格前说这些天才创造了多功能机器，C 用 Not only... but also 递进：不仅发明了设备，还在千年之交将其嵌入全球网络；下一段开头 The networked computer 正好承接 worldwide system。",
+        "clue": "such a device → worldwide system → The networked computer"
+      },
+      {
+        "n": 42,
+        "answer": "D",
+        "explain": "前句说“必须谨慎”，后句说“我称其为秘密战争，原因有二”；D 以 This is because 解释谨慎的原因，并引出 secret war，与下文衔接紧密。",
+        "clue": "act with caution → secret war → two reasons"
+      },
+      {
+        "n": 43,
+        "answer": "A",
+        "explain": "前文列举人类创造的多余之物（绘画、雕塑、音乐、文学、宗教、哲学），A 用 these superfluous things 回指，并说明正是这些定义了人性，语义顺势推进。",
+        "clue": "superfluous material goods/experiences → these superfluous things"
+      },
+      {
+        "n": 44,
+        "answer": "F",
+        "explain": "前文讲生产金字塔的持续，F 用 this pyramid of production 回指并给出原因：过去半个世纪媒体文化由电视这单一媒介定义；下一段紧接着谈电视，衔接自然。",
+        "clue": "pyramid of production → One reason for the persistence..."
+      },
+      {
+        "n": 45,
+        "answer": "E",
+        "explain": "前文讲电视是单向水龙头，E 用 The challenge the computer mounts to television thus 承接，并指出这与格式更替不同；下一段转而追问什么是有意义的上传，逻辑连贯。",
+        "clue": "television one-way tap → challenge... bears little similarity"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "The search for universals",
+    "cn_title": "对普遍性的追寻",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "自然科学和社会科学中寻找普遍规律的尝试与检验",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points)",
+    "intro": "翻译先拆结构，再定主干，最后按中文语序重排。注意不定式作主语、for 引导的原因并列句、非限制性定语从句和 whereas 对比句。",
+    "paragraphs": [
+      {
+        "en": "Since the days of Aristotle, a search for universal principles has characterized the scientific enterprise. In some ways, this quest for commonalities defines science. Newton's laws of motion and Darwinian evolution each bind a host of different phenomena into a single explicatory framework.",
+        "zh": "自亚里士多德时代以来，对普遍原理的探求一直是科学事业的特征。从某种意义上说，正是这种对共性的追寻定义了科学。牛顿的运动定律和达尔文进化论各自把大量不同现象纳入一个单一的解释框架。"
+      },
+      {
+        "en": "[[46]]In physics, one approach takes this impulse for unification to its extreme, and seeks a theory of everything — a single generative equation for all we see.[[/46]] It is becoming less clear, however, that such a theory would be a simplification, given the dimensions and universes that it might entail. Nonetheless, unification of sorts remains a major goal.",
+        "zh": "在物理学中，一种方法把这种追求统一的冲动推向极致，试图寻求一种万有理论——一个能解释我们所见到的一切的单一生成方程。然而，鉴于这种理论可能涉及的维度和宇宙，它是否会是一种简化，正变得越来越不清楚。尽管如此，某种形式的统一仍是一个主要目标。"
+      },
+      {
+        "en": "This tendency in the natural sciences has long been evident in the social sciences too. [[47]]Here, Darwinism seems to offer justification, for if all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings.[[/47]] Just as the bewildering variety of human courtship rituals might all be considered forms of sexual selection, perhaps the world's languages, music, social and religious customs and even history are governed by universal features. [[48]]To filter out what is unique from what is shared might enable us to understand how complex cultural behavior arose and what guides it in evolutionary or cognitive terms.[[/48]]",
+        "zh": "自然科学中的这种倾向在社会科学中也早已显而易见。在这里，达尔文主义似乎提供了依据，因为如果所有人类都有共同起源，那么认为文化多样性也可以追溯到更为有限的起点，似乎是合理的。正如人类求偶仪式令人眼花缭乱的多样性或许都可被视为性选择的形式，也许世界上的语言、音乐、社会和宗教习俗乃至历史，都受普遍特征的支配。把独特之处从共同之处中剔除出去，或许能使我们理解复杂的文化行为是如何产生的，以及从进化或认知的角度看，是什么在引导它。"
+      },
+      {
+        "en": "That, at least, is the hope. But a comparative study of linguistic traits published online today supplies a reality check. Russell Gray at the University of Auckland and his colleagues consider the evolution of grammars in the light of two previous attempts to find universality in language. The most famous of these efforts was initiated by Noam Chomsky, who suggested that humans are born with an innate language-acquisition capacity that dictates a universal grammar. A few generative rules are then sufficient to unfold the entire fundamental structure of a language, which is why children can learn it so quickly.",
+        "zh": "至少，这是人们的希望。但今天在线发表的一项语言特征比较研究提供了一次现实检验。奥克兰大学的拉塞尔·格雷及其同事参照先前两次寻找语言普遍性的尝试，考察了语法的演化。这些努力中最著名的一次由诺姆·乔姆斯基发起，他认为人类天生具有一种语言习得能力，这种能力决定了一种普遍语法。随后，少数几条生成规则就足以展开一种语言的全部基本结构，这就是儿童能如此迅速地学会语言的原因。"
+      },
+      {
+        "en": "[[49]]The second, by Joshua Greenberg, takes a more empirical approach to universality, identifying traits (particularly in word order) shared by many languages, which are considered to represent biases that result from cognitive constraints.[[/49]] Gray and his colleagues have put them to the test by examining four family trees that between them represent more than 2,000 languages. [[50]]Chomsky's grammar should show patterns of language change that are independent of the family tree or the pathway tracked through it, whereas Greenbergian universality predicts strong co-dependencies between particular types of word-order relations.[[/50]] Neither of these patterns is borne out by the analysis, suggesting that the structures of the languages are lineage-specific and not governed by universals.",
+        "zh": "第二种尝试由乔舒亚·格林伯格提出，它对普遍性采取了更为经验主义的方法，找出了许多语言共有的特征（尤其是在词序方面），这些特征被认为代表了由认知限制导致的偏好。格雷及其同事通过考察四棵共代表两千多种语言的语系树，对这些特征进行了检验。乔姆斯基的语法应当显示出独立于语系树、或独立于语系树所追踪路径的语言变化模式，而格林伯格式的普遍性则预测特定类型的词序关系之间存在很强的相互依存关系。分析结果并不支持这两种模式中的任何一种，这表明语言结构是特定谱系所特有的，并不受普遍性支配。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "In physics, one approach takes this impulse for unification to its extreme, and seeks a theory of everything — a single generative equation for all we see.",
+        "core": "One approach takes this impulse to its extreme and seeks a theory of everything.",
+        "structure": "主语是 one approach，两个并列谓语 takes 和 seeks；a theory of everything 后接破折号同位语，a single generative equation 进一步解释它，for all we see 是修饰 equation 的定语。",
+        "key": "impulse for unification 追求统一的冲动；take... to its extreme 把……推向极致；a theory of everything 万有理论；generative equation 生成方程。",
+        "translation": "在物理学中，一种方法把这种追求统一的冲动推向极致，试图寻求一种万有理论——一个能解释我们所见到的一切的单一生成方程。",
+        "pitfall": "for all we see 修饰 equation，不是目的状语；generative 是“生成的”，不能译成“世代相传的”。"
+      },
+      "47": {
+        "en": "Here, Darwinism seems to offer justification, for if all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings.",
+        "core": "Darwinism seems to offer justification.",
+        "structure": "for 引导原因并列句；if 引导条件从句；it seems reasonable to suppose that... 中 it 是形式主语，that 引导 suppose 的宾语从句。",
+        "key": "offer justification 提供依据；share common origins 拥有共同起源；be traced to 追溯到；constrained beginnings 有限的起点。",
+        "translation": "在这里，达尔文主义似乎提供了依据，因为如果所有人类都有共同起源，那么认为文化多样性也可以追溯到更为有限的起点，似乎是合理的。",
+        "pitfall": "for 在此表原因，不是“为了”；more constrained beginnings 应译“更为有限的起点”，不是“更受约束的开始”。"
+      },
+      "48": {
+        "en": "To filter out what is unique from what is shared might enable us to understand how complex cultural behavior arose and what guides it in evolutionary or cognitive terms.",
+        "core": "To filter out what is unique from what is shared might enable us to understand...",
+        "structure": "不定式短语 To filter out... 作主语；from 表分离；how... 和 what... 两个宾语从句作 understand 的宾语；in evolutionary or cognitive terms 是方式状语。",
+        "key": "filter out 滤除、剔除；unique 独特的；shared 共有的；in... terms 从……角度。",
+        "translation": "把独特之处从共同之处中剔除出去，或许能使我们理解复杂的文化行为是如何产生的，以及从进化或认知的角度看，是什么在引导它。",
+        "pitfall": "what is unique / what is shared 是名词性从句，应译“独特的东西/共有的东西”；it 指 complex cultural behavior。"
+      },
+      "49": {
+        "en": "The second, by Joshua Greenberg, takes a more empirical approach to universality, identifying traits (particularly in word order) shared by many languages, which are considered to represent biases that result from cognitive constraints.",
+        "core": "The second takes a more empirical approach.",
+        "structure": "The second 后省略 attempt；by Joshua Greenberg 是定语；identifying... 是现在分词作补充说明；shared by many languages 是过去分词作后置定语；which 引导非限制性定语从句修饰 traits；that result from... 修饰 biases。",
+        "key": "empirical approach 经验主义方法；identify 识别、找出；traits 特征；biases 偏好、倾向；cognitive constraints 认知限制。",
+        "translation": "第二种尝试由乔舒亚·格林伯格提出，它对普遍性采取了更为经验主义的方法，找出了许多语言共有的特征（尤其是在词序方面），这些特征被认为代表了由认知限制导致的偏好。",
+        "pitfall": "The second 指第二种尝试，不是“第二个人”；which 指 traits，不是 word order；bias 此处是中性“偏好”，不是“偏见”。"
+      },
+      "50": {
+        "en": "Chomsky's grammar should show patterns of language change that are independent of the family tree or the pathway tracked through it, whereas Greenbergian universality predicts strong co-dependencies between particular types of word-order relations.",
+        "core": "Chomsky's grammar should show patterns, whereas Greenbergian universality predicts co-dependencies.",
+        "structure": "that 引导定语从句修饰 patterns；or 连接 family tree 与 pathway；tracked through it 是过去分词修饰 pathway，it 指 family tree；whereas 引导对比并列句。",
+        "key": "be independent of 独立于；family tree 语系树；pathway 路径；co-dependencies 相互依存；word-order relations 词序关系。",
+        "translation": "乔姆斯基的语法应当显示出独立于语系树、或独立于语系树所追踪路径的语言变化模式，而格林伯格式的普遍性则预测特定类型的词序关系之间存在很强的相互依存关系。",
+        "pitfall": "it 指 family tree，不是 grammar；whereas 表对比“而”；should 在此表预期“应当”，不是“竟然”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "An email & a picture essay",
+    "cn_title": "电子邮件 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "欢迎国际学生并给出校园生活建议；打翻的瓶子与乐观心态",
+    "intro": "小作文考“邮件格式 + 欢迎与建议”；大作文考“描述图画 + 解释乐观/悲观心态 + 评论”。",
+    "partA": {
+      "title": "Part A · 电子邮件",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Some international students are coming to your university. Write them an email in the name of the Students' Union to 1) extend your welcome and 2) provide some suggestions for their campus life here. You should write about 100 words on ANSWER SHEET 2. Do not sign your name at the end of the letter. Use \"Li Ming\" instead. Do not write the address. (10 points)",
+      "prompt_zh": "一些国际学生即将来你校学习。请以学生会的名义给他们写一封电子邮件：1）表示欢迎；2）就他们在这里的校园生活提出一些建议。约100词；结尾不要签自己的名字，用“Li Ming”；不要写地址。",
+      "sample": "Subject: Welcome to Our University\n\nDear friends,\n\nOn behalf of the Students' Union, I would like to extend a warm welcome to you as you begin your studies here.\n\nTo help you settle in, I have a few suggestions. First, join the orientation activities next week, where you can meet student volunteers and learn about campus services. Second, apply for a campus card as soon as possible; it gives you access to the library, the dining halls and the gym. Third, feel free to contact us whenever you have questions about accommodation or language courses.\n\nWe hope you will enjoy your stay here.\n\nYours sincerely,\nLi Ming",
+      "sample_zh": "主题：欢迎来到我校\n\n亲爱的朋友们：\n\n我谨代表学生会，对你们来我校学习表示热烈欢迎。\n\n为帮助你们适应这里的生活，我提几点建议。首先，参加下周的迎新活动，在那里你们可以结识学生志愿者并了解校园服务。其次，尽快办理校园卡；凭卡可以使用图书馆、食堂和体育馆。第三，如果对住宿或语言课程有任何疑问，请随时联系我们。\n\n希望你们在这里过得愉快。\n\n此致\n敬礼\n李明",
+      "structure": [
+        [
+          "主题行",
+          "Subject: Welcome to Our University"
+        ],
+        [
+          "称呼",
+          "Dear friends,"
+        ],
+        [
+          "表明身份与目的",
+          "On behalf of the Students' Union... extend a warm welcome"
+        ],
+        [
+          "建议一",
+          "First, join the orientation activities..."
+        ],
+        [
+          "建议二",
+          "Second, apply for a campus card..."
+        ],
+        [
+          "建议三",
+          "Third, feel free to contact us whenever..."
+        ],
+        [
+          "结尾祝愿",
+          "We hope you will enjoy your stay here."
+        ],
+        [
+          "落款",
+          "Yours sincerely, Li Ming"
+        ]
+      ],
+      "expressions": [
+        "On behalf of..., I would like to extend a warm welcome to...",
+        "To help you settle in, I have a few suggestions.",
+        "First... Second... Third...",
+        "apply for a campus card",
+        "feel free to contact us whenever...",
+        "We hope you will enjoy your stay here."
+      ],
+      "traps": [
+        "题目要求以学生会名义写邮件，署名用 Li Ming，不要写自己的真实姓名，也不要写地址。",
+        "要点必须覆盖“欢迎”和“校园生活建议”，建议要具体（迎新、校园卡、住宿、语言课程等），不要只写空话。",
+        "邮件要有称呼和结尾敬语；约100词，不要写成通知或议论文。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160–200 words based on the following drawing. In your essay, you should 1) describe the drawing briefly, 2) explain its intended meaning, and 3) give your comments. You should write neatly on ANSWER SHEET 2. (20 points)",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "src": "../assets/writing/2012.png",
+        "caption": "打翻的瓶子：“全完了！”／“幸好还剩点儿。”",
+        "note": "画面中一只瓶子倒在地上，液体洒了一地。左边的男子捂着脸，神情沮丧，说“全完了！”；右边的男子俯身向前，面带笑容，说“幸好还剩点儿。”两人面对同一损失表现出悲观与乐观两种心态。"
+      },
+      "sample": "The drawing shows two men standing beside a bottle that has fallen over, with its contents spilled on the ground. Covering his face with one hand, the man on the left sighs, \"It's all ruined!\" The man on the right, however, leans forward and says with a smile, \"Thankfully, there is still a little left.\"\n\nThe contrast between the two responses reveals a simple truth: what matters is not what happens to us, but how we interpret it. The same accident looks like a disaster to a pessimist and like a chance to an optimist. A pessimistic attitude drains our energy and blinds us to the possibilities that remain, while an optimistic one helps us stay calm, learn from the loss and make the best of what is left. In a world full of uncertainty, this difference in attitude often decides whether we move forward or give up.\n\nIn my view, we should train ourselves to be the second man. Instead of dwelling on what has been lost, we should ask what can still be saved and done. Optimism is not self-deception; it is the courage to face reality and act on the possibilities that remain.",
+      "sample_zh": "这幅画描绘了两名男子站在一只打翻的瓶子旁，瓶里的液体洒在地上。左边的男子一手捂着脸，叹道：“全完了！”右边的男子却俯身向前，笑着说：“幸好还剩点儿。”\n\n两种反应形成对比，揭示了一个简单的道理：重要的不是发生在我们身上的事，而是我们如何解释它。同一场意外，在悲观者眼里是灾难，在乐观者眼里却是机会。悲观的态度耗尽我们的精力，让我们看不到仍然存在的可能；乐观的态度则帮助我们保持冷静，从损失中学习，并充分利用剩下的东西。在一个充满不确定性的世界里，这种态度上的差异往往决定我们是继续前行还是放弃。\n\n在我看来，我们应当训练自己成为右边那个人。与其纠结于已经失去的东西，不如问问还能挽救什么、还能做什么。乐观不是自欺，而是面对现实并依据尚存的可能性采取行动的勇气。",
+      "structure": [
+        [
+          "第一段·描述",
+          "The drawing shows two men beside a fallen bottle... \"It's all ruined!\" ... \"Thankfully, there is still a little left.\""
+        ],
+        [
+          "第二段·寓意",
+          "The contrast reveals... pessimist vs. optimist... make the best of what is left."
+        ],
+        [
+          "第三段·评论",
+          "In my view... Instead of dwelling on... Optimism is not self-deception..."
+        ]
+      ],
+      "expressions": [
+        "The drawing shows...",
+        "Covering his face with one hand, ... sighs...",
+        "The contrast between the two responses reveals...",
+        "What matters is not..., but...",
+        "Instead of dwelling on what has been lost, we should...",
+        "Optimism is not self-deception; it is..."
+      ],
+      "traps": [
+        "描述要抓住“打翻的瓶子 + 两人的不同反应 + 两句台词”，不要逐字翻译中文台词。",
+        "寓意要落在“乐观/悲观心态对同一事件的不同解释”，不要写成“节约粮食”或“保护环境”。",
+        "评论段要表明自己愿做乐观者，但也要避免空喊口号，最好给出“接受损失、利用剩余”的具体态度。"
+      ]
+    }
+  }
+}

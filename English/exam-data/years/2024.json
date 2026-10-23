@@ -1,0 +1,716 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "自动门的由来、优势与传感原理",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "2024 年完形是一篇说明文，介绍自动门。文章从“无需触碰即可开关”的便利写起，指出自动门对无障碍通行与商业建筑便利的意义；接着追溯历史：自动平移门 1960 年作为商品问世，由霍顿与休伊特在此六年前发明，起初只是新奇玩意儿，后来用途不断扩展，在繁忙场所和紧急情况下协助人群管理；随后说明其节省空间的优势——向侧面开启、门板交错滑动，取代平开门，让小建筑也能充分利用内部空间；最后落到传感原理：不同门依靠不同信号开启，传感器须按环境选择，繁忙街道不适合运动感应门，压力感应垫更为合适。做题时抓住“优点—历史—原理—举例”的说明脉络，注意 Without、As well as、Although、For example 等逻辑标记，以及 start out as、act as、clear the way、rely on 等固定搭配。",
+    "passage": [
+      {
+        "en": "There's nothing more welcoming than a door opening for you. {{1}} the need to be touched to open or close, automatic doors are essential in {{2}} disabled access to buildings and helping provide general {{3}} to commercial buildings.",
+        "zh": "没有什么比一扇为你打开的门更让人感到受礼遇的了。由于无需触碰即可开启或关闭，自动门对于改善残障人士进出建筑的通道条件、以及帮助为商业建筑提供普遍的便利，都是必不可少的。"
+      },
+      {
+        "en": "Self-sliding doors began to emerge as a commercial product in 1960 after being invented six years {{4}} by Americans Dee Horton and Lew Hewitt. They {{5}} as a novelty feature, but as their use has grown, their {{6}} have extended within our technologically advanced world. Particularly {{7}} in busy locations or during times of emergency, the doors {{8}} crowd management by reducing the obstacles put in people's way.",
+        "zh": "自动平移门于 1960 年开始作为商业产品出现，而它是由美国人迪·霍顿和卢·休伊特在此六年前发明的。它们最初只是作为一种新奇功能亮相，但随着使用日益广泛，其益处已在我们这个技术发达的世界中不断扩展。在繁忙场所或紧急情况下，这些门尤其有用：它们通过减少人们行进路上的障碍，起到协助人群管理的作用。"
+      },
+      {
+        "en": "{{9}} making access both in and out of buildings easier for people, the difference in the way many of these doors open helps reduce the total area {{10}} by them. Automatic doors often open to the side, with the panels sliding across one another. Replacing swing doors, these {{11}} smaller buildings to maximise the usable space inside without having to {{12}} the way for a large, sticking-out door. There are many different types of automatic door, with each {{13}} specific signals to tell them when to open. {{14}} these methods differ, the main {{15}} remain the same.",
+        "zh": "除了让人们进出建筑更加方便之外，许多这类门的开启方式差异还有助于减少它们所占据的总面积。自动门通常向侧面开启，门板相互交错滑动。这些门取代了平开门，使较小的建筑能够最大限度利用内部可用空间，而不必为一扇向外突出的大门让出通道。自动门种类繁多，每一种都依靠特定的信号来提示何时开启。尽管这些方法各不相同，其主要原理却保持不变。"
+      },
+      {
+        "en": "Each automatic door system {{16}} the light, sound, weight or movement in their vicinity as a signal to open. Sensor types are chosen to {{17}} the different environments they are needed in. {{18}}, a busy street might not {{19}} a motion-sensored door, as it would constantly be opening for passers-by. A pressure-sensitive mat would be more {{20}} to limit the surveyed area.",
+        "zh": "每套自动门系统都会分析其附近的光线、声音、重量或移动，以此作为开启信号。传感器的类型要根据其所需适配的不同环境来选择。例如，繁忙的街道可能不适合安装运动感应门，因为它会不断为路人开启。而压力感应垫则更为合适，可以限定感应范围。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "D",
+        "options": [
+          "Through",
+          "Despite",
+          "Besides",
+          "Without"
+        ],
+        "cn": [
+          "通过；凭借",
+          "尽管",
+          "除……之外（还有）",
+          "没有；无需"
+        ],
+        "explain": "Without the need to be touched 意为“无需触碰”，即自动门不必用手推拉便能开启或关闭。这既是它与普通门的根本区别，也呼应首句“没有什么比一扇为你打开的门更让人感到受礼遇”。整句意为：由于无需触碰即可开关，自动门在改善无障碍通行和提供普遍便利方面不可或缺。",
+        "trap": "A Through 表“通过、凭借”，若选入就变成“通过需要触碰来开关”，与自动门的特征正好相反；B Despite 表让步，需接与之对立的内容，此处无转折；C Besides 表“除……之外还有”，会把“需要触碰”说成自动门的另一优点。",
+        "type": "介词/语义"
+      },
+      {
+        "n": 2,
+        "answer": "C",
+        "options": [
+          "revealing",
+          "demanding",
+          "improving",
+          "tracing"
+        ],
+        "cn": [
+          "揭示；显露",
+          "要求；需要",
+          "改善；改进",
+          "追踪；追溯"
+        ],
+        "explain": "improve disabled access to buildings 意为“改善残障人士进出建筑的通道条件”。它与后面的 helping provide general convenience 并列，同为自动门带来的正面作用，说明自动门既服务行动不便者，也方便普通人。",
+        "trap": "A revealing 意为“揭示、显露”，与 access 搭配后语义不通；B demanding 意为“要求”，D tracing 意为“追踪”，都不能说明自动门对通行条件的改善，也无法与 essential in 构成自然的搭配。",
+        "type": "动词/搭配"
+      },
+      {
+        "n": 3,
+        "answer": "B",
+        "options": [
+          "experience",
+          "convenience",
+          "guidance",
+          "reference"
+        ],
+        "cn": [
+          "体验；经历",
+          "便利；方便",
+          "指导；引导",
+          "参考；提及"
+        ],
+        "explain": "provide general convenience to commercial buildings 意为“为商业建筑提供普遍的便利”。general 与 convenience 搭配自然，且与前半句的 disabled access 形成“特殊人群—普通大众”的并列，概括自动门的双重价值。",
+        "trap": "A experience 与 general 搭配后语义空泛，且 provide experience to buildings 搭配不当；C guidance 意为“指导”，D reference 意为“参考”，都与建筑通行这一场景无关。",
+        "type": "名词/语义"
+      },
+      {
+        "n": 4,
+        "answer": "A",
+        "options": [
+          "previously",
+          "temporarily",
+          "successively",
+          "eventually"
+        ],
+        "cn": [
+          "先前；在此之前",
+          "暂时地",
+          "连续地；依次",
+          "最终；终于"
+        ],
+        "explain": "句中说自动平移门 1960 年成为商业产品，而它是在“六年前”被发明的，即 1954 年。previously 意为“在此之前”，与 six years 连用表示“早于 1960 年六年”，时间关系清楚。",
+        "trap": "B temporarily 意为“暂时地”，强调持续时间短；C successively 意为“连续地、依次”，强调顺序；D eventually 意为“最终”，强调结果。三者都不能表达“在 1960 年之前六年”这一时间点。",
+        "type": "副词/时间"
+      },
+      {
+        "n": 5,
+        "answer": "B",
+        "options": [
+          "held on",
+          "started out",
+          "settled down",
+          "went by"
+        ],
+        "cn": [
+          "坚持；抓住不放",
+          "起初是；以……起步",
+          "定居；安顿下来",
+          "（时间）流逝；经过"
+        ],
+        "explain": "start out as 意为“起初是、以……起步”。句子说自动门最初只是作为一种新奇功能出现，与后面 but as their use has grown 的转折相呼应，写出它从“新奇玩意儿”到“实用设施”的演变。",
+        "trap": "A held on 意为“坚持、抓住不放”，C settled down 意为“定居、安顿下来”，D went by 意为“（时间）流逝”，都不能与 as a novelty feature 搭配表示“起初是……”，也无法体现后来的发展。",
+        "type": "动词短语/语义"
+      },
+      {
+        "n": 6,
+        "answer": "C",
+        "options": [
+          "relations",
+          "volumes",
+          "benefits",
+          "sources"
+        ],
+        "cn": [
+          "关系；联系",
+          "数量；体积",
+          "益处；好处",
+          "来源；出处"
+        ],
+        "explain": "their benefits have extended 意为“它们的益处已不断扩展”，即自动门带来的好处延伸到更多领域、更多场景。这与 as their use has grown（随着使用日益广泛）构成递进，也与下文“协助人群管理、节省空间”相承。",
+        "trap": "A relations 意为“关系”，B volumes 意为“数量、体积”，D sources 意为“来源”，都不能与 have extended 搭配表达“好处增多、适用范围扩大”，也无法与 use has grown 形成呼应。",
+        "type": "名词/语义"
+      },
+      {
+        "n": 7,
+        "answer": "A",
+        "options": [
+          "useful",
+          "simple",
+          "flexible",
+          "stable"
+        ],
+        "cn": [
+          "有用的",
+          "简单的",
+          "灵活的",
+          "稳定的"
+        ],
+        "explain": "Particularly useful in busy locations or during times of emergency 意为“在繁忙场所或紧急情况下尤其有用”。下文“减少人们行进路上的障碍、协助人群管理”正是对其“有用”的具体展开。",
+        "trap": "B simple 意为“简单的”，C flexible 意为“灵活的”，D stable 意为“稳定的”，都无法与 particularly 搭配来概括自动门在特定场景中的价值；simple 还与后文强调的技术原理相矛盾。",
+        "type": "形容词/语义"
+      },
+      {
+        "n": 8,
+        "answer": "D",
+        "options": [
+          "call for",
+          "yield to",
+          "insist on",
+          "act as"
+        ],
+        "cn": [
+          "需要；呼吁",
+          "屈服于；让位于",
+          "坚持；坚决要求",
+          "充当；起……作用"
+        ],
+        "explain": "act as crowd management 意为“起到人群管理的作用”，与方式状语 by reducing the obstacles put in people's way 自然衔接：门通过减少障碍来协助疏导人流。",
+        "trap": "A call for 意为“需要、呼吁”，主语通常是人或形势；B yield to 意为“屈服于”，C insist on 意为“坚持”，都不能表示“充当、起……作用”，也无法与 crowd management 构成动宾关系。",
+        "type": "动词短语/语义"
+      },
+      {
+        "n": 9,
+        "answer": "A",
+        "options": [
+          "As well as",
+          "In terms of",
+          "Thanks to",
+          "Rather than"
+        ],
+        "cn": [
+          "除……之外（还）；以及",
+          "就……而言",
+          "由于；多亏",
+          "而不是"
+        ],
+        "explain": "As well as making access easier 意为“除了让进出更方便之外”，与主句“还有助于减少门所占据的总面积”构成递进，说明自动门的第二重好处，逻辑上是“既……又……”。",
+        "trap": "B In terms of 意为“就……而言”，只能限定话题，不能引出并列的好处；C Thanks to 表原因，会把“方便进出”说成“节省面积”的原因；D Rather than 表否定选择，与“还有另一好处”的语义相反。",
+        "type": "介词短语/逻辑"
+      },
+      {
+        "n": 10,
+        "answer": "D",
+        "options": [
+          "connected",
+          "shared",
+          "represented",
+          "occupied"
+        ],
+        "cn": [
+          "连接的",
+          "共享的",
+          "代表的",
+          "占据的；占用的"
+        ],
+        "explain": "the total area occupied by them 意为“它们所占据的总面积”。occupy space/area 是固定搭配；下文“向侧面开启、门板交错滑动”“不必为向外突出的大门让路”正是对“占地更少”的说明。",
+        "trap": "A connected 意为“连接的”，B shared 意为“共享的”，C represented 意为“代表的”，都不能修饰 area 表示“占用的面积”；shared 还会误导为“共用面积”，与“节省空间”的逻辑相反。",
+        "type": "分词/搭配"
+      },
+      {
+        "n": 11,
+        "answer": "A",
+        "options": [
+          "allow",
+          "expect",
+          "require",
+          "direct"
+        ],
+        "cn": [
+          "使能够；允许",
+          "期待；预计",
+          "要求；需要",
+          "指导；指向"
+        ],
+        "explain": "allow smaller buildings to maximise the usable space 意为“使较小的建筑能够最大限度利用可用空间”。allow sb/sth to do sth 是固定结构，主语 these 指代上文的自动门，说明它为小建筑带来的好处。",
+        "trap": "B expect 意为“期待”，C require 意为“要求”，D direct 意为“指导”，都不能构成“使……得以……”的使能结构；require 还会把“门帮助建筑”说成“门要求建筑”，主客颠倒。",
+        "type": "动词/句型"
+      },
+      {
+        "n": 12,
+        "answer": "C",
+        "options": [
+          "adopt",
+          "lead",
+          "clear",
+          "change"
+        ],
+        "cn": [
+          "采用；收养",
+          "引导；导致",
+          "清空；为……让路",
+          "改变"
+        ],
+        "explain": "clear the way for 意为“为……让出通道、为……腾出空间”。句子说无需为一扇向外突出的大门让出通道，从而在有限面积内提高空间利用率，与上文的“节省面积”一脉相承。",
+        "trap": "A adopt 意为“采用”，D change 意为“改变”，都不能与 the way 搭配表达“让路”；B lead 虽可与 the way 连用，但 lead the way 意为“带路、领先”，与“为大门腾地方”的语境不符。",
+        "type": "动词/搭配"
+      },
+      {
+        "n": 13,
+        "answer": "C",
+        "options": [
+          "adapting to",
+          "deriving from",
+          "relying on",
+          "pointing at"
+        ],
+        "cn": [
+          "适应；改编",
+          "源自；从……衍生",
+          "依靠；依赖",
+          "指向；指着"
+        ],
+        "explain": "with each relying on specific signals 是“with + 名词 + 现在分词”的独立主格结构，each 指前文的 types of automatic door，说明每一种门都依靠特定信号来判断何时开启。",
+        "trap": "A adapting to 意为“适应”，B deriving from 意为“源自”，D pointing at 意为“指向”，都不能说明门与信号之间的依赖关系；此外 independent 结构中的 each 是动作的发出者，需用主动形式。",
+        "type": "非谓语/搭配"
+      },
+      {
+        "n": 14,
+        "answer": "D",
+        "options": [
+          "Once",
+          "Since",
+          "Unless",
+          "Although"
+        ],
+        "cn": [
+          "一旦",
+          "既然；由于",
+          "除非",
+          "尽管"
+        ],
+        "explain": "前半句说“这些方法各不相同”，后半句说“主要原理保持不变”，前后是让步转折关系，用 Although 引导让步状语从句，与 differ 和 remain the same 的对比完全吻合。",
+        "trap": "A Once 表条件或时间，B Since 表原因或时间，C Unless 表否定条件；三者都无法体现“方法不同但原理相同”的让步关系，也无法与 remain the same 的转折语气匹配。",
+        "type": "连词/让步"
+      },
+      {
+        "n": 15,
+        "answer": "C",
+        "options": [
+          "records",
+          "positions",
+          "principles",
+          "reasons"
+        ],
+        "cn": [
+          "记录",
+          "位置",
+          "原理；原则",
+          "原因；理由"
+        ],
+        "explain": "the main principles remain the same 意为“主要原理保持不变”，指各类自动门虽然触发方式不同，但依靠传感器探测信号而开启的基本原理是一致的，是对全段“类型多、原理同”的收束。",
+        "trap": "A records 意为“记录”，B positions 意为“位置”，D reasons 意为“原因”，都不能与 remain the same 搭配来概括“各类自动门共同的运作原理”；records 与“门”这一主语尤其不搭。",
+        "type": "名词/语义"
+      },
+      {
+        "n": 16,
+        "answer": "B",
+        "options": [
+          "controls",
+          "analyses",
+          "produces",
+          "mixes"
+        ],
+        "cn": [
+          "控制",
+          "分析；解析",
+          "产生；生产",
+          "混合"
+        ],
+        "explain": "analyse ... as a signal to open 意为“把……作为开启信号加以分析判断”，说明系统会对附近的光线、声音、重量或移动进行识别处理，再决定是否开门，与下文“传感器类型按环境选择”相接。",
+        "trap": "A controls 意为“控制”，系统并不“控制”环境中的光线和声音；C produces 意为“产生”，D mixes 意为“混合”，系统既不产生这些信号，也无法与 as a signal 搭配。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 17,
+        "answer": "D",
+        "options": [
+          "decorate",
+          "compare",
+          "protect",
+          "complement"
+        ],
+        "cn": [
+          "装饰",
+          "比较",
+          "保护",
+          "补充；与……相配"
+        ],
+        "explain": "complement the different environments 意为“与不同的使用环境相适配、形成互补”。传感器类型要按环境来选，正与后文举例——繁忙街道不宜用运动感应门——构成总分关系。",
+        "trap": "A decorate 意为“装饰”，B compare 意为“比较”，C protect 意为“保护”，都不能表达“传感器与环境相匹配”的意思；protect 还会把“适配环境”说成“保护环境”，偏离传感原理这一话题。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 18,
+        "answer": "C",
+        "options": [
+          "In conclusion",
+          "By contrast",
+          "For example",
+          "Above all"
+        ],
+        "cn": [
+          "总之；最后",
+          "相比之下",
+          "例如",
+          "最重要的是"
+        ],
+        "explain": "上一句是概括性论断——传感器要按环境来选择，本句以繁忙街道不宜安装运动感应门为例加以说明，前后是例证关系，用 For example 引出具体情形。",
+        "trap": "A In conclusion 表总结，但本句并未收束全文；B By contrast 表对比，此处只有一例，没有对照对象；D Above all 表强调递进，不能引出举例说明。",
+        "type": "逻辑关系/例证"
+      },
+      {
+        "n": 19,
+        "answer": "B",
+        "options": [
+          "identify",
+          "suit",
+          "secure",
+          "include"
+        ],
+        "cn": [
+          "识别；确认",
+          "适合；对……合适",
+          "获得；使安全",
+          "包括"
+        ],
+        "explain": "might not suit a motion-sensored door 意为“可能不适合安装运动感应门”，suit 表示“适合”，后面由 as 引导的原因状语说明理由：它会给路人反复开门。",
+        "trap": "A identify 意为“识别”，其主语通常是人，街道不会“识别”门；C secure 意为“获得、使安全”，D include 意为“包括”，都不能表达“某场所适合某种门”的意思。",
+        "type": "动词/语义"
+      },
+      {
+        "n": 20,
+        "answer": "A",
+        "options": [
+          "appropriate",
+          "obvious",
+          "impressive",
+          "delicate"
+        ],
+        "cn": [
+          "合适的；恰当的",
+          "明显的",
+          "令人印象深刻的",
+          "精致的；微妙的"
+        ],
+        "explain": "would be more appropriate 意为“会更合适”，与前文 might not suit 形成对照：运动感应门不适合繁忙街道，而压力感应垫更能限定感应范围，因而更为适宜。",
+        "trap": "B obvious 意为“明显的”，C impressive 意为“令人印象深刻的”，D delicate 意为“精致的、微妙的”，都不能表示“在特定场景中更为适宜”，也无法与 more 构成“两相比较”的用法。",
+        "type": "形容词/语义"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 观点匹配",
+    "en_title": "A Report on Museums Returning Artifacts",
+    "cn_title": "关于美国博物馆归还文物的五种声音",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "五名读者对美国博物馆归还文物的评论：从“物归原主”到“复制品折中”",
+    "type": "matching",
+    "directions": "Read the following comments on a report about American museums returning artifacts to their countries of origin and a list of statements summarizing the comments. Choose the best statement from the list A-G for each numbered name (41-45). There are two extra choices which you do not need to use. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "观点匹配题的关键是“先读人，再读选项”。每段评论先抓“立场 + 理由”，把具体论据压缩成一句判断；再读 A–G 选项，找“态度与理由都被覆盖”的那一项。两个多余项通常在某一细节上相似，务必回到整段的落脚句核对。",
+    "blocks": [
+      {
+        "label": "41 · Hannah",
+        "en": "Simply, there are people in Nigeria who cannot travel to the Smithsonian Institution to see that part of their history and culture represented by the Benin Bronzes. These should be available to them as part of their cultural heritage and history and as a source of national pride. There is no good reason that these artifacts should be beyond the ordinary reach of the educational objectives or inspiration of the generations to which they were left. They serve no purpose in a museum in the United States or elsewhere except as curious objects. They cannot be compared to works of art produced for sale which can be passed from hand to hand and place to place by purchase.",
+        "zh": "道理很简单：尼日利亚有人无法前往史密森学会，去看那些由贝宁青铜器所代表的、属于他们自己的历史与文化。这些文物应当回到他们身边，成为其文化遗产与历史的一部分，成为民族自豪感的来源。没有充分理由让这些文物超脱于它们所留给的那些世代的教育目标或灵感启迪的寻常可及范围之外。它们陈列在美国或别处的博物馆里，除了充当稀奇物件之外别无用处。它们不能与那些为出售而创作、可以经买卖在人与人、地与地之间流转的艺术品相提并论。"
+      },
+      {
+        "label": "42 · Buck",
+        "en": "We know very exact reproductions of artwork can be and are regularly produced. Perhaps museums and governments might explore some role for the use of nearly exact reproductions as a means of resolving issues relating to returning works of art and antiquities. The context of any exhibit is more important to me than whether the object being displayed is 2000 years old or 2 months old. In many cases the experts have a hard time agreeing on what is the real object and what is a forgery. Again, the story an exhibit is trying to tell is what matters. The monetary value of the objects on display is a distant second place in importance.",
+        "zh": "我们知道，非常逼真的艺术品复制品是可以制作出来的，而且经常被制作。或许博物馆和政府可以探索让近乎完美的复制品发挥某种作用，以此作为解决艺术品与文物归还相关问题的一条途径。对我而言，任何展览的语境都比展品本身是两千年前的还是两个月前的更重要。在许多情况下，专家们都难以就哪件是真品、哪件是赝品达成一致。说到底，展览想要讲述的故事才是关键。展品的金钱价值在重要性上只能远远排在第二位。"
+      },
+      {
+        "label": "43 · Sara",
+        "en": "When visiting the Baltimore Museum of Art, I came across a magnificent 15th-century Chinese sculpture. It inspired me to learn more about the culture that it represented. Artifacts in museums have the power to inspire, and perhaps spark that need to learn and understand the nature of their creators. Having said that, I do feel that whatever artifacts find their way to public museums should, in fact, be sanctioned as having been obtained on loan, legally purchased, or obtained by treaty. Stealing artifacts from other peoples' cultures is obscene; it robs not only the physical objects, but the dignity and spirit of their creators.",
+        "zh": "参观巴尔的摩艺术博物馆时，我偶然看到一件精美的十五世纪中国雕塑。它激发我去更多了解它所代表的文化。博物馆里的文物具有启迪人心的力量，或许还能激起人们去了解和理解其创作者本性的渴望。话虽如此，我确实认为，任何进入公共博物馆的文物，都应当被认可为通过借展、合法购买或依照条约获得的。从其他民族的文化中窃取文物是令人不齿的；它夺走的不只是实物，还有其创作者的尊严与精神。"
+      },
+      {
+        "label": "44 · Victor",
+        "en": "Ancient art that is displayed in foreign countries by all means should be returned to the original country. The foreign countries have no right to hold back returning the items. I would ask that the foreign nations and the original country discuss the terms of transfer. Yes, there is the risk that the original country will not have as good security as do the foreign countries. But look at what happened to Boston's Gardner Museum theft in 1990, including the loss of Rembrandt, Vermeer, Manet, and other masterpieces. Nothing is absolutely safe, nowhere. And now Climate Change agitators are attacking publicly displayed works in European museums.",
+        "zh": "在外国展出的古代艺术品无论如何都应当归还给原属国。外国无权阻挠这些物品的归还。我建议外国与原属国就移交条件进行商谈。的确，存在原属国安保条件不如外国的风险。但请看 1990 年波士顿加德纳博物馆失窃案的结局，伦勃朗、维米尔、马奈等大师杰作就此失踪。世上没有任何地方是绝对安全的。况且如今气候变化抗议者正在袭击欧洲博物馆公开展出的作品。"
+      },
+      {
+        "label": "45 · Julia",
+        "en": "To those of you in the comments section who are having strong feelings about artifacts being removed from cities in the US and Britain and returned to their countries of origin, I would ask you to consider: why do you think Americans have more of a right to easily access the Benin Bronzes than the people of Nigeria? Why are people who live within a day's drive of London entitled to go and see the Elgin Marbles whenever they want, but the people of Athens aren't? What intrinsic factors make the West a suitable home for these artifacts but preclude them from being preserved and displayed by their countries of origin? If your conclusion is that the West is better able to preserve these artifacts, think about why you're assuming that to be true.",
+        "zh": "评论区里那些对文物从美国和英国的城市被运走、归还到原属国反应强烈的人，我想请你们想一想：为什么你们认为美国人比尼日利亚人更有权轻易看到贝宁青铜器？为什么住在距伦敦一天车程之内的人可以随时去看埃尔金大理石雕，而雅典人却不能？究竟有哪些内在因素使西方成为这些文物的合适归宿，却使它们无法由原属国保存和展出？如果你的结论是西方更有能力保护这些文物，那就想想你为什么会这样假定。"
+      }
+    ],
+    "options": {
+      "A": {
+        "en": "It is clear that the countries of origin have never been compensated for the stolen artifacts.",
+        "zh": "显然，原属国从未就这些被窃取的文物获得过赔偿。"
+      },
+      "B": {
+        "en": "It is a flawed line of reasoning to argue against returning artifacts to their countries of origin.",
+        "zh": "反对将文物归还给原属国的论证，其推理存在缺陷。"
+      },
+      "C": {
+        "en": "Museum visitors can still learn as much from artifacts' copies after the originals are returned.",
+        "zh": "原件归还之后，博物馆参观者仍能从文物复制品中获得同样多的知识。"
+      },
+      "D": {
+        "en": "Reproductions, even if perfectly made, cannot take the place of the authentic objects.",
+        "zh": "复制品即使制作得完美无缺，也无法取代真品。"
+      },
+      "E": {
+        "en": "The real value of artifacts can only be recognized in their countries of origin rather than anywhere else.",
+        "zh": "文物的真正价值只能在其原属国而非其他任何地方得到体现。"
+      },
+      "F": {
+        "en": "Ways to get artifacts from other countries must be decent and lawful.",
+        "zh": "从他国获取文物的方式必须正当合法。"
+      },
+      "G": {
+        "en": "Concern over security is no excuse for refusing to return artifacts to their countries of origin.",
+        "zh": "对安保的担忧不能成为拒绝将文物归还给原属国的借口。"
+      }
+    },
+    "answers": [
+      {
+        "n": 41,
+        "answer": "E",
+        "explain": "Hannah 的落点是文物对尼日利亚人的意义：它们应当是当地人的文化遗产、历史与民族自豪感的来源，而在美国或别处的博物馆里“除了充当稀奇物件之外别无用处”，也不该被当作可以买卖流转的普通艺术品。E 的 The real value of artifacts can only be recognized in their countries of origin rather than anywhere else 正是“价值只在其故土才得以实现”的概括。",
+        "clue": "cultural heritage and history / a source of national pride / serve no purpose...except as curious objects → real value can only be recognized in their countries of origin"
+      },
+      {
+        "n": 42,
+        "answer": "C",
+        "explain": "Buck 提出用“近乎完美的复制品”作为解决文物归还问题的一条途径，并强调展览的语境与故事比展品是两千年还是两个月更重要，金钱价值只排第二位。C 的 Museum visitors can still learn as much from artifacts' copies after the originals are returned 恰好概括了“复制品可以承担原件的教育与叙事功能”这一主张。",
+        "clue": "nearly exact reproductions...as a means of resolving issues / the story an exhibit is trying to tell is what matters → learn as much from copies"
+      },
+      {
+        "n": 43,
+        "answer": "F",
+        "explain": "Sara 先讲博物馆文物对自己的启迪，随后用 Having said that 转折提出核心主张：凡进入公共博物馆的文物都应当被确认为借展、合法购买或依条约获得，窃取他国文物“令人不齿”。F 的 Ways to get artifacts from other countries must be decent and lawful 对应 obtained on loan, legally purchased, or obtained by treaty 与 Stealing...is obscene。",
+        "clue": "sanctioned as having been obtained on loan, legally purchased, or obtained by treaty / stealing...is obscene → decent and lawful"
+      },
+      {
+        "n": 44,
+        "answer": "G",
+        "explain": "Victor 明确主张古代艺术品应归还原属国，并主动回应“原属国安保不如外国”的担忧：他以 1990 年加德纳博物馆失窃案说明“世上没有任何地方绝对安全”，从而抽掉拒绝归还的理由。G 的 Concern over security is no excuse for refusing to return artifacts 正是这一反驳的概括。",
+        "clue": "there is the risk...will not have as good security... But...Nothing is absolutely safe, nowhere → security is no excuse"
+      },
+      {
+        "n": 45,
+        "answer": "B",
+        "explain": "Julia 用一连串反问质疑“西方更有资格保存这些文物”的预设：为什么美国人比尼日利亚人更有权轻易看到贝宁青铜器？为什么伦敦近郊的人可以随时看埃尔金大理石雕而雅典人不能？最后请对方反思自己为何作此假定。B 的 It is a flawed line of reasoning to argue against returning artifacts to their countries of origin 概括了她“反对归还的论证站不住脚”的核心。",
+        "clue": "why do you think Americans have more of a right... / think about why you're assuming that to be true → a flawed line of reasoning"
+      }
+    ],
+    "fixed_note": "A、D 为多余选项：A 谈原属国从未获得赔偿，五位评论者均未涉及赔偿问题；D 主张复制品无法取代真品，与 Buck 支持使用复制品的立场正好相反。正确配对为 41–E、42–C、43–F、44–G、45–B。"
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "Elephants Never Forget",
+    "cn_title": "大象的记忆、嗅觉与觅食智慧",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "非洲象的空间记忆、长距离导航与依据气味择食",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. (10 points)",
+    "intro": "本次翻译取材于一篇关于大象认知能力的科普文章。五个画线句分别考查：并列谓语与 where 引导的宾语从句、even when 让步状语（46）；that 宾语从句中套 where 从句、省略关系词的定语从句以及 as well as 结构（47）；that 引导的表语从句、but 转折分句与 not least because 原因状语（48）；被动语态与冒号后的解释结构（49）；that 宾语从句中并列的两个不定式与定语从句（50）。翻译时先拎出主干，再把定语、状语按中文习惯前置或拆分，注意 may well、not least、work out 等表达的确切含义。",
+    "paragraphs": [
+      {
+        "en": "“Elephants never forget” — or so they say — and that piece of folklore seems to have some foundation.",
+        "zh": "“大象从不遗忘”——人们都这么说——而这则民间说法似乎确有几分依据。"
+      },
+      {
+        "en": "The African savanna elephant, also known as the African bush elephant, is distributed across 37 African countries. They move between a variety of habitats, including forests, grasslands, woodlands, wetlands and agricultural land. [[46]]They sometimes travel more than sixty miles to find food or water, and are very good at working out where other elephants are — even when they are out of sight.[[/46]] Using tracking devices, researchers have shown that they have “remarkable spatial acuity.” When finding their way to waterholes, they headed off in exactly the right direction, on one occasion from a distance of roughly thirty miles. What is more, they almost always seem to choose the nearest waterhole. [[47]]The researchers are convinced that the elephants always know precisely where they are in relation to all the resources they need, and can therefore take shortcuts, as well as following familiar routes.[[/47]]",
+        "zh": "非洲草原象又称非洲灌丛象，分布于 37 个非洲国家。它们在森林、草原、林地、湿地和农田等多种栖息地之间迁移。它们有时要行走六十多英里去寻找食物或水源，而且非常善于判断其他大象所在的位置——即使对方不在视野之内。研究人员借助追踪设备证明，它们具有“非凡的空间感知力”。在寻找通往水坑的路线时，它们会朝着完全正确的方向出发，有一次竟是从约三十英里之外出发。而且，它们似乎几乎总能选中最近的那个水坑。研究人员确信，这些大象始终清楚地知道自己相对于所有所需资源的准确位置，因此能够抄近路，也能沿着熟悉的路线行进。"
+      },
+      {
+        "en": "Although the cues used by African elephants for long-distance navigation are not yet understood, smell may well play a part.",
+        "zh": "尽管非洲象用于长途导航的线索尚不为人所知，但嗅觉很可能在其中发挥作用。"
+      },
+      {
+        "en": "Elephants are very choosy eaters, but until recently little was known about how they selected their food. [[48]]One possibility was that they merely used their eyes and tried out the plants they found, but that would probably result in a lot of wasted time and energy, not least because their eyesight is actually not very good.[[/48]]",
+        "zh": "大象在吃食上十分挑剔，但直到不久前，人们对其如何挑选食物仍知之甚少。一种可能是，它们仅仅用眼睛观察，并逐一试吃所发现的植物；但这样做很可能浪费大量时间和精力，尤其是因为它们的视力其实并不好。"
+      },
+      {
+        "en": "[[49]]The volatile chemicals produced by plants can be carried a long way, and they are very characteristic: Each plant or tree has its own particular odor signature.[[/49]] What is more, they can be detected even when they are not actually visible. New research suggests that smell is a crucial factor in guiding elephants — and probably other herbivores — to the best food resources.",
+        "zh": "植物产生的挥发性化学物质可以飘散很远，而且极具特征：每种植物或树木都有自己独特的气味“签名”。此外，即使这些物质实际上并不可见，也能被探测到。新研究表明，嗅觉在引导大象——很可能还有其他食草动物——找到最佳食物资源方面是一个关键因素。"
+      },
+      {
+        "en": "The researchers first established what kinds of plant the elephants preferred either to eat or to avoid when foraging freely. They then set up a “food station” experiment, in which they gave the elephants a series of choices based only on smell. [[50]]The experiment showed that elephants may well use smell to identify patches of trees that are good to eat, and secondly to assess the quality of the trees within each patch.[[/50]] Free-ranging elephants presumably also use this information to locate their preferred food.",
+        "zh": "研究人员首先确定了在自由觅食时大象喜欢吃或避开哪些种类的植物。随后，他们设计了一项“食物站”实验，只让大象依据气味做出一系列选择。实验表明，大象很可能利用嗅觉来识别适宜食用的树丛，其次还用来评估每一树丛中树木的品质。自由活动的大象想必也会利用这些信息来找到自己偏好的食物。"
+      },
+      {
+        "en": "Their well-developed hippocampal structures may enable elephants, like rats and people, to construct cognitive maps.",
+        "zh": "它们发达的海马结构或许使大象能够像老鼠和人一样构建认知地图。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "They sometimes travel more than sixty miles to find food or water, and are very good at working out where other elephants are — even when they are out of sight.",
+        "core": "They travel more than sixty miles, and are very good at working out where other elephants are.",
+        "structure": "主句由 and 连接两个谓语：travel more than sixty miles to find food or water 与 are very good at working out...；where other elephants are 是 where 引导的宾语从句，作 working out 的宾语；破折号后的 even when they are out of sight 是让步状语从句，they 指 other elephants。",
+        "key": "travel 行走、跋涉；work out 弄清楚、判断出；be good at 擅长；out of sight 不在视野内、看不见；spatial acuity（下文）空间感知力。",
+        "translation": "它们有时要行走六十多英里去寻找食物或水源，而且非常善于判断其他大象所在的位置——即使对方不在视野之内。",
+        "pitfall": "sixty miles 是“六十英里”，不要换算成公里；work out 在此不是“锻炼”，而是“弄明白、推算出”；out of sight 的主语是 other elephants，不是它们自己；破折号后的让步状语要译出“即使”，不能丢掉。"
+      },
+      "47": {
+        "en": "The researchers are convinced that the elephants always know precisely where they are in relation to all the resources they need, and can therefore take shortcuts, as well as following familiar routes.",
+        "core": "The researchers are convinced that the elephants know where they are and can take shortcuts.",
+        "structure": "主句为 The researchers are convinced that...，that 引导宾语从句；从句中 know precisely where they are... 的 where 引导宾语从句，in relation to all the resources they need 是介词短语，说明“相对于什么位置”，其中 they need 是省略关系词的定语从句修饰 resources；can take shortcuts 与 know 并列；as well as following familiar routes 表示“除……之外还”。",
+        "key": "be convinced that 确信；precisely 精确地；in relation to 相对于、与……的位置关系；resource 资源；take shortcuts 抄近路；as well as 除……之外（还）；familiar routes 熟悉的路线。",
+        "translation": "研究人员确信，这些大象始终清楚地知道自己相对于所有所需资源的准确位置，因此能够抄近路，也能沿着熟悉的路线行进。",
+        "pitfall": "in relation to 在此表示位置上的相对关系，不能译成“与……有关”；they need 是省略 that 的定语从句，要译成“它们所需的”；as well as following 是“除了沿熟悉路线走之外，还会抄近路”，不要译成“以及跟随”；take shortcuts 没有贬义，不宜译成“走歪门邪道”。"
+      },
+      "48": {
+        "en": "One possibility was that they merely used their eyes and tried out the plants they found, but that would probably result in a lot of wasted time and energy, not least because their eyesight is actually not very good.",
+        "core": "One possibility was that they used their eyes and tried out plants, but that would result in wasted time and energy.",
+        "structure": "主句为 One possibility was that...，that 引导表语从句；表语从句中 used 与 tried out 由 and 并列；the plants they found 是省略关系词的定语从句；but 连接转折分句，that 指代前面“只靠眼睛试吃”的做法；not least because... 引出原因，意为“尤其是因为”。",
+        "key": "possibility 可能性；merely 仅仅；try out 试吃、试用；result in 导致；not least 尤其、特别是；eyesight 视力。",
+        "translation": "一种可能是，它们仅仅用眼睛观察，并逐一试吃所发现的植物；但这样做很可能浪费大量时间和精力，尤其是因为它们的视力其实并不好。",
+        "pitfall": "转折分句中的 that 指代“只靠眼睛试吃”这一做法，不能译成“那个”；not least because 是“尤其是因为”，不是“不是因为”；try out 是“试吃”，不是“锻炼出来”；wasted 修饰 time and energy，要译出“被浪费掉的”。"
+      },
+      "49": {
+        "en": "The volatile chemicals produced by plants can be carried a long way, and they are very characteristic: Each plant or tree has its own particular odor signature.",
+        "core": "The chemicals can be carried a long way, and they are very characteristic.",
+        "structure": "主句由 and 连接两个分句；produced by plants 是过去分词短语作后置定语修饰 chemicals；a long way 作状语表示距离；冒号后 Each plant or tree has its own particular odor signature 是对 very characteristic 的具体解释。",
+        "key": "volatile 挥发性的；chemical 化学物质；be carried 被传送、飘散；characteristic 有特点的、独特的；odor signature 气味特征、气味“签名”。",
+        "translation": "植物产生的挥发性化学物质可以飘散很远，而且极具特征：每种植物或树木都有自己独特的气味“签名”。",
+        "pitfall": "volatile 是“挥发性的”，不是“易变的、不稳定的”；can be carried 是被动语态，宜译成“可以飘散、可以被带到远处”，不要译成“携带”；odor signature 可译作“气味特征”并加引号；冒号后的解释与前句同属一句，译文可用冒号或分号收束。"
+      },
+      "50": {
+        "en": "The experiment showed that elephants may well use smell to identify patches of trees that are good to eat, and secondly to assess the quality of the trees within each patch.",
+        "core": "The experiment showed that elephants use smell to identify patches of trees and to assess the quality of the trees.",
+        "structure": "主句为 The experiment showed that...，that 引导宾语从句；从句中 use smell to identify... and secondly to assess... 是两个并列的不定式，均作 use smell 的目的状语；that are good to eat 是定语从句修饰 patches of trees；within each patch 是介词短语修饰 the trees。",
+        "key": "may well 很可能；identify 识别、辨认；patches of trees 一片片树丛；assess 评估、判断；quality 品质；within 在……之内。",
+        "translation": "实验表明，大象很可能利用嗅觉来识别适宜食用的树丛，其次还用来评估每一树丛中树木的品质。",
+        "pitfall": "may well 是“很可能”，不是“可以很好地”；patches 指成片的树丛，不是“补丁”；secondly 与前一层“识别”相对，译作“其次”；第二个 to 前省略了 use smell，翻译时要补出“还用它来”，否则会误读成另一个主语的动作。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "An email & a picture-and-chart essay",
+    "cn_title": "回复邮件 + 图画图表作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "就“中国古代科学家口头报告”的准备给出建议；公园数量增长折射公共设施建设与民生福祉",
+    "intro": "2024 年小作文要求回复国际学生 Paul 的邮件，就“中国古代科学家口头报告”的准备给出建议，约 100 词，署名 Li Ming；大作文为图画加图表作文：左图是市民在“市民健身区”里新建的小公园中锻炼，一个孩子感叹“家门口新建的小公园真不错”，右图柱状图显示某市公园数量从 2020 年的 406 座增至 2021 年的 532 座、2022 年的 670 座，寓意公共设施建设与民生福祉的提升。",
+    "partA": {
+      "title": "Part A · 电子邮件",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Read the following email from an international student and write a reply.\n\nDear Li Ming,\nI've got a class assignment to make an oral report on an ancient Chinese scientist, but I'm not sure how to prepare for it. Can you give me some advice? Thank you for your help.\nYours,\nPaul\n\nWrite your answer in about 100 words on the ANSWER SHEET. Do not use your own name in your email; use “Li Ming” instead. (10 points)",
+      "prompt_zh": "阅读下面这封来自国际学生的邮件，并写一封回信。\n\n亲爱的李明：\n我有一项课堂作业，要做一场关于中国古代科学家的口头报告，但我不太确定该如何准备。你能给我一些建议吗？谢谢你的帮助。\n你的\n保罗\n\n请在答题卡上写约 100 词。不要在邮件中使用自己的真实姓名，用“李明”代替。",
+      "sample": "Dear Paul,\n\nI'm glad to hear about your oral report, and I'd be happy to help.\n\nFirst, choose a scientist with one clear achievement. Zhang Heng and his seismoscope, or Li Shizhen and the Compendium of Materia Medica, would both work well. Then organize the talk in three parts: who the person was, what he did, and why it still matters today. Keep your language simple, explain technical terms in plain words, and put a picture or a short timeline on your slide. Finally, rehearse aloud twice and time yourself, since ten minutes passes quickly.\n\nIf you send me your draft, I can check the English for you. Good luck!\n\nYours,\nLi Ming",
+      "sample_zh": "亲爱的保罗：\n\n很高兴听说你要做口头报告，我很乐意帮忙。\n\n首先，选一位有一项明确成就的科学家。张衡与他的地动仪，或者李时珍与《本草纲目》，都很合适。然后，把报告分成三部分：这个人是谁、他做了什么、以及他今天为何仍然重要。语言要简单，用通俗的话解释专业术语，并在幻灯片上放一张图片或一条简短的时间线。最后，出声排练两遍并计时，因为十分钟过得很快。\n\n如果你把稿子发给我，我可以帮你检查英文。祝你好运！\n\n你的\n李明",
+      "structure": [
+        [
+          "称呼",
+          "Dear Paul,"
+        ],
+        [
+          "回应来信、表明愿意帮忙",
+          "I'm glad to hear about your oral report, and I'd be happy to help."
+        ],
+        [
+          "建议一：选题聚焦一项成就",
+          "First, choose a scientist with one clear achievement. Zhang Heng and his seismoscope, or Li Shizhen and the Compendium of Materia Medica, would both work well."
+        ],
+        [
+          "建议二：按“人物—成就—意义”三段式组织",
+          "Then organize the talk in three parts: who the person was, what he did, and why it still matters today."
+        ],
+        [
+          "建议三：语言浅显、配图辅助",
+          "Keep your language simple, explain technical terms in plain words, and put a picture or a short timeline on your slide."
+        ],
+        [
+          "建议四：出声演练并计时",
+          "Finally, rehearse aloud twice and time yourself, since ten minutes passes quickly."
+        ],
+        [
+          "提供后续帮助与落款",
+          "If you send me your draft, I can check the English for you. Good luck! Yours, Li Ming"
+        ]
+      ],
+      "expressions": [
+        "I'm glad to hear about... and I'd be happy to help.",
+        "Here are a few suggestions.",
+        "choose a scientist with one clear achievement",
+        "organize the talk in three parts: who..., what..., and why...",
+        "keep your language simple",
+        "explain technical terms in plain words",
+        "put a picture or a short timeline on your slide",
+        "rehearse aloud twice and time yourself",
+        "If you send me your draft, I can check the English for you.",
+        "Good luck with your report!"
+      ],
+      "traps": [
+        "题目要求“回复国际学生 Paul 的邮件”，称呼用 Dear Paul、结尾署名 Li Ming，语气友好平等；不能写成给教授或机构的正式申请信，也不能使用自己的真实姓名。",
+        "核心任务是“就如何准备中国古代科学家口头报告给建议”，必须落到选题、结构、语言、幻灯片、演练等可操作的做法上；只写“加油，你一定行”或大段介绍某位科学家的生平，都不解决问题。",
+        "约 100 词，建议三到四条即可，每条一句话说清；不必面面俱到写成演讲稿指南，也不要展开成说明文。",
+        "可用 First / Then / Finally 等标记使建议层次分明；时态以一般现在时和祈使句为主，回信开头要回应来信，结尾可主动提供进一步帮助。",
+        "署名只能是 Li Ming，且要保留电子邮件的基本格式（称呼、正文、结束语、署名），不要漏掉落款。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画+图表作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay based on the picture and the chart below. In your essay, you should 1) describe the picture and the chart briefly, 2) interpret the implied meaning, and 3) give your comments. Write your answer in 160-200 words on the ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据下面的图画和图表写一篇短文。文中应：1）简要描述图画和图表；2）解释其隐含意义；3）给出你的评论。请在答题卡上写 160—200 词。",
+      "picture": {
+        "src": "../assets/writing/2024.png",
+        "caption": "家门口新建的小公园真不错！／某市近三年公园数量（单位：座）：2020 年 406、2021 年 532、2022 年 670",
+        "note": "左图是新建小公园里的日常场景：树旁立着“市民健身区”的牌子，跑道上有人慢跑，一对年轻人在散步交谈，一位老人带着孩子活动，右前方的男孩指着公园说“家门口新建的小公园真不错！”。右图是柱状图“某市近三年公园数量（单位：座）”：2020 年 406 座，2021 年 532 座，2022 年 670 座，三年间稳步上升，增幅明显。图表为左图提供了数据支撑——公园越来越多，市民在家门口就能健身休闲，反映城市公共设施建设持续加力、民生福祉不断改善。"
+      },
+      "sample": "In the left picture, a newly built small park has become part of daily life. Beside the sign reading “Fitness Area for Citizens”, young people jog along the path, a couple stroll and chat, and a boy says happily, “The new park at our doorstep is really great!” The bar chart shows the number of parks in a certain city rising from 406 in 2020 to 532 in 2021, and then to 670 in 2022.\n\nThese figures reflect a shift in urban philosophy. Parks were once treated as ornamental extras, but they are now valued as basic public facilities that safeguard health, bring neighbours together and make a city liveable. The steady increase also shows that the local government has been directing resources toward people's wellbeing, and residents feel the difference.\n\nIn my view, this trend deserves support, yet building parks is only the first step. They must be maintained, kept free and distributed fairly, so that people in older neighbourhoods are not left out. A city's quality is measured not by its tallest towers, but by how comfortably ordinary people can live in it.",
+      "sample_zh": "左图中，一座新建的小公园已成为日常生活的一部分。写着“市民健身区”的牌子旁，年轻人在跑道上慢跑，一对夫妇在散步交谈，一个男孩高兴地说：“家门口新建的小公园真不错！”柱状图显示，某市的公园数量从 2020 年的 406 座增至 2021 年的 532 座，2022 年又增至 670 座。\n\n这些数字反映出城市理念的转变。公园过去被当作点缀性的额外配置，如今则被视为保障健康、联结邻里、让城市宜居的基本公共设施。稳步增长还说明，地方政府正把资源投向民生福祉，居民也确实感受到了变化。\n\n在我看来，这一趋势值得肯定，但建园只是第一步。公园必须得到维护、免费开放并均衡分布，这样老旧街区的居民才不会被落下。衡量一座城市品质的，不是它最高的楼，而是普通人在其中能生活得多舒适。",
+      "structure": [
+        [
+          "第一段·描述图画与图表",
+          "In the left picture, a newly built small park has become part of daily life ... The bar chart shows the number of parks in a certain city rising from 406 in 2020 to 532 in 2021, and then to 670 in 2022."
+        ],
+        [
+          "第二段·揭示寓意",
+          "These figures reflect a shift in urban philosophy. Parks were once treated as ornamental extras, but they are now valued as basic public facilities that safeguard health, bring neighbours together and make a city liveable... the local government has been directing resources toward people's wellbeing."
+        ],
+        [
+          "第三段·发表评论",
+          "In my view, this trend deserves support, yet building parks is only the first step. They must be maintained, kept free and distributed fairly... A city's quality is measured not by its tallest towers, but by how comfortably ordinary people can live in it."
+        ]
+      ],
+      "expressions": [
+        "In the left picture, a newly built small park has become part of daily life.",
+        "Beside the sign reading “Fitness Area for Citizens”...",
+        "The bar chart shows the number of parks rising year by year.",
+        "The number of parks rose from 406 in 2020 to 532 in 2021, and then to 670 in 2022.",
+        "These figures reflect a shift in urban philosophy.",
+        "Parks were once treated as ornamental extras.",
+        "They are now valued as basic public facilities that safeguard health and make a city liveable.",
+        "direct resources toward people's wellbeing",
+        "Building parks is only the first step; they must be maintained and distributed fairly.",
+        "A city's quality is measured not by its tallest towers, but by how comfortably ordinary people can live in it."
+      ],
+      "traps": [
+        "题目要求“描述图画和图表”，两部分都要写：左图要交代“市民健身区”、市民锻炼的场景和男孩的话，右图要给出 2020—2022 年 406、532、670 三个数据，不能只写图或只写表。",
+        "寓意应落在“公共设施建设改善民生、提升居民幸福感、体现以人民为中心的发展理念”，不要偏成“要保护环境”“要锻炼身体”“城市建设速度惊人”等单一角度。",
+        "数据描述要准确：三年是逐年上升而非下降，单位是“座”，不要编造其他年份或数字，也不要把 670 说成“增长了 670 座”。",
+        "第二段分析原因或意义，第三段给出评价与建议（如维护、免费开放、均衡分布），两段不要重复同一层意思。",
+        "160–200 词，三段为宜；描述用一般现在时，数据用一般过去时；避免逐字照抄图中中文，也不要只列数据不作分析。"
+      ]
+    }
+  }
+}

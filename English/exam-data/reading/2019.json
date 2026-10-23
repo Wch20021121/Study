@@ -1,0 +1,3057 @@
+{
+  "meta": {
+    "year": 2019,
+    "exam": "2019 年全国硕士研究生招生考试",
+    "subject": "英语（一）",
+    "title": "2019 英语（一）阅读精讲",
+    "overview": "- 主题：四篇文章依次讨论企业“短期主义”及长期激励、大学成绩膨胀的成因、人工智能发展中的伦理治理，以及美国最高法院关于网络销售税的裁决。\n- 行文逻辑：各篇从新规、争议现象、文学意象或司法判决切入，通过事实与研究厘清问题机制，再评价现有做法并指出制度改进方向。",
+    "topics": [
+      "企业“短期主义”及长期激励",
+      "大学成绩膨胀的成因",
+      "人工智能发展中的伦理治理",
+      "美国最高法院关于网络销售税的裁决"
+    ],
+    "stats": {
+      "sentences": 59,
+      "vocab": 154
+    }
+  },
+  "reading": [
+    {
+      "id": "text1",
+      "kicker": "Section II · Part A",
+      "title": "Text 1",
+      "en_title": "Financial regulators in Britain have imposed a rather unusual rule on …",
+      "cn_title": "企业“短期主义”及长期激励",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "企业“短期主义”及长期激励",
+      "intro": "本篇主题：企业“短期主义”及长期激励。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks. Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for wrongdoing. The main purpose of this “clawback” rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions. Yet officials also hope for a much larger benefit: more long-term decisionmaking, not only by banks but by all corporations, to build a stronger economy for future generations.",
+          "zh": "英国金融监管机构对大型银行的高管施行了一项颇为不同寻常的规定。 从明年开始，如果银行因不当行为而受到调查，其高层管理人员的任何保底奖金都可能推迟十年发放。 这项“追回薪酬”规定的主要目的，是让银行家为有害的冒险行为承担责任，并恢复公众对金融机构的信任。 然而，官员们还期待一种大得多的收益：不仅银行，而且所有企业都能作出更多长期决策，从而为后代建设更强健的经济。"
+        },
+        {
+          "en": "“Short-termism” or the desire for quick profits, has worsened in publicly traded companies, says the Bank of England’s top economist, Andrew Haldane. He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience as acting like “children who pick the plums out of their pudding to eat them at once” rather than putting them aside to be eaten last.",
+          "zh": "英国央行首席经济学家安德鲁·霍尔丹表示，“短期主义”，也就是追求快速利润的欲望，在上市公司中已经愈演愈烈。 在描述这种金融上的急躁时，他引用了古典经济学巨匠阿尔弗雷德·马歇尔的比喻：这种行为就像“孩子们把布丁里的李子挑出来立刻吃掉”，而不是留到最后再吃。"
+        },
+        {
+          "en": "The average time for holding a stock in both the United States and Britain, he notes, has dropped from seven years to seven months in recent decades. Transient investors, who demand high quarterly profits from companies, can hinder a firm’s efforts to invest in long-term research or to build up customer loyalty. This has been dubbed “quarterly capitalism.”",
+          "zh": "他指出，近几十年来，美国和英国投资者持有一只股票的平均时间已从七年降至七个月。 频繁进出的短期投资者要求企业取得高额季度利润，这会阻碍企业投资长期研究或培养客户忠诚度的努力。 这种现象被称为“季度资本主义”。"
+        },
+        {
+          "en": "In addition, new digital technologies have allowed more rapid trading of equities, quicker use of information, and thus shorter attention spans in financial markets. “There seems to be a predominance of short-term thinking at the expense of long-term investing,” said Commissioner Daniel Gallagher of the US Securities and Exchange Commission in a speech this week.",
+          "zh": "此外，新型数字技术使股票交易更加迅速、信息利用更加快捷，也因此缩短了金融市场参与者的注意力持续时间。 “短期思维似乎占据了主导地位，而长期投资则为此付出了代价，”美国证券交易委员会委员丹尼尔·加拉格尔本周在一次演讲中说道。"
+        },
+        {
+          "en": "In the US, the Sarbanes-Oxley Act of 2002 has pushed most public companies to defer performance bonuses for senior executives by about a year, slightly helping reduce “short-termism.” In its latest survey of CEO pay, The Wall Street Journal finds that “a substantial part” of executive pay is now tied to performance.",
+          "zh": "在美国，2002 年《萨班斯-奥克斯利法案》促使大多数上市公司把高级管理人员的绩效奖金推迟约一年发放，从而对减少“短期主义”略有帮助。 《华尔街日报》在其最新的首席执行官薪酬调查中发现，如今高管薪酬中“相当大的一部分”与绩效挂钩。"
+        },
+        {
+          "en": "Much more could be done to encourage “long-termism,” such as changes in the tax code and quicker disclosure of stock acquisitions. In France, shareholders who hold on to a company investment for at least two years can sometimes earn more voting rights in a company.",
+          "zh": "为了鼓励“长期主义”，还可以采取更多措施，例如修改税法，并要求更快披露股票收购信息。 在法国，持续持有某家公司投资至少两年的股东，有时可以在公司中获得更多投票权。"
+        },
+        {
+          "en": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders. Britain’s new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term.",
+          "zh": "在公司内部，合理的薪酬设计可以激励高管超越自己在公司的任期来思考，并代表所有利益相关者的利益行事。 英国的新规提醒银行家，社会关心他们的经营表现，而且关心的不只是短期表现，更是长期表现。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 21,
+          "stem": "According to Paragraph 1, one motive in imposing the new rule is to",
+          "options": [
+            "enhance bankers’ sense of responsibility.",
+            "help corporations achieve larger profits.",
+            "build a new system of financial regulation.",
+            "guarantee the bonuses of top executives."
+          ],
+          "answer": "A",
+          "explain": "正确项：enhance bankers’ sense of responsibility. 新规要让银行家为有害的冒险行为承担责任；enhance ... sense of responsibility 是对 hold bankers accountable 的同义改写。\n其他选项：B. help corporations achieve larger profits.：官员期待的是更多长期决策和更强健的经济，不是帮助企业获得更大利润，偷换目标。；C. build a new system of financial regulation.：文中只介绍一项奖金追回规定，没有提出建立全新的金融监管体系，范围扩大。；D. guarantee the bonuses of top executives.：新规可能把保底奖金推迟十年，绝非保障高管奖金，与原文相反。",
+          "evidence": "The main purpose of this “clawback” rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 22,
+          "stem": "Alfred Marshall is quoted to indicate",
+          "options": [
+            "the conditions for generating quick profits.",
+            "governments’ impatience in decision-making.",
+            "the solid structure of publicly traded companies.",
+            "“short-termism” in economic activities."
+          ],
+          "answer": "D",
+          "explain": "正确项：“short-termism” in economic activities. 孩子把布丁中的李子先挑出来立即吃掉，比喻企业和投资者急于取得眼前利润。该引语用来说明经济活动中的“短期主义”。\n其他选项：A. the conditions for generating quick profits.：引语批评急于获利的心态，没有分析产生快速利润所需的条件。；B. governments’ impatience in decision-making.：文中对象是上市公司和投资者，不是政府决策，主体错位。；C. the solid structure of publicly traded companies.：原文说上市公司的短期主义加剧，没有讨论其结构是否稳固，属于无中生有。",
+          "evidence": "He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience as acting like “children who pick the plums out of their pudding to eat them at once” rather than putting them aside to be eaten last.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 23,
+          "stem": "It is argued that the influence of transient investment on public companies can be",
+          "options": [
+            "indirect.",
+            "adverse.",
+            "minimal.",
+            "temporary."
+          ],
+          "answer": "B",
+          "explain": "正确项：adverse. 短期投资者的季度利润要求会 hinder 企业的长期研究和客户忠诚度建设；adverse 意为“不利的”，准确概括这种负面影响。\n其他选项：A. indirect.：原文给出的是投资者施压直接阻碍长期投入的因果关系，没有强调影响间接。；C. minimal.：长期研究和客户忠诚度关系企业持续发展，作者并未说影响很小。；D. temporary.：transient 修饰投资者的持股方式，不表示其对公司的影响只是暂时的，属于词义误套。",
+          "evidence": "Transient investors, who demand high quarterly profits from companies, can hinder a firm’s efforts to invest in long-term research or to build up customer loyalty.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 24,
+          "stem": "The US and France examples are used to illustrate",
+          "options": [
+            "the obstacles to preventing “short-termism”.",
+            "the significance of long-term thinking.",
+            "the approaches to promoting “long-termism”.",
+            "the prevalence of short-term thinking."
+          ],
+          "answer": "C",
+          "explain": "正确项：the approaches to promoting “long-termism”. 美国通过延迟高管绩效奖金来抑制短期行为，法国以更多投票权奖励长期持股；两例展示的是推动长期主义的具体制度方法。\n其他选项：A. the obstacles to preventing “short-termism”.：两国案例是已经采取或可以采取的办法，不是改革面临的障碍。；B. the significance of long-term thinking.：全文肯定长期思维的重要性，但两例的直接功能是说明“如何促进”，不是泛论其意义。；D. the prevalence of short-term thinking.：短期主义的普遍程度由持股期缩短等事实说明，两国政策例子用于介绍应对方法。",
+          "evidence": "In the US, the Sarbanes-Oxley Act of 2002 has pushed most public companies to defer performance bonuses for senior executives by about a year, slightly helping reduce “short-termism.”\nMuch more could be done to encourage “long-termism,” such as changes in the tax code and quicker disclosure of stock acquisitions.\nIn France, shareholders who hold on to a company investment for at least two years can sometimes earn more voting rights in a company.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 25,
+          "stem": "Which of the following would be the best title for the text?",
+          "options": [
+            "Failure of Quarterly Capitalism",
+            "Patience as a Corporate Virtue",
+            "Decisiveness Required of Top Executives",
+            "Frustration of Risk-taking Bankers"
+          ],
+          "answer": "B",
+          "explain": "正确项：Patience as a Corporate Virtue 文章批评企业急于追求季度利润，并以英国新规、美国奖金延期和法国长期持股奖励倡导耐心的长期决策。把“耐心”视为企业应具备的美德，最能覆盖全文。\n其他选项：A. Failure of Quarterly Capitalism：quarterly capitalism 是被批评的现象之一，但全文重点是通过制度激励长期主义，而非论证季度资本主义已经失败。；C. Decisiveness Required of Top Executives：文章要求高管着眼长期，不是要求他们更果断；decisiveness 偷换了 long-termism。；D. Frustration of Risk-taking Bankers：问责有害冒险只是新规的直接目的，文章没有描写银行家的挫败感，范围和情感均不符。",
+          "evidence": "Yet officials also hope for a much larger benefit: more long-term decisionmaking, not only by banks but by all corporations, to build a stronger economy for future generations.\nBritain’s new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term.",
+          "trap": "",
+          "type": "主旨/标题"
+        }
+      ]
+    },
+    {
+      "id": "text2",
+      "kicker": "Section II · Part A",
+      "title": "Text 2",
+      "en_title": "Grade inflation – the gradual increase in average GPAs (grade-point av…",
+      "cn_title": "大学成绩膨胀的成因",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "大学成绩膨胀的成因",
+      "intro": "本篇主题：大学成绩膨胀的成因。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "Grade inflation – the gradual increase in average GPAs (grade-point averages) over the past few decades – is often considered a product of a consumer era in higher education, in which students are treated like customers to be pleased. But another, related force – a policy often buried deep in course catalogs called “grade forgiveness” – is helping raise GPAs.",
+          "zh": "成绩膨胀——即过去几十年中平均 GPA（平均学分绩点）逐渐提高——通常被认为是高等教育进入消费时代的产物；在这个时代，学生被当作需要取悦的顾客。 但是，另一股与此相关的力量也在推高 GPA：一项常常深藏于课程目录中的政策，名为“成绩宽恕”。"
+        },
+        {
+          "en": "Grade forgiveness allows students to retake a course in which they received a low grade, and the most recent grade or the highest grade is the only one that counts in calculating a student’s overall GPA.",
+          "zh": "成绩宽恕允许学生重修曾经得低分的课程，而且在计算学生总 GPA 时，只有最近一次成绩或最高成绩会被计入。"
+        },
+        {
+          "en": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve their graduation rates. When this practice first started decades ago, it was usually limited to freshmen, to give them a second chance to take a class in their first year if they struggled in their transition to college-level courses. But now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.",
+          "zh": "近年来，这项鲜为人知的做法加速普及，因为各高校一直竭尽所能让学生留在学校（并继续缴纳学费），同时提高毕业率。 几十年前这项做法刚开始时，通常只适用于大一新生，目的是在他们难以适应大学课程的情况下，给他们第二次机会重修第一学年的课程。 但如今，除许多选拔严格的院校外，大多数高校允许所有本科生，甚至研究生，消除自己的低分记录。"
+        },
+        {
+          "en": "College officials tend to emphasize that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to their degree program and graduation without incurring a big penalty. “Ultimately,” said Jack Miner, Ohio State University’s registrar, “we see students achieve more success because they retake a course and do better in subsequent courses or master the content that allows them to graduate on time.”",
+          "zh": "高校管理者往往强调，成绩宽恕的目的与其说是修改成绩本身，不如说是鼓励学生重修对其学位课程和毕业至关重要的科目，同时避免承受过重的惩罚。 俄亥俄州立大学教务主任杰克·迈纳说：“归根结底，我们看到学生因为重修一门课而取得更大成功：他们会在后续课程中表现更好，或者掌握使自己能够按时毕业的课程内容。”"
+        },
+        {
+          "en": "That said, there is a way in which grade forgiveness satisfies colleges’ own needs as well. For public institutions, state funds are sometimes tied partly to their success on metrics such as graduation rates and student retention – so better grades can, by boosting figures like those, mean more money. And anything that raises GPAs will likely make students – who, at the end of the day, are paying the bill – feel they’ve gotten a better value for their tuition dollars, which is another big concern for colleges.",
+          "zh": "话虽如此，成绩宽恕也确实能以某种方式满足高校自身的需求。 对于公立院校而言，州政府拨款有时会部分取决于其在毕业率、学生留存率等指标上的表现——因此，更高的成绩可以通过改善这些数据，为学校带来更多资金。 而任何能提高 GPA 的做法，都可能让学生觉得自己缴纳的学费更物有所值——说到底，是学生在买单——这也是高校非常关心的问题。"
+        },
+        {
+          "en": "Indeed, grade forgiveness is just another way that universities are responding to consumers’ expectations for higher education. Since students and parents expect a college degree to lead to a job, it is in the best interest of a school to turn out graduates who are as qualified as possible – or at least appear to be. On this, students’ and colleges’ incentives seem to be aligned.",
+          "zh": "事实上，成绩宽恕只不过是大学回应消费者对高等教育期待的另一种方式。 由于学生和家长期望大学文凭能带来工作机会，因此学校培养尽可能合格——或至少看起来合格——的毕业生，最符合自身利益。 在这一点上，学生与高校的利益动机似乎是一致的。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "stem": "What is commonly regarded as the cause of grade inflation?",
+          "options": [
+            "The change of course catalogs.",
+            "Students’ indifference to GPAs.",
+            "Colleges’ neglect of GPAs.",
+            "The influence of consumer culture."
+          ],
+          "answer": "D",
+          "explain": "正确项：The influence of consumer culture. 原文说成绩膨胀通常被视为高等教育“消费时代”的产物，学生被当作需要取悦的顾客。选项中的 consumer culture 准确概括这一普遍解释。\n其他选项：A. The change of course catalogs.：课程目录只是成绩宽恕政策藏身之处，目录本身的变化不是成绩膨胀成因。；B. Students’ indifference to GPAs.：学生希望成绩提高、文凭更有价值，并非对 GPA 漠不关心，与文章逻辑相反。；C. Colleges’ neglect of GPAs.：高校通过成绩宽恕主动影响 GPA，并把成绩与毕业率、留存率联系起来，不是忽视 GPA。",
+          "evidence": "Grade inflation – the gradual increase in average GPAs (grade-point averages) over the past few decades – is often considered a product of a consumer era in higher education, in which students are treated like customers to be pleased.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 27,
+          "stem": "What was the original purpose of grade forgiveness?",
+          "options": [
+            "To help freshmen adapt to college learning.",
+            "To maintain colleges’ graduation rates.",
+            "To prepare graduates for a challenging future.",
+            "To increase universities’ income from tuition."
+          ],
+          "answer": "A",
+          "explain": "正确项：To help freshmen adapt to college learning. 政策最初仅限大一新生，旨在给难以适应大学课程的学生第二次机会，因此其原始目的就是帮助新生适应大学学习。\n其他选项：B. To maintain colleges’ graduation rates.：提高毕业率是近年来高校扩大使用该政策的动机，不是政策刚出现时的原始目的。；C. To prepare graduates for a challenging future.：原文没有谈为毕业生应对未来挑战作准备，属于无中生有。；D. To increase universities’ income from tuition.：让学生留校缴费是后来扩张时的高校利益，不能替代最初帮助新生适应课程的目的。",
+          "evidence": "When this practice first started decades ago, it was usually limited to freshmen, to give them a second chance to take a class in their first year if they struggled in their transition to college-level courses.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 28,
+          "stem": "According to Paragraph 5, grade forgiveness enables colleges to",
+          "options": [
+            "obtain more financial support.",
+            "boost their student enrollments.",
+            "improve their teaching quality.",
+            "meet local governments’ needs."
+          ],
+          "answer": "A",
+          "explain": "正确项：obtain more financial support. 公立院校的州政府拨款部分取决于毕业率和留存率；成绩宽恕改善这些指标后，学校可能获得更多资金，即更多财务支持。\n其他选项：B. boost their student enrollments.：原文谈留住现有学生和改善留存率，没有说招收更多新生，偷换指标。；C. improve their teaching quality.：学生重修后可能表现更好，但第五段强调的是拨款和学生价值感，没有证明教学质量提升。；D. meet local governments’ needs.：州政府提供资金并使用指标考核，不等于政策旨在满足地方政府需要，主体目的错位。",
+          "evidence": "For public institutions, state funds are sometimes tied partly to their success on metrics such as graduation rates and student retention – so better grades can, by boosting figures like those, mean more money.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 29,
+          "stem": "What does the phrase “to be aligned” (Line 5, Para. 6) most probably mean?",
+          "options": [
+            "To counterbalance each other.",
+            "To complement each other.",
+            "To be identical with each other.",
+            "To be contradictory to each other."
+          ],
+          "answer": "C",
+          "explain": "正确项：To be identical with each other. 学生希望成绩和文凭更有就业价值，高校也希望满足消费者期待、改善自身指标；双方的利益动机方向一致。四个选项中，identical with each other 最接近 aligned 的语境义。\n其他选项：A. To counterbalance each other.：意为彼此制衡，而原文强调双方动机同向，并非相互抵消。；B. To complement each other.：意为彼此补充，仍预设双方功能不同；原文强调的是利益目标一致。；D. To be contradictory to each other.：意为彼此矛盾，与 aligned 以及上下文完全相反。",
+          "evidence": "On this, students’ and colleges’ incentives seem to be aligned.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 30,
+          "stem": "The author examines the practice of grade forgiveness by",
+          "options": [
+            "assessing its feasibility.",
+            "analyzing the causes behind it.",
+            "comparing different views on it.",
+            "listing its long-run effects."
+          ],
+          "answer": "B",
+          "explain": "正确项：analyzing the causes behind it. 文章解释政策如何运作后，重点分析其扩张原因：高校要留住缴费学生、提高毕业率和留存率、争取更多拨款，并回应教育消费者的期待。因此行文方法是分析做法背后的成因和动机。\n其他选项：A. assessing its feasibility.：文章没有评估该政策是否能够实施，也未讨论实施条件，考查对象错位。；C. comparing different views on it.：文中引用校方解释并揭示机构利益，但没有组织成支持与反对两派观点的比较。；D. listing its long-run effects.：文章主要讨论成因、眼前激励和政策扩张，没有罗列长期后果。",
+          "evidence": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve their graduation rates.\nThat said, there is a way in which grade forgiveness satisfies colleges’ own needs as well.\nFor public institutions, state funds are sometimes tied partly to their success on metrics such as graduation rates and student retention – so better grades can, by boosting figures like those, mean more money.\nIndeed, grade forgiveness is just another way that universities are responding to consumers’ expectations for higher education.",
+          "trap": "",
+          "type": "观点"
+        }
+      ]
+    },
+    {
+      "id": "text3",
+      "kicker": "Section II · Part A",
+      "title": "Text 3",
+      "en_title": "This year marks exactly two centuries since the publication of “Franke…",
+      "cn_title": "人工智能发展中的伦理治理",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "人工智能发展中的伦理治理",
+      "intro": "本篇主题：人工智能发展中的伦理治理。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "This year marks exactly two centuries since the publication of “Frankenstein; or, The Modern Prometheus,” by Mary Shelley. Even before the invention of the electric light bulb, the author produced a remarkable work of speculative fiction that would foreshadow many ethical questions to be raised by technologies yet to come.",
+          "zh": "今年恰逢玛丽·雪莱的《弗兰肯斯坦；或，现代普罗米修斯》出版二百周年。 甚至在电灯泡发明之前，作者就创作了这部非凡的思辨小说，预示了尚未出现的技术日后将提出的许多伦理问题。"
+        },
+        {
+          "en": "Today the rapid growth of artificial intelligence (AI) raises fundamental questions: “What is intelligence, identity, or consciousness? What makes humans humans?”",
+          "zh": "如今，人工智能（AI）的迅速发展提出了若干根本问题：“什么是智能、身份或意识？是什么让人之所以为人？”"
+        },
+        {
+          "en": "What is being called artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists. Yet humans remain fascinated by the idea of robots that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as “Westworld” and “Humans.”",
+          "zh": "所谓的通用人工智能——也就是能够模仿人类思维方式的机器——仍然令科学家难以把握。 然而，人类依然着迷于这样一种机器人设想：它们在外貌、行动和反应上都酷似人类，类似于近期《西部世界》和《真实的人类》等热门科幻电视剧中描绘的机器人。"
+        },
+        {
+          "en": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist. “We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.”",
+          "zh": "斯坦福大学神经科学家戴维·伊格尔曼表示，人类究竟如何思考仍然过于复杂，尚无法被理解，更不用说加以复制了。 “我们目前的处境就是，尚无任何可靠理论能够解释意识究竟是什么，也无法解释究竟怎样才能造出一台达到那种意识状态的机器。”"
+        },
+        {
+          "en": "But that doesn’t mean crucial ethical issues involving AI aren’t at hand. The coming use of autonomous vehicles, for example, poses thorny ethical questions. Human drivers sometimes must make split-second decisions. Their reactions may be a complex combination of instant reflexes, input from past driving experiences, and what their eyes and ears tell them in that moment. AI “vision” today is not nearly as sophisticated as that of humans. And to anticipate every imaginable driving situation is a difficult programming problem.",
+          "zh": "但这并不意味着，涉及人工智能的关键伦理问题尚未迫近。 例如，即将投入使用的自动驾驶车辆会提出棘手的伦理问题。 人类驾驶员有时必须在瞬间作出决定。 他们的反应可能是多种因素的复杂结合：即时反射、以往驾驶经验提供的信息，以及当时眼睛和耳朵传来的信息。 如今人工智能的“视觉”远不如人类视觉那样精密成熟。 而要预见所有可以想象的驾驶情境，也是一个难以解决的编程问题。"
+        },
+        {
+          "en": "Whenever decisions are based on masses of data, “you quickly get into a lot of ethical questions,” notes Tan Kiat How, chief executive of a Singapore-based agency that is helping the government develop a voluntary code for the ethical use of AI. Along with Singapore, other governments and mega-corporations are beginning to establish their own guidelines. Britain is setting up a data ethics center. India released its AI ethics strategy this spring.",
+          "zh": "新加坡一家机构的首席执行官陈杰豪指出，只要决策建立在海量数据之上，“人们很快就会遇到大量伦理问题”；该机构正协助政府制定一套自愿遵守的人工智能伦理使用准则。 除新加坡外，其他政府和大型企业也开始制定各自的指导规范。 英国正在建立一个数据伦理中心。 印度于今年春季发布了人工智能伦理战略。"
+        },
+        {
+          "en": "On June 7 Google pledged not to “design or deploy AI” that would cause “overall harm,” or to develop AI-directed weapons or use AI for surveillance that would violate international norms. It also pledged not to deploy AI whose use would violate international laws or human rights.",
+          "zh": "6 月 7 日，Google 承诺不“设计或部署”会造成“整体伤害”的人工智能，不开发人工智能制导武器，也不把人工智能用于违反国际规范的监控活动。 Google 还承诺不部署其用途会违反国际法律或人权的人工智能。"
+        },
+        {
+          "en": "While the statement is vague, it represents one starting point. So does the idea that decisions made by AI systems should be explainable, transparent, and fair.",
+          "zh": "尽管这项声明较为模糊，但它仍代表了一个起点。 同样可以作为起点的，还有这样一种理念：人工智能系统所作的决定应当可解释、透明且公平。"
+        },
+        {
+          "en": "To put it another way: How can we make sure that the thinking of intelligent machines reflects humanity’s highest values? Only then will they be useful servants and not Frankenstein’s out-of-control monster.",
+          "zh": "换一种说法：我们如何才能确保智能机器的思维反映人类最崇高的价值观？ 只有到那时，它们才会成为有用的仆人，而不是弗兰肯斯坦创造出的失控怪物。"
+        }
+      ],
+      "questions": [
+        {
+          "n": 31,
+          "stem": "Mary Shelley’s novel Frankenstein is mentioned because it",
+          "options": [
+            "fascinates AI scientists all over the world.",
+            "has remained popular for as long as 200 years.",
+            "involves some concerns raised by AI today.",
+            "has sparked serious ethical controversies."
+          ],
+          "answer": "C",
+          "explain": "正确项：involves some concerns raised by AI today. 《弗兰肯斯坦》预示了后来技术将提出的许多伦理问题，而下文立即转向当今 AI 对智能、身份、意识和失控风险的追问，因此小说涉及了今天 AI 引发的部分关切。\n其他选项：A. fascinates AI scientists all over the world.：原文说人类着迷于类人机器人构想，没有说全世界 AI 科学家都着迷于这部小说，主体与范围均被扩大。；B. has remained popular for as long as 200 years.：二百周年只是开篇时间背景，作者没有以小说持续流行二百年来说明提及原因。；D. has sparked serious ethical controversies.：小说预示、涉及伦理问题，不等于它本身已经引发严重伦理争议，因果关系被改写。",
+          "evidence": "Even before the invention of the electric light bulb, the author produced a remarkable work of speculative fiction that would foreshadow many ethical questions to be raised by technologies yet to come.",
+          "trap": "",
+          "type": "因果"
+        },
+        {
+          "n": 32,
+          "stem": "In David Eagleman’s opinion, our current knowledge of consciousness",
+          "options": [
+            "helps explain artificial intelligence.",
+            "can be misleading to robot making.",
+            "inspires popular sci-fi TV series.",
+            "is too limited for us to reproduce it."
+          ],
+          "answer": "D",
+          "explain": "正确项：is too limited for us to reproduce it. 伊格尔曼认为，人类思维过于复杂，目前连意识是什么都缺乏可靠理论，尚且无法理解，更不用说复制。因此现有知识太有限，无法重现意识。\n其他选项：A. helps explain artificial intelligence.：原文强调缺乏解释意识的好理论，并未说现有意识知识有助于解释 AI。；B. can be misleading to robot making.：问题是知识不足，不是知识会误导机器人制造，错误替换了局限性质。；C. inspires popular sci-fi TV series.：科幻剧是人们想象类人机器人的例子，未被归因于当前意识知识。",
+          "evidence": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist.\n“We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.”",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 33,
+          "stem": "The solution to the ethical issues brought by autonomous vehicles",
+          "options": [
+            "can hardly ever be found.",
+            "is still beyond our capacity.",
+            "causes little public concern.",
+            "has aroused much curiosity."
+          ],
+          "answer": "B",
+          "explain": "正确项：is still beyond our capacity. 目前 AI 视觉远不如人类成熟，而预见所有可能驾驶情境又是困难的编程问题。这说明解决自动驾驶带来的伦理决策难题仍超出当前能力。\n其他选项：A. can hardly ever be found.：原文只说目前困难，没有断言解决方案永远几乎不可能找到；ever 过度绝对化。；C. causes little public concern.：作者称其为 thorny ethical questions 并用整段分析，不能推出公众几乎不关心。；D. has aroused much curiosity.：文章强调问题复杂、能力不足，不是描述人们对解决方案感到好奇。",
+          "evidence": "AI “vision” today is not nearly as sophisticated as that of humans.\nAnd to anticipate every imaginable driving situation is a difficult programming problem.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 34,
+          "stem": "The author’s attitude toward Google’s pledges is one of",
+          "options": [
+            "affirmation.",
+            "skepticism.",
+            "contempt.",
+            "respect."
+          ],
+          "answer": "A",
+          "explain": "正确项：affirmation. 作者虽承认声明模糊，却明确认为它构成了一个起点。让步之后的主句承载核心判断，体现对 Google 承诺价值的肯定。\n其他选项：B. skepticism.：vague 带保留，但作者随后肯定其是治理起点，总体态度不是怀疑其价值或真实性。；C. contempt.：文中没有轻蔑、嘲讽或贬斥语气，感情色彩过强。；D. respect.：作者评价的是承诺可作为起点，并未表达对 Google 的敬重；respect 错把对做法的有限肯定扩大为对主体的尊敬。",
+          "evidence": "While the statement is vague, it represents one starting point.",
+          "trap": "",
+          "type": "态度"
+        },
+        {
+          "n": 35,
+          "stem": "Which of the following would be the best title for the text?",
+          "options": [
+            "AI’s Future: In the Hands of Tech Giants",
+            "Frankenstein, the Novel Predicting the Age of AI",
+            "The Conscience of AI: Complex But Inevitable",
+            "AI Shall Be Killers Once Out of Control"
+          ],
+          "answer": "C",
+          "explain": "正确项：The Conscience of AI: Complex But Inevitable 全文从意识难以理解和复制，推进到已经迫近的自动驾驶、数据决策及武器监控伦理，再强调 AI 必须体现人类最高价值。AI 的“良知”治理十分复杂，却不可回避，最能概括全文。\n其他选项：A. AI’s Future: In the Hands of Tech Giants：企业只是伦理准则制定者之一，文中还涉及多国政府和公共原则；AI 未来由科技巨头掌控不是全文主旨。；B. Frankenstein, the Novel Predicting the Age of AI：小说只负责开篇和结尾的意象框架，文章主体讨论当代 AI 伦理治理，并非文学作品如何预言 AI 时代。；D. AI Shall Be Killers Once Out of Control：文中提到武器和失控怪物是风险警示，没有断言 AI 一旦失控必然成为杀手，措辞绝对且耸动。",
+          "evidence": "But that doesn’t mean crucial ethical issues involving AI aren’t at hand.\nTo put it another way: How can we make sure that the thinking of intelligent machines reflects humanity’s highest values?\nOnly then will they be useful servants and not Frankenstein’s out-of-control monster.",
+          "trap": "",
+          "type": "主旨/标题"
+        }
+      ]
+    },
+    {
+      "id": "text4",
+      "kicker": "Section II · Part A",
+      "title": "Text 4",
+      "en_title": "States will be able to force more people to pay sales tax when they ma…",
+      "cn_title": "美国最高法院关于网络销售税的裁决",
+      "score": 10,
+      "suggest": "16–18 分钟",
+      "topic": "美国最高法院关于网络销售税的裁决",
+      "intro": "本篇主题：美国最高法院关于网络销售税的裁决。先读题干，圈出关键词；回原文找证据句，再用主体、范围、方向排除。",
+      "paragraphs": [
+        {
+          "en": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states.",
+          "zh": "根据最高法院周四作出的一项裁决，各州将能要求更多人在网购时缴纳销售税；这项裁决虽会让消费者的钱包缩水，却会给各州带来一笔可观的财政收益。"
+        },
+        {
+          "en": "The Supreme Court’s opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually. The decisions made it more difficult for states to collect sales tax on certain online purchases.",
+          "zh": "最高法院周四发布的判决推翻了两项已有数十年历史的裁决；各州称，这两项旧裁决每年使它们损失数十亿美元的财政收入。 这些裁决加大了各州对某些网络购物征收销售税的难度。"
+        },
+        {
+          "en": "The cases the court overturned said that if a business was shipping a customer’s purchase to a state where the business didn’t have a physical presence such as a warehouse or office, the business didn’t have to collect sales tax for the state. Customers were generally responsible for paying the sales tax to the state themselves if they weren’t charged it, but most didn’t realize they owed it and few paid.",
+          "zh": "法院推翻的那些裁决规定：如果一家企业把顾客购买的商品寄往某州，而该企业在该州没有仓库或办公室等实体经营场所，那么它就不必替该州收取销售税。 如果商家没有向顾客收取销售税，通常应由顾客自己向州政府缴纳；但大多数人没有意识到自己负有这项税款，实际缴纳者寥寥无几。"
+        },
+        {
+          "en": "Justice Anthony Kennedy wrote that the previous decisions were flawed. “Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,” he wrote in an opinion joined by four other justices. Kennedy wrote that the rule “limited states’ ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.”",
+          "zh": "大法官安东尼·肯尼迪写道，此前的裁决存在缺陷。 “实体存在规则逐年脱离经济现实，并给各州造成巨额财政收入损失。”他在一份有另外四名大法官共同署名的判决意见中写道。 肯尼迪写道，这项规则“限制了各州谋求长期繁荣的能力，并一直妨碍市场参与者在公平的竞争环境中较量”。"
+        },
+        {
+          "en": "The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already. Now, rivals will be charging sales tax where they hadn’t before. Big chains have been collecting sales tax nationwide because they typically have physical stores in whatever state a purchase is being shipped to. Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it, though third-party sellers who use the site don’t have to.",
+          "zh": "这项裁决对在多个州设有实体经营场所的大型连锁企业是一场胜利，因为它们原本通常就已对网购交易收取销售税。 现在，这些大型连锁企业的竞争对手将在以往不收税的地方开始收取销售税。 大型连锁企业一直在全国范围内收取销售税，因为无论商品被寄往哪个州，它们通常都在当地设有实体门店。 亚马逊凭借其仓储网络，也在所有征收销售税的州代为收税；不过，使用该网站的第三方卖家此前并无此义务。"
+        },
+        {
+          "en": "Until now, many sellers that have a physical presence in only a single state or a few states have been able to avoid charging sales taxes when they ship to addresses outside those states. Sellers that use eBay and Etsy, which provide platforms for smaller sellers, also haven’t been collecting sales tax nationwide. Under the ruling Thursday, states can pass laws requiring out-of-state sellers to collect the state’s sales tax from customers and send it to the state.",
+          "zh": "在此之前，许多仅在一个州或少数几个州拥有实体经营场所的卖家，在将商品运往这些州以外的地址时，一直能够免于收取销售税。 使用 eBay 和 Etsy（这两家网站为较小规模卖家提供平台）的商家，此前也没有在全国范围内收取销售税。 根据周四作出的裁决，各州可以立法要求外州卖家向顾客收取该州的销售税并上缴给州政府。"
+        },
+        {
+          "en": "Retail trade groups praised the ruling, saying it levels the playing field for local and online businesses. The losers, said retail analyst Neil Saunders, are online-only retailers, especially smaller ones. Those retailers may face headaches complying with various state sales tax laws. The Small Business & Entrepreneurship Council advocacy group said in a statement, “Small businesses and internet entrepreneurs are not well served at all by this decision.”",
+          "zh": "零售贸易团体对该裁决表示赞赏，称它为本地实体企业与网络商家营造了公平的竞争环境。 零售分析师尼尔·桑德斯表示，其中的输家是纯网络零售商，尤其是规模较小的那些。 这些零售商在遵守各州五花八门的销售税法时，可能会面临令人头疼的问题。 倡导团体“小型企业与创业委员会”在一份声明中表示：“这项裁决对小型企业和互联网创业者根本没有任何好处。”"
+        }
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "stem": "The Supreme Court decision Thursday will",
+          "options": [
+            "better businesses’ relations with states.",
+            "put most online businesses in a dilemma.",
+            "make more online shoppers pay sales tax.",
+            "force some states to cut sales tax."
+          ],
+          "answer": "C",
+          "explain": "正确项：make more online shoppers pay sales tax. 裁决推翻旧例后，各州将能够强制更多人在网购时缴纳销售税（force more people to pay sales tax when they make online purchases）；选项用 make more online shoppers pay sales tax 进行了直接同义替换。\n其他选项：A. better businesses’ relations with states.：文章通篇讲述征税、合规负担与利益冲突，并未提及改善企业与各州的关系，属于无中生有。；B. put most online businesses in a dilemma.：面临合规困境的是纯网络小零售商（especially smaller ones），不能扩大为“绝大多数网络企业”，范围夸大。；D. force some states to cut sales tax.：最高法院裁决是赋予各州征税权，为各州带来财政收益（a big financial win），而非迫使各州减税，与原文相反。",
+          "evidence": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 37,
+          "stem": "It can be learned from paragraphs 2 and 3 that the overruled decisions",
+          "options": [
+            "have led to the dominance of e-commerce.",
+            "have cost consumers a lot over the years.",
+            "were widely criticized by online purchasers.",
+            "were considered unfavorable by states."
+          ],
+          "answer": "D",
+          "explain": "正确项：were considered unfavorable by states. 第二段明确指出，各州称这两项被推翻的旧裁决每年导致数十亿美元收入流失，并加大了征税难度；因此这些旧裁决被各州认为极为不利（unfavorable）。\n其他选项：A. have led to the dominance of e-commerce.：旧裁决虽然让外州卖家享受免税优势，但文章并未将电子商务的统治地位归因于这些裁决，属于过度推论。；B. have cost consumers a lot over the years.：旧裁决下消费者往往免缴税款（few paid），是各州财政受损，而非消费者付出代价，事实相反。；C. were widely criticized by online purchasers.：旧裁决让网购消费者少缴税，消费者并未广泛批评旧裁决，与文意不符。",
+          "evidence": "The Supreme Court’s opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually.\nThe decisions made it more difficult for states to collect sales tax on certain online purchases.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 38,
+          "stem": "According to Justice Anthony Kennedy, the physical presence rule has",
+          "options": [
+            "hindered economic development.",
+            "brought prosperity to the country.",
+            "harmed fair market competition.",
+            "boosted growth in states’ revenue."
+          ],
+          "answer": "C",
+          "explain": "正确项：harmed fair market competition. 肯尼迪大法官指出，实体存在规则妨碍了市场参与者在公平的环境中竞争（prevented market participants from competing on an even playing field）；选项中的 harmed fair market competition 是其精准同义改写。\n其他选项：A. hindered economic development.：肯尼迪指出规则限制各州谋求长期繁荣的能力，并未泛指阻碍整体经济发展，且核心在于市场竞争公平性。；B. brought prosperity to the country.：规则限制了繁荣发展，与选项意思相反。；D. boosted growth in states’ revenue.：规则造成了巨额财政收入损失（results in significant revenue losses），与选项意思完全相反。",
+          "evidence": "Kennedy wrote that the rule “limited states’ ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.”",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 39,
+          "stem": "Who are most likely to welcome the Supreme Court ruling?",
+          "options": [
+            "Internet entrepreneurs.",
+            "Big-chain owners.",
+            "Third-party sellers.",
+            "Small retailers."
+          ],
+          "answer": "B",
+          "explain": "正确项：Big-chain owners. 第五段开篇明确指出，该裁决对在多州设有实体的大型连锁企业是一场胜利（a victory for big chains），因为它们原本就已代收销售税，新裁决消除了其竞争对手的免税优势。因此大型连锁店主最可能欢迎该裁决。\n其他选项：A. Internet entrepreneurs.：第七段末尾明确指出互联网创业者受损（not well served at all by this decision），属于受害者。；C. Third-party sellers.：第五段末尾指出第三方卖家以往无需代收税款，裁决后失去优势并面临征税要求，不可能欢迎该裁决。；D. Small retailers.：第七段指出纯网络小零售商是输家（losers），面临遵守多州复杂税法的沉重负担。",
+          "evidence": "The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already.\nThe losers, said retail analyst Neil Saunders, are online-only retailers, especially smaller ones.",
+          "trap": "",
+          "type": "细节"
+        },
+        {
+          "n": 40,
+          "stem": "In dealing with the Supreme Court decision Thursday, the author",
+          "options": [
+            "gives a factual account of it and discusses its consequences.",
+            "describes the long and complicated process of its making.",
+            "presents its main points with conflicting views on them.",
+            "cites some cases related to it and analyzes their implications."
+          ],
+          "answer": "A",
+          "explain": "正确项：gives a factual account of it and discusses its consequences. 文章首段客观报道了最高法院周四裁决的事实，中间阐释了旧规则与大法官意见，随后重点剖析了该裁决对各州财政、大型连锁店、消费者及中小网络卖家等不同利益相关方产生的连锁后果。\n其他选项：B. describes the long and complicated process of its making.：文章并未叙述该司法裁决如何立案、审理、辩论的漫长复杂出台过程。；C. presents its main points with conflicting views on them.：文章客观罗列了各方不同群体的利益得失与反应，而非针对裁决的核心法理观点展开相互冲突的学术论战。；D. cites some cases related to it and analyzes their implications.：文中仅提及被推翻的旧裁决这一背景，未具体列举若干相关判例并分析其法律启示。",
+          "evidence": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states.\nThe ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already.",
+          "trap": "",
+          "type": "观点"
+        }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "id": "2019-T1-P1-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for wrongdoing.",
+      "core": "Any guaranteed bonus ... could be delayed 10 years.",
+      "structure": "Starting next year 作时间状语；of top executives 修饰 bonus；if ... 引导条件状语从句；under investigation for ... 表示“因……正在接受调查”。",
+      "key": "guaranteed bonus：保底奖金，即事先承诺、不完全取决于后续绩效的奖金。；wrongdoing：违法或不当行为。",
+      "zh": "从明年开始，如果银行因不当行为而受到调查，其高层管理人员的任何保底奖金都可能推迟十年发放。",
+      "tip": "被推迟的是奖金，而不是对高管的调查；their banks 指这些高管所在的银行。"
+    },
+    {
+      "id": "2019-T1-P1-S03",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "The main purpose of this “clawback” rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions.",
+      "core": "The main purpose ... is to hold ... and to restore ... .",
+      "structure": "两个并列不定式作表语，分别说明新规的问责目的和重建信任目的。",
+      "key": "clawback：追回已经支付或承诺支付的薪酬、奖金；此处指可延迟乃至追回高管奖金的机制。；hold sb. accountable for：要求某人为……承担责任。",
+      "zh": "这项“追回薪酬”规定的主要目的，是让银行家为有害的冒险行为承担责任，并恢复公众对金融机构的信任。",
+      "tip": "risk-taking 在此带负面限定词 harmful，不是泛指值得鼓励的进取精神。"
+    },
+    {
+      "id": "2019-T1-P1-S04",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Yet officials also hope for a much larger benefit: more long-term decisionmaking, not only by banks but by all corporations, to build a stronger economy for future generations.",
+      "core": "Officials also hope for a much larger benefit.",
+      "structure": "冒号后的 more long-term decisionmaking 解释 benefit；not only by banks but by all corporations 指明决策主体；to build ... 表目的或预期结果。",
+      "key": "hope for：期待、希望获得。；not only ... but ...：不仅……而且……。；future generations：后代、未来世代。",
+      "zh": "然而，官员们还期待一种大得多的收益：不仅银行，而且所有企业都能作出更多长期决策，从而为后代建设更强健的经济。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T1-P2-S01",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "“Short-termism” or the desire for quick profits, has worsened in publicly traded companies, says the Bank of England’s top economist, Andrew Haldane.",
+      "core": "“Short-termism” has worsened in publicly traded companies.",
+      "structure": "or the desire for quick profits 是对 Short-termism 的同位解释；says ... 是后置引述语；Andrew Haldane 是 the Bank of England’s top economist 的同位语。",
+      "key": "short-termism：短期主义，即过度追求眼前收益而忽视长期价值。；publicly traded company：上市公司、公开交易公司。",
+      "zh": "英国央行首席经济学家安德鲁·霍尔丹表示，“短期主义”，也就是追求快速利润的欲望，在上市公司中已经愈演愈烈。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T1-P2-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience as acting like “children who pick the plums out of their pudding to eat them at once” rather than putting them aside to be eaten last.",
+      "core": "He quotes Alfred Marshall in describing this financial impatience as acting like children.",
+      "structure": "Alfred Marshall 是 a giant of classical economics 的同位语；describe A as doing B 表示“把 A 描述成 B”；who ... 修饰 children；rather than putting ... 与 pick ... to eat ... 构成选择对比。",
+      "key": "impatience：此处指投资者和企业急于获得眼前回报的短视心态。；a giant of ...：某一领域的巨匠、权威人物。",
+      "zh": "在描述这种金融上的急躁时，他引用了古典经济学巨匠阿尔弗雷德·马歇尔的比喻：这种行为就像“孩子们把布丁里的李子挑出来立刻吃掉”，而不是留到最后再吃。",
+      "tip": "引用马歇尔是为说明短期主义，而不是介绍快速获利的条件。"
+    },
+    {
+      "id": "2019-T1-P3-S01",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "The average time for holding a stock in both the United States and Britain, he notes, has dropped from seven years to seven months in recent decades.",
+      "core": "The average time ... has dropped from seven years to seven months.",
+      "structure": "in both ... and ... 限定统计范围；he notes 是插入语；in recent decades 作时间状语。",
+      "key": "the average time for holding a stock：持有股票的平均时间。；drop from A to B：从 A 降至 B。",
+      "zh": "他指出，近几十年来，美国和英国投资者持有一只股票的平均时间已从七年降至七个月。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T1-P3-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Transient investors, who demand high quarterly profits from companies, can hinder a firm’s efforts to invest in long-term research or to build up customer loyalty.",
+      "core": "Transient investors can hinder a firm’s efforts.",
+      "structure": "who ... 是非限制性定语从句，说明短期投资者的要求；两个 to 不定式并列，修饰 efforts，说明企业希望进行的长期投入。",
+      "key": "transient：短暂停留的、转瞬即逝的；此处指不长期持股的短期投资者。；hinder：阻碍、妨碍，明确表明其影响不利。；quarterly profits：季度利润。；build up customer loyalty：逐步培养客户忠诚度。",
+      "zh": "频繁进出的短期投资者要求企业取得高额季度利润，这会阻碍企业投资长期研究或培养客户忠诚度的努力。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T1-P4-S01",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "In addition, new digital technologies have allowed more rapid trading of equities, quicker use of information, and thus shorter attention spans in financial markets.",
+      "core": "New digital technologies have allowed A, B, and C.",
+      "structure": "三个名词短语并列作 allowed 的宾语；thus 表明更短的市场注意周期是交易和信息处理加速的结果。",
+      "key": "equity：常见义为“公平”或“权益”；此处用复数 equities，指股票。；attention span：注意力持续时间；此处比喻市场越来越只关注近期表现。",
+      "zh": "此外，新型数字技术使股票交易更加迅速、信息利用更加快捷，也因此缩短了金融市场参与者的注意力持续时间。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T1-P4-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "“There seems to be a predominance of short-term thinking at the expense of long-term investing,” said Commissioner Daniel Gallagher of the US Securities and Exchange Commission in a speech this week.",
+      "core": "Commissioner Daniel Gallagher said, “There seems to be ... .”",
+      "structure": "直接引语前置；of the US Securities and Exchange Commission 说明委员所属机构；at the expense of ... 表明短期思维的盛行损害了长期投资。",
+      "key": "a predominance of：……占主导、占优势。；at the expense of：以牺牲……为代价。",
+      "zh": "“短期思维似乎占据了主导地位，而长期投资则为此付出了代价，”美国证券交易委员会委员丹尼尔·加拉格尔本周在一次演讲中说道。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T1-P5-S01",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "In the US, the Sarbanes-Oxley Act of 2002 has pushed most public companies to defer performance bonuses for senior executives by about a year, slightly helping reduce “short-termism.”",
+      "core": "The Sarbanes-Oxley Act has pushed most public companies to defer performance bonuses.",
+      "structure": "for senior executives 修饰 performance bonuses；by about a year 表示延后的时长；slightly helping ... 是现在分词短语，说明该做法产生的结果。",
+      "key": "push sb. to do sth.：促使某人做某事。；defer performance bonuses：推迟发放绩效奖金。",
+      "zh": "在美国，2002 年《萨班斯-奥克斯利法案》促使大多数上市公司把高级管理人员的绩效奖金推迟约一年发放，从而对减少“短期主义”略有帮助。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T1-P6-S01",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Much more could be done to encourage “long-termism,” such as changes in the tax code and quicker disclosure of stock acquisitions.",
+      "core": "Much more could be done.",
+      "structure": "to encourage ... 表目的；such as ... 列举促进长期主义的其他政策路径。",
+      "key": "tax code：税法、税收法规体系，不是“税务代码”。；disclosure：公开披露。；stock acquisition：股票收购、取得股票的行为。",
+      "zh": "为了鼓励“长期主义”，还可以采取更多措施，例如修改税法，并要求更快披露股票收购信息。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T1-P6-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "In France, shareholders who hold on to a company investment for at least two years can sometimes earn more voting rights in a company.",
+      "core": "Shareholders can sometimes earn more voting rights.",
+      "structure": "who hold on to ... 是定语从句，修饰 shareholders；for at least two years 表示持股期限。",
+      "key": "hold on to：继续持有、不卖出。；earn more voting rights：获得更多投票权；这里的 earn 不是“赚取工资”。",
+      "zh": "在法国，持续持有某家公司投资至少两年的股东，有时可以在公司中获得更多投票权。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T1-P7-S01",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders.",
+      "core": "The right compensation design can provide incentives for executives.",
+      "structure": "to think ... 修饰 incentives；beyond their own time at the company 指考虑超过个人任期的长期影响；on behalf of all stakeholders 与这种长期思考相连。",
+      "key": "compensation design：薪酬机制设计。；provide incentives for sb. to do sth.：激励某人做某事。；on behalf of：代表……、为了……的利益。；stakeholder：利益相关者。",
+      "zh": "在公司内部，合理的薪酬设计可以激励高管超越自己在公司的任期来思考，并代表所有利益相关者的利益行事。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T1-P7-S02",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "level": 3,
+      "en": "Britain’s new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term.",
+      "core": "Britain’s new rule is a reminder to bankers.",
+      "structure": "that ... 是 a reminder 的同位语从句；their 指 bankers；not just ... but ... 对比社会关注的短期与长期表现。",
+      "key": "have an interest in：关心、与……利益攸关；此处不只是“对……感兴趣”。；hold bankers accountable for：让银行家为……承担责任。；the desire for quick profits：追求快速利润的欲望。；build up customer loyalty：逐步培养客户忠诚度。",
+      "zh": "英国的新规提醒银行家，社会关心他们的经营表现，而且关心的不只是短期表现，更是长期表现。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T2-P1-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Grade inflation – the gradual increase in average GPAs (grade-point averages) over the past few decades – is often considered a product of a consumer era in higher education, in which students are treated like customers to be pleased.",
+      "core": "Grade inflation is often considered a product of a consumer era.",
+      "structure": "两个破折号之间解释 grade inflation；in which ... 是非限制性定语从句，修饰 a consumer era in higher education；to be pleased 是动词不定式的被动式，作名词 customers 的后置定语，表示“需要被取悦的顾客”。",
+      "key": "grade inflation：成绩膨胀，指学生成绩在没有相应学业水平提升的情况下普遍走高。；a consumer era：消费主义主导的时代；此处强调高校把学生视为消费者。",
+      "zh": "成绩膨胀——即过去几十年中平均 GPA（平均学分绩点）逐渐提高——通常被认为是高等教育进入消费时代的产物；在这个时代，学生被当作需要取悦的顾客。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T2-P1-S02",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "But another, related force – a policy often buried deep in course catalogs called “grade forgiveness” – is helping raise GPAs.",
+      "core": "Another, related force is helping raise GPAs.",
+      "structure": "破折号之间的名词短语解释 force；often buried deep in course catalogs 是过去分词短语，修饰 a policy；called ... 继续说明政策名称。",
+      "key": "force：此处不是物理“力”，而是推动成绩上涨的因素。；be buried deep in：深藏于、不易被发现。；grade forgiveness：成绩宽恕，即重修后以新成绩或最高成绩替代原低分的政策。",
+      "zh": "但是，另一股与此相关的力量也在推高 GPA：一项常常深藏于课程目录中的政策，名为“成绩宽恕”。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T2-P2-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Grade forgiveness allows students to retake a course in which they received a low grade, and the most recent grade or the highest grade is the only one that counts in calculating a student’s overall GPA.",
+      "core": "Grade forgiveness allows students to retake a course, and the ... grade is the only one.",
+      "structure": "in which they received a low grade 修饰 a course；that counts ... 修饰 the only one；in calculating ... 说明在哪一计算过程中有效。",
+      "key": "count：常见义为“数数”；此处意为“被计算在内、算数”。；overall GPA：总平均绩点。",
+      "zh": "成绩宽恕允许学生重修曾经得低分的课程，而且在计算学生总 GPA 时，只有最近一次成绩或最高成绩会被计入。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T2-P3-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve their graduation rates.",
+      "core": "The use ... has accelerated.",
+      "structure": "as ... 引导原因状语从句；to keep ... and improve ... 是两个并列不定式，说明高校竭力实现的目标；括号中的 and paying tuition 补充学生留校也意味着继续缴费。",
+      "key": "do one’s utmost to do sth.：竭尽全力做某事。；keep students in school：让学生继续在校就读。；graduation rate：毕业率。",
+      "zh": "近年来，这项鲜为人知的做法加速普及，因为各高校一直竭尽所能让学生留在学校（并继续缴纳学费），同时提高毕业率。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T2-P3-S02",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "When this practice first started decades ago, it was usually limited to freshmen, to give them a second chance to take a class in their first year if they struggled in their transition to college-level courses.",
+      "core": "When this practice first started, it was usually limited to freshmen.",
+      "structure": "When ... 是时间状语从句；to give ... 表目的；if ... 是条件状语从句；in their transition to college-level courses 说明新生在哪一过程中遇到困难。",
+      "key": "freshman：大学一年级学生。；struggle in：在……方面感到吃力。；transition to：向……的过渡、适应……的转变过程。",
+      "zh": "几十年前这项做法刚开始时，通常只适用于大一新生，目的是在他们难以适应大学课程的情况下，给他们第二次机会重修第一学年的课程。",
+      "tip": "最初目的在于帮助新生适应大学学习，而不是维持全校毕业率；后者是政策后来扩大使用的重要动机。"
+    },
+    {
+      "id": "2019-T2-P4-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "College officials tend to emphasize that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to their degree program and graduation without incurring a big penalty.",
+      "core": "College officials tend to emphasize that the goal ... is less about A and more about B.",
+      "structure": "that ... 是 emphasize 的宾语从句；critical to their degree program and graduation 后置修饰 courses；without incurring ... 作方式状语。",
+      "key": "be less about A and more about B：重点与其说在 A，不如说在 B。；incur a penalty：招致、承受惩罚。",
+      "zh": "高校管理者往往强调，成绩宽恕的目的与其说是修改成绩本身，不如说是鼓励学生重修对其学位课程和毕业至关重要的科目，同时避免承受过重的惩罚。",
+      "tip": "critical 此处意为“至关重要的”，不是“批判性的”。"
+    },
+    {
+      "id": "2019-T2-P4-S02",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "“Ultimately,” said Jack Miner, Ohio State University’s registrar, “we see students achieve more success because they retake a course and do better in subsequent courses or master the content that allows them to graduate on time.”",
+      "core": "We see students achieve more success.",
+      "structure": "see + 宾语 + 动词原形 表示看到学生取得成功；because ... 说明原因；retake ... and do ... or master ... 包含并列与选择关系；that allows ... 修饰 the content。",
+      "key": "registrar：高校中负责学籍、注册和成绩事务的教务负责人。；subsequent courses：后续课程。",
+      "zh": "俄亥俄州立大学教务主任杰克·迈纳说：“归根结底，我们看到学生因为重修一门课而取得更大成功：他们会在后续课程中表现更好，或者掌握使自己能够按时毕业的课程内容。”",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T2-P5-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "That said, there is a way in which grade forgiveness satisfies colleges’ own needs as well.",
+      "core": "There is a way.",
+      "structure": "in which ... 是定语从句，修饰 a way，说明成绩宽恕如何也服务于高校自身。",
+      "key": "That said：话虽如此、尽管如此，用于从校方宣称的学生利益转向高校自身利益。",
+      "zh": "话虽如此，成绩宽恕也确实能以某种方式满足高校自身的需求。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T2-P5-S02",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "For public institutions, state funds are sometimes tied partly to their success on metrics such as graduation rates and student retention – so better grades can, by boosting figures like those, mean more money.",
+      "core": "State funds are tied to their success – so better grades can mean more money.",
+      "structure": "such as ... 举例说明考核指标；破折号后的 so 引出结果；by boosting figures like those 作方式状语，those 指毕业率和学生留存率等数据。",
+      "key": "be tied to：与……挂钩、取决于……。；metric：衡量绩效的指标。；student retention：学生留存率，即学生继续在校而未退学的比例。",
+      "zh": "对于公立院校而言，州政府拨款有时会部分取决于其在毕业率、学生留存率等指标上的表现——因此，更高的成绩可以通过改善这些数据，为学校带来更多资金。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T2-P5-S03",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "And anything that raises GPAs will likely make students – who, at the end of the day, are paying the bill – feel they’ve gotten a better value for their tuition dollars, which is another big concern for colleges.",
+      "core": "Anything ... will likely make students feel ... .",
+      "structure": "that raises GPAs 修饰 anything；破折号之间的 who ... 是定语从句，补充学生是付费者；make + 宾语 + 动词原形 中 feel 作宾补；they’ve gotten ... 是省略 that 的宾语从句；句末 which ... 指前述学生价值感问题。",
+      "key": "at the end of the day：归根结底、说到底。；pay the bill：承担费用、买单。；get a better value for ...：觉得为……付出的费用更划算、更物有所值。",
+      "zh": "而任何能提高 GPA 的做法，都可能让学生觉得自己缴纳的学费更物有所值——说到底，是学生在买单——这也是高校非常关心的问题。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T2-P6-S01",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Indeed, grade forgiveness is just another way that universities are responding to consumers’ expectations for higher education.",
+      "core": "Grade forgiveness is just another way.",
+      "structure": "that universities are responding ... 是修饰 way 的定语从句；respond to 意为“回应”；consumers 指作为教育购买者的学生和家长。",
+      "key": "见下方词汇笔记",
+      "zh": "事实上，成绩宽恕只不过是大学回应消费者对高等教育期待的另一种方式。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T2-P6-S02",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "level": 3,
+      "en": "Since students and parents expect a college degree to lead to a job, it is in the best interest of a school to turn out graduates who are as qualified as possible – or at least appear to be.",
+      "core": "Since ..., it is in the best interest of a school to turn out graduates.",
+      "structure": "Since ... 引导原因状语从句；it 是形式主语，真正主语为 to turn out ...；who ... 修饰 graduates；or at least appear to be 中 be 后省略 qualified。",
+      "key": "in the best interest of：最符合……的利益。；turn out graduates：培养出毕业生。",
+      "zh": "由于学生和家长期望大学文凭能带来工作机会，因此学校培养尽可能合格——或至少看起来合格——的毕业生，最符合自身利益。",
+      "tip": "appear to be 暗含批评：成绩变好可能只让毕业生显得更合格，不等于实际能力提升。"
+    },
+    {
+      "id": "2019-T3-P1-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Even before the invention of the electric light bulb, the author produced a remarkable work of speculative fiction that would foreshadow many ethical questions to be raised by technologies yet to come.",
+      "core": "The author produced a remarkable work of speculative fiction.",
+      "structure": "Even before ... 作时间状语；that would foreshadow ... 是定语从句，修饰 a ... work；to be raised by technologies 是不定式被动结构，修饰 ethical questions；yet to come 修饰 technologies。",
+      "key": "speculative fiction：思辨小说，以尚未实现的科技或社会设想探索未来可能性。；foreshadow：预示、预兆。；yet to come：尚未到来、尚未出现。",
+      "zh": "甚至在电灯泡发明之前，作者就创作了这部非凡的思辨小说，预示了尚未出现的技术日后将提出的许多伦理问题。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P2-S01",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Today the rapid growth of artificial intelligence (AI) raises fundamental questions: “What is intelligence, identity, or consciousness? What makes humans humans?”",
+      "core": "The rapid growth of artificial intelligence raises fundamental questions.",
+      "structure": "冒号后的两个直接疑问句具体列出这些根本问题；第二个 humans 作宾语补足语，表示“使人具有人之为人的本质”。",
+      "key": "见下方词汇笔记",
+      "zh": "如今，人工智能（AI）的迅速发展提出了若干根本问题：“什么是智能、身份或意识？是什么让人之所以为人？”",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P3-S01",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "What is being called artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists.",
+      "core": "What is being called artificial general intelligence continues to evade scientists.",
+      "structure": "What is being called ... 是主语从句；machines that would imitate ... 是同位解释；其中 that ... 修饰 machines，the way humans think 表示人类思考的方式。",
+      "key": "artificial general intelligence：通用人工智能，指能够像人一样处理广泛认知任务的智能系统。；evade：常见义为“逃避”；此处指通用人工智能仍未被科学家成功理解和实现。",
+      "zh": "所谓的通用人工智能——也就是能够模仿人类思维方式的机器——仍然令科学家难以把握。",
+      "tip": "主语中心是整个 What 从句，因此谓语使用单数 continues。"
+    },
+    {
+      "id": "2019-T3-P3-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Yet humans remain fascinated by the idea of robots that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as “Westworld” and “Humans.”",
+      "core": "Humans remain fascinated by the idea of robots.",
+      "structure": "that would look, move, and respond ... 修饰 robots；similar to those ... 是形容词短语，补充比较对象；those 代指电视作品中的机器人；such as ... 列举剧集。",
+      "key": "be fascinated by：对……深深着迷。；depict：描绘、刻画。",
+      "zh": "然而，人类依然着迷于这样一种机器人设想：它们在外貌、行动和反应上都酷似人类，类似于近期《西部世界》和《真实的人类》等热门科幻电视剧中描绘的机器人。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P4-S01",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist.",
+      "core": "Just how people think is still far too complex to be understood.",
+      "structure": "Just how people think 是主语从句；let alone reproduced 是省略结构，完整为 let alone to be reproduced；says David Eagleman 是后置引述语；末尾名词短语是其同位语。",
+      "key": "far too ... to do：太过……以至于无法……，far 加强程度。；let alone：更不用说。；neuroscientist：神经科学家。",
+      "zh": "斯坦福大学神经科学家戴维·伊格尔曼表示，人类究竟如何思考仍然过于复杂，尚无法被理解，更不用说加以复制了。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P4-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "“We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.”",
+      "core": "We are in a situation.",
+      "structure": "where ... 是定语从句，修饰 a situation；explaining ... 修饰 theories；what consciousness actually is 与 how you could ... 是两个并列宾语从句。",
+      "key": "get there：字面为“到达那里”；此处指机器达到拥有或模拟人类意识的水平。",
+      "zh": "“我们目前的处境就是，尚无任何可靠理论能够解释意识究竟是什么，也无法解释究竟怎样才能造出一台达到那种意识状态的机器。”",
+      "tip": "no good theories 表明当前知识不足，并不是说现有知识会误导机器人制造。"
+    },
+    {
+      "id": "2019-T3-P5-S01",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "But that doesn’t mean crucial ethical issues involving AI aren’t at hand.",
+      "core": "That doesn’t mean (that) ethical issues aren’t at hand.",
+      "structure": "That 指人类尚不能理解和复制意识；involving AI 修饰 ethical issues；mean 后省略连接词 that。",
+      "key": "at hand：临近的、眼前需要处理的。；doesn’t mean ... aren’t ...：双重否定结构，实际强调伦理问题已经迫在眉睫。",
+      "zh": "但这并不意味着，涉及人工智能的关键伦理问题尚未迫近。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P5-S04",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Their reactions may be a complex combination of instant reflexes, input from past driving experiences, and what their eyes and ears tell them in that moment.",
+      "core": "Their reactions may be a complex combination of A, B, and C.",
+      "structure": "三个并列成分说明驾驶反应来源；第三项 what their eyes and ears tell them 是宾语从句名词化后作介词 of 的宾语；in that moment 修饰 tell。",
+      "key": "input：此处指供决策使用的信息或经验输入，不是单纯的“输入动作”。；instant reflex：即时的本能反射。",
+      "zh": "他们的反应可能是多种因素的复杂结合：即时反射、以往驾驶经验提供的信息，以及当时眼睛和耳朵传来的信息。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P5-S06",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "And to anticipate every imaginable driving situation is a difficult programming problem.",
+      "core": "To anticipate ... is a difficult programming problem.",
+      "structure": "不定式短语作主语；imaginable 后置修饰 driving situation，强调情境范围近乎无限。",
+      "key": "anticipate a situation：预见某种情形并提前作准备。；every imaginable ...：所有可能想象到的……。",
+      "zh": "而要预见所有可以想象的驾驶情境，也是一个难以解决的编程问题。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P6-S01",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Whenever decisions are based on masses of data, “you quickly get into a lot of ethical questions,” notes Tan Kiat How, chief executive of a Singapore-based agency that is helping the government develop a voluntary code for the ethical use of AI.",
+      "core": "Whenever decisions are based on data, “you ... get into ... questions,” notes Tan Kiat How.",
+      "structure": "Whenever ... 引导时间兼条件状语从句；直接引语前置；chief executive ... 是人物同位语；that is helping ... 修饰 a Singapore-based agency；develop ... 作 helping 的宾补。",
+      "key": "masses of data：海量数据。；voluntary code：自愿遵守的行为准则。；the ethical use of AI：以合乎伦理的方式使用人工智能。",
+      "zh": "新加坡一家机构的首席执行官陈杰豪指出，只要决策建立在海量数据之上，“人们很快就会遇到大量伦理问题”；该机构正协助政府制定一套自愿遵守的人工智能伦理使用准则。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P7-S01",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "On June 7 Google pledged not to “design or deploy AI” that would cause “overall harm,” or to develop AI-directed weapons or use AI for surveillance that would violate international norms.",
+      "core": "Google pledged not to A, or to B or C.",
+      "structure": "that would cause ... 修饰第一处 AI；develop ... 与 use ... 并列；第二个 that would violate ... 修饰 surveillance。",
+      "key": "deploy AI：部署、投入使用人工智能系统。；AI-directed weapon：由人工智能引导或控制的武器。；surveillance：监控、监视。",
+      "zh": "6 月 7 日，Google 承诺不“设计或部署”会造成“整体伤害”的人工智能，不开发人工智能制导武器，也不把人工智能用于违反国际规范的监控活动。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P7-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "It also pledged not to deploy AI whose use would violate international laws or human rights.",
+      "core": "It also pledged not to deploy AI.",
+      "structure": "It 指 Google；whose use ... 是定语从句，修饰 AI；international laws or human rights 是 violate 的并列宾语。",
+      "key": "见下方词汇笔记",
+      "zh": "Google 还承诺不部署其用途会违反国际法律或人权的人工智能。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P8-S01",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "While the statement is vague, it represents one starting point.",
+      "core": "While the statement is vague, it represents one starting point.",
+      "structure": "见原句",
+      "key": "represent：此处意为“构成、体现”，即该声明至少可以作为起点。",
+      "zh": "尽管这项声明较为模糊，但它仍代表了一个起点。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P8-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "So does the idea that decisions made by AI systems should be explainable, transparent, and fair.",
+      "core": "The idea does so.，其中 does so 指 represents one starting point。",
+      "structure": "So 前置引起部分倒装；that ... 是 the idea 的同位语从句；made by AI systems 修饰 decisions；三个形容词并列作表语。",
+      "key": "见下方词汇笔记",
+      "zh": "同样可以作为起点的，还有这样一种理念：人工智能系统所作的决定应当可解释、透明且公平。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P9-S01",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "To put it another way: How can we make sure that the thinking of intelligent machines reflects humanity’s highest values?",
+      "core": "How can we make sure ... ?",
+      "structure": "that ... 是 make sure 的宾语从句；从句主语为 the thinking of intelligent machines，谓语 reflects 与中心词 thinking 保持单数一致。",
+      "key": "to put it another way：换一种说法。；reflect humanity’s highest values：体现人类最崇高的价值观。",
+      "zh": "换一种说法：我们如何才能确保智能机器的思维反映人类最崇高的价值观？",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T3-P9-S02",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "level": 3,
+      "en": "Only then will they be useful servants and not Frankenstein’s out-of-control monster.",
+      "core": "They will be useful servants and not ... monster.",
+      "structure": "否定副词短语 Only then 置于句首，引起助动词 will 提前的部分倒装。",
+      "key": "out-of-control：失去控制的。；they：指智能机器或人工智能系统。；foreshadow ethical questions：预示伦理问题。；continue to evade scientists：仍令科学家难以理解或实现。",
+      "zh": "只有到那时，它们才会成为有用的仆人，而不是弗兰肯斯坦创造出的失控怪物。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T4-P1-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states.",
+      "core": "States will be able to force more people to pay sales tax.",
+      "structure": "when 引导时间状语从句；under ... decision 说明法律依据；that 引导定语从句修饰 decision，从句中 will leave ... but is ... 为并列谓语。",
+      "key": "under：常见义为“在……下面”；此处作介词，意为“根据、依照”某项裁决。；leave：此处为“使某人处于某种状态”，构成 leave sb. with sth.。；sales tax：销售税，由消费者承担、商家代为收取并上缴。；lighter wallets：钱包更瘪，形象地表示消费者支出增加。",
+      "zh": "根据最高法院周四作出的一项裁决，各州将能要求更多人在网购时缴纳销售税；这项裁决虽会让消费者的钱包缩水，却会给各州带来一笔可观的财政收益。",
+      "tip": "that 指代最高法院的裁决，而不是 online purchases；is a big financial win 的主语同样是该裁决。"
+    },
+    {
+      "id": "2019-T4-P2-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The Supreme Court’s opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually.",
+      "core": "The Supreme Court’s opinion overruled a pair of decisions.",
+      "structure": "decades-old 修饰 decisions；that 引导定语从句，完整含义是 states said [the decisions cost them ...]，其中 states said 是插入的报告结构。",
+      "key": "opinion：常见义为“意见”；此处是法律用语，指法院的判决意见。；overrule：法院推翻、否定先前裁决。；a pair of decades-old decisions：两项已有数十年历史的裁决。；lost revenue：流失的财政收入。",
+      "zh": "最高法院周四发布的判决推翻了两项已有数十年历史的裁决；各州称，这两项旧裁决每年使它们损失数十亿美元的财政收入。",
+      "tip": "them 指 states；造成损失的是被推翻的旧裁决，而不是周四的新裁决。"
+    },
+    {
+      "id": "2019-T4-P2-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The decisions made it more difficult for states to collect sales tax on certain online purchases.",
+      "core": "The decisions made it more difficult.",
+      "structure": "it 是形式宾语，真正的宾语是 for states to collect ...；旧裁决使各州征税更困难，直接说明各州为何认为它们不利。",
+      "key": "collect sales tax on sth.：对某类交易征收、收取销售税。",
+      "zh": "这些裁决加大了各州对某些网络购物征收销售税的难度。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T4-P3-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The cases the court overturned said that if a business was shipping a customer’s purchase to a state where the business didn’t have a physical presence such as a warehouse or office, the business didn’t have to collect sales tax for the state.",
+      "core": "The cases said that the business didn’t have to collect sales tax.",
+      "structure": "the court overturned 是省略关系词的定语从句，修饰 cases；that 引导宾语从句，内部含 if 条件从句；where 引导定语从句修饰 a state。",
+      "key": "cases ... said：并非“案件开口说话”，而是指相关判例确立了某项规则。；physical presence：企业在某州拥有门店、办公室或仓库等实体经营据点。；ship sth. to ...：把商品运送到……；collect sales tax for the state：代该州收取销售税。",
+      "zh": "法院推翻的那些裁决规定：如果一家企业把顾客购买的商品寄往某州，而该企业在该州没有仓库或办公室等实体经营场所，那么它就不必替该州收取销售税。",
+      "tip": "两个 the business 指同一家企业；是否具有 physical presence 是旧规则下是否必须代征税款的关键。"
+    },
+    {
+      "id": "2019-T4-P3-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Customers were generally responsible for paying the sales tax to the state themselves if they weren’t charged it, but most didn’t realize they owed it and few paid.",
+      "core": "Customers were responsible ..., but most didn’t realize ... and few paid.",
+      "structure": "if they weren’t charged it 是条件状语从句；themselves 强调应由顾客本人缴税；realize 后省略了连接词 that。",
+      "key": "be responsible for doing sth.：有责任做某事。；charge sb. tax：向某人收税。；owe tax：负有纳税义务、欠缴税款。",
+      "zh": "如果商家没有向顾客收取销售税，通常应由顾客自己向州政府缴纳；但大多数人没有意识到自己负有这项税款，实际缴纳者寥寥无几。",
+      "tip": "三处 it 均指 the sales tax；few paid 省略了宾语 it。"
+    },
+    {
+      "id": "2019-T4-P4-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "“Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,” he wrote in an opinion joined by four other justices.",
+      "core": "The rule becomes ... removed ... and results in ... losses.",
+      "structure": "引号内两个谓语 becomes 与 results 由 and 并列；引号后的 joined by four other justices 是过去分词短语，修饰 opinion。",
+      "key": "be removed from ...：与……相去甚远、脱离……；economic reality：经济现实。；an opinion joined by ...：一份得到……法官附议的判决意见。",
+      "zh": "“实体存在规则逐年脱离经济现实，并给各州造成巨额财政收入损失。”他在一份有另外四名大法官共同署名的判决意见中写道。",
+      "tip": "the States 指美国各州；joined 表示另外四名大法官赞同该判决意见，而非后来才加入案件。"
+    },
+    {
+      "id": "2019-T4-P4-S03",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Kennedy wrote that the rule “limited states’ ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.”",
+      "core": "Kennedy wrote that the rule limited ... and has prevented ...",
+      "structure": "that 引导宾语从句；从句中 limited 与 has prevented 构成并列谓语；from competing ... 是 prevent 的固定结构。",
+      "key": "seek long-term prosperity：谋求长期繁荣。；prevent sb. from doing sth.：阻止某人做某事。；compete on an even playing field：在公平的竞争环境中竞争。",
+      "zh": "肯尼迪写道，这项规则“限制了各州谋求长期繁荣的能力，并一直妨碍市场参与者在公平的竞争环境中较量”。",
+      "tip": "even 在此意为“公平、平等”，不是“甚至”；playing field 是竞争环境的比喻。"
+    },
+    {
+      "id": "2019-T4-P5-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already.",
+      "core": "The ruling is a victory for big chains.",
+      "structure": "with a presence in many states 修饰 big chains；since 引导原因状语从句。",
+      "key": "presence：此处仍指企业在某州的实体经营存在，而非抽象的“影响力”。；chain：连锁企业，big chains 即大型连锁零售商。",
+      "zh": "这项裁决对在多个州设有实体经营场所的大型连锁企业是一场胜利，因为它们原本通常就已对网购交易收取销售税。",
+      "tip": "they 指 big chains，不是 states。"
+    },
+    {
+      "id": "2019-T4-P5-S03",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Big chains have been collecting sales tax nationwide because they typically have physical stores in whatever state a purchase is being shipped to.",
+      "core": "Big chains have been collecting sales tax nationwide.",
+      "structure": "because 引导原因状语从句；whatever state 相当于 any state that，引导 in 的宾语从句；a purchase is being shipped to 修饰 state。",
+      "key": "见下方词汇笔记",
+      "zh": "大型连锁企业一直在全国范围内收取销售税，因为无论商品被寄往哪个州，它们通常都在当地设有实体门店。",
+      "tip": "purchase 此处指“所购商品”，不是“购买行为”；句末 to 与前面的 whatever state 搭配，表示商品被寄往该州。"
+    },
+    {
+      "id": "2019-T4-P5-S04",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it, though third-party sellers who use the site don’t have to.",
+      "core": "Amazon.com also collects sales tax ..., though third-party sellers don’t have to.",
+      "structure": "with its network of warehouses 是插入成分，说明亚马逊具有实体存在；that charges it 修饰 state；who use the site 修饰 third-party sellers；though 引导让步从句。",
+      "key": "a network of warehouses：仓库网络。；third-party sellers：借助平台销售商品、但不属于平台自身的第三方卖家。",
+      "zh": "亚马逊凭借其仓储网络，也在所有征收销售税的州代为收税；不过，使用该网站的第三方卖家此前并无此义务。",
+      "tip": "charges it 中的 it 指销售税；don’t have to 后省略 collect sales tax。平台自营业务与平台上的第三方卖家必须区分。"
+    },
+    {
+      "id": "2019-T4-P6-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Until now, many sellers that have a physical presence in only a single state or a few states have been able to avoid charging sales taxes when they ship to addresses outside those states.",
+      "core": "Many sellers have been able to avoid charging sales taxes.",
+      "structure": "Until now 作时间状语；that have a physical presence ... 是定语从句，修饰 sellers；when ... 引导时间状语从句；those states 指代前文有实体的少数州。",
+      "key": "until now：在此之前、截至目前。；a physical presence in a single state：在单一州拥有实体经营场所。",
+      "zh": "在此之前，许多仅在一个州或少数几个州拥有实体经营场所的卖家，在将商品运往这些州以外的地址时，一直能够免于收取销售税。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T4-P6-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Sellers that use eBay and Etsy, which provide platforms for smaller sellers, also haven’t been collecting sales tax nationwide.",
+      "core": "Sellers also haven’t been collecting sales tax nationwide.",
+      "structure": "that use eBay and Etsy 修饰 Sellers；非限制性定语从句 which provide ... 补充说明两家平台以中小卖家为主的属性。",
+      "key": "provide platforms for：为……提供交易平台。；collect sales tax nationwide：在全国范围内收取销售税。",
+      "zh": "使用 eBay 和 Etsy（这两家网站为较小规模卖家提供平台）的商家，此前也没有在全国范围内收取销售税。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T4-P6-S03",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Under the ruling Thursday, states can pass laws requiring out-of-state sellers to collect the state’s sales tax from customers and send it to the state.",
+      "core": "States can pass laws.",
+      "structure": "requiring out-of-state sellers to collect ... and send ... 是现在分词短语作后置定语修饰 laws；requiring sb. to do sth. 包含两个并列不定式 to collect ... and (to) send ...。",
+      "key": "pass laws：通过法律、立法。；out-of-state sellers：外州卖家。",
+      "zh": "根据周四作出的裁决，各州可以立法要求外州卖家向顾客收取该州的销售税并上缴给州政府。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T4-P7-S01",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Retail trade groups praised the ruling, saying it levels the playing field for local and online businesses.",
+      "core": "Retail trade groups praised the ruling.",
+      "structure": "saying it levels ... 是现在分词短语作伴随状语；it 指代新裁决；省略 that 的宾语从句说明赞赏的理由。",
+      "key": "level：此处为及物动词，意为“使平整、使均等”。；level the playing field：营造公平的竞争环境、消除不公平的竞争优势。；retail trade groups：零售行业协会/团体。；local and online businesses：本地实体商户与线上电商。",
+      "zh": "零售贸易团体对该裁决表示赞赏，称它为本地实体企业与网络商家营造了公平的竞争环境。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T4-P7-S02",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The losers, said retail analyst Neil Saunders, are online-only retailers, especially smaller ones.",
+      "core": "The losers are online-only retailers.",
+      "structure": "said retail analyst Neil Saunders 是插入的报告结构；especially smaller ones 是后置同位语补充，ones 代替 retailers。",
+      "key": "the losers：受害者、利益受损的一方。",
+      "zh": "零售分析师尼尔·桑德斯表示，其中的输家是纯网络零售商，尤其是规模较小的那些。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T4-P7-S03",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "Those retailers may face headaches complying with various state sales tax laws.",
+      "core": "Those retailers may face headaches.",
+      "structure": "complying with ... 现在分词短语作状语，说明在哪方面面临难题，相当于 in complying with ...。",
+      "key": "headache：常见义为生理上的“头痛”；此处引申指“棘手难题、麻烦事”。；comply with：遵守、服从（法律、法规）。；various state sales tax laws：各州各自不同的销售税法律法规。",
+      "zh": "这些零售商在遵守各州五花八门的销售税法时，可能会面临令人头疼的问题。",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    },
+    {
+      "id": "2019-T4-P7-S04",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "level": 3,
+      "en": "The Small Business & Entrepreneurship Council advocacy group said in a statement, “Small businesses and internet entrepreneurs are not well served at all by this decision.”",
+      "core": "The advocacy group said in a statement, “... .”",
+      "structure": "The Small Business & Entrepreneurship Council 是组织名称，修饰 advocacy group；直接引语表达了小企业利益团体的强烈不满。",
+      "key": "advocacy group：权益倡导团体。；be not well served by：字面为“未被很好地服务”，语境义指“未从中受益、利益受到损害”。；under a Supreme Court decision：根据最高法院的一项裁决。；a financial win for：对……而言的一笔财政收益/胜利。",
+      "zh": "倡导团体“小型企业与创业委员会”在一份声明中表示：“这项裁决对小型企业和互联网创业者根本没有任何好处。”",
+      "tip": "先找谓语，再拆从句；把修饰语挂回它修饰的词。"
+    }
+  ],
+  "vocab": [
+    {
+      "w": "financial regulator",
+      "pos": "phr.",
+      "cn": "金融监管机构。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks.",
+      "forms": [
+        "financial regulator"
+      ],
+      "note": "金融监管机构。"
+    },
+    {
+      "w": "impose a rule on sb.",
+      "pos": "phr.",
+      "cn": "对某人施行一项规定。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks.",
+      "forms": [
+        "impose a rule on sb."
+      ],
+      "note": "对某人施行一项规定。"
+    },
+    {
+      "w": "guaranteed bonus",
+      "pos": "phr.",
+      "cn": "保底奖金，即事先承诺、不完全取决于后续绩效的奖金。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for wrongdoing.",
+      "forms": [
+        "guaranteed bonus"
+      ],
+      "note": "保底奖金，即事先承诺、不完全取决于后续绩效的奖金。"
+    },
+    {
+      "w": "wrongdoing",
+      "pos": "v./n.",
+      "cn": "违法或不当行为。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for wrongdoing.",
+      "forms": [
+        "wrongdoing"
+      ],
+      "note": "违法或不当行为。"
+    },
+    {
+      "w": "clawback",
+      "pos": "词",
+      "cn": "追回已经支付或承诺支付的薪酬、奖金；此处指可延迟乃至追回高管奖金的机制。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The main purpose of this “clawback” rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions.",
+      "forms": [
+        "clawback"
+      ],
+      "note": "追回已经支付或承诺支付的薪酬、奖金；此处指可延迟乃至追回高管奖金的机制。"
+    },
+    {
+      "w": "hold sb. accountable for",
+      "pos": "phr.",
+      "cn": "要求某人为……承担责任。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The main purpose of this “clawback” rule is to hold bankers accountable for harmful risk-taking and to restore public trust in financial institutions.",
+      "forms": [
+        "hold sb. accountable for"
+      ],
+      "note": "要求某人为……承担责任。"
+    },
+    {
+      "w": "hope for",
+      "pos": "phr.",
+      "cn": "期待、希望获得。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Yet officials also hope for a much larger benefit: more long-term decisionmaking, not only by banks but by all corporations, to build a stronger economy for future genera",
+      "forms": [
+        "hope for"
+      ],
+      "note": "期待、希望获得。"
+    },
+    {
+      "w": "not only ... but ...",
+      "pos": "phr.",
+      "cn": "不仅……而且……。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Yet officials also hope for a much larger benefit: more long-term decisionmaking, not only by banks but by all corporations, to build a stronger economy for future genera",
+      "forms": [
+        "not only ... but ..."
+      ],
+      "note": "不仅……而且……。"
+    },
+    {
+      "w": "future generations",
+      "pos": "phr.",
+      "cn": "后代、未来世代。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Yet officials also hope for a much larger benefit: more long-term decisionmaking, not only by banks but by all corporations, to build a stronger economy for future genera",
+      "forms": [
+        "future generations"
+      ],
+      "note": "后代、未来世代。"
+    },
+    {
+      "w": "short-termism",
+      "pos": "词",
+      "cn": "短期主义，即过度追求眼前收益而忽视长期价值。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Short-termism” or the desire for quick profits, has worsened in publicly traded companies, says the Bank of England’s top economist, Andrew Haldane.",
+      "forms": [
+        "short-termism"
+      ],
+      "note": "短期主义，即过度追求眼前收益而忽视长期价值。"
+    },
+    {
+      "w": "publicly traded company",
+      "pos": "phr.",
+      "cn": "上市公司、公开交易公司。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“Short-termism” or the desire for quick profits, has worsened in publicly traded companies, says the Bank of England’s top economist, Andrew Haldane.",
+      "forms": [
+        "publicly traded company"
+      ],
+      "note": "上市公司、公开交易公司。"
+    },
+    {
+      "w": "impatience",
+      "pos": "n.",
+      "cn": "此处指投资者和企业急于获得眼前回报的短视心态。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience as acting like “children who pick the plums out of their pudding to eat",
+      "forms": [
+        "impatience"
+      ],
+      "note": "此处指投资者和企业急于获得眼前回报的短视心态。"
+    },
+    {
+      "w": "a giant of ...",
+      "pos": "phr.",
+      "cn": "某一领域的巨匠、权威人物。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "He quotes a giant of classical economics, Alfred Marshall, in describing this financial impatience as acting like “children who pick the plums out of their pudding to eat",
+      "forms": [
+        "a giant of ..."
+      ],
+      "note": "某一领域的巨匠、权威人物。"
+    },
+    {
+      "w": "the average time for holding a stock",
+      "pos": "phr.",
+      "cn": "持有股票的平均时间。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The average time for holding a stock in both the United States and Britain, he notes, has dropped from seven years to seven months in recent decades.",
+      "forms": [
+        "the average time for holding a stock"
+      ],
+      "note": "持有股票的平均时间。"
+    },
+    {
+      "w": "drop from A to B",
+      "pos": "phr.",
+      "cn": "从 A 降至 B。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "The average time for holding a stock in both the United States and Britain, he notes, has dropped from seven years to seven months in recent decades.",
+      "forms": [
+        "drop from A to B"
+      ],
+      "note": "从 A 降至 B。"
+    },
+    {
+      "w": "transient",
+      "pos": "词",
+      "cn": "短暂停留的、转瞬即逝的；此处指不长期持股的短期投资者。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Transient investors, who demand high quarterly profits from companies, can hinder a firm’s efforts to invest in long-term research or to build up customer loyalty.",
+      "forms": [
+        "transient"
+      ],
+      "note": "短暂停留的、转瞬即逝的；此处指不长期持股的短期投资者。"
+    },
+    {
+      "w": "hinder",
+      "pos": "词",
+      "cn": "阻碍、妨碍，明确表明其影响不利。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Transient investors, who demand high quarterly profits from companies, can hinder a firm’s efforts to invest in long-term research or to build up customer loyalty.",
+      "forms": [
+        "hinder"
+      ],
+      "note": "阻碍、妨碍，明确表明其影响不利。"
+    },
+    {
+      "w": "quarterly profits",
+      "pos": "phr.",
+      "cn": "季度利润。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Transient investors, who demand high quarterly profits from companies, can hinder a firm’s efforts to invest in long-term research or to build up customer loyalty.",
+      "forms": [
+        "quarterly profits"
+      ],
+      "note": "季度利润。"
+    },
+    {
+      "w": "build up customer loyalty",
+      "pos": "phr.",
+      "cn": "逐步培养客户忠诚度。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Transient investors, who demand high quarterly profits from companies, can hinder a firm’s efforts to invest in long-term research or to build up customer loyalty.",
+      "forms": [
+        "build up customer loyalty"
+      ],
+      "note": "逐步培养客户忠诚度。"
+    },
+    {
+      "w": "dub",
+      "pos": "词",
+      "cn": "常见义与“配音”有关；此处意为“把……称为、给……冠以名称”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "This has been dubbed “quarterly capitalism.”",
+      "forms": [
+        "dub"
+      ],
+      "note": "常见义与“配音”有关；此处意为“把……称为、给……冠以名称”。"
+    },
+    {
+      "w": "equity",
+      "pos": "n.",
+      "cn": "常见义为“公平”或“权益”；此处用复数 equities，指股票。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "In addition, new digital technologies have allowed more rapid trading of equities, quicker use of information, and thus shorter attention spans in financial markets.",
+      "forms": [
+        "equity"
+      ],
+      "note": "常见义为“公平”或“权益”；此处用复数 equities，指股票。"
+    },
+    {
+      "w": "attention span",
+      "pos": "phr.",
+      "cn": "注意力持续时间；此处比喻市场越来越只关注近期表现。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "In addition, new digital technologies have allowed more rapid trading of equities, quicker use of information, and thus shorter attention spans in financial markets.",
+      "forms": [
+        "attention span"
+      ],
+      "note": "注意力持续时间；此处比喻市场越来越只关注近期表现。"
+    },
+    {
+      "w": "a predominance of",
+      "pos": "phr.",
+      "cn": "……占主导、占优势。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“There seems to be a predominance of short-term thinking at the expense of long-term investing,” said Commissioner Daniel Gallagher of the US Securities and Exchange Comm",
+      "forms": [
+        "a predominance of"
+      ],
+      "note": "……占主导、占优势。"
+    },
+    {
+      "w": "at the expense of",
+      "pos": "phr.",
+      "cn": "以牺牲……为代价。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "“There seems to be a predominance of short-term thinking at the expense of long-term investing,” said Commissioner Daniel Gallagher of the US Securities and Exchange Comm",
+      "forms": [
+        "at the expense of"
+      ],
+      "note": "以牺牲……为代价。"
+    },
+    {
+      "w": "push sb. to do sth.",
+      "pos": "phr.",
+      "cn": "促使某人做某事。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "In the US, the Sarbanes-Oxley Act of 2002 has pushed most public companies to defer performance bonuses for senior executives by about a year, slightly helping reduce “sh",
+      "forms": [
+        "push sb. to do sth."
+      ],
+      "note": "促使某人做某事。"
+    },
+    {
+      "w": "defer performance bonuses",
+      "pos": "phr.",
+      "cn": "推迟发放绩效奖金。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "In the US, the Sarbanes-Oxley Act of 2002 has pushed most public companies to defer performance bonuses for senior executives by about a year, slightly helping reduce “sh",
+      "forms": [
+        "defer performance bonuses"
+      ],
+      "note": "推迟发放绩效奖金。"
+    },
+    {
+      "w": "a substantial part",
+      "pos": "phr.",
+      "cn": "相当大的一部分。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "In its latest survey of CEO pay, The Wall Street Journal finds that “a substantial part” of executive pay is now tied to performance.",
+      "forms": [
+        "a substantial part"
+      ],
+      "note": "相当大的一部分。"
+    },
+    {
+      "w": "be tied to performance",
+      "pos": "phr.",
+      "cn": "与绩效挂钩。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "In its latest survey of CEO pay, The Wall Street Journal finds that “a substantial part” of executive pay is now tied to performance.",
+      "forms": [
+        "be tied to performance"
+      ],
+      "note": "与绩效挂钩。"
+    },
+    {
+      "w": "tax code",
+      "pos": "phr.",
+      "cn": "税法、税收法规体系，不是“税务代码”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Much more could be done to encourage “long-termism,” such as changes in the tax code and quicker disclosure of stock acquisitions.",
+      "forms": [
+        "tax code"
+      ],
+      "note": "税法、税收法规体系，不是“税务代码”。"
+    },
+    {
+      "w": "disclosure",
+      "pos": "词",
+      "cn": "公开披露。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Much more could be done to encourage “long-termism,” such as changes in the tax code and quicker disclosure of stock acquisitions.",
+      "forms": [
+        "disclosure"
+      ],
+      "note": "公开披露。"
+    },
+    {
+      "w": "stock acquisition",
+      "pos": "phr.",
+      "cn": "股票收购、取得股票的行为。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Much more could be done to encourage “long-termism,” such as changes in the tax code and quicker disclosure of stock acquisitions.",
+      "forms": [
+        "stock acquisition"
+      ],
+      "note": "股票收购、取得股票的行为。"
+    },
+    {
+      "w": "hold on to",
+      "pos": "phr.",
+      "cn": "继续持有、不卖出。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "In France, shareholders who hold on to a company investment for at least two years can sometimes earn more voting rights in a company.",
+      "forms": [
+        "hold on to"
+      ],
+      "note": "继续持有、不卖出。"
+    },
+    {
+      "w": "earn more voting rights",
+      "pos": "phr.",
+      "cn": "获得更多投票权；这里的 earn 不是“赚取工资”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "In France, shareholders who hold on to a company investment for at least two years can sometimes earn more voting rights in a company.",
+      "forms": [
+        "earn more voting rights"
+      ],
+      "note": "获得更多投票权；这里的 earn 不是“赚取工资”。"
+    },
+    {
+      "w": "compensation design",
+      "pos": "phr.",
+      "cn": "薪酬机制设计。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders.",
+      "forms": [
+        "compensation design"
+      ],
+      "note": "薪酬机制设计。"
+    },
+    {
+      "w": "provide incentives for sb. to do sth.",
+      "pos": "phr.",
+      "cn": "激励某人做某事。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders.",
+      "forms": [
+        "provide incentives for sb. to do sth."
+      ],
+      "note": "激励某人做某事。"
+    },
+    {
+      "w": "on behalf of",
+      "pos": "phr.",
+      "cn": "代表……、为了……的利益。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders.",
+      "forms": [
+        "on behalf of"
+      ],
+      "note": "代表……、为了……的利益。"
+    },
+    {
+      "w": "stakeholder",
+      "pos": "词",
+      "cn": "利益相关者。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Within companies, the right compensation design can provide incentives for executives to think beyond their own time at the company and on behalf of all stakeholders.",
+      "forms": [
+        "stakeholder"
+      ],
+      "note": "利益相关者。"
+    },
+    {
+      "w": "have an interest in",
+      "pos": "phr.",
+      "cn": "关心、与……利益攸关；此处不只是“对……感兴趣”。",
+      "sec": "text1",
+      "sec_label": "Text 1",
+      "ctx": "Britain’s new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term.",
+      "forms": [
+        "have an interest in"
+      ],
+      "note": "关心、与……利益攸关；此处不只是“对……感兴趣”。"
+    },
+    {
+      "w": "grade inflation",
+      "pos": "phr.",
+      "cn": "成绩膨胀，指学生成绩在没有相应学业水平提升的情况下普遍走高。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Grade inflation – the gradual increase in average GPAs (grade-point averages) over the past few decades – is often considered a product of a consumer era in higher educat",
+      "forms": [
+        "grade inflation"
+      ],
+      "note": "成绩膨胀，指学生成绩在没有相应学业水平提升的情况下普遍走高。"
+    },
+    {
+      "w": "a consumer era",
+      "pos": "phr.",
+      "cn": "消费主义主导的时代；此处强调高校把学生视为消费者。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Grade inflation – the gradual increase in average GPAs (grade-point averages) over the past few decades – is often considered a product of a consumer era in higher educat",
+      "forms": [
+        "a consumer era"
+      ],
+      "note": "消费主义主导的时代；此处强调高校把学生视为消费者。"
+    },
+    {
+      "w": "force",
+      "pos": "词",
+      "cn": "此处不是物理“力”，而是推动成绩上涨的因素。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But another, related force – a policy often buried deep in course catalogs called “grade forgiveness” – is helping raise GPAs.",
+      "forms": [
+        "force"
+      ],
+      "note": "此处不是物理“力”，而是推动成绩上涨的因素。"
+    },
+    {
+      "w": "be buried deep in",
+      "pos": "phr.",
+      "cn": "深藏于、不易被发现。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But another, related force – a policy often buried deep in course catalogs called “grade forgiveness” – is helping raise GPAs.",
+      "forms": [
+        "be buried deep in"
+      ],
+      "note": "深藏于、不易被发现。"
+    },
+    {
+      "w": "grade forgiveness",
+      "pos": "phr.",
+      "cn": "成绩宽恕，即重修后以新成绩或最高成绩替代原低分的政策。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But another, related force – a policy often buried deep in course catalogs called “grade forgiveness” – is helping raise GPAs.",
+      "forms": [
+        "grade forgiveness"
+      ],
+      "note": "成绩宽恕，即重修后以新成绩或最高成绩替代原低分的政策。"
+    },
+    {
+      "w": "count",
+      "pos": "词",
+      "cn": "常见义为“数数”；此处意为“被计算在内、算数”。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Grade forgiveness allows students to retake a course in which they received a low grade, and the most recent grade or the highest grade is the only one that counts in cal",
+      "forms": [
+        "count"
+      ],
+      "note": "常见义为“数数”；此处意为“被计算在内、算数”。"
+    },
+    {
+      "w": "overall GPA",
+      "pos": "phr.",
+      "cn": "总平均绩点。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Grade forgiveness allows students to retake a course in which they received a low grade, and the most recent grade or the highest grade is the only one that counts in cal",
+      "forms": [
+        "overall GPA"
+      ],
+      "note": "总平均绩点。"
+    },
+    {
+      "w": "do one’s utmost to do sth.",
+      "pos": "phr.",
+      "cn": "竭尽全力做某事。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve",
+      "forms": [
+        "do one’s utmost to do sth."
+      ],
+      "note": "竭尽全力做某事。"
+    },
+    {
+      "w": "keep students in school",
+      "pos": "phr.",
+      "cn": "让学生继续在校就读。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve",
+      "forms": [
+        "keep students in school"
+      ],
+      "note": "让学生继续在校就读。"
+    },
+    {
+      "w": "graduation rate",
+      "pos": "phr.",
+      "cn": "毕业率。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve",
+      "forms": [
+        "graduation rate"
+      ],
+      "note": "毕业率。"
+    },
+    {
+      "w": "freshman",
+      "pos": "词",
+      "cn": "大学一年级学生。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "When this practice first started decades ago, it was usually limited to freshmen, to give them a second chance to take a class in their first year if they struggled in th",
+      "forms": [
+        "freshman"
+      ],
+      "note": "大学一年级学生。"
+    },
+    {
+      "w": "struggle in",
+      "pos": "phr.",
+      "cn": "在……方面感到吃力。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "When this practice first started decades ago, it was usually limited to freshmen, to give them a second chance to take a class in their first year if they struggled in th",
+      "forms": [
+        "struggle in"
+      ],
+      "note": "在……方面感到吃力。"
+    },
+    {
+      "w": "transition to",
+      "pos": "phr.",
+      "cn": "向……的过渡、适应……的转变过程。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "When this practice first started decades ago, it was usually limited to freshmen, to give them a second chance to take a class in their first year if they struggled in th",
+      "forms": [
+        "transition to"
+      ],
+      "note": "向……的过渡、适应……的转变过程。"
+    },
+    {
+      "w": "save for",
+      "pos": "phr.",
+      "cn": "除……之外，相当于 except for。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.",
+      "forms": [
+        "save for"
+      ],
+      "note": "除……之外，相当于 except for。"
+    },
+    {
+      "w": "selective campus",
+      "pos": "phr.",
+      "cn": "录取选拔严格的院校。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.",
+      "forms": [
+        "selective campus"
+      ],
+      "note": "录取选拔严格的院校。"
+    },
+    {
+      "w": "get sth. done",
+      "pos": "phr.",
+      "cn": "使某事得到处理；get their low grades forgiven 指让低分被新成绩替代或不再计入。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "But now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.",
+      "forms": [
+        "get sth. done"
+      ],
+      "note": "使某事得到处理；get their low grades forgiven 指让低分被新成绩替代或不再计入。"
+    },
+    {
+      "w": "be less about A and more about B",
+      "pos": "phr.",
+      "cn": "重点与其说在 A，不如说在 B。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "College officials tend to emphasize that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to th",
+      "forms": [
+        "be less about A and more about B"
+      ],
+      "note": "重点与其说在 A，不如说在 B。"
+    },
+    {
+      "w": "incur a penalty",
+      "pos": "phr.",
+      "cn": "招致、承受惩罚。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "College officials tend to emphasize that the goal of grade forgiveness is less about the grade itself and more about encouraging students to retake courses critical to th",
+      "forms": [
+        "incur a penalty"
+      ],
+      "note": "招致、承受惩罚。"
+    },
+    {
+      "w": "registrar",
+      "pos": "词",
+      "cn": "高校中负责学籍、注册和成绩事务的教务负责人。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "“Ultimately,” said Jack Miner, Ohio State University’s registrar, “we see students achieve more success because they retake a course and do better in subsequent courses o",
+      "forms": [
+        "registrar"
+      ],
+      "note": "高校中负责学籍、注册和成绩事务的教务负责人。"
+    },
+    {
+      "w": "subsequent courses",
+      "pos": "phr.",
+      "cn": "后续课程。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "“Ultimately,” said Jack Miner, Ohio State University’s registrar, “we see students achieve more success because they retake a course and do better in subsequent courses o",
+      "forms": [
+        "subsequent courses"
+      ],
+      "note": "后续课程。"
+    },
+    {
+      "w": "That said",
+      "pos": "phr.",
+      "cn": "话虽如此、尽管如此，用于从校方宣称的学生利益转向高校自身利益。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "That said, there is a way in which grade forgiveness satisfies colleges’ own needs as well.",
+      "forms": [
+        "That said"
+      ],
+      "note": "话虽如此、尽管如此，用于从校方宣称的学生利益转向高校自身利益。"
+    },
+    {
+      "w": "be tied to",
+      "pos": "phr.",
+      "cn": "与……挂钩、取决于……。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "For public institutions, state funds are sometimes tied partly to their success on metrics such as graduation rates and student retention – so better grades can, by boost",
+      "forms": [
+        "be tied to"
+      ],
+      "note": "与……挂钩、取决于……。"
+    },
+    {
+      "w": "metric",
+      "pos": "adj.",
+      "cn": "衡量绩效的指标。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "For public institutions, state funds are sometimes tied partly to their success on metrics such as graduation rates and student retention – so better grades can, by boost",
+      "forms": [
+        "metric"
+      ],
+      "note": "衡量绩效的指标。"
+    },
+    {
+      "w": "student retention",
+      "pos": "phr.",
+      "cn": "学生留存率，即学生继续在校而未退学的比例。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "For public institutions, state funds are sometimes tied partly to their success on metrics such as graduation rates and student retention – so better grades can, by boost",
+      "forms": [
+        "student retention"
+      ],
+      "note": "学生留存率，即学生继续在校而未退学的比例。"
+    },
+    {
+      "w": "at the end of the day",
+      "pos": "phr.",
+      "cn": "归根结底、说到底。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "And anything that raises GPAs will likely make students – who, at the end of the day, are paying the bill – feel they’ve gotten a better value for their tuition dollars, ",
+      "forms": [
+        "at the end of the day"
+      ],
+      "note": "归根结底、说到底。"
+    },
+    {
+      "w": "pay the bill",
+      "pos": "phr.",
+      "cn": "承担费用、买单。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "And anything that raises GPAs will likely make students – who, at the end of the day, are paying the bill – feel they’ve gotten a better value for their tuition dollars, ",
+      "forms": [
+        "pay the bill"
+      ],
+      "note": "承担费用、买单。"
+    },
+    {
+      "w": "get a better value for ...",
+      "pos": "phr.",
+      "cn": "觉得为……付出的费用更划算、更物有所值。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "And anything that raises GPAs will likely make students – who, at the end of the day, are paying the bill – feel they’ve gotten a better value for their tuition dollars, ",
+      "forms": [
+        "get a better value for ..."
+      ],
+      "note": "觉得为……付出的费用更划算、更物有所值。"
+    },
+    {
+      "w": "in the best interest of",
+      "pos": "phr.",
+      "cn": "最符合……的利益。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Since students and parents expect a college degree to lead to a job, it is in the best interest of a school to turn out graduates who are as qualified as possible – or at",
+      "forms": [
+        "in the best interest of"
+      ],
+      "note": "最符合……的利益。"
+    },
+    {
+      "w": "turn out graduates",
+      "pos": "phr.",
+      "cn": "培养出毕业生。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "Since students and parents expect a college degree to lead to a job, it is in the best interest of a school to turn out graduates who are as qualified as possible – or at",
+      "forms": [
+        "turn out graduates"
+      ],
+      "note": "培养出毕业生。"
+    },
+    {
+      "w": "incentive",
+      "pos": "adj.",
+      "cn": "动机、利益驱动。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "On this, students’ and colleges’ incentives seem to be aligned.",
+      "forms": [
+        "incentive"
+      ],
+      "note": "动机、利益驱动。"
+    },
+    {
+      "w": "be aligned",
+      "pos": "phr.",
+      "cn": "方向一致、彼此吻合；此题语境中最接近 be identical with each other。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "On this, students’ and colleges’ incentives seem to be aligned.",
+      "forms": [
+        "be aligned"
+      ],
+      "note": "方向一致、彼此吻合；此题语境中最接近 be identical with each other。"
+    },
+    {
+      "w": "On this",
+      "pos": "phr.",
+      "cn": "指让毕业生尽可能合格或至少显得合格，从而满足就业期待并维护学校利益。",
+      "sec": "text2",
+      "sec_label": "Text 2",
+      "ctx": "On this, students’ and colleges’ incentives seem to be aligned.",
+      "forms": [
+        "On this"
+      ],
+      "note": "指让毕业生尽可能合格或至少显得合格，从而满足就业期待并维护学校利益。"
+    },
+    {
+      "w": "mark",
+      "pos": "词",
+      "cn": "常见义为“标记”；此处意为“标志着、正值某个纪念时点”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "This year marks exactly two centuries since the publication of “Frankenstein; or, The Modern Prometheus,” by Mary Shelley.",
+      "forms": [
+        "mark"
+      ],
+      "note": "常见义为“标记”；此处意为“标志着、正值某个纪念时点”。"
+    },
+    {
+      "w": "two centuries since",
+      "pos": "phr.",
+      "cn": "自……以来两个世纪，即二百周年。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "This year marks exactly two centuries since the publication of “Frankenstein; or, The Modern Prometheus,” by Mary Shelley.",
+      "forms": [
+        "two centuries since"
+      ],
+      "note": "自……以来两个世纪，即二百周年。"
+    },
+    {
+      "w": "speculative fiction",
+      "pos": "phr.",
+      "cn": "思辨小说，以尚未实现的科技或社会设想探索未来可能性。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Even before the invention of the electric light bulb, the author produced a remarkable work of speculative fiction that would foreshadow many ethical questions to be rais",
+      "forms": [
+        "speculative fiction"
+      ],
+      "note": "思辨小说，以尚未实现的科技或社会设想探索未来可能性。"
+    },
+    {
+      "w": "foreshadow",
+      "pos": "词",
+      "cn": "预示、预兆。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Even before the invention of the electric light bulb, the author produced a remarkable work of speculative fiction that would foreshadow many ethical questions to be rais",
+      "forms": [
+        "foreshadow"
+      ],
+      "note": "预示、预兆。"
+    },
+    {
+      "w": "yet to come",
+      "pos": "phr.",
+      "cn": "尚未到来、尚未出现。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Even before the invention of the electric light bulb, the author produced a remarkable work of speculative fiction that would foreshadow many ethical questions to be rais",
+      "forms": [
+        "yet to come"
+      ],
+      "note": "尚未到来、尚未出现。"
+    },
+    {
+      "w": "artificial general intelligence",
+      "pos": "phr.",
+      "cn": "通用人工智能，指能够像人一样处理广泛认知任务的智能系统。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "What is being called artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists.",
+      "forms": [
+        "artificial general intelligence"
+      ],
+      "note": "通用人工智能，指能够像人一样处理广泛认知任务的智能系统。"
+    },
+    {
+      "w": "evade",
+      "pos": "词",
+      "cn": "常见义为“逃避”；此处指通用人工智能仍未被科学家成功理解和实现。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "What is being called artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists.",
+      "forms": [
+        "evade"
+      ],
+      "note": "常见义为“逃避”；此处指通用人工智能仍未被科学家成功理解和实现。"
+    },
+    {
+      "w": "be fascinated by",
+      "pos": "phr.",
+      "cn": "对……深深着迷。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Yet humans remain fascinated by the idea of robots that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as ",
+      "forms": [
+        "be fascinated by"
+      ],
+      "note": "对……深深着迷。"
+    },
+    {
+      "w": "depict",
+      "pos": "词",
+      "cn": "描绘、刻画。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Yet humans remain fascinated by the idea of robots that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as ",
+      "forms": [
+        "depict"
+      ],
+      "note": "描绘、刻画。"
+    },
+    {
+      "w": "far too ... to do",
+      "pos": "phr.",
+      "cn": "太过……以至于无法……，far 加强程度。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist.",
+      "forms": [
+        "far too ... to do"
+      ],
+      "note": "太过……以至于无法……，far 加强程度。"
+    },
+    {
+      "w": "let alone",
+      "pos": "phr.",
+      "cn": "更不用说。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist.",
+      "forms": [
+        "let alone"
+      ],
+      "note": "更不用说。"
+    },
+    {
+      "w": "neuroscientist",
+      "pos": "词",
+      "cn": "神经科学家。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist.",
+      "forms": [
+        "neuroscientist"
+      ],
+      "note": "神经科学家。"
+    },
+    {
+      "w": "get there",
+      "pos": "phr.",
+      "cn": "字面为“到达那里”；此处指机器达到拥有或模拟人类意识的水平。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "“We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.”",
+      "forms": [
+        "get there"
+      ],
+      "note": "字面为“到达那里”；此处指机器达到拥有或模拟人类意识的水平。"
+    },
+    {
+      "w": "at hand",
+      "pos": "phr.",
+      "cn": "临近的、眼前需要处理的。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But that doesn’t mean crucial ethical issues involving AI aren’t at hand.",
+      "forms": [
+        "at hand"
+      ],
+      "note": "临近的、眼前需要处理的。"
+    },
+    {
+      "w": "doesn’t mean ... aren’t ...",
+      "pos": "phr.",
+      "cn": "双重否定结构，实际强调伦理问题已经迫在眉睫。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "But that doesn’t mean crucial ethical issues involving AI aren’t at hand.",
+      "forms": [
+        "doesn’t mean ... aren’t ..."
+      ],
+      "note": "双重否定结构，实际强调伦理问题已经迫在眉睫。"
+    },
+    {
+      "w": "autonomous vehicle",
+      "pos": "phr.",
+      "cn": "自动驾驶车辆。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The coming use of autonomous vehicles, for example, poses thorny ethical questions.",
+      "forms": [
+        "autonomous vehicle"
+      ],
+      "note": "自动驾驶车辆。"
+    },
+    {
+      "w": "pose a thorny question",
+      "pos": "phr.",
+      "cn": "提出一个棘手问题。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "The coming use of autonomous vehicles, for example, poses thorny ethical questions.",
+      "forms": [
+        "pose a thorny question"
+      ],
+      "note": "提出一个棘手问题。"
+    },
+    {
+      "w": "split-second decision",
+      "pos": "phr.",
+      "cn": "瞬间作出的决定。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Human drivers sometimes must make split-second decisions.",
+      "forms": [
+        "split-second decision"
+      ],
+      "note": "瞬间作出的决定。"
+    },
+    {
+      "w": "input",
+      "pos": "词",
+      "cn": "此处指供决策使用的信息或经验输入，不是单纯的“输入动作”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Their reactions may be a complex combination of instant reflexes, input from past driving experiences, and what their eyes and ears tell them in that moment.",
+      "forms": [
+        "input"
+      ],
+      "note": "此处指供决策使用的信息或经验输入，不是单纯的“输入动作”。"
+    },
+    {
+      "w": "instant reflex",
+      "pos": "phr.",
+      "cn": "即时的本能反射。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Their reactions may be a complex combination of instant reflexes, input from past driving experiences, and what their eyes and ears tell them in that moment.",
+      "forms": [
+        "instant reflex"
+      ],
+      "note": "即时的本能反射。"
+    },
+    {
+      "w": "not nearly as ... as",
+      "pos": "phr.",
+      "cn": "远没有……那么……。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "AI “vision” today is not nearly as sophisticated as that of humans.",
+      "forms": [
+        "not nearly as ... as"
+      ],
+      "note": "远没有……那么……。"
+    },
+    {
+      "w": "sophisticated",
+      "pos": "v./adj.",
+      "cn": "此处意为“先进精密的、成熟的”。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "AI “vision” today is not nearly as sophisticated as that of humans.",
+      "forms": [
+        "sophisticated"
+      ],
+      "note": "此处意为“先进精密的、成熟的”。"
+    },
+    {
+      "w": "that",
+      "pos": "词",
+      "cn": "代替前面的 vision，即 the vision of humans，避免重复。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "AI “vision” today is not nearly as sophisticated as that of humans.",
+      "forms": [
+        "that"
+      ],
+      "note": "代替前面的 vision，即 the vision of humans，避免重复。"
+    },
+    {
+      "w": "anticipate a situation",
+      "pos": "phr.",
+      "cn": "预见某种情形并提前作准备。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "And to anticipate every imaginable driving situation is a difficult programming problem.",
+      "forms": [
+        "anticipate a situation"
+      ],
+      "note": "预见某种情形并提前作准备。"
+    },
+    {
+      "w": "every imaginable ...",
+      "pos": "phr.",
+      "cn": "所有可能想象到的……。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "And to anticipate every imaginable driving situation is a difficult programming problem.",
+      "forms": [
+        "every imaginable ..."
+      ],
+      "note": "所有可能想象到的……。"
+    },
+    {
+      "w": "masses of data",
+      "pos": "phr.",
+      "cn": "海量数据。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Whenever decisions are based on masses of data, “you quickly get into a lot of ethical questions,” notes Tan Kiat How, chief executive of a Singapore-based agency that is",
+      "forms": [
+        "masses of data"
+      ],
+      "note": "海量数据。"
+    },
+    {
+      "w": "voluntary code",
+      "pos": "phr.",
+      "cn": "自愿遵守的行为准则。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Whenever decisions are based on masses of data, “you quickly get into a lot of ethical questions,” notes Tan Kiat How, chief executive of a Singapore-based agency that is",
+      "forms": [
+        "voluntary code"
+      ],
+      "note": "自愿遵守的行为准则。"
+    },
+    {
+      "w": "the ethical use of AI",
+      "pos": "phr.",
+      "cn": "以合乎伦理的方式使用人工智能。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Whenever decisions are based on masses of data, “you quickly get into a lot of ethical questions,” notes Tan Kiat How, chief executive of a Singapore-based agency that is",
+      "forms": [
+        "the ethical use of AI"
+      ],
+      "note": "以合乎伦理的方式使用人工智能。"
+    },
+    {
+      "w": "mega-corporation",
+      "pos": "n.",
+      "cn": "超大型企业。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Along with Singapore, other governments and mega-corporations are beginning to establish their own guidelines.",
+      "forms": [
+        "mega-corporation"
+      ],
+      "note": "超大型企业。"
+    },
+    {
+      "w": "establish guidelines",
+      "pos": "phr.",
+      "cn": "制定指导规范。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Along with Singapore, other governments and mega-corporations are beginning to establish their own guidelines.",
+      "forms": [
+        "establish guidelines"
+      ],
+      "note": "制定指导规范。"
+    },
+    {
+      "w": "deploy AI",
+      "pos": "phr.",
+      "cn": "部署、投入使用人工智能系统。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "On June 7 Google pledged not to “design or deploy AI” that would cause “overall harm,” or to develop AI-directed weapons or use AI for surveillance that would violate int",
+      "forms": [
+        "deploy AI"
+      ],
+      "note": "部署、投入使用人工智能系统。"
+    },
+    {
+      "w": "AI-directed weapon",
+      "pos": "phr.",
+      "cn": "由人工智能引导或控制的武器。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "On June 7 Google pledged not to “design or deploy AI” that would cause “overall harm,” or to develop AI-directed weapons or use AI for surveillance that would violate int",
+      "forms": [
+        "AI-directed weapon"
+      ],
+      "note": "由人工智能引导或控制的武器。"
+    },
+    {
+      "w": "surveillance",
+      "pos": "n.",
+      "cn": "监控、监视。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "On June 7 Google pledged not to “design or deploy AI” that would cause “overall harm,” or to develop AI-directed weapons or use AI for surveillance that would violate int",
+      "forms": [
+        "surveillance"
+      ],
+      "note": "监控、监视。"
+    },
+    {
+      "w": "represent",
+      "pos": "词",
+      "cn": "此处意为“构成、体现”，即该声明至少可以作为起点。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "While the statement is vague, it represents one starting point.",
+      "forms": [
+        "represent"
+      ],
+      "note": "此处意为“构成、体现”，即该声明至少可以作为起点。"
+    },
+    {
+      "w": "to put it another way",
+      "pos": "phr.",
+      "cn": "换一种说法。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "To put it another way: How can we make sure that the thinking of intelligent machines reflects humanity’s highest values?",
+      "forms": [
+        "to put it another way"
+      ],
+      "note": "换一种说法。"
+    },
+    {
+      "w": "reflect humanity’s highest values",
+      "pos": "phr.",
+      "cn": "体现人类最崇高的价值观。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "To put it another way: How can we make sure that the thinking of intelligent machines reflects humanity’s highest values?",
+      "forms": [
+        "reflect humanity’s highest values"
+      ],
+      "note": "体现人类最崇高的价值观。"
+    },
+    {
+      "w": "out-of-control",
+      "pos": "词",
+      "cn": "失去控制的。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Only then will they be useful servants and not Frankenstein’s out-of-control monster.",
+      "forms": [
+        "out-of-control"
+      ],
+      "note": "失去控制的。"
+    },
+    {
+      "w": "they",
+      "pos": "词",
+      "cn": "指智能机器或人工智能系统。",
+      "sec": "text3",
+      "sec_label": "Text 3",
+      "ctx": "Only then will they be useful servants and not Frankenstein’s out-of-control monster.",
+      "forms": [
+        "they"
+      ],
+      "note": "指智能机器或人工智能系统。"
+    },
+    {
+      "w": "under",
+      "pos": "词",
+      "cn": "常见义为“在……下面”；此处作介词，意为“根据、依照”某项裁决。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wa",
+      "forms": [
+        "under"
+      ],
+      "note": "常见义为“在……下面”；此处作介词，意为“根据、依照”某项裁决。"
+    },
+    {
+      "w": "leave",
+      "pos": "词",
+      "cn": "此处为“使某人处于某种状态”，构成 leave sb. with sth.。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wa",
+      "forms": [
+        "leave"
+      ],
+      "note": "此处为“使某人处于某种状态”，构成 leave sb. with sth.。"
+    },
+    {
+      "w": "sales tax",
+      "pos": "phr.",
+      "cn": "销售税，由消费者承担、商家代为收取并上缴。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wa",
+      "forms": [
+        "sales tax"
+      ],
+      "note": "销售税，由消费者承担、商家代为收取并上缴。"
+    },
+    {
+      "w": "lighter wallets",
+      "pos": "phr.",
+      "cn": "钱包更瘪，形象地表示消费者支出增加。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wa",
+      "forms": [
+        "lighter wallets"
+      ],
+      "note": "钱包更瘪，形象地表示消费者支出增加。"
+    },
+    {
+      "w": "a financial win for states",
+      "pos": "phr.",
+      "cn": "各州在财政上的一项重大收益。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wa",
+      "forms": [
+        "a financial win for states"
+      ],
+      "note": "各州在财政上的一项重大收益。"
+    },
+    {
+      "w": "opinion",
+      "pos": "词",
+      "cn": "常见义为“意见”；此处是法律用语，指法院的判决意见。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The Supreme Court’s opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually.",
+      "forms": [
+        "opinion"
+      ],
+      "note": "常见义为“意见”；此处是法律用语，指法院的判决意见。"
+    },
+    {
+      "w": "overrule",
+      "pos": "词",
+      "cn": "法院推翻、否定先前裁决。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The Supreme Court’s opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually.",
+      "forms": [
+        "overrule"
+      ],
+      "note": "法院推翻、否定先前裁决。"
+    },
+    {
+      "w": "a pair of decades-old decisions",
+      "pos": "phr.",
+      "cn": "两项已有数十年历史的裁决。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The Supreme Court’s opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually.",
+      "forms": [
+        "a pair of decades-old decisions"
+      ],
+      "note": "两项已有数十年历史的裁决。"
+    },
+    {
+      "w": "lost revenue",
+      "pos": "phr.",
+      "cn": "流失的财政收入。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The Supreme Court’s opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually.",
+      "forms": [
+        "lost revenue"
+      ],
+      "note": "流失的财政收入。"
+    },
+    {
+      "w": "collect sales tax on sth.",
+      "pos": "phr.",
+      "cn": "对某类交易征收、收取销售税。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The decisions made it more difficult for states to collect sales tax on certain online purchases.",
+      "forms": [
+        "collect sales tax on sth."
+      ],
+      "note": "对某类交易征收、收取销售税。"
+    },
+    {
+      "w": "cases ... said",
+      "pos": "phr.",
+      "cn": "并非“案件开口说话”，而是指相关判例确立了某项规则。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The cases the court overturned said that if a business was shipping a customer’s purchase to a state where the business didn’t have a physical presence such as a warehous",
+      "forms": [
+        "cases ... said"
+      ],
+      "note": "并非“案件开口说话”，而是指相关判例确立了某项规则。"
+    },
+    {
+      "w": "physical presence",
+      "pos": "phr.",
+      "cn": "企业在某州拥有门店、办公室或仓库等实体经营据点。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The cases the court overturned said that if a business was shipping a customer’s purchase to a state where the business didn’t have a physical presence such as a warehous",
+      "forms": [
+        "physical presence"
+      ],
+      "note": "企业在某州拥有门店、办公室或仓库等实体经营据点。"
+    },
+    {
+      "w": "ship sth. to ...",
+      "pos": "phr.",
+      "cn": "把商品运送到……",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The cases the court overturned said that if a business was shipping a customer’s purchase to a state where the business didn’t have a physical presence such as a warehous",
+      "forms": [
+        "ship sth. to ..."
+      ],
+      "note": "把商品运送到……"
+    },
+    {
+      "w": "collect sales tax for the state",
+      "pos": "phr.",
+      "cn": "代该州收取销售税。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The cases the court overturned said that if a business was shipping a customer’s purchase to a state where the business didn’t have a physical presence such as a warehous",
+      "forms": [
+        "collect sales tax for the state"
+      ],
+      "note": "代该州收取销售税。"
+    },
+    {
+      "w": "be responsible for doing sth.",
+      "pos": "phr.",
+      "cn": "有责任做某事。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Customers were generally responsible for paying the sales tax to the state themselves if they weren’t charged it, but most didn’t realize they owed it and few paid.",
+      "forms": [
+        "be responsible for doing sth."
+      ],
+      "note": "有责任做某事。"
+    },
+    {
+      "w": "charge sb. tax",
+      "pos": "phr.",
+      "cn": "向某人收税。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Customers were generally responsible for paying the sales tax to the state themselves if they weren’t charged it, but most didn’t realize they owed it and few paid.",
+      "forms": [
+        "charge sb. tax"
+      ],
+      "note": "向某人收税。"
+    },
+    {
+      "w": "owe tax",
+      "pos": "phr.",
+      "cn": "负有纳税义务、欠缴税款。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Customers were generally responsible for paying the sales tax to the state themselves if they weren’t charged it, but most didn’t realize they owed it and few paid.",
+      "forms": [
+        "owe tax"
+      ],
+      "note": "负有纳税义务、欠缴税款。"
+    },
+    {
+      "w": "flawed",
+      "pos": "v./adj.",
+      "cn": "有缺陷的、不合理的，并非指程序上“有瑕疵”这么窄的含义。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Justice Anthony Kennedy wrote that the previous decisions were flawed.",
+      "forms": [
+        "flawed"
+      ],
+      "note": "有缺陷的、不合理的，并非指程序上“有瑕疵”这么窄的含义。"
+    },
+    {
+      "w": "be removed from ...",
+      "pos": "phr.",
+      "cn": "与……相去甚远、脱离……",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,” he wrote in an opinion joine",
+      "forms": [
+        "be removed from ..."
+      ],
+      "note": "与……相去甚远、脱离……"
+    },
+    {
+      "w": "economic reality",
+      "pos": "phr.",
+      "cn": "经济现实。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,” he wrote in an opinion joine",
+      "forms": [
+        "economic reality"
+      ],
+      "note": "经济现实。"
+    },
+    {
+      "w": "an opinion joined by ...",
+      "pos": "phr.",
+      "cn": "一份得到……法官附议的判决意见。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "“Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,” he wrote in an opinion joine",
+      "forms": [
+        "an opinion joined by ..."
+      ],
+      "note": "一份得到……法官附议的判决意见。"
+    },
+    {
+      "w": "seek long-term prosperity",
+      "pos": "phr.",
+      "cn": "谋求长期繁荣。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Kennedy wrote that the rule “limited states’ ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.”",
+      "forms": [
+        "seek long-term prosperity"
+      ],
+      "note": "谋求长期繁荣。"
+    },
+    {
+      "w": "prevent sb. from doing sth.",
+      "pos": "phr.",
+      "cn": "阻止某人做某事。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Kennedy wrote that the rule “limited states’ ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.”",
+      "forms": [
+        "prevent sb. from doing sth."
+      ],
+      "note": "阻止某人做某事。"
+    },
+    {
+      "w": "compete on an even playing field",
+      "pos": "phr.",
+      "cn": "在公平的竞争环境中竞争。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Kennedy wrote that the rule “limited states’ ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.”",
+      "forms": [
+        "compete on an even playing field"
+      ],
+      "note": "在公平的竞争环境中竞争。"
+    },
+    {
+      "w": "presence",
+      "pos": "n.",
+      "cn": "此处仍指企业在某州的实体经营存在，而非抽象的“影响力”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already.",
+      "forms": [
+        "presence"
+      ],
+      "note": "此处仍指企业在某州的实体经营存在，而非抽象的“影响力”。"
+    },
+    {
+      "w": "chain",
+      "pos": "词",
+      "cn": "连锁企业，big chains 即大型连锁零售商。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already.",
+      "forms": [
+        "chain"
+      ],
+      "note": "连锁企业，big chains 即大型连锁零售商。"
+    },
+    {
+      "w": "charge sales tax",
+      "pos": "phr.",
+      "cn": "向顾客收取销售税。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Now, rivals will be charging sales tax where they hadn’t before.",
+      "forms": [
+        "charge sales tax"
+      ],
+      "note": "向顾客收取销售税。"
+    },
+    {
+      "w": "rivals",
+      "pos": "词",
+      "cn": "指大型连锁企业的竞争对手，主要是此前无须在外州代征税款的网络卖家。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Now, rivals will be charging sales tax where they hadn’t before.",
+      "forms": [
+        "rivals"
+      ],
+      "note": "指大型连锁企业的竞争对手，主要是此前无须在外州代征税款的网络卖家。"
+    },
+    {
+      "w": "a network of warehouses",
+      "pos": "phr.",
+      "cn": "仓库网络。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it, though third-party sellers who use the site don’t have to.",
+      "forms": [
+        "a network of warehouses"
+      ],
+      "note": "仓库网络。"
+    },
+    {
+      "w": "third-party sellers",
+      "pos": "phr.",
+      "cn": "借助平台销售商品、但不属于平台自身的第三方卖家。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it, though third-party sellers who use the site don’t have to.",
+      "forms": [
+        "third-party sellers"
+      ],
+      "note": "借助平台销售商品、但不属于平台自身的第三方卖家。"
+    },
+    {
+      "w": "until now",
+      "pos": "phr.",
+      "cn": "在此之前、截至目前。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Until now, many sellers that have a physical presence in only a single state or a few states have been able to avoid charging sales taxes when they ship to addresses outs",
+      "forms": [
+        "until now"
+      ],
+      "note": "在此之前、截至目前。"
+    },
+    {
+      "w": "a physical presence in a single state",
+      "pos": "phr.",
+      "cn": "在单一州拥有实体经营场所。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Until now, many sellers that have a physical presence in only a single state or a few states have been able to avoid charging sales taxes when they ship to addresses outs",
+      "forms": [
+        "a physical presence in a single state"
+      ],
+      "note": "在单一州拥有实体经营场所。"
+    },
+    {
+      "w": "provide platforms for",
+      "pos": "phr.",
+      "cn": "为……提供交易平台。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Sellers that use eBay and Etsy, which provide platforms for smaller sellers, also haven’t been collecting sales tax nationwide.",
+      "forms": [
+        "provide platforms for"
+      ],
+      "note": "为……提供交易平台。"
+    },
+    {
+      "w": "collect sales tax nationwide",
+      "pos": "phr.",
+      "cn": "在全国范围内收取销售税。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Sellers that use eBay and Etsy, which provide platforms for smaller sellers, also haven’t been collecting sales tax nationwide.",
+      "forms": [
+        "collect sales tax nationwide"
+      ],
+      "note": "在全国范围内收取销售税。"
+    },
+    {
+      "w": "pass laws",
+      "pos": "phr.",
+      "cn": "通过法律、立法。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Under the ruling Thursday, states can pass laws requiring out-of-state sellers to collect the state’s sales tax from customers and send it to the state.",
+      "forms": [
+        "pass laws"
+      ],
+      "note": "通过法律、立法。"
+    },
+    {
+      "w": "out-of-state sellers",
+      "pos": "phr.",
+      "cn": "外州卖家。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Under the ruling Thursday, states can pass laws requiring out-of-state sellers to collect the state’s sales tax from customers and send it to the state.",
+      "forms": [
+        "out-of-state sellers"
+      ],
+      "note": "外州卖家。"
+    },
+    {
+      "w": "level",
+      "pos": "词",
+      "cn": "此处为及物动词，意为“使平整、使均等”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Retail trade groups praised the ruling, saying it levels the playing field for local and online businesses.",
+      "forms": [
+        "level"
+      ],
+      "note": "此处为及物动词，意为“使平整、使均等”。"
+    },
+    {
+      "w": "level the playing field",
+      "pos": "phr.",
+      "cn": "营造公平的竞争环境、消除不公平的竞争优势。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Retail trade groups praised the ruling, saying it levels the playing field for local and online businesses.",
+      "forms": [
+        "level the playing field"
+      ],
+      "note": "营造公平的竞争环境、消除不公平的竞争优势。"
+    },
+    {
+      "w": "retail trade groups",
+      "pos": "phr.",
+      "cn": "零售行业协会/团体。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Retail trade groups praised the ruling, saying it levels the playing field for local and online businesses.",
+      "forms": [
+        "retail trade groups"
+      ],
+      "note": "零售行业协会/团体。"
+    },
+    {
+      "w": "local and online businesses",
+      "pos": "phr.",
+      "cn": "本地实体商户与线上电商。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Retail trade groups praised the ruling, saying it levels the playing field for local and online businesses.",
+      "forms": [
+        "local and online businesses"
+      ],
+      "note": "本地实体商户与线上电商。"
+    },
+    {
+      "w": "the losers",
+      "pos": "phr.",
+      "cn": "受害者、利益受损的一方。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The losers, said retail analyst Neil Saunders, are online-only retailers, especially smaller ones.",
+      "forms": [
+        "the losers"
+      ],
+      "note": "受害者、利益受损的一方。"
+    },
+    {
+      "w": "headache",
+      "pos": "词",
+      "cn": "常见义为生理上的“头痛”；此处引申指“棘手难题、麻烦事”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Those retailers may face headaches complying with various state sales tax laws.",
+      "forms": [
+        "headache"
+      ],
+      "note": "常见义为生理上的“头痛”；此处引申指“棘手难题、麻烦事”。"
+    },
+    {
+      "w": "comply with",
+      "pos": "phr.",
+      "cn": "遵守、服从（法律、法规）。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Those retailers may face headaches complying with various state sales tax laws.",
+      "forms": [
+        "comply with"
+      ],
+      "note": "遵守、服从（法律、法规）。"
+    },
+    {
+      "w": "various state sales tax laws",
+      "pos": "phr.",
+      "cn": "各州各自不同的销售税法律法规。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "Those retailers may face headaches complying with various state sales tax laws.",
+      "forms": [
+        "various state sales tax laws"
+      ],
+      "note": "各州各自不同的销售税法律法规。"
+    },
+    {
+      "w": "advocacy group",
+      "pos": "phr.",
+      "cn": "权益倡导团体。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The Small Business & Entrepreneurship Council advocacy group said in a statement, “Small businesses and internet entrepreneurs are not well served at all by this decision",
+      "forms": [
+        "advocacy group"
+      ],
+      "note": "权益倡导团体。"
+    },
+    {
+      "w": "be not well served by",
+      "pos": "phr.",
+      "cn": "字面为“未被很好地服务”，语境义指“未从中受益、利益受到损害”。",
+      "sec": "text4",
+      "sec_label": "Text 4",
+      "ctx": "The Small Business & Entrepreneurship Council advocacy group said in a statement, “Small businesses and internet entrepreneurs are not well served at all by this decision",
+      "forms": [
+        "be not well served by"
+      ],
+      "note": "字面为“未被很好地服务”，语境义指“未从中受益、利益受到损害”。"
+    }
+  ]
+}

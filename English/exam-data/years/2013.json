@@ -1,0 +1,696 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "决策中的背景信息、日常信息样本与判断偏差",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on ANSWER SHEET 1. (10 points)",
+    "intro": "文章从“人们做决定时忽视背景信息”入手：这乍看是优势，随即被西蒙逊的推测反转——看不到全局，反而会被日常信息样本带偏。接着以 MBA 面试评分的研究为例：前一位申请者分数偏高，会压低后一位的分数，其影响需要多考30分 GMAT 才能抵消。做题时抓住“提出假设—举例说明—实验验证—量化结论”的链条，注意 the big picture、otherwise、take... into consideration、mark out of 等固定表达。",
+    "passage": [
+      {
+        "en": "People are, on the whole, poor at considering background information when making individual decisions. At first glance this might seem like a strength that {{1}} the ability to make judgments which are unbiased by {{2}} factors. But Dr Uri Simonsohn speculated that an inability to consider the big {{3}} was leading decision-makers to be biased by the daily samples of information they were working with. {{4}}, he theorised that a judge {{5}} of appearing too soft {{6}} crime might be more likely to send someone to prison {{7}} he had already sentenced five or six other defendants only to forced community service on that day.",
+        "zh": "总体而言，人们在做个人决定时并不善于考虑背景信息。乍看之下，这似乎是一种优势：它赋予人一种能力，使人做出的判断不受外部因素的影响。但乌里·西蒙逊博士推测，无法看到全局这一点，正使决策者被他们日常所接触的信息样本带偏。例如，他提出这样的理论：一位害怕在犯罪问题上显得过于心软的法官，如果当天已经对五六名其他被告只判处了强制社区服务，那么他更有可能把某个人送进监狱。"
+      },
+      {
+        "en": "To {{8}} this idea, he turned to the university-admissions process. In theory, the {{9}} of an applicant should not depend on the few others {{10}} randomly for interview during the same day, but Dr Simonsohn suspected the truth was {{11}}.",
+        "zh": "为了检验这一想法，他转向了大学招生过程。理论上，一名申请者的素质不应取决于同一天被随机选中参加面试的另外少数几个人，但西蒙逊博士怀疑事实并非如此。"
+      },
+      {
+        "en": "He studied the results of 9,323 MBA interviews {{12}} by 31 admissions officers. The interviewers had {{13}} applicants on a scale of one to five. This scale {{14}} numerous factors into consideration. The scores were {{15}} used in conjunction with an applicant's score on the Graduate Management Admission Test, or GMAT, a standardised exam which is {{16}} out of 800 points, to make a decision on whether to accept him or her.",
+        "zh": "他研究了由31名招生官进行的9,323场MBA面试的结果。面试官按一分到五分的标准对申请者进行了评分。这一评分标准把众多因素考虑在内。随后，这些分数与申请者在管理学研究生入学考试（GMAT）中的成绩结合使用——GMAT是一项按800分制计分的标准化考试——以此决定是否录取他或她。"
+      },
+      {
+        "en": "Dr Simonsohn found if the score of the previous candidate in a daily series of interviewees was 0.75 points or more higher than that of the one {{17}} that, then the score for the next applicant would {{18}} by an average of 0.075 points. This might sound small, but to {{19}} the effects of such a decrease a candidate would need 30 more GMAT points than would otherwise have been {{20}}.",
+        "zh": "西蒙逊博士发现，如果在一系列每日面试者中，前一位候选人的分数比再前一位高出0.75分或更多，那么下一位申请者的分数平均会下降0.075分。这听起来也许微不足道，但要消除这样一次分数下降的影响，一名候选人需要比原本所需的分数多考30分的GMAT成绩。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "A",
+        "options": [
+          "grants",
+          "submits",
+          "transmits",
+          "delivers"
+        ],
+        "cn": [
+          "赋予，给予",
+          "提交",
+          "传送，传播",
+          "递送，交付"
+        ],
+        "explain": "空格所在句为 this might seem like a strength that ___ the ability to make judgments...，that 引导定语从句修饰 strength，从句缺谓语，宾语是 the ability。grant 表示“赋予、给予”，grant the ability to do sth. 意为“赋予做某事的能力”，与上下文“这看似是一种优势”完全吻合。B submit“提交”、C transmit“传送”、D deliver“递送”的宾语通常是文件、信号或货物，都不能与 ability 搭配。",
+        "trap": "C transmit 因“传递信息”的常见义最易被误选，但 transmit 的对象是信号、疾病、文件，不能是 ability；此处应是“赋予能力”。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 2,
+        "answer": "B",
+        "options": [
+          "minor",
+          "external",
+          "crucial",
+          "objective"
+        ],
+        "cn": [
+          "次要的",
+          "外部的",
+          "关键的",
+          "客观的"
+        ],
+        "explain": "本句说人们不善于考虑 background information，而这种“缺陷”乍看像是一种优势：能做出不受 ___ 因素影响的判断。与 background information 相对的正是 external factors“外部因素”，即判断不被外界信息干扰。A minor“次要的”与“不受影响”无关；C crucial“关键的”会使句意变成“不受关键因素影响”，不合逻辑；D objective“客观的”更与 unbiased 语义重复，且“不受客观因素影响”讲不通。",
+        "trap": "D objective 貌似与 unbiased 同义，容易顺手选入；但“不受客观因素影响”在逻辑上不成立，客观因素并不是偏见的来源。",
+        "type": "语义/语境"
+      },
+      {
+        "n": 3,
+        "answer": "C",
+        "options": [
+          "issue",
+          "vision",
+          "picture",
+          "moment"
+        ],
+        "cn": [
+          "问题，议题",
+          "视力，远见",
+          "全局，整体图景",
+          "时刻"
+        ],
+        "explain": "the big picture 是固定表达，意为“全局、整体情况”，与上文的 background information 以及下文的 daily samples of information（零散的日常信息）形成对照：看不到全局，就会被局部样本带偏。A issue“问题”、B vision“视力、远见”、D moment“时刻”都不能构成这一固定搭配。",
+        "trap": "B vision 有“远见”之义，容易被理解为“大局观”，但英语中“看全局”固定说 the big picture，不说 the big vision。",
+        "type": "固定搭配"
+      },
+      {
+        "n": 4,
+        "answer": "D",
+        "options": [
+          "Above all",
+          "On average",
+          "In principle",
+          "For example"
+        ],
+        "cn": [
+          "首先，最重要的是",
+          "平均而言",
+          "原则上",
+          "例如"
+        ],
+        "explain": "上一句提出西蒙逊的推测：看不到全局会让决策者被日常信息样本带偏；本句随即给出法官判刑的具体情形，是对该推测的举例说明，故用 For example。A Above all 表强调递进，B On average 表数据平均，C In principle 表理论层面，都不能引出例证；下文 he theorised that... 也说明这是在“举例说明其理论”。",
+        "trap": "C In principle 与下段 In theory 形近，易被误选；但此处是具体例子而非理论陈述，且 In principle 与后文 he theorised 语义重复。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 5,
+        "answer": "B",
+        "options": [
+          "fond",
+          "fearful",
+          "capable",
+          "thoughtless"
+        ],
+        "cn": [
+          "喜欢的",
+          "害怕的，担心的",
+          "有能力的",
+          "欠考虑的"
+        ],
+        "explain": "a judge ___ of appearing too soft on crime 意为“一位担心在犯罪问题上显得过于心软的法官”。fearful of doing sth. 表示“担心、害怕做某事”，正好解释法官为何倾向于重判：怕被外界批评软弱。A fond of“喜欢”与语境相反；C capable of“能够”虽可接动名词，但“有能力显得软弱”不合逻辑；D thoughtless 不能接 of appearing。",
+        "trap": "C capable of 语法上成立，是主要干扰；但“有能力显得软弱”逻辑不通，此处需要的是法官的顾虑而非能力。",
+        "type": "形容词辨析/搭配"
+      },
+      {
+        "n": 6,
+        "answer": "D",
+        "options": [
+          "in",
+          "for",
+          "to",
+          "on"
+        ],
+        "cn": [
+          "在……里",
+          "为了",
+          "对于，朝向",
+          "在……方面"
+        ],
+        "explain": "be soft on crime 是固定搭配，意为“对犯罪态度软弱”，句意为法官害怕在犯罪问题上显得软弱。介词 on 表示“在……方面（所持的态度）”。A in、B for、C to 均不能构成这一搭配；soft on sb./sth. 是英语中评价态度时的惯用组合，如 be soft on terrorism。",
+        "trap": "C to 受汉语“对……软弱”的影响最易误选，但英语固定说法是 soft on crime，而非 soft to crime。",
+        "type": "介词搭配"
+      },
+      {
+        "n": 7,
+        "answer": "A",
+        "options": [
+          "if",
+          "until",
+          "though",
+          "unless"
+        ],
+        "cn": [
+          "如果",
+          "直到",
+          "虽然",
+          "除非"
+        ],
+        "explain": "空格引导条件从句，说明法官更可能判人入狱的前提：如果当天他已经对五六名被告只判了社区服务。if 引导条件状语从句，与主句 might be more likely to send someone to prison 构成“条件—结果”关系。B until 表时间终点，C though 表让步，D unless 表否定条件，均无法与“先轻判、后转重判”的对比逻辑吻合。",
+        "trap": "D unless 会变成“除非他已判五六人社区服务，否则更可能判其入狱”，与原文“已经轻判过，所以后面要重判”的逻辑相反。",
+        "type": "逻辑关系"
+      },
+      {
+        "n": 8,
+        "answer": "A",
+        "options": [
+          "test",
+          "emphasize",
+          "share",
+          "promote"
+        ],
+        "cn": [
+          "检验，测试",
+          "强调",
+          "分享",
+          "推广"
+        ],
+        "explain": "To ___ this idea, he turned to the university-admissions process 意为“为了检验这一想法，他转向大学招生过程”。test an idea 是学术语境中的固定搭配，指用数据验证假设；下文他分析9,323场面试正是验证过程。B emphasize“强调”、C share“分享”、D promote“推广”都不能体现“用招生数据验证推测”的含义。",
+        "trap": "D promote 有“推动某种观点”之义，但下文的动作是收集并分析面试数据，重点在“检验”而非“推广”。",
+        "type": "动词辨析"
+      },
+      {
+        "n": 9,
+        "answer": "B",
+        "options": [
+          "decision",
+          "quality",
+          "status",
+          "success"
+        ],
+        "cn": [
+          "决定",
+          "素质，质量",
+          "地位",
+          "成功"
+        ],
+        "explain": "本句说申请者的 ___ 不应取决于同一天被随机选来面试的另外几个人。招生语境中，面试官评分针对的是申请者的 quality“素质、品质”，并与下文 rated applicants on a scale of one to five 直接呼应。A decision“决定”受上文 decision-makers 干扰，但“申请者的决定取决于他人”逻辑不通；C status“地位”、D success“成功”都不能被面试评分所衡量。",
+        "trap": "A decision 因上句 decision-makers 的复现而最具迷惑性；但此处主语是申请者本人，其“决定”不会因同组面试者的分数而改变。",
+        "type": "名词辨析"
+      },
+      {
+        "n": 10,
+        "answer": "C",
+        "options": [
+          "found",
+          "studied",
+          "chosen",
+          "identified"
+        ],
+        "cn": [
+          "找到",
+          "研究",
+          "被挑选",
+          "识别"
+        ],
+        "explain": "the few others ___ randomly for interview 中，others 指其他申请者，与 for interview 搭配表示“被随机选中参加面试”，过去分词 chosen 作后置定语，相当于 who were chosen randomly for interview。A found“找到”、B studied“研究”、D identified“识别”都不能与 for interview 构成“选来面试”之意。",
+        "trap": "A found 与 randomly 连用似乎可通，但 find sb. for interview 不是英语表达；此处强调的是招生官的挑选行为，应用 chosen。",
+        "type": "分词/搭配"
+      },
+      {
+        "n": 11,
+        "answer": "A",
+        "options": [
+          "otherwise",
+          "defensible",
+          "replaceable",
+          "exceptional"
+        ],
+        "cn": [
+          "并非如此，另外的情况",
+          "可辩护的",
+          "可替代的",
+          "例外的"
+        ],
+        "explain": "but Dr Simonsohn suspected the truth was ___ 与前半句 In theory... should not depend on... 形成转折：理论上不应如此，但他怀疑事实并非如此。otherwise 在此作表语形容词，意为“不同的、另外的情况”，the truth was otherwise 即“事实并非如此”。B defensible“可辩护的”、C replaceable“可替代的”、D exceptional“例外的”都不能直接承接这一转折。",
+        "trap": "D exceptional 有“异常、例外”之义，似乎可表示“事实反常”；但 the truth was exceptional 意为“事实是个例外”，不如 otherwise 那样直接对应“理论上不应如此”。",
+        "type": "副词/语义"
+      },
+      {
+        "n": 12,
+        "answer": "C",
+        "options": [
+          "inspired",
+          "expressed",
+          "conducted",
+          "secured"
+        ],
+        "cn": [
+          "激发的",
+          "表达的",
+          "进行的，主持的",
+          "获得的"
+        ],
+        "explain": "9,323 MBA interviews ___ by 31 admissions officers 中，过去分词修饰 interviews，表示“由31名招生官进行的面试”。conduct an interview 是固定搭配，意为“进行面试”，且 interviews conducted by sb. 是学术写作中的常用表达。A inspired“激发”、B expressed“表达”、D secured“获得”都不能与 interview 搭配。",
+        "trap": "A inspired 受“面试官启发申请者”的联想干扰，但 inspire an interview 不成立；此处说的是面试由谁主持进行。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 13,
+        "answer": "B",
+        "options": [
+          "assigned",
+          "rated",
+          "matched",
+          "arranged"
+        ],
+        "cn": [
+          "分配",
+          "评分，评级",
+          "匹配",
+          "安排"
+        ],
+        "explain": "The interviewers had ___ applicants on a scale of one to five 意为“面试官按一分到五分的标准给申请者评分”。rate sb. on a scale of... 是“按……标准给某人评分”的固定表达，且与下句 The scores were... 直接呼应。A assigned“分配”、C matched“匹配”、D arranged“安排”都不能与 on a scale of one to five 搭配。",
+        "trap": "A assigned 可接分数（assign grades），但 assign applicants on a scale 搭配不成立；下文 scores 一词也提示此处是“评分”。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 14,
+        "answer": "C",
+        "options": [
+          "put",
+          "got",
+          "took",
+          "gave"
+        ],
+        "cn": [
+          "放，放置",
+          "得到",
+          "拿，采取",
+          "给"
+        ],
+        "explain": "take... into consideration 是固定搭配，意为“把……考虑在内”，句意为这一评分标准把众多因素纳入考量。A put 常与 into practice、into effect 搭配，不说 put... into consideration；B got、D gave 也不能构成该短语。",
+        "trap": "A put 受汉语“把……放进去考虑”的影响易被误选，但英语固定说法是 take... into consideration。",
+        "type": "固定搭配"
+      },
+      {
+        "n": 15,
+        "answer": "B",
+        "options": [
+          "instead",
+          "then",
+          "ever",
+          "rather"
+        ],
+        "cn": [
+          "相反",
+          "然后，随后",
+          "曾经",
+          "宁愿"
+        ],
+        "explain": "前文说面试官给出了一到五分的评分，本句说这些分数 ___ 与 GMAT 成绩结合使用。then 表示时间或顺序上的“随后”，说明评分之后的环节，符合招生流程的先后。A instead 表转折替代，C ever 表曾经，D rather 表程度或选择，都不能体现流程的先后关系。",
+        "trap": "A instead 需要前后形成替代关系，但评分与 GMAT 成绩是并用而非替代，故不能选。",
+        "type": "副词/逻辑"
+      },
+      {
+        "n": 16,
+        "answer": "C",
+        "options": [
+          "selected",
+          "passed",
+          "marked",
+          "introduced"
+        ],
+        "cn": [
+          "挑选",
+          "通过",
+          "评分，计分",
+          "介绍"
+        ],
+        "explain": "a standardised exam which is ___ out of 800 points 意为“一项按800分制计分的标准化考试”。be marked out of... 指考试“以……为满分计分”，与 out of 800 points 搭配。A selected“挑选”、B passed“通过”、D introduced“介绍”都不能与 out of 800 points 构成“计分”之意。",
+        "trap": "B passed 受“通过考试”的常见义影响，但 pass out of 800 points 不表示“满分800”；此处说的是计分方式。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 17,
+        "answer": "D",
+        "options": [
+          "below",
+          "after",
+          "above",
+          "before"
+        ],
+        "cn": [
+          "在……之下",
+          "在……之后",
+          "在……之上",
+          "在……之前"
+        ],
+        "explain": "the score of the previous candidate... was 0.75 points or more higher than that of the one ___ that 中，比较对象是“前一位候选人”和“再前一位”，即时间上更早的那一位，故用 before that，意为“在那一位之前的（候选人）”。A below、C above 表位置高低，B after 表时间在后，都与 previous 的次序相反。",
+        "trap": "B after 受汉语“前一位”的语序干扰；the one before that 指“再往前的那一位”，与 previous 同向，不能选 after。",
+        "type": "介词/语篇衔接"
+      },
+      {
+        "n": 18,
+        "answer": "D",
+        "options": [
+          "jump",
+          "float",
+          "fluctuate",
+          "drop"
+        ],
+        "cn": [
+          "猛增",
+          "漂浮",
+          "波动",
+          "下降"
+        ],
+        "explain": "本句说若前一位候选人的分数比再前一位高出0.75分以上，下一位申请者的分数平均会 ___ 0.075分。下文 to undo the effects of such a decrease 中的 decrease 直接提示此处是“下降”，故选 drop。A jump“猛增”与 decrease 矛盾；B float“漂浮”不表示分数变化；C fluctuate“波动”只表起伏，不含单向下降之意。",
+        "trap": "C fluctuate 只表示“起伏不定”，不含方向；下句 decrease 明确指向下降，故须选 drop。",
+        "type": "动词辨析/上下文"
+      },
+      {
+        "n": 19,
+        "answer": "B",
+        "options": [
+          "achieve",
+          "undo",
+          "maintain",
+          "disregard"
+        ],
+        "cn": [
+          "实现，达到",
+          "抵消，消除",
+          "维持",
+          "忽视"
+        ],
+        "explain": "to ___ the effects of such a decrease 意为“抵消这样一次分数下降的影响”。undo the effects 是常见搭配，表示“消除影响、使影响失效”，与后文“需要多考30分才能弥补”逻辑一致。A achieve“实现”、C maintain“维持”、D disregard“忽视”都不能与 effects 构成“抵消影响”之意。",
+        "trap": "C maintain 与 effects 搭配会变成“维持这种下降的影响”，与句意（设法弥补劣势）正好相反。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 20,
+        "answer": "A",
+        "options": [
+          "necessary",
+          "possible",
+          "promising",
+          "helpful"
+        ],
+        "cn": [
+          "必要的",
+          "可能的",
+          "有前途的",
+          "有帮助的"
+        ],
+        "explain": "a candidate would need 30 more GMAT points than would otherwise have been ___ 意为“一名候选人需要比原本所需的分数多考30分”。than 后是虚拟比较，省略了主语 30 GMAT points，完整为 than would otherwise have been necessary，necessary 表示“（原本）所需要的”。B possible、C promising、D helpful 都不能与 points 构成“所需分数”之意。",
+        "trap": "B possible 受 otherwise 的干扰，但“比原本可能的分数多30分”语义含混；此处强调的是录取所必需的分数。",
+        "type": "形容词辨析"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 7选5",
+    "en_title": "The social sciences are flourishing",
+    "cn_title": "社会科学的繁荣与其现实影响力的落差",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "社会科学的规模扩张、现实贡献不足与经费导向改革",
+    "type": "7选5",
+    "directions": "In the following text, some sentences have been removed. For Questions 41–45, choose the most suitable one from the list A–G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on ANSWER SHEET 1. (10 points)",
+    "intro": "7选5 先看空格前后：代词指代、关键词复现、逻辑连接词和段落功能。本文主线是“社会科学规模空前，却对全球挑战贡献不足”，注意 These issues、these keywords、This is an adequate amount、That should... 等指代与承接，以及 However、Despite、But 之类的转折信号。",
+    "blocks": [
+      {
+        "en": "The social sciences are flourishing. As of 2005, there were almost half a million professional social scientists from all fields in the world, working both inside and outside academia. According to the World Social Science Report 2010, the number of social-science students worldwide has swollen by about 11% every year since 2000.",
+        "zh": "社会科学正在蓬勃发展。截至2005年，全世界各领域共有近50万名专业社会科学家，他们既在学术界内工作，也在学术界外工作。根据《2010年世界社会科学报告》，自2000年以来，全球社会科学专业的学生人数每年增加约11%。"
+      },
+      {
+        "en": "Yet this enormous resource is not contributing enough to today's global challenges, including climate change, security, sustainable development and health. {{41}} Humanity has the necessary agro-technological tools to eradicate hunger, from genetically engineered crops to artificial fertilizers. Here, too, the problems are social: the organization and distribution of food, wealth and prosperity.",
+        "zh": "然而，这一庞大的资源并未对当今的全球性挑战作出足够的贡献，这些挑战包括气候变化、安全、可持续发展和健康。{{41}} 人类已经拥有消除饥饿所必需的农业技术手段，从转基因作物到人造肥料。在这里，问题同样是社会性的：粮食、财富和繁荣的组织与分配。"
+      },
+      {
+        "en": "{{42}} This is a shame — the community should be grasping the opportunity to raise its influence in the real world. To paraphrase the great social scientist Joseph Schumpeter: there is no radical innovation without creative destruction.",
+        "zh": "{{42}} 这令人遗憾——社会科学界本应抓住机会，提升其在现实世界中的影响力。套用伟大的社会科学家约瑟夫·熊彼特的话说：没有创造性的破坏，就没有彻底的创新。"
+      },
+      {
+        "en": "Today, the social sciences are largely focused on disciplinary problems and internal scholarly debates, rather than on topics with external impact. Analyses reveal that the number of papers including the keywords \"environmental change\" or \"climate change\" have increased rapidly since 2004. {{43}}",
+        "zh": "如今，社会科学主要聚焦于学科内部的问题和学术内部的争论，而不是具有外部影响的话题。分析显示，自2004年以来，包含“环境变化”或“气候变化”等关键词的论文数量迅速增加。{{43}}"
+      },
+      {
+        "en": "When social scientists do tackle practical issues, their scope is often local: Belgium is interested mainly in the effects of poverty on Belgium, for example. And whether the community's work contributes much to an overall accumulation of knowledge is doubtful.",
+        "zh": "当社会科学家确实处理现实问题时，他们的范围往往局限于本地：例如，比利时人主要关心贫困对比利时的影响。而这一领域的工作是否对知识的整体积累有较大贡献，则令人怀疑。"
+      },
+      {
+        "en": "The problem is not necessarily the amount of available funding. {{44}} This is an adequate amount so long as it is aimed in the right direction. Social scientists who complain about a lack of funding should not expect more in today's economic climate.",
+        "zh": "问题不一定在于可用经费的多少。{{44}} 只要方向正确，这就是一笔足够的资金。在当今的经济气候下，抱怨经费不足的社会科学家不应指望得到更多。"
+      },
+      {
+        "en": "The trick is to direct these funds better. The European Union Framework funding programs have long had a category specifically targeted at social scientists. This year, it was proposed that the system be changed: Horizon 2020, a new program to be enacted in 2014, would not have such a category. This has resulted in protests from social scientists. But the intention is not to neglect social science; rather, the complete opposite. {{45}} That should create more collaborative endeavors and help to develop projects aimed directly at solving global problems.",
+        "zh": "诀窍在于更好地引导这些资金。欧盟框架资助计划长期以来一直设有专门面向社会科学家的类别。今年，有人提议改变这一体系：将于2014年实施的“地平线2020”新计划将不再设立这一类别。这引发了社会科学家的抗议。但其意图并非忽视社会科学，恰恰相反。{{45}} 这应当会促成更多合作性努力，并有助于发展直接以解决全球问题为目标的项目。"
+      }
+    ],
+    "options": {
+      "A": {
+        "en": "The idea is to force social scientists to integrate their work with other categories, including health and demographic change; food security; marine research and the bio-economy; clean, efficient energy; and inclusive, innovative and secure societies.",
+        "zh": "其思路是迫使社会科学家把自己的工作与其他类别结合起来，包括健康与人口变化；粮食安全；海洋研究与生物经济；清洁高效的能源；以及包容、创新和安全的社会。"
+      },
+      "B": {
+        "en": "The solution is to change the mindset of the academic community, and what it considers to be its main goal. Global challenges and social innovation ought to receive much more attention from scientists, especially the young ones.",
+        "zh": "解决办法是改变学术界的心态，以及它认为自己主要目标是什么。全球性挑战和社会创新应当得到科学家、尤其是年轻科学家更多的关注。"
+      },
+      "C": {
+        "en": "It could be that we are evolving two communities of social scientists: one that is discipline-oriented and publishing in highly specialized journals, and one that is problem-oriented and publishing elsewhere, such as policy briefs.",
+        "zh": "情况可能是，我们正在演化出两个社会科学家群体：一个以学科为导向，在高度专业化的期刊上发表论文；另一个以问题为导向，在其他地方发表成果，例如政策简报。"
+      },
+      "D": {
+        "en": "However, the numbers are still small: in 2010, about 1,600 of the 100,000 social-sciences papers published globally included one of these keywords.",
+        "zh": "然而，这些数字仍然很小：2010年，全球发表的10万篇社会科学论文中，约有1600篇包含上述关键词之一。"
+      },
+      "E": {
+        "en": "These issues all have root causes in human behavior: all require behavioral change and social innovations, as well as technological development. Stemming climate change, for example, is as much about changing consumption patterns and promoting tax acceptance as it is about developing clean energy.",
+        "zh": "这些问题都根源于人类行为：它们都需要行为改变和社会创新，也需要技术发展。例如，遏制气候变化既关乎改变消费模式和促进税收接受度，也同样关乎发展清洁能源。"
+      },
+      "F": {
+        "en": "Despite these factors, many social scientists seem reluctant to tackle such problems. And in Europe, some are up in arms over a proposal to drop a specific funding category for social-science research and to integrate it within cross-cutting topics of sustainable development.",
+        "zh": "尽管有这些因素，许多社会科学家似乎仍不愿处理这类问题。在欧洲，一些人对一项提议表示强烈反对，该提议要求取消社会科学研究的一个专门经费类别，并将其纳入可持续发展的跨领域议题之中。"
+      },
+      "G": {
+        "en": "During the late 1990s, national spending on social sciences and the humanities as a percentage of all research and development funds — including government, higher education, non-profit and corporate — varied from around 4% to 25%; in most European nations, it is about 15%.",
+        "zh": "20世纪90年代后期，各国用于社会科学和人文学科的开支占全部研究与发展经费（包括政府、高等教育、非营利机构和企业）的比例大约在4%到25%之间；在大多数欧洲国家，这一比例约为15%。"
+      }
+    },
+    "fixed_note": "B、C 为多余选项，不填入任何空。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "E",
+        "explain": "空格前列举气候变化、安全、可持续发展、健康等全球性挑战，E 以 These issues 回指，指出这些问题的根源在于人类行为，既需要技术发展，也需要行为改变和社会创新。空格后紧接着谈消除饥饿的农业技术手段，并说“问题同样是社会性的”，与 E 的“技术 + 社会”双线完全吻合。",
+        "clue": "global challenges → These issues → behavioral change and social innovations, as well as technological development → Here, too, the problems are social"
+      },
+      {
+        "n": 42,
+        "answer": "F",
+        "explain": "空格后说 This is a shame，感叹社会科学界本应抓住机会扩大现实影响；F 指出许多社会科学家不愿处理这类问题，甚至对取消社会科学专门经费类别的提议强烈反对，正是“令人遗憾”所指。F 末句提到的欧洲经费提议，也为末段 Horizon 2020 的详细讨论埋下伏笔。",
+        "clue": "reluctant to tackle such problems → This is a shame → grasping the opportunity to raise its influence"
+      },
+      {
+        "n": 43,
+        "answer": "D",
+        "explain": "空格前说含“环境变化”“气候变化”关键词的论文数量迅速增加，D 以 However 转折，指出绝对数字仍然很小，并用 these keywords 回指前句的关键词；10万篇中约1600篇的数据正好支撑“数量在增加，占比却很低”。",
+        "clue": "keywords → these keywords；increased rapidly → the numbers are still small"
+      },
+      {
+        "n": 44,
+        "answer": "G",
+        "explain": "空格前说问题不一定在经费数量，空格后说 This is an adequate amount so long as...，需要一个表示“金额、比例”的先行成分。G 给出各国社科与人文经费占比（4%–25%，多数欧洲国家约15%），this 即指这一比例，并与下句“只要方向正确就足够”衔接。",
+        "clue": "the amount of available funding → 4% to 25% ... about 15% → This is an adequate amount"
+      },
+      {
+        "n": 45,
+        "answer": "A",
+        "explain": "空格前说改革的意图不是忽视社会科学，恰恰相反；空格后说 That should create more collaborative endeavors and help to develop projects aimed directly at solving global problems。A 以 The idea is to... 说明改革意图——迫使社会科学家与其他类别融合，所列健康、粮食安全、能源等正是跨领域合作方向，与 That 呼应。",
+        "clue": "the intention is not to neglect social science; rather, the complete opposite → The idea is to force... integrate → That should create more collaborative endeavors"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "The gardens of the homeless",
+    "cn_title": "无家可归者的花园",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "无家可归者建造的花园所体现的人类基本需求",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on ANSWER SHEET 2. (10 points)",
+    "intro": "翻译先拆结构，再定主干，最后按中文语序重排。注意 when 时间状语从句中的形式主语 it strikes one that、however 引导的让步状语、非限制性定语从句、until 时间状语从句，以及第50句的 It is... that... 强调句。",
+    "paragraphs": [
+      {
+        "en": "It is speculated that gardens arise from a basic human need in the individuals who made them: the need for creative expression. There is no doubt that gardens evidence an irrepressible urge to create, express, fashion, and beautify and that self-expression is a basic human urge; [[46]]yet when one looks at the photographs of the gardens created by the homeless, it strikes one that, for all their diversity of styles, these gardens speak of various other fundamental urges, beyond that of decoration and creative expression.[[/46]]",
+        "zh": "据推测，花园源于建造它们的个人内心的一种基本人类需求：创造性表达的需求。毫无疑问，花园表明人有一种不可抑制的创造、表达、塑造和美化的冲动，而自我表达正是人类的一种基本冲动；然而，当人们观看那些由无家可归者建造的花园的照片时，会突然意识到：尽管这些花园风格各异，它们传达的却是另外一些根本性的需求，超出了装饰和创造性表达的需求。"
+      },
+      {
+        "en": "One of these urges has to do with creating a state of peace in the midst of turbulence, a \"still point of the turning world,\" to borrow a phrase from T. S. Eliot. [[47]]A sacred place of peace, however crude it may be, is a distinctly human need, as opposed to shelter, which is a distinctly animal need.[[/47]] This distinction is so much so that where the latter is lacking, as it is for these unlikely gardeners, the former becomes all the more urgent. Composure is a state of mind made possible by the structuring of one's relation to one's environment. [[48]]The gardens of the homeless, which are in effect homeless gardens, introduce form into an urban environment where it either didn't exist or was not discernible as such.[[/48]] In so doing they give composure to a segment of the inarticulate environment in which they take their stand.",
+        "zh": "这些需求之一，与在动荡之中创造一种安宁状态有关——借用 T. S. 艾略特的话说，就是“旋转世界中的静止点”。一处神圣的安宁之所，无论多么简陋，都是人类特有的需求，与住所截然不同——住所是动物特有的需求。这种区别如此之大，以至于在后者（住所）匮乏时——对这些不太像园丁的人而言正是如此——前者（安宁之所）就变得更为迫切。镇定是一种心境，它通过安排人与环境的关系而成为可能。无家可归者的花园实际上就是“无家花园”，它们把形式引入城市环境——在这种环境中，形式要么并不存在，要么无法被辨认为形式。它们这样做，就为它们所立足的那片难以言说的环境赋予了一份镇定。"
+      },
+      {
+        "en": "Another urge or need that these gardens appear to respond to, or to arise from, is so intrinsic that we are barely ever conscious of its abiding claims on us. When we are deprived of green, of plants, of trees, [[49]]most of us give in to a demoralization of spirit which we usually blame on some psychological conditions, until one day we find ourselves in a garden and feel the oppression vanish as if by magic.[[/49]] In most of the homeless gardens of New York City the actual cultivation of plants is unfeasible, yet even so the compositions often seem to represent attempts to call forth the spirit of plant and animal life, if only symbolically, through a clumplike arrangement of materials, an introduction of colors, small pools of water, and a frequent presence of petals or leaves as well as of stuffed animals.",
+        "zh": "这些花园似乎所回应、或所源出的另一种冲动或需求，是如此内在于我们，以至于我们几乎从未意识到它对我们持续不断的要求。当我们被剥夺了绿色、植物和树木时，我们大多数人会陷入精神上的消沉，并通常把这种消沉归咎于某些心理状况；直到有一天，我们置身花园之中，感到那种压抑像施了魔法一样消失得无影无踪。在纽约市大多数无家可归者的花园里，真正种植植物是不可行的，但即便如此，这些构图往往仍像是在试图唤起植物和动物生命的精神，哪怕只是象征性的——通过成簇的材料布置、色彩的引入、小水池，以及花瓣或树叶乃至填充动物玩偶的常见出现。"
+      },
+      {
+        "en": "On display here are various fantasy elements whose reference, at some basic level, seems to be the natural world. [[50]]It is this implicit or explicit reference to nature that fully justifies the use of the word garden, though in a \"liberated\" sense, to describe these synthetic constructions.[[/50]] In them we can see biophilia — a yearning for contact with nonhuman life — assuming uncanny representational forms.",
+        "zh": "这里展示的是各种幻想元素，它们在某个基本层面上所指涉的似乎是自然世界。正是这种对自然含蓄或明确的指涉，使“花园”一词用于描述这些人造建筑完全站得住脚，尽管是在一种“宽松”的意义上。在它们之中，我们可以看到生物亲和性——一种与非人类生命接触的渴望——呈现出奇异的再现形式。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "yet when one looks at the photographs of the gardens created by the homeless, it strikes one that, for all their diversity of styles, these gardens speak of various other fundamental urges, beyond that of decoration and creative expression.",
+        "core": "When one looks at the photographs..., it strikes one that these gardens speak of various other fundamental urges.",
+        "structure": "yet 承接上文表转折；when 引导时间状语从句，created by the homeless 是过去分词短语作后置定语修饰 gardens；主句 it strikes one that... 中 it 是形式主语，that 引导主语从句；for all their diversity of styles 是让步状语，意为“尽管风格多样”；beyond that of decoration and creative expression 是介词短语，that 指代 the urge。",
+        "key": "strike sb. that... 使某人想到、觉得；for all 尽管；speak of 表明，传达出；diversity of styles 风格多样；beyond 超出。",
+        "translation": "然而，当人们观看那些由无家可归者建造的花园的照片时，会突然意识到：尽管这些花园风格各异，它们所传达的却是另外一些根本性的需求，超出了装饰和创造性表达的需求。",
+        "pitfall": "for all 是“尽管”而非“为了所有”；it strikes one that 中的 it 是形式主语，不能译成“它打击了人”；beyond that of... 的 that 指代 urge，翻译时要把“需求”补出来。"
+      },
+      "47": {
+        "en": "A sacred place of peace, however crude it may be, is a distinctly human need, as opposed to shelter, which is a distinctly animal need.",
+        "core": "A sacred place of peace is a distinctly human need, as opposed to shelter.",
+        "structure": "主句为 A sacred place of peace is a distinctly human need；however crude it may be 是让步状语从句，however + 形容词 + 主谓，意为“无论它多么简陋”；as opposed to shelter 作对比状语；which 引导非限制性定语从句修饰 shelter。",
+        "key": "sacred 神圣的；crude 简陋的，粗糙的；distinctly 明显是，独特地；as opposed to 与……相对；shelter 住所，庇护所。",
+        "translation": "一处神圣的安宁之所，无论它多么简陋，都是人类特有的需求，与住所截然不同——住所是动物特有的需求。",
+        "pitfall": "however crude it may be 是让步状语，不能译成“然而它很简陋”；as opposed to 表对比而非“反对”；which 修饰 shelter，不是 place of peace。"
+      },
+      "48": {
+        "en": "The gardens of the homeless, which are in effect homeless gardens, introduce form into an urban environment where it either didn't exist or was not discernible as such.",
+        "core": "The gardens of the homeless introduce form into an urban environment.",
+        "structure": "主语 The gardens of the homeless 后接 which 引导的非限制性定语从句，in effect 意为“实际上”；谓语为 introduce... into...；where 引导定语从句修饰 environment，其中 it 指 form，either... or... 连接 didn't exist 与 was not discernible 两个并列谓语。",
+        "key": "in effect 实际上；introduce... into... 把……引入；form 形式；discernible 可辨认的；as such 作为这样的东西。",
+        "translation": "无家可归者的花园实际上就是“无家花园”，它们把形式引入城市环境——在这种环境中，形式要么并不存在，要么无法被辨认为形式。",
+        "pitfall": "in effect 不是“生效”；where 从句中的 it 指 form，不是 environment；as such 意为“作为这样的东西”，不能译成“因此”。"
+      },
+      "49": {
+        "en": "most of us give in to a demoralization of spirit which we usually blame on some psychological conditions, until one day we find ourselves in a garden and feel the oppression vanish as if by magic.",
+        "core": "Most of us give in to a demoralization of spirit, until one day we find ourselves in a garden.",
+        "structure": "主句为 most of us give in to a demoralization of spirit；which 引导定语从句修饰 demoralization，blame... on... 意为“把……归咎于”；until 引导时间状语从句，find ourselves in a garden 与 feel the oppression vanish 并列，vanish 作 feel 的宾语补足语。",
+        "key": "give in to 屈服于，陷入；demoralization of spirit 精神消沉；blame sth. on... 把……归咎于；oppression 压抑；as if by magic 像施了魔法一样。",
+        "translation": "我们大多数人会陷入精神上的消沉，并通常把这种消沉归咎于某些心理状况；直到有一天，我们置身花园之中，感到那种压抑像施了魔法一样消失得无影无踪。",
+        "pitfall": "which 修饰 demoralization of spirit，不是 psychological conditions；feel the oppression vanish 中 vanish 是宾语补足语，不能丢掉“感到”；until 在此引导时间状语，意为“直到有一天……”，主句为肯定陈述，不能套用否定式理解。"
+      },
+      "50": {
+        "en": "It is this implicit or explicit reference to nature that fully justifies the use of the word garden, though in a \"liberated\" sense, to describe these synthetic constructions.",
+        "core": "It is this reference to nature that fully justifies the use of the word garden.",
+        "structure": "本句是 It is... that... 强调句型，强调主语 this implicit or explicit reference to nature；justify 的宾语是 the use of the word garden；though in a \"liberated\" sense 是插入的让步状语；to describe these synthetic constructions 是修饰 use 的不定式。",
+        "key": "implicit or explicit 含蓄或明确的；reference to nature 对自然的指涉；justify 使……正当，为……提供理由；in a \"liberated\" sense 在“宽松”的意义上；synthetic constructions 人造建筑。",
+        "translation": "正是这种对自然含蓄或明确的指涉，使“花园”一词用于描述这些人造建筑完全站得住脚，尽管是在一种“宽松”的意义上。",
+        "pitfall": "强调句 It is... that... 不能译成“它是……的”；though 引导的让步修饰“用花园一词来描述”这一做法；synthetic 此处是“人造的”，不是化学上的“合成的”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "An email & a picture essay",
+    "cn_title": "邀请邮件 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "邀请外教担任英语演讲比赛评委；毕业岔路口与人生道路的选择",
+    "intro": "小作文考“邮件格式 + 邀请并说明具体安排”；大作文考“描述毕业岔路口的图画 + 解释毕业选择的寓意 + 评论”。",
+    "partA": {
+      "title": "Part A · 电子邮件",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Write an e-mail of about 100 words to a foreign teacher in your college, inviting him/her to be a judge for the upcoming English speech contest. You should include the details you think necessary. You should write neatly on ANSWER SHEET. Do not sign your own name at the end of the e-mail. Use \"Li Ming\" instead. Do not write the address. (10 points)",
+      "prompt_zh": "给你学院的一位外教写一封约100词的电子邮件，邀请他/她担任即将举行的英语演讲比赛的评委。你认为必要的细节都应写入。结尾不要签自己的名字，用“Li Ming”；不要写地址。",
+      "sample": "Subject: Invitation to Be a Judge for the English Speech Contest\n\nDear Mr. Smith,\n\nI am writing on behalf of the English Department to invite you to be a judge for our upcoming English speech contest.\n\nThe contest will be held in the main lecture hall on Saturday, May 18, from 2:00 to 5:00 p.m. About twenty students will speak for five minutes each on the topic \"My Dream and My Responsibility\". As a judge, you would score the speeches and offer brief comments at the end.\n\nPlease let me know whether you are available. We would be honored to have you with us.\n\nYours sincerely,\nLi Ming",
+      "sample_zh": "主题：邀请担任英语演讲比赛评委\n\n尊敬的史密斯先生：\n\n我谨代表英语系写信给您，邀请您担任我们即将举行的英语演讲比赛的评委。\n\n比赛将于5月18日（星期六）下午2点至5点在主报告厅举行。约二十名学生将围绕“我的梦想与我的责任”这一题目各演讲五分钟。作为评委，您需要为选手打分，并在最后作简短点评。\n\n请告知您是否有空。若您能出席，我们将深感荣幸。\n\n此致\n敬礼\n李明",
+      "structure": [
+        [
+          "主题行",
+          "Subject: Invitation to Be a Judge for the English Speech Contest"
+        ],
+        [
+          "称呼",
+          "Dear Mr. Smith,"
+        ],
+        [
+          "表明身份与写信目的",
+          "I am writing on behalf of the English Department to invite you to be a judge for..."
+        ],
+        [
+          "比赛的时间、地点与形式",
+          "The contest will be held in the main lecture hall on Saturday, May 18, from 2:00 to 5:00 p.m."
+        ],
+        [
+          "评委职责",
+          "As a judge, you would score the speeches and offer brief comments at the end."
+        ],
+        [
+          "请求回复与致谢",
+          "Please let me know whether you are available. We would be honored to have you with us."
+        ],
+        [
+          "落款",
+          "Yours sincerely, Li Ming"
+        ]
+      ],
+      "expressions": [
+        "I am writing on behalf of..., to invite you to...",
+        "We would be grateful if you could...",
+        "The contest will be held in... on..., from... to...",
+        "As a judge, you would score the speeches and offer brief comments.",
+        "Please let me know whether you are available.",
+        "We would be honored to have you with us."
+      ],
+      "traps": [
+        "题目要求写给学院里的外教，称呼可用 Dear Mr. Smith 一类；结尾署 Li Ming，不要写自己的真实姓名，也不要写地址。",
+        "邀请必须落到具体细节：比赛时间、地点、演讲题目、每位选手的时长、评委要做的事，只写“诚挚邀请”会显得空洞。",
+        "约100词，注意邮件格式（主题行、称呼、正文、结束语、署名），不要写成通知或议论文。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay of 160–200 words based on the following drawing. In your essay, you should 1) describe the drawing briefly, 2) interpret its intended meaning, and 3) give your comments. You should write neatly on ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据所给图画写一篇160—200词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "src": "../assets/writing/2013.png",
+        "caption": "毕业生的岔路口：“求职”“考研”“出国”“创业”",
+        "note": "画面中一群身穿学士服、头戴学士帽的毕业生站在道路的岔口，头顶的牌子上写着“毕业生”。他们面前的道路分向不同方向，路牌分别标着“求职”“考研”“出国”“创业”。图画以岔路口比喻毕业时的人生选择：方向很多，反而令人迟疑。"
+      },
+      "sample": "The drawing presents a group of graduates in academic gowns and caps standing at a fork in the road. Above their heads hangs a sign reading \"Graduates\". At their feet the road splits into several paths, each marked with a different destination: job hunting, postgraduate study, going abroad and starting a business. Faced with so many possibilities, the young people seem to pause, unsure which way to take.\n\nThe picture captures a dilemma that almost every graduate experiences. On the one hand, having multiple choices is a privilege: it shows that education has opened many doors. On the other hand, too many options can be paralysing, especially when parents, peers and society impose their expectations on the young. Some simply follow the crowd and take the safest-looking path; others drift for years because they never ask what they truly want.\n\nIn my view, there is no single best road at this crossroads. What matters is that the choice is made consciously. Before setting out, graduates should examine their interests, abilities and values, and accept that a decision can be revised later. A clear direction, even a temporary one, is far better than standing still at the fork.",
+      "sample_zh": "这幅画描绘了一群身穿学位袍、头戴学位帽的毕业生站在道路的岔口。他们头顶上方挂着一块写有“毕业生”的牌子。在他们脚下，道路分向几个方向，每条路都标着不同的去向：求职、考研、出国和创业。面对如此多的可能，这些年轻人似乎停下脚步，不知该走哪条路。\n\n这幅画捕捉到了几乎每位毕业生都会经历的困境。一方面，拥有多种选择是一种幸运：它说明教育打开了许多扇门。另一方面，选择过多也会让人无所适从，尤其当父母、同辈和社会都把各自的期待压向年轻人时。有些学生只是随大流，选择看起来最稳妥的那条路；另一些人则漂泊多年，因为他们从未问过自己真正想要什么。\n\n在我看来，这个岔路口上没有唯一正确的路。重要的是做出有意识的选择。在出发之前，毕业生应当审视自己的兴趣、能力和价值观，并接受一个决定日后仍可修正。一个清晰的方向，哪怕只是暂时的，也远胜于在岔路口原地不动。",
+      "structure": [
+        [
+          "第一段·描述图画",
+          "The drawing presents graduates at a fork in the road... sign reading \"Graduates\"... paths marked job hunting, postgraduate study, going abroad and starting a business."
+        ],
+        [
+          "第二段·解释寓意",
+          "The picture captures a dilemma... multiple choices are a privilege, yet too many options can be paralysing... some follow the crowd, others drift."
+        ],
+        [
+          "第三段·给出评论",
+          "In my view, there is no single best road... the choice should be made consciously... a clear direction is better than standing still."
+        ]
+      ],
+      "expressions": [
+        "The drawing presents a group of graduates standing at a fork in the road.",
+        "each marked with a different destination",
+        "Faced with so many possibilities, ... seem to pause, unsure which way to take.",
+        "The picture captures a dilemma that almost every graduate experiences.",
+        "On the one hand... On the other hand...",
+        "What matters is that the choice is made consciously.",
+        "A clear direction, even a temporary one, is far better than standing still."
+      ],
+      "traps": [
+        "描述要抓住“学士服 + 岔路口 + 四块路牌（求职、考研、出国、创业）”，不要漏掉“毕业生”的身份提示，也不要逐字罗列路牌而写成清单。",
+        "寓意应落在“毕业时的人生选择与道路”，不要偏成“就业难”“考研热”或单纯“要多读书”；四条路本身没有优劣，重点是选择时的清醒与担当。",
+        "评论段要给出自己的判断（如“没有唯一正确的路，重要的是有意识地选择”），避免只喊“祝大家前程似锦”一类空话。"
+      ]
+    }
+  }
+}

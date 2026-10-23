@@ -1,0 +1,687 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "AI 与美：技术带来的审美新体验及其伦理隐忧",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "文章讨论人工智能与“美”的关系：AI 既能与人类创造力结合，带来虚拟试妆、个性化美容建议等新体验，也可能支配我们的审美体验，加深社会审美压力，导致自我认知扭曲与身体不满。作者最后提醒，AI 可以提升我们对美的欣赏，但不应取代真实的人际体验与情感联结。做题时注意转折与递进标记：Still、While、Additionally、In this way 等，并把握作者“有限肯定 + 伦理警惕”的基本态度。",
+    "passage": [
+      {
+        "en": "Advances in artificial intelligence (AI) are rapidly changing every aspect of human life. The world of AI is buzzing with an exciting potential to improve and enrich our lives. {{1}}, AI also has the potential hazard of {{2}} our experiences in ways we might find difficult to control. One such {{3}} is how we understand and experience beauty.",
+        "zh": "人工智能（AI）的进步正在迅速改变人类生活的方方面面。AI 领域正涌动着令人兴奋的潜力：它可以改善并丰富我们的生活。不过，AI 也有可能以我们难以控制的方式支配我们的体验。其中一个方面，就是我们如何理解和感受美。"
+      },
+      {
+        "en": "AI can be a collaborative tool in a wide range of creative endeavors. {{4}} human creativity and AI algorithms can lead to unique artistic {{5}} that are beautiful to the human eye. These collaborations are likely to become increasingly common. {{6}}, as convenient and provocative, AI enables virtual try-on experiences where you can virtually {{7}} makeup, hairstyles, clothing, and even cosmetic procedures {{8}} making any physical changes. Individuals can now experiment with different looks and {{9}} their preferences, potentially expanding the range of beauty ideals. AI algorithms can {{10}} facial features and skin conditions to provide personalized beauty recommendations. This {{11}} approach aims to cater to individual preferences and enhance the concept of beauty tailored to each person's unique characteristics. {{12}}, AI can be a fun vehicle for self-discovery.",
+        "zh": "在广泛的创造性活动中，AI 都可以成为协作工具。把人类的创造力与 AI 算法结合起来，可以产生独特的艺术成果，这些成果在人的眼中是美的。这类合作很可能会越来越普遍。例如，AI 既方便又颇具争议，它能带来虚拟试穿体验：你可以在不做出任何身体改变的情况下，虚拟试用妆容、发型、服装，甚至医美项目。如今，个人可以尝试不同的造型，探索自己的偏好，从而有可能拓宽美的标准。AI 算法可以分析面部特征和皮肤状况，从而提供个性化的美容建议。这种定制化的方法旨在迎合个人偏好，强化“美应依每个人的独特特征量身定制”这一理念。这样一来，AI 也可以成为自我发现的有趣载体。"
+      },
+      {
+        "en": "While AI offers exciting possibilities, it also raises ethical {{13}}. There is a risk of deepening societal beauty {{14}} and perpetuating unattainable beauty standards. {{15}}, AI-powered beauty filters and editing tools can lead to distorted self-perception and {{16}} body dissatisfaction. As summarized in a recent post on \"The Hidden Dangers of Online Beauty Filters\", {{17}} on this technology for social presentation can cause harm {{18}} body image issues, lower self-esteem, and social anxiety.",
+        "zh": "尽管 AI 带来了令人兴奋的可能性，它也引发了伦理方面的担忧。一种风险是加深社会审美压力，并使难以企及的审美标准长期延续。此外，AI 驱动的美颜滤镜和修图工具会导致自我认知扭曲，并助长对身体的不满。正如近期一篇题为《网络美颜滤镜的隐藏危险》的文章所总结的那样，在社交展示中依赖这项技术，可能造成身体意象问题、自尊降低和社交焦虑等伤害。"
+      },
+      {
+        "en": "It's important to note that while AI can enhance our {{19}} of beauty, it should not {{20}} the genuine human experience and the emotional connections we derive from seeing the beauty in each other.",
+        "zh": "值得注意的是，虽然 AI 可以提升我们对美的欣赏，但它不应取代真实的人类体验，也不应取代我们从彼此身上发现美时获得的情感联结。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "A",
+        "options": [
+          "Still",
+          "Therefore",
+          "Afterward",
+          "Instead"
+        ],
+        "cn": [
+          "不过；然而",
+          "因此",
+          "之后；后来",
+          "相反；代替"
+        ],
+        "explain": "前一句说 AI 有改善和丰富生活的巨大潜力，本句转而说它也可能带来难以控制的风险，前后构成转折。Still 作副词置于句首，意为“不过、然而”，正合此处“既有机遇又有隐忧”的语气。",
+        "trap": "B Therefore 表因果，但“有潜力”并不是“有风险”的原因；C Afterward 表时间先后；D Instead 表替代或与前述相反，通常暗示否定前者，均不能准确表达让步转折。",
+        "type": "逻辑关系/转折"
+      },
+      {
+        "n": 2,
+        "answer": "D",
+        "options": [
+          "reviewing",
+          "narrating",
+          "ignoring",
+          "dominating"
+        ],
+        "cn": [
+          "回顾；审查",
+          "叙述",
+          "忽视",
+          "支配；主宰"
+        ],
+        "explain": "dominate our experiences 意为“支配、主宰我们的体验”，与紧随其后的 in ways we might find difficult to control（以我们难以控制的方式）形成语义呼应：正因为被支配，才难以掌控。",
+        "trap": "A reviewing 是“回顾、审查”，B narrating 是“叙述”，都不能与 experiences 搭配表示“左右体验”；C ignoring 是“忽视”，与“难以控制”的被动处境方向相反。",
+        "type": "动词辨析/语境"
+      },
+      {
+        "n": 3,
+        "answer": "B",
+        "options": [
+          "reason",
+          "area",
+          "clue",
+          "belief"
+        ],
+        "cn": [
+          "原因",
+          "领域；方面",
+          "线索",
+          "信念"
+        ],
+        "explain": "One such area is how we understand and experience beauty 意为“其中一个方面，就是我们如何理解和体验美”。area 指 AI 可能施加影响的领域，后接 how 引导的从句，说明该领域的具体内容。",
+        "trap": "A reason 需要前文给出因果，且“原因是我们如何理解美”逻辑不通；C clue 是“线索”，D belief 是“信念”，都不能由 how 从句直接说明，也不能承接前文所说的 hazard、说明其具体表现。",
+        "type": "名词辨析/上下文"
+      },
+      {
+        "n": 4,
+        "answer": "C",
+        "options": [
+          "Balancing",
+          "Distinguishing",
+          "Combining",
+          "Introducing"
+        ],
+        "cn": [
+          "平衡",
+          "区分",
+          "结合",
+          "引入；介绍"
+        ],
+        "explain": "combine A and B 意为“把 A 与 B 结合起来”。本句说把人类的创造力与 AI 算法结合，可以产生独特的艺术成果，正呼应上句 AI can be a collaborative tool（AI 可以成为协作工具）。",
+        "trap": "A Balancing 强调在两者之间权衡，B Distinguishing 强调把两者区分开，D Introducing 强调引介新事物，都不能表达“人机协作、二者合一”的意思。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 5,
+        "answer": "B",
+        "options": [
+          "prospects",
+          "outcomes",
+          "ambitions",
+          "sentiments"
+        ],
+        "cn": [
+          "前景；预期",
+          "成果；结果",
+          "抱负；雄心",
+          "情感；情绪"
+        ],
+        "explain": "unique artistic outcomes 意为“独特的艺术成果”。这种成果已经产生，并且 beautiful to the human eye（在人眼中是美的），outcomes 与 lead to 搭配自然，表示结合之后产生的结果。",
+        "trap": "A prospects 指尚未实现的前景，与 that are beautiful 的既成事实矛盾；C ambitions 是人的抱负，不能由 artistic 修饰；D sentiments 是情感，不能被“人眼看到的美”所修饰。",
+        "type": "名词辨析/语义"
+      },
+      {
+        "n": 6,
+        "answer": "C",
+        "options": [
+          "At first",
+          "By comparison",
+          "For instance",
+          "In general"
+        ],
+        "cn": [
+          "起初",
+          "相比之下",
+          "例如",
+          "总的来说"
+        ],
+        "explain": "前句说这类合作会越来越普遍，本句以 AI 虚拟试穿为例，具体说明合作如何进入日常生活。For instance 引出例证，使“越来越普遍”这一判断落到实处。",
+        "trap": "A At first 表时间起点，B By comparison 表比较，D In general 表概括；三者都不能引出对前句的具体例证，且本句并非与另一对象比较。",
+        "type": "逻辑关系/例证"
+      },
+      {
+        "n": 7,
+        "answer": "A",
+        "options": [
+          "test",
+          "copy",
+          "link",
+          "save"
+        ],
+        "cn": [
+          "试用；测试",
+          "复制",
+          "连接",
+          "节省；保存"
+        ],
+        "explain": "virtually test makeup, hairstyles, clothing 意为“虚拟试用妆容、发型和服装”。test 与前面的 virtual try-on experiences（虚拟试穿体验）同义复现，强调在不改变身体的前提下先试一试效果。",
+        "trap": "B copy 是“复制”，C link 是“连接”，D save 是“节省、保存”，都不能与 makeup、hairstyles 搭配表示“试妆、试发型”，也无法与 try-on 呼应。",
+        "type": "动词辨析/搭配"
+      },
+      {
+        "n": 8,
+        "answer": "D",
+        "options": [
+          "upon",
+          "beyond",
+          "through",
+          "before"
+        ],
+        "cn": [
+          "在……之后；一……就",
+          "超出",
+          "通过",
+          "在……之前"
+        ],
+        "explain": "虚拟试用医美项目 before making any physical changes，即“在做任何身体改变之前”先看看效果。before 准确表达“先虚拟体验、后决定是否真做”的时间顺序，也凸显虚拟技术的价值。",
+        "trap": "A upon 表示“一……就”，语序变成“做改变之后立刻试用”，与“虚拟”的目的相反；B beyond 表超出，C through 表方式，都不能表达时间先后。",
+        "type": "介词/时间关系"
+      },
+      {
+        "n": 9,
+        "answer": "A",
+        "options": [
+          "explore",
+          "recall",
+          "simplify",
+          "cherish"
+        ],
+        "cn": [
+          "探索；探究",
+          "回忆起",
+          "简化",
+          "珍视"
+        ],
+        "explain": "explore their preferences 意为“探索自己的偏好”。本句说个人可以尝试不同造型并探索偏好，experiment with different looks 与 explore their preferences 构成递进：先尝试，再发现自己喜欢什么。",
+        "trap": "B recall 是“回忆起”已有的偏好，与“尝试不同造型”这一探索过程不符；C simplify 是“简化”，D cherish 是“珍视”，都不能与 experiment 并列说明发现自我的过程。",
+        "type": "动词辨析/语境"
+      },
+      {
+        "n": 10,
+        "answer": "D",
+        "options": [
+          "recover",
+          "arrange",
+          "reserve",
+          "analyze"
+        ],
+        "cn": [
+          "恢复",
+          "安排；排列",
+          "保留；预订",
+          "分析"
+        ],
+        "explain": "analyze facial features and skin conditions 意为“分析面部特征和皮肤状况”。AI 通过分析这些数据，才能 provide personalized beauty recommendations（提供个性化美容建议），analyze 与后文的数据处理逻辑一致。",
+        "trap": "A recover 是“恢复”，B arrange 是“安排、排列”，C reserve 是“保留、预订”，都不能与 facial features 搭配表示“分析面部特征”，也无法引出个性化建议。",
+        "type": "动词辨析/科技语境"
+      },
+      {
+        "n": 11,
+        "answer": "D",
+        "options": [
+          "localized",
+          "normalized",
+          "randomized",
+          "customized"
+        ],
+        "cn": [
+          "局部的；本地化的",
+          "常态化的；标准化的",
+          "随机的",
+          "定制化的"
+        ],
+        "explain": "This customized approach 意为“这种定制化的方法”。本句紧接着说它旨在 cater to individual preferences（迎合个人偏好）、tailored to each person's unique characteristics（为每个人的独特特征量身定制），customized 与 personalized、tailored 同义复现。",
+        "trap": "A localized 强调地域范围，B normalized 强调“标准化、常态化”，与“个性化”正好相反；C randomized 强调随机分配，均不能概括本段“因人而异”的做法。",
+        "type": "形容词/同义复现"
+      },
+      {
+        "n": 12,
+        "answer": "D",
+        "options": [
+          "At best",
+          "To the contrary",
+          "By definition",
+          "In this way"
+        ],
+        "cn": [
+          "充其量",
+          "相反地",
+          "按定义来说",
+          "这样一来；以这种方式"
+        ],
+        "explain": "前文说 AI 提供个性化建议、强化“为每个人量身定制的美”，本句总结“这样一来，AI 也可以成为自我发现的有趣载体”。In this way 承上启下，表示“以刚才所说的这种方式”。",
+        "trap": "A At best 表让步性的“充其量”，B To the contrary 表相反，C By definition 表定义；三者都不能承接前文的正面描述并引出总结，且本句并非转折或下定义。",
+        "type": "逻辑关系/总结"
+      },
+      {
+        "n": 13,
+        "answer": "C",
+        "options": [
+          "divisions",
+          "expectations",
+          "concerns",
+          "values"
+        ],
+        "cn": [
+          "分歧；划分",
+          "期望",
+          "担忧；关切",
+          "价值观"
+        ],
+        "explain": "raise ethical concerns 是固定搭配，意为“引发伦理方面的担忧”。下文列举的审美压力、自我认知扭曲、身体不满等，正是这些伦理担忧的具体内容。",
+        "trap": "A divisions 是“分歧、划分”，B expectations 是“期望”，D values 是“价值观”；raise ethical values 搭配不成立，且三者都不能统摄下文列举的种种危害。",
+        "type": "名词/固定搭配"
+      },
+      {
+        "n": 14,
+        "answer": "A",
+        "options": [
+          "pressures",
+          "mysteries",
+          "understandings",
+          "suspicions"
+        ],
+        "cn": [
+          "压力",
+          "谜团",
+          "理解",
+          "怀疑"
+        ],
+        "explain": "societal beauty pressures 意为“社会审美压力”。deepening（加深）与 pressures 搭配自然，且与并列的 perpetuating unattainable beauty standards（使难以企及的审美标准长期延续）在语义上相互补充。",
+        "trap": "B mysteries 是“谜团”，C understandings 是“理解”，D suspicions 是“怀疑”；三者都不能被 deepening 修饰，也无法与“难以企及的审美标准”并列说明同一类社会问题。",
+        "type": "名词/语境"
+      },
+      {
+        "n": 15,
+        "answer": "B",
+        "options": [
+          "Approximately",
+          "Additionally",
+          "Alternatively",
+          "Accidentally"
+        ],
+        "cn": [
+          "大约",
+          "此外；而且",
+          "或者；作为替代",
+          "偶然地"
+        ],
+        "explain": "前句已指出一种风险——加深审美压力、延续不切实际的标准；本句进一步列举美颜滤镜和修图工具的危害，是递进关系。Additionally 意为“此外”，用于补充同类论据。",
+        "trap": "A Approximately 表约数，C Alternatively 表二选一，D Accidentally 表偶然；三者都不能连接两个并列的风险，且本句并非选择或约数。",
+        "type": "逻辑关系/递进"
+      },
+      {
+        "n": 16,
+        "answer": "C",
+        "options": [
+          "deal with",
+          "result from",
+          "contribute to",
+          "focus on"
+        ],
+        "cn": [
+          "应对；处理",
+          "由……造成",
+          "助长；促成",
+          "关注；聚焦于"
+        ],
+        "explain": "contribute to body dissatisfaction 意为“助长对身体的不满”。本句的 lead to distorted self-perception 与 contribute to body dissatisfaction 并列，都说明滤镜和修图工具带来的负面后果。",
+        "trap": "B result from 表示“由……造成”，会把因果颠倒成“身体不满造成了滤镜”；A deal with 是“应对”，D focus on 是“关注”，都不能与 lead to 并列表示“加剧危害”。",
+        "type": "动词短语/因果"
+      },
+      {
+        "n": 17,
+        "answer": "C",
+        "options": [
+          "starting",
+          "checking",
+          "relying",
+          "working"
+        ],
+        "cn": [
+          "开始",
+          "检查",
+          "依赖；依靠",
+          "工作；从事"
+        ],
+        "explain": "rely on this technology for social presentation 意为“在社交展示中依赖这项技术”。rely on 与后面的 cause harm 构成“行为—后果”：正因为过度依赖，才会造成身体意象问题、自尊下降和社交焦虑。",
+        "trap": "A start on 是“开始做”，B check on 是“检查”，D work on 是“从事、处理”；三者都不能与 on this technology 搭配表示“依赖技术”，也无法解释后文的危害。",
+        "type": "动词短语/搭配"
+      },
+      {
+        "n": 18,
+        "answer": "B",
+        "options": [
+          "apart from",
+          "such as",
+          "regardless of",
+          "prior to"
+        ],
+        "cn": [
+          "除……之外",
+          "例如",
+          "不管；不顾",
+          "在……之前"
+        ],
+        "explain": "harm such as body image issues, lower self-esteem, and social anxiety 意为“诸如身体意象问题、自尊降低和社交焦虑之类的伤害”。such as 引出对 harm 的具体列举，三项并列正是例证。",
+        "trap": "A apart from 表排除，会变成“除了这些伤害之外”，与句意相反；C regardless of 表让步，D prior to 表时间，都不能引出例举。",
+        "type": "介词短语/例证"
+      },
+      {
+        "n": 19,
+        "answer": "B",
+        "options": [
+          "imitation",
+          "appreciation",
+          "preservation",
+          "consumption"
+        ],
+        "cn": [
+          "模仿",
+          "欣赏；鉴赏",
+          "保存；保护",
+          "消费"
+        ],
+        "explain": "enhance our appreciation of beauty 意为“提升我们对美的欣赏”。appreciation 与结尾 the beauty in each other（彼此身上的美）以及 emotional connections 相呼应，强调审美感受而非占有或复制。",
+        "trap": "A imitation 是“模仿”，C preservation 是“保存”，D consumption 是“消费”；三者都不能与 enhance...of beauty 搭配表示审美能力的提升，也与全文“感受美”的主旨不符。",
+        "type": "名词/搭配"
+      },
+      {
+        "n": 20,
+        "answer": "A",
+        "options": [
+          "replace",
+          "seize",
+          "share",
+          "reflect"
+        ],
+        "cn": [
+          "取代；代替",
+          "抓住；夺取",
+          "分享",
+          "反映"
+        ],
+        "explain": "it should not replace the genuine human experience 意为“它不应取代真实的人类体验”。本句以 while AI can enhance... 开头，形成“可以增强、但不能取代”的对照，replace 准确点出技术与人情之间的界限。",
+        "trap": "B seize 是“抓住、夺取”，C share 是“分享”，D reflect 是“反映”；三者都不能与 the genuine human experience 构成“技术取代人”的对比，也无法呼应 enhance 与 not 的转折。",
+        "type": "动词辨析/主旨"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 排序",
+    "en_title": "The Case for Reading",
+    "cn_title": "为阅读辩护",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "商务人士为何应当多读书：从小说、科普到诗歌，阅读是想象力与自我提升的源泉",
+    "type": "ordering",
+    "directions": "The following paragraphs are given in a wrong order. For questions 41-45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A-H and filling them into the numbered boxes. Paragraphs F, H, and C have been correctly placed. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "排序题先利用已给定的 F、H、C 定位：F 为首段，H 为第 4 段，C 为第 6 段。再逐段找“接口”：F 末句的 read a book 引出 D 的“阅读是解药”；D 的 imagination 之后，B 以 But 转折写商界的现实反差；B 末句的 a vast ocean 引出 H 的 Read fiction；H 末句 golden age of translation 与 E 首句 golden age of science writing 构成平行复现；C 的神经科学证据后接 G 的 also been found；G 末句 a good book in our hands 收束到 A 的 just read a single poem。整体框架是“倡导读书—现实反差—读小说—读科普—阅读益处—具体行动”。",
+    "paragraphs": {
+      "A": {
+        "en": "And just read a single poem. In his Oxford lectures, Seamus Heaney argued that a poem draws a picture of reality, a \"glimpsed alternative\" that sets up a contradiction with your own, in ways little and large. The negotiation, between you and it, is the heart of the matter. What does the poet see that you don't? What does the difference mean? It could be one of the best conversations you ever have. Forget self-help books; reading is self-help in action.",
+        "zh": "不妨只读一首诗。谢默斯·希尼在牛津的讲座中提出，一首诗描绘出现实的一幅图景，一种“窥见的另一种可能”，它会以或大或小的方式与你自己的现实构成矛盾。你与诗之间的这种协商，才是事情的核心。诗人看到了什么而你没有看到？这种差异又意味着什么？这可能是你一生中最好的对话之一。别再去读自助类书籍了；阅读本身就是行动中的自助。"
+      },
+      "B": {
+        "en": "But for the most part, this isn't what the business community does. I have yet to meet a chief executive who reads regularly. Many skip newspapers, and magazines are a stretch. They don't have time, they say. It's inefficient; they can get the information they need from those around them. At a pinch, they might pick up a business book before a long flight, in the hope that, like a cookbook, it will provide a foolproof recipe. Some are drawn to what I think of as \"business car crash\" books — the stories of Theranos, Purdue, or WeWork. But outside those narrow pools of interest, a vast ocean awaits, bountiful with simmering ideas, mental adventure and imaginative refreshment.",
+        "zh": "但大多数情况下，商界并不这么做。我还没遇到一位定期阅读的首席执行官。许多人连报纸都不看，读杂志更是勉为其难。他们说，自己没时间；阅读效率低，需要的信息从身边人那里就能得到。实在没办法时，他们或许会在长途飞行前拿起一本商业书，希望它像菜谱一样提供万无一失的配方。有些人则被我所称的“商业车祸”类书籍吸引——即 Theranos、Purdue 或 WeWork 的故事。但在这些狭窄的兴趣池之外，还有一片广阔的海洋，满是不断酝酿的思想、精神上的冒险和想象力的焕发。"
+      },
+      "C": {
+        "en": "Neuroscientists have been at pains to demonstrate that the pleasure a book provides isn't indulgence; it's good for you. Reading will keep you better informed about the world but it can also improve our tech-shattered ability to concentrate. Standing in the shoes of others fine tunes our social understanding, useful as we struggle to understand friends, neighbours, customers and co-workers. Different parts of our brain engage as we simulate scenes, characters and mental states. Our imagination — remember that? — is rekindled.",
+        "zh": "神经科学家一直努力证明，书籍带来的愉悦并非放纵，而是对你有益的。阅读会让你更了解世界，也能改善我们被科技割裂的专注力。站在他人的立场上，会微妙地提升我们的社会理解力——当我们努力理解朋友、邻居、客户和同事时，这一点很有用。当我们模拟场景、人物和心理状态时，大脑的不同区域都会被调动起来。我们的想象力——还记得它吗？——被重新点燃。"
+      },
+      "D": {
+        "en": "It is undoubtedly true that all work and no play really does make Jack, or Jill, dull. The cure is right at hand. Reading is cheap, easy and, most important, it's fun. Liberate your imagination this year.",
+        "zh": "不可否认，只工作不玩耍，确实会让杰克——或者吉尔——变得迟钝。解药就在手边。阅读便宜、容易，而且最重要的是，它很有趣。今年就解放你的想象力吧。"
+      },
+      "E": {
+        "en": "We are living through a golden age of science writing, so lucid and accessible that even lay readers can relish the unpredictability of discovery. Daunted by uncertainty? Stand in the shoes of scientists and witness the degree to which breakthroughs emerge from accidents, conflict and sheer mental stamina. \"We are never sure of anything,\" says the physicist (and writer) Carlo Rovelli.",
+        "zh": "我们正生活在一个科学写作的黄金时代，这些作品如此清晰易懂，以至于普通读者也能享受发现过程的不确定性。被不确定性吓住了吗？那就站在科学家的立场上，看看突破在多大程度上源自意外、冲突和纯粹的心智毅力。“我们对任何事情都从未有把握，”物理学家（兼作家）卡洛·罗韦利说。"
+      },
+      "F": {
+        "en": "You don't need to get out more. If, like most business people, you spend your life dashing from office to plane, train to home, boardroom to washroom, what you really need to do is stay in more, sit down — and read a book.",
+        "zh": "你不需要多出门。如果你像大多数商务人士一样，一生都在办公室与飞机、火车与家、会议室与洗手间之间奔波，那么你真正需要做的，是多待在家里，坐下来——读一本书。"
+      },
+      "G": {
+        "en": "Reading has also been found to make us more helpful, to reduce bias, and even to increase longevity — something we will enjoy all the more if we have a good book in our hands. (And yes, all these benefits are more closely associated with physical books than digital ones.)",
+        "zh": "研究还发现，阅读能让我们更乐于助人、减少偏见，甚至延长寿命——而如果我们手边有一本好书，就会更加享受这一切。（是的，所有这些益处与纸质书的关联都比与电子书更紧密。）"
+      },
+      "H": {
+        "en": "Read fiction. Any fiction. Free yourself from algorithms and choose — anything. You don't need technology for an immersive experience — just surrender to narratives across time and place. Modern (Sebastian Barry or Olga Tokarczuk), classic (Virginia Woolf or James Baldwin) or genre (Stephen King, Margaret Atwood, Georges Simenon) — it doesn't matter. Fiction invites you to loiter unseen in the lives of others. We are living through a golden age of translation too, so you can go anywhere in time or place.",
+        "zh": "读小说吧。任何小说都行。把自己从算法中解放出来，随便选——什么都行。你不需要技术来获得沉浸式体验——只需沉浸于跨越时空的叙事。现代作家（塞巴斯蒂安·巴里或奥尔加·托卡尔丘克）、经典作家（弗吉尼亚·伍尔夫或詹姆斯·鲍德温）还是类型小说（斯蒂芬·金、玛格丽特·阿特伍德、乔治·西默农）——都无所谓。小说邀请你隐身徘徊于他人的生活之中。我们也正处在翻译的黄金时代，因此你可以去往任何时间或地点。"
+      }
+    },
+    "fixed_note": "原卷已给定三段：F 为第 1 段，H 为第 4 段（位于 42 与 43 之间），C 为第 6 段（位于 43 与 44 之间）。41–45 从剩余 A、B、D、E、G 五段中选择，最终顺序为 F–D–B–H–E–C–G–A，即 41–D、42–B、43–E、44–G、45–A。",
+    "answers": [
+      {
+        "n": 41,
+        "answer": "D",
+        "explain": "F 已给定为第 1 段，末句提出主张：真正要做的是“坐下来读一本书”。D 紧承其后，用 all work and no play really does make Jack, or Jill, dull 说明为什么必须读，并以 The cure is right at hand 把阅读定位为“解药”，再以 Reading is cheap, easy and, most important, it's fun 给出理由。D 末句 Liberate your imagination this year 又为 B 的现实反差作铺垫。",
+        "clue": "F 的 stay in more / read a book → D 的 The cure is right at hand / Reading is cheap, easy... fun；D 的 imagination → B 的 this isn't what the business community does"
+      },
+      {
+        "n": 42,
+        "answer": "B",
+        "explain": "B 以 But 转折，指出“商界大多数情况下并不这么做”：首席执行官们不读书、不看报，理由是没有时间、效率低。这与 D 所描绘的“阅读便宜、容易、有趣”形成现实反差。B 末句说狭窄兴趣池之外还有 a vast ocean... imaginative refreshment，又自然引出 H 的 Read fiction。",
+        "clue": "D 的 it's fun → B 的 this isn't what the business community does；B 的 a vast ocean / imaginative refreshment → H 的 Read fiction / Free yourself from algorithms"
+      },
+      {
+        "n": 43,
+        "answer": "E",
+        "explain": "H 已给定为第 4 段，末句 We are living through a golden age of translation too 与 E 首句 We are living through a golden age of science writing 构成明显的平行复现，故 E 紧接 H。内容上，H 从小说谈到翻译的黄金时代，E 顺势把阅读版图扩展到科学写作，说明科学作品同样能让人享受“发现的不确定性”。",
+        "clue": "H 末句 a golden age of translation → E 首句 a golden age of science writing；H 的 fiction / narratives → E 的 science writing / scientists"
+      },
+      {
+        "n": 44,
+        "answer": "G",
+        "explain": "C 已给定为第 6 段，指出神经科学家证明阅读并非放纵，而能提升专注力、社会理解力并重新点燃想象力。G 以 Reading has also been found to... 承接，also 表明这是对 C 所述益处的追加：阅读还能让人更乐于助人、减少偏见、延长寿命。C 的“研究发现”与 G 的“also been found”构成严密的证据链。",
+        "clue": "C 的 Neuroscientists have been at pains to demonstrate → G 的 has also been found；C 的 imagination is rekindled → G 的 benefits / longevity"
+      },
+      {
+        "n": 45,
+        "answer": "A",
+        "explain": "G 末句说“手边有一本好书”会让我们更享受这些益处，A 以 And just read a single poem 把建议落到最小、最具体的行动：哪怕只读一首诗。随后引希尼的诗歌观，说明阅读是与另一种现实的“协商”，最后以 Forget self-help books; reading is self-help in action 收束全文，是典型的结尾段。",
+        "clue": "G 的 a good book in our hands → A 的 just read a single poem；A 末句 reading is self-help in action 总结全文、回应开篇“读书”的主张"
+      }
+    ]
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "Scientific Literacy",
+    "cn_title": "科学素养",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "美国“科学素养”概念的历史演变及其对科学教育目标的启示",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. (10 points)",
+    "intro": "本次翻译围绕“科学素养”这一概念的历史展开。五个画线句分别考查：现在分词状语、how 宾语从句与 muddying 结果状语（46）；which 非限制性定语从句与 more... less... 比较结构（47）；have sb. do sth. 与 in the belief that 同位语从句（48）；It was not until... that... 强调结构与省略关系词的定语从句（49）；grow out of 与 as well as 连接的并列宾语（50）。翻译时先拎出主干，再把定语、同位语和比较结构按中文习惯拆分或前置。",
+    "paragraphs": [
+      {
+        "en": "Science education today revolves around the idea of scientific literacy — the base-level knowledge about science that nonscientists require to effectively get on in the world. This concept has served as a central goal for curriculum developers, local school boards, business and community leaders, and policymakers ever since its introduction nearly 80 years ago.",
+        "zh": "如今，科学教育围绕“科学素养”这一理念展开——即非科学家为在世上立足、有效应对生活所需具备的基础科学知识。自近 80 年前被提出以来，这一概念一直是课程开发者、地方学校董事会、商界和社区领袖以及政策制定者的核心目标。"
+      },
+      {
+        "en": "[[46]]Tracing the history of the term, we can see how the definition of scientific literacy has shifted over time, muddying the waters when it comes to determining the goals of science education.[[/46]] And that's a shame, because there is much to recommend in the idea of scientific literacy as it was originally articulated in 1945, a time when science appeared to be the key to progress and scientists seemingly held the fate of the world in their hands. [[47]]A return to that version of scientific literacy, which focused more on teaching what science is and how it works and less on memorizing scientific facts, seems like something society today desperately needs.[[/47]]",
+        "zh": "追溯这一术语的历史，我们可以看到科学素养的定义如何随时间而变化，这使确定科学教育目标的工作变得混乱不清。这很可惜，因为科学素养这一理念在 1945 年最初被阐明时确有诸多可取之处；当时科学似乎是通往进步的钥匙，科学家似乎掌握着世界的命运。回归那个版本的科学素养——它更注重教授科学是什么、如何运作，而不那么注重记忆科学事实——似乎正是当今社会迫切需要的。"
+      },
+      {
+        "en": "In the United States, the desire to provide the public with a general, nontechnical education in science originated as far back as the late 1800s. [[48]]Educators advanced the idea of having students complete detailed laboratory exercises in high schools in the belief that such work was beneficial primarily as a way to enhance logical reasoning and observational skills.[[/48]] The development in 1915 of the popular new subject \"general science\" was another effort to train students to apply the principles of science to everyday, nonscience problems.",
+        "zh": "在美国，向公众提供普遍的、非技术性科学教育的愿望，早在 19 世纪末就已出现。教育工作者提出，让高中学生完成详细的实验练习，他们相信这种练习主要有助于增强逻辑推理能力和观察能力。1915 年，热门新科目“普通科学”的发展，是另一项训练学生将科学原理应用于日常非科学问题的努力。"
+      },
+      {
+        "en": "Although these efforts were aimed at the nonscience-bound student, they never really made their way into mainstream thought and public discourse as a means to rally widespread support for the importance of science teaching in schools. [[49]]It wasn't until the phrase \"scientific literacy\" came along in the 1940s that science had the formidable slogan it needed to command public attention and make improving science education an important national goal.[[/49]]",
+        "zh": "尽管这些努力面向的是不打算从事科学相关职业的学生，但它们从未真正进入主流思想和公共话语，也从未成为一种凝聚广泛支持、让人们重视学校科学教育的手段。直到 20 世纪 40 年代“科学素养”这一说法出现，科学才拥有了它所需要的有力口号，从而能够赢得公众关注，并使改善科学教育成为一项重要的国家目标。"
+      },
+      {
+        "en": "[[50]]The intense focus on scientific literacy in the United States originally grew out of the critical role of science and technology during World War II, as well as the perceived deficiencies of American soldiers.[[/50]] As the war unfolded, science rapidly assumed a central role. Battles increasingly depended on new military technologies such as radar and the proximity fuze. Science-based analytical approaches proved remarkably successful in the hunt for German submarines in the Atlantic Ocean. And there was the (then-secret) work building the world's first atomic bomb. As a result, scientists — physicists in particular — found themselves in high demand.",
+        "zh": "美国对科学素养的强烈关注，最初源于科学技术在第二次世界大战中的关键作用，以及人们所认为的美国士兵的不足。随着战争展开，科学迅速占据核心地位。战斗越来越依赖雷达和近炸引信等新军事技术。以科学为基础的分析方法在大西洋搜寻德国潜艇的过程中被证明极为成功。此外还有（当时保密的）建造世界第一颗原子弹的工作。结果，科学家——尤其是物理学家——发现自己供不应求。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "Tracing the history of the term, we can see how the definition of scientific literacy has shifted over time, muddying the waters when it comes to determining the goals of science education.",
+        "core": "We can see how the definition of scientific literacy has shifted over time.",
+        "structure": "Tracing the history of the term 是现在分词短语作状语，逻辑主语是主句主语 we；主句为 we can see how...；how 引导宾语从句，作 see 的宾语；muddying the waters... 是现在分词短语作结果状语，其逻辑主语是“定义随时间变化”这件事；when it comes to 是固定表达，后接动名词 determining。",
+        "key": "trace 追溯；shift 变化、转变；muddy the waters 把水搅浑、使情况混乱；when it comes to 谈到、涉及；determine 确定；scientific literacy 科学素养。",
+        "translation": "追溯这一术语的历史，我们可以看到科学素养的定义如何随时间而变化，这使确定科学教育目标的工作变得混乱不清。",
+        "pitfall": "Tracing 的逻辑主语是 we，不能译成被动“被追溯”；muddying the waters 是结果状语，不是与 see 并列的谓语；when it comes to 后接动名词，不能按字面译成“当它来到”；shift 在这里是“变化”，不是“转移位置”。"
+      },
+      "47": {
+        "en": "A return to that version of scientific literacy, which focused more on teaching what science is and how it works and less on memorizing scientific facts, seems like something society today desperately needs.",
+        "core": "A return to that version of scientific literacy seems like something society today desperately needs.",
+        "structure": "主句为 A return... seems like something...；which 引导非限制性定语从句，修饰 that version of scientific literacy；从句中 focused more on... and less on... 是并列比较结构；what science is 与 how it works 并列作 teaching 的宾语；society today desperately needs 是省略了关系词的定语从句，修饰 something。",
+        "key": "version 版本；focus on 注重；memorize 记忆；seem like 似乎是；desperately 迫切地；articulate 阐明、表达。",
+        "translation": "回归那个版本的科学素养——它更注重教授科学是什么、如何运作，而不那么注重记忆科学事实——似乎正是当今社会迫切需要的。",
+        "pitfall": "which 从句修饰的是“那一版本的科学素养”，不是 return；more... less... 要译出“更……而不那么……”的比较；what science is 是名词性从句“科学是什么”，不是疑问句；something 后省略了关系词，不能漏译“社会所需要的”。"
+      },
+      "48": {
+        "en": "Educators advanced the idea of having students complete detailed laboratory exercises in high schools in the belief that such work was beneficial primarily as a way to enhance logical reasoning and observational skills.",
+        "core": "Educators advanced the idea in the belief that such work was beneficial.",
+        "structure": "主句为 Educators advanced the idea...；of having students complete... 是介词短语修饰 idea，have sb. do sth. 表示“让某人做某事”；in the belief that... 是介词短语作状语，that 引导同位语从句说明 belief 的内容；primarily as a way to... 说明 beneficial 主要体现在哪里。",
+        "key": "advance 提出、推进；have sb. do sth. 让某人做某事；laboratory exercises 实验练习；in the belief that 相信、认为；beneficial 有益的；primarily 主要地；enhance 增强；observational skills 观察能力。",
+        "translation": "教育工作者提出，让高中学生完成详细的实验练习，他们相信这种练习主要有助于增强逻辑推理能力和观察能力。",
+        "pitfall": "having students complete 不是“有学生完成”，而是“让学生完成”；in the belief that 是“相信”，不是“在信念中”；advanced 此处是“提出”，不是“先进的”；primarily 修饰 beneficial，表示“主要好处在于”，不是“最初”。"
+      },
+      "49": {
+        "en": "It wasn't until the phrase \"scientific literacy\" came along in the 1940s that science had the formidable slogan it needed to command public attention and make improving science education an important national goal.",
+        "core": "Science had the slogan it needed.",
+        "structure": "It was not until... that... 是强调结构，强调时间状语 until the phrase... came along in the 1940s；that 之后是主句；it needed 是省略了关系词的定语从句，修饰 slogan；to command... and make... 是并列不定式，说明 slogan 的作用；make improving science education an important national goal 为 make + 宾语 + 宾补结构。",
+        "key": "not... until 直到……才；come along 出现；formidable 强大的、有力的；slogan 口号；command public attention 赢得公众关注；make... a goal 使……成为目标。",
+        "translation": "直到 20 世纪 40 年代“科学素养”这一说法出现，科学才拥有了它所需要的有力口号，从而能够赢得公众关注，并使改善科学教育成为一项重要的国家目标。",
+        "pitfall": "It was not until... that... 应译成“直到……才……”，不能译成“它不是直到”；formidable 在此是“强有力的”，不是“可怕的”；it needed 的 it 指 slogan；make improving... 是“使改善……成为”，improving 不是“改进中的”。"
+      },
+      "50": {
+        "en": "The intense focus on scientific literacy in the United States originally grew out of the critical role of science and technology during World War II, as well as the perceived deficiencies of American soldiers.",
+        "core": "The focus grew out of the role, as well as the deficiencies.",
+        "structure": "主句为 The intense focus... grew out of...；grew out of 意为“源于”；of science and technology 修饰 role；during World War II 是时间状语；as well as 连接两个并列宾语 the critical role 与 the perceived deficiencies；perceived 是过去分词作定语，修饰 deficiencies。",
+        "key": "intense 强烈的；focus on 对……的关注；grow out of 源于、由……产生；critical role 关键作用；as well as 以及；perceived 人们所认为的；deficiency 不足、缺陷。",
+        "translation": "美国对科学素养的强烈关注，最初源于科学技术在第二次世界大战中的关键作用，以及人们所认为的美国士兵的不足。",
+        "pitfall": "grew out of 不是“长出来”，而是“源于”；as well as 连接两个并列宾语，不要译成“和……一样好”；perceived 是“人们所认为的”，不是“已经感知到的”；originally 修饰 grew out of，表示“最初”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "An email & a chart essay",
+    "cn_title": "回复邮件 + 图表作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "回复朋友关于中国家庭手写信的邮件；养老机器人接受度与首要关注点图表作文",
+    "intro": "2026 年小作文要求回复朋友 Paul 的邮件：他看到你昨天发布的中国家庭手写信后很感动，想了解更多，并询问是否公开展出。回信需回应“感动”、补充手写信的背景与内容、说明展出信息，并表达带他参观的意愿。大作文为图表作文：饼图显示养老机器人消费者接受度（完全接受 39.3%、部分接受 32.8%、不接受 27.9%），柱状图显示首要关注点（安全 46.30%、价格 24.90%、便利 10.70%），主题是科技养老与老龄化社会。",
+    "partA": {
+      "title": "Part A · 回复邮件",
+      "score": 10,
+      "words": "约100词",
+      "prompt": "Read the following email from your friend Paul and write him a reply.\n\nHi Li Ming,\nI was really moved by the Chinese families' handwritten letters you posted yesterday. They are priceless! Could you please tell me a bit more about them? And are they currently on public display somewhere? I'm very keen to see them in person. Thanks.\nYours,\nPaul\n\nYou should write about 100 words on the ANSWER SHEET. Do not use your own name in the email; use \"Li Ming\" instead. (10 points)",
+      "prompt_zh": "阅读朋友保罗写给你的以下邮件，并给他写一封回信。\n\n李明，你好：\n你昨天发布的中国家庭手写信让我很感动。它们太珍贵了！你能再给我讲讲它们吗？它们目前在哪里公开展出吗？我非常想亲眼看看。谢谢。\n你的朋友\n保罗\n\n请在答题卡上写约 100 词。不要在邮件中使用自己的真实姓名，用“李明”代替。",
+      "sample": "Dear Paul,\n\nI'm delighted that the handwritten letters moved you. They were written by ordinary Chinese family members — parents, grandparents and children — to one another, and each one preserves a small piece of daily life that phones and chat apps rarely capture.\n\nThe letters are indeed on public display. Since last Friday they have formed part of a small exhibition at the city library, and the show runs until the end of the month. I'd be happy to take you there this weekend and introduce you to the curator, who can tell you how the letters were collected.\n\nLooking forward to seeing you.\n\nYours,\nLi Ming",
+      "sample_zh": "亲爱的保罗：\n\n看到那些手写信打动了你，我很高兴。它们是中国普通家庭成员——父母、祖父母和孩子——写给彼此的信，每一封都保存着一段日常生活，而这是手机和聊天软件很少能记录下来的。\n\n这些信确实正在公开展出。从上周五起，它们成为市图书馆一个小型展览的一部分，展览将持续到本月底。我很乐意这个周末带你去，并把你介绍给策展人，他可以告诉你这些信是如何收集来的。\n\n期待与你见面。\n\n你的朋友\n李明",
+      "structure": [
+        [
+          "称呼与回应感动",
+          "Dear Paul, / I'm delighted that the handwritten letters moved you."
+        ],
+        [
+          "介绍手写信的来源与内容",
+          "They were written by ordinary Chinese family members — parents, grandparents and children — to one another, and each one preserves a small piece of daily life that phones and chat apps rarely capture."
+        ],
+        [
+          "回答“是否公开展出”",
+          "The letters are indeed on public display. Since last Friday they have formed part of a small exhibition at the city library, and the show runs until the end of the month."
+        ],
+        [
+          "提出陪同参观并介绍策展人",
+          "I'd be happy to take you there this weekend and introduce you to the curator, who can tell you how the letters were collected."
+        ],
+        [
+          "结尾期待见面",
+          "Looking forward to seeing you."
+        ],
+        [
+          "署名",
+          "Yours, / Li Ming"
+        ]
+      ],
+      "expressions": [
+        "I'm delighted that...",
+        "be moved by...",
+        "They were written by... to one another.",
+        "preserve a small piece of daily life",
+        "phones and chat apps rarely capture",
+        "be on public display",
+        "form part of a small exhibition",
+        "The show runs until the end of the month.",
+        "I'd be happy to take you there.",
+        "introduce you to the curator",
+        "Looking forward to seeing you."
+      ],
+      "traps": [
+        "回信对象是朋友 Paul，语气应亲切自然，但仍是书面邮件，不要通篇使用口语缩写或网络用语。",
+        "必须回答邮件中的两个问题：手写信“更多的情况”和“是否公开展出”；只写“我很感动”或只谈展览，都会造成要点不全。",
+        "开头要回应 moved，结尾要有期待见面或回复的收束；署名必须用 Li Ming，不能写真实姓名。",
+        "约 100 词，展览的时间、地点、展期给出一两项具体信息即可，不要展开成展览介绍或文化评论。",
+        "注意时态：信是“昨天”发布的、展览“从上周五”开始并“持续到月底”，现在完成时与一般现在时要用准确。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图表作文",
+      "score": 20,
+      "words": "160–200词",
+      "prompt": "Write an essay based on the charts below. In your essay, you should 1) describe the charts briefly, 2) interpret the charts, and 3) give your comments. Write your answer in 160-200 words on the ANSWER SHEET. (20 points)",
+      "prompt_zh": "根据下面的图表写一篇 160—200 词的短文。文中应：1）简要描述图表；2）解读图表；3）给出你的评论。请把答案写在答题卡上。",
+      "picture": {
+        "src": "../assets/writing/2026.png",
+        "caption": "养老机器人消费者接受度：完全接受 39.3%、部分接受 32.8%、不接受 27.9%；首要关注点：安全 46.30%、价格 24.90%、便利 10.70%。",
+        "note": "图片由左右两幅图组成，题目说明为“一项关于养老机器人的消费者接受度和首要关注点的调查”。左图为饼图，题为“养老机器人消费者接受度”：完全接受 39.3%、部分接受 32.8%、不接受 27.9%。右图为柱状图，题为“首要关注点”，三根柱子依次为安全 46.30%、价格 24.90%、便利 10.70%。两图共同说明：多数消费者对养老机器人持接受态度，但安全与价格仍是其走进家庭的关键障碍。"
+      },
+      "sample": "The two charts present a survey of consumers' attitudes towards elderly-care robots in China. The pie chart shows that 39.3% fully accept such robots and 32.8% partly accept them, while 27.9% reject the idea. The bar chart ranks users' concerns: safety comes first at 46.30%, followed by price at 24.90% and convenience at 10.70%.\n\nSeveral factors explain this pattern. The acceptance rate of over 70% reflects a pressing reality: as the population ages and young adults shoulder heavier burdens, many families struggle to care for elderly relatives around the clock. Robots that monitor health, remind users to take medicine or summon help can fill this gap. Safety is equally telling. Letting a machine look after a frail parent involves privacy, reliability and even life-and-death decisions; no wonder nearly half of those surveyed place safety above all else. Price comes second because such devices must remain affordable for ordinary households.\n\nIn my view, elderly-care robots are a promising supplement, not a substitute for human company. Manufacturers should make safety data transparent and design products that older users can operate easily. Only when technology is reliable and affordable can it serve the elderly with dignity.",
+      "sample_zh": "这两幅图表呈现了一项关于中国消费者对养老机器人态度的调查。饼图显示，39.3% 的受访者完全接受这类机器人，32.8% 部分接受，27.9% 表示不接受。柱状图则列出了用户最关心的问题：安全以 46.30% 居首，其次是价格 24.90%，便利为 10.70%。\n\n多重因素可以解释这一格局。超过七成的接受率反映出一个迫切的现实：随着人口老龄化、年轻人负担加重，许多家庭难以全天候照料年迈的亲属。能够监测健康、提醒服药或呼叫求助的机器人，可以填补这一缺口。安全方面的顾虑同样很能说明问题。让机器照看一位体弱的父母，涉及隐私、可靠性，甚至生死抉择；难怪近一半受访者把安全置于首位。价格位居第二，是因为这类设备必须让普通家庭负担得起。\n\n在我看来，养老机器人是有前景的补充，而不是人情陪伴的替代品。厂商应公开安全数据，并设计老年人易于操作的产品。只有当技术既可靠又价格合理时，它才能真正有尊严地服务老年人。",
+      "structure": [
+        [
+          "第一段·描述图表",
+          "The two charts survey consumers' attitudes towards elderly-care robots... 39.3% fully accept, 32.8% partly accept, 27.9% reject; safety 46.30%, price 24.90%, convenience 10.70%."
+        ],
+        [
+          "第二段·解读原因",
+          "The acceptance rate of over 70% reflects an aging population and heavier care burdens... robots can monitor health, remind users to take medicine or summon help... safety involves privacy, reliability and life-and-death decisions... price must remain affordable."
+        ],
+        [
+          "第三段·发表评论",
+          "Elderly-care robots are a promising supplement, not a substitute for human company... safety data should be transparent and products easy for older users... only reliable and affordable technology can serve the elderly with dignity."
+        ]
+      ],
+      "expressions": [
+        "The two charts survey consumers' attitudes towards...",
+        "The pie chart shows that...",
+        "...while 27.9% reject the idea.",
+        "The bar chart ranks users' concerns.",
+        "Safety comes first at 46.30%, followed by price at 24.90%.",
+        "Several factors lie behind this pattern.",
+        "reflect a pressing reality",
+        "shoulder heavier burdens",
+        "struggle to care for elderly relatives around the clock",
+        "fill this gap",
+        "place safety above all else",
+        "remain affordable for ordinary households",
+        "a promising supplement, not a substitute for human company",
+        "make safety data transparent",
+        "Only when... can it..."
+      ],
+      "traps": [
+        "图表作文要准确引用数据：三个接受度比例和三个关注点比例至少各引两项，不能只写“大多数人接受”“大家最关心安全”。",
+        "饼图与柱状图要分别描述，不能混为一谈：“接受度”是态度，“关注点”是顾虑，二者是不同维度。",
+        "解读要落到“人口老龄化与照护缺口”和“安全、价格是普及障碍”，不要偏成“机器人会取代子女”或“科技让人变懒”。",
+        "160–200 词，三段为宜；数据描述不要超过全文三分之一，重点应放在原因解读和评论上。",
+        "评论要客观平衡：肯定养老机器人的前景，也指出安全、价格与人文关怀的局限，不要写成产品广告或纯技术赞美。"
+      ]
+    }
+  }
+}

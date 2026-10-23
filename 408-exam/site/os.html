@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="408 计算机系统（操作系统）大题：页表与 TLB、CPU 调度、PV 同步、inode 与磁盘调度。含答案、评分点和易错点。">
+  <title>计算机系统（操作系统） · 408 大题工位</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body class="subject-os" data-page="os">
+  <a class="skip-link" href="#main">跳到主要内容</a>
+
+  <header class="site-header">
+    <div class="wrap topbar">
+      <a class="brand" href="index.html" aria-label="408 大题工位首页">
+        <span class="brand-mark">408</span>
+        <span class="brand-word">
+          <b>大题工位</b>
+          <small>big question workbench</small>
+        </span>
+      </a>
+
+      <nav class="site-nav" id="site-nav" aria-label="主导航">
+        <a href="index.html">总览</a>
+        <a href="coa.html">组成原理</a>
+        <a href="network.html">计算机网络</a>
+        <a href="os.html" aria-current="page">计算机系统</a>
+        <a href="map.html">知识线路图</a>
+      </nav>
+
+      <div class="topbar-actions">
+        <a class="english-link" href="http://127.0.0.1:5001/" data-english-link>
+          英语真题档案 <span>↗</span>
+        </a>
+        <button class="menu-toggle" type="button" aria-controls="site-nav" aria-expanded="false" aria-label="展开导航">
+          <span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main" class="wrap subject-layout">
+    <aside class="subject-rail">
+      <div class="rail-subject">OS / 计算机系统</div>
+      <h1>计算机系统<br>大题拆解</h1>
+      <span class="rail-count">OS1—OS4 · 4 道仿真母题</span>
+      <p class="rail-deck">
+        408 卷面上这一科通常写作“操作系统”。四道题覆盖地址翻译、CPU 调度、PV 同步、文件与磁盘，都是“过程分”很重的大题。
+      </p>
+
+      <div class="rail-progress" data-progress-subject="os">
+        <div class="rail-progress-head">
+          <span>已掌握</span>
+          <b data-progress-text>0 / 4</b>
+        </div>
+        <div class="progress-track"><div class="progress-fill"></div></div>
+      </div>
+
+      <nav class="q-nav" aria-label="本页题目">
+        <a href="#o1"><span>OS1</span>页表、TLB 与 EAT</a>
+        <a href="#o2"><span>OS2</span>CPU 调度与甘特图</a>
+        <a href="#o3"><span>OS3</span>生产者-消费者 PV</a>
+        <a href="#o4"><span>OS4</span>inode 与磁盘调度</a>
+      </nav>
+
+      <div class="rail-links">
+        <a href="map.html#os-vm">虚拟内存节点 <span>MAP ↗</span></a>
+        <a href="map.html#os-schedule">调度节点 <span>MAP ↗</span></a>
+        <a href="coa.html">回到计算机组成原理 <span>→</span></a>
+      </div>
+    </aside>
+
+    <div class="subject-main">
+      <section class="subject-intro" aria-label="本科目使用说明">
+        <div>
+          <h2>这一页怎么用</h2>
+          <p>先写“地址怎么拆、时间怎么排、信号量什么含义”。这三件事写对了，后面的算术只是体力活。</p>
+          <div class="intro-tags">
+            <span class="chip">页表</span>
+            <span class="chip">甘特图</span>
+            <span class="chip">PV</span>
+            <span class="chip">inode</span>
+          </div>
+        </div>
+        <div class="intro-note">
+          <span>关于科目名称</span>
+          <b>408 中这一科通常写作“操作系统”。本页按操作系统综合大题组织。</b>
+          <small>若你说的是 CSAPP 的“计算机系统”课程，知识体系会不同；可以按本页的地址/性能/并发三块先练。</small>
+        </div>
+      </section>
+
+      <div class="toolbar">
+        <span class="toolbar-note">解析默认收起 · 勾选“已掌握”会保存在本机</span>
+        <div class="toolbar-actions">
+          <button class="text-btn" type="button" data-expand-all>展开全部解析</button>
+          <button class="text-btn" type="button" data-collapse-all>收起全部</button>
+        </div>
+      </div>
+
+      <!-- ================= O1 ================= -->
+      <article class="question" id="o1">
+        <header class="q-head">
+          <div class="q-id">OS1</div>
+          <div>
+            <div class="q-kicker">题型 A · 虚拟内存 / 12 分</div>
+            <h2>两级页表、TLB 命中与有效访问时间</h2>
+            <div class="q-meta">
+              <span class="chip chip--red">高频</span>
+              <span class="chip">建议 24 min</span>
+              <span class="chip">拆地址 → 数页表页 → 算 EAT</span>
+            </div>
+          </div>
+          <label class="mastery"><input type="checkbox" data-mastery="os-o1"> 已掌握</label>
+        </header>
+
+        <div class="q-body">
+          <p class="q-prompt">
+            某系统采用 32 位虚拟地址、32 位物理地址，页面大小 4 KiB，页表项 4 B。采用两级页表，虚拟地址划分为 10 位页目录索引、10 位页表索引、12 位页内偏移。TLB 有 64 项，命中率 98%；TLB 查找需 1 个时钟周期，访问一次主存需 100 个时钟周期，TLB 缺失时页表遍历需 200 个时钟周期（已包含访问页目录和页表的开销）。缺页率为 0.001%，缺页处理需 1 ms。CPU 主频 2 GHz。
+          </p>
+
+          <div class="spec">
+            <span class="spec-title">进程地址空间</span>
+            <ul>
+              <li>代码 + 数据：从 <code>0x0040_0000</code> 开始，共 8 MiB</li>
+              <li>共享库：从 <code>0x4000_0000</code> 开始，共 2 MiB</li>
+              <li>用户栈：一页，起始虚拟地址 <code>0xBFFF_F000</code></li>
+              <li>其余区域未使用；忽略 TLB 替换、页表项缓存和缺页处理期间的 TLB 行为</li>
+            </ul>
+          </div>
+
+          <ol class="subq">
+            <li>写出虚拟地址的字段划分；页目录和每个二级页表各有多少项？一个页表项中物理页号占多少位？</li>
+            <li>该进程至少需要多少个二级页表？页目录和全部二级页表共占多少内存？</li>
+            <li>将虚拟地址 <code>0x0040_A123</code> 拆成页目录索引、页表索引和偏移，并说明 TLB 命中与缺失时的地址翻译路径。</li>
+            <li>求考虑 TLB 和缺页后的有效访问时间 EAT（以时钟周期为单位）。若没有 TLB，按最坏情况每次访问需 3 次主存访问，EAT 大约是多少？</li>
+            <li>若进程只有 3 个物理页框，访问串为 <code>1,2,3,4,1,2,5,1,2,3,4,5</code>，分别求 LRU 和 OPT 的缺页次数，并说明 OPT 为什么不能在实际系统直接实现。</li>
+          </ol>
+
+          <div class="solution-toolbar">
+            <button class="solution-toggle" type="button" aria-expanded="false" aria-controls="sol-o1" data-label-closed="展开参考答案" data-label-open="收起参考答案">展开参考答案</button>
+            <span class="solution-hint">多级页表题先问“用到了哪些 4 MiB 区域”</span>
+          </div>
+
+          <div class="solution" id="sol-o1" hidden>
+            <div class="solution-inner">
+              <div class="answer-lead">
+                <span>结论先行</span>
+                <p>地址格式 10 / 10 / 12；每个页表 1024 项，页表项中物理页号 20 位。进程需要 4 个二级页表，加页目录共 20 KiB。EAT ≈ 125 周期；无 TLB 时约 320 周期。LRU 缺页 10 次，OPT 缺页 8 次。</p>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">01</span>
+                <div>
+                  <h4>地址字段与页表项</h4>
+                  <div class="calc">页大小 4 KiB = 2¹² B → 页内偏移 12 位
+页目录索引 = 10 位 → 2¹⁰ = 1024 项
+页表索引   = 10 位 → 2¹⁰ = 1024 项
+物理页号   = 32 − 12 = 20 位
+页表项大小 = 4 B；每个二级页表 = 1024 × 4 B = 4 KiB
+页目录大小 = 1024 × 4 B = 4 KiB</div>
+                  <p>虚拟地址格式：<span class="formula">页目录[31:22] | 页表[21:12] | offset[11:0]</span>。32 位 PTE 中，20 位放物理页号，剩下 12 位可用于有效位、脏位、访问位、保护位等。不要误以为“页表项 4 B 就等于页表 4 KB”——前者是表项大小，后者是 1024 项的总大小。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">02</span>
+                <div>
+                  <h4>数“用到了哪些二级页表”</h4>
+                  <p>每个二级页表覆盖 4 MiB 的虚拟地址空间（10 位页表索引 × 4 KiB 页 = 4 MiB）。判断方法：把起始地址右移 22 位，看页目录索引是否跨过边界。</p>
+                  <div class="table-wrap">
+                    <table class="data-table">
+                      <caption>三段地址空间覆盖的页目录索引</caption>
+                      <thead><tr><th>区域</th><th>地址范围</th><th>覆盖的 4 MiB 区域</th><th>二级页表数</th></tr></thead>
+                      <tbody>
+                        <tr><td>代码 + 数据</td><td>0x0040_0000 — 0x00BF_FFFF</td><td>索引 1、2</td><td>2</td></tr>
+                        <tr><td>共享库</td><td>0x4000_0000 — 0x401F_FFFF</td><td>索引 0x100</td><td>1</td></tr>
+                        <tr><td>用户栈</td><td>0xBFFF_F000 — 0xBFFF_FFFF</td><td>索引 0x2FF</td><td>1</td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div class="calc">二级页表数 = 2 + 1 + 1 = 4 个
+页目录 = 4 KiB
+二级页表 = 4 × 4 KiB = 16 KiB
+合计 = <b>20 KiB</b>（其中页表部分 16 KiB）</div>
+                  <p>代码 + 数据虽然只有 8 MiB，但它跨了两个 4 MiB 区域，所以要两个二级页表；用户栈只有一页，但仍要占一个完整的 4 KiB 页表。页目录中有效的页目录项是 4 个，不是 1024 个。若忽略页目录，只问“二级页表”，答案是 16 KiB。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">03</span>
+                <div>
+                  <h4>翻译 0x0040_A123</h4>
+                  <div class="calc">0x0040_A123 二进制：
+0000 0000 0100 0000 1010 0001 0010 0011
+页目录索引 = (VA >> 22) &amp; 0x3FF = <b>1</b>
+页表索引   = (VA >> 12) &amp; 0x3FF = <b>10</b>（0x00A）
+页内偏移   = VA &amp; 0xFFF = <b>0x123</b></div>
+                  <p><b>TLB 命中：</b>用虚拟页号（页目录索引 + 页表索引，共 20 位）查 TLB，直接得到物理页号 PFN；物理地址 = PFN × 4 KiB + 0x123；然后访问该物理地址。整个过程只需 1 次 TLB 查找 + 1 次主存访问（若 Cache 命中则更快）。</p>
+                  <p><b>TLB 缺失：</b>用页目录基址寄存器找到页目录，读页目录项 1，得到二级页表基址；再读该页表的第 10 项，得到 PFN；若有效，把 VPN→PFN 填入 TLB，再拼物理地址访问数据。若页表项无效，触发缺页异常，由操作系统装入页面、更新页表，再重新执行指令。</p>
+                  <div class="callout callout--tip">
+                    <b>地址翻译的顺序</b>
+                    TLB 是“页表的 Cache”，不是“数据的 Cache”。TLB 命中省掉的是页表遍历，不省掉访问数据的那一次主存访问；除非数据本身也在 Cache 中命中。
+                  </div>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">04</span>
+                <div>
+                  <h4>EAT：先算无缺页，再加缺页惩罚</h4>
+                  <div class="calc">TLB 命中且不缺页：1 + 100 = 101 周期
+TLB 缺失且不缺页：1 + 200 + 100 = 301 周期
+不缺页的加权平均：
+0.98 × 101 + 0.02 × 301 = 98.98 + 6.02 = 105 周期
+
+缺页率 0.001% = 10⁻⁵
+缺页处理 1 ms = 2×10⁶ 周期
+缺页平均贡献 = 10⁻⁵ × 2×10⁶ = 20 周期
+
+EAT = (1 − 10⁻⁵) × 105 + 10⁻⁵ × 2×10⁶
+    ≈ 104.999 + 20
+    ≈ <b>125 周期</b></div>
+                  <p>如果先算“有缺页时的命中/缺失路径”，缺页那 10⁻⁵ 的访问也应该用缺页处理时间替代普通访问时间，而不是再叠加 101/301。上面用“不缺页加权 × (1−缺页率) + 缺页率 × 缺页处理”是常用的近似口径，题干已说明忽略重叠细节。</p>
+                  <div class="calc">无 TLB 且不缺页：页目录 + 页表 + 数据 = 3 × 100 = 300 周期
+加缺页： (1 − 10⁻⁵) × 300 + 10⁻⁵ × 2×10⁶
+        = 299.997 + 20 ≈ <b>320 周期</b>
+加速比 ≈ 320 / 125 ≈ <b>2.56</b></div>
+                  <p>这个加速比说明 TLB 的价值：它把“每次访问都查两级页表”变成“大多数访问只查一次 TLB”。如果页表项本身在 Cache 中，无 TLB 的 300 周期会偏大，但数量级不变。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">05</span>
+                <div>
+                  <h4>3 个页框：LRU 10 次，OPT 8 次</h4>
+                  <div class="table-wrap">
+                    <table class="data-table">
+                      <caption>引用串 1,2,3,4,1,2,5,1,2,3,4,5（3 个页框）</caption>
+                      <thead><tr><th>算法</th><th>缺页次数</th><th>缺页率</th><th>关键替换</th></tr></thead>
+                      <tbody>
+                        <tr><td>LRU</td><td><b>10</b></td><td>10/12 ≈ 83.3%</td><td>按“最久未使用”淘汰；第 4 次换出 1，第 10 次换出 2</td></tr>
+                        <tr><td>OPT</td><td><b>8</b></td><td>8/12 ≈ 66.7%</td><td>第 4 次换出 3（它最晚才再用），后续同理</td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <p>LRU 的过程可以用“栈”维护：每次访问把页面移到栈顶，缺页时淘汰栈底。OPT 需要看“未来最长时间不再使用”的页面，必须预知完整引用串；实际系统无法预知未来，只能用它作为理论下界，或近似算法（如 Clock、LRU 近似）。这个例子也说明：增加页框不一定减少缺页（Belady 异常），FIFO 就可能出现，LRU 属于栈式算法，不会出现 Belady 异常。</p>
+                </div>
+              </div>
+
+              <div class="score-grid">
+                <div class="score-box">
+                  <h4>评分点</h4>
+                  <ul>
+                    <li>10/10/12、1024 项、20 位物理页号 3 分。</li>
+                    <li>4 个二级页表、20 KiB 共 3 分。</li>
+                    <li>0x0040_A123 的 1/10/0x123 与 TLB 路径 2 分。</li>
+                    <li>EAT 125 周期、无 TLB 320 周期 3 分。</li>
+                    <li>LRU 10、OPT 8 与 OPT 不可实现 1 分。</li>
+                  </ul>
+                </div>
+                <div class="score-box score-box--warn">
+                  <h4>易错警报</h4>
+                  <ul>
+                    <li>把 8 MiB 当成一个二级页表：它跨两个 4 MiB 区域。</li>
+                    <li>把页表项 4 B 当成页表 4 B，或把页目录漏掉。</li>
+                    <li>TLB 命中后仍再算一次页表遍历。</li>
+                    <li>缺页率 0.001% 写成 0.001（即 0.1%），差 100 倍。</li>
+                    <li>把缺页处理时间 1 ms 直接加到每次访问上，忘记乘缺页率。</li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="variant">
+                <h4>考场变式</h4>
+                <p>若页面大小改为 8 KiB，偏移变 13 位，两级页表可能变成 9/10/13 或 10/9/13；若题目给“页目录项 4 B、页表项 8 B”，要分别算页目录和二级页表大小，不能都用 4 KiB。若给“TLB 命中率 98%，TLB 缺失时页表遍历 2 次主存访问”，要把遍历次数乘主存周期，而不是固定 200 周期。</p>
+              </div>
+
+              <p class="question-end">对应知识线路图：<a href="map.html#os-vm">虚拟内存 →</a></p>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <!-- ================= O2 ================= -->
+      <article class="question" id="o2">
+        <header class="q-head">
+          <div class="q-id">OS2</div>
+          <div>
+            <div class="q-kicker">题型 B · CPU 调度 / 12 分</div>
+            <h2>FCFS、SJF、RR 与抢占式优先级的甘特图</h2>
+            <div class="q-meta">
+              <span class="chip chip--red">近年重点</span>
+              <span class="chip">建议 24 min</span>
+              <span class="chip">画时间轴 → 算周转/等待</span>
+            </div>
+          </div>
+          <label class="mastery"><input type="checkbox" data-mastery="os-o2"> 已掌握</label>
+        </header>
+
+        <div class="q-body">
+          <p class="q-prompt">
+            四个进程的到达时间、服务时间和优先级如下。规定：优先级数字越小，优先级越高；RR 的时间片 q = 3，同一时刻到达的进程先入队、被抢占的进程后入队；抢占式优先级在每个进程到达时检查是否抢占；忽略 I/O 和调度本身的时间。
+          </p>
+
+          <div class="spec">
+            <span class="spec-title">进程参数</span>
+            <div class="table-wrap">
+              <table class="data-table">
+                <caption>单位：ms</caption>
+                <thead><tr><th>进程</th><th>到达时间</th><th>服务时间</th><th>优先级</th></tr></thead>
+                <tbody>
+                  <tr><td>P1</td><td>0</td><td>8</td><td>3</td></tr>
+                  <tr><td>P2</td><td>1</td><td>4</td><td>1（最高）</td></tr>
+                  <tr><td>P3</td><td>2</td><td>9</td><td>2</td></tr>
+                  <tr><td>P4</td><td>3</td><td>5</td><td>4（最低）</td></tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <ol class="subq">
+            <li>画出 FCFS 和 SJF（非抢占）的甘特图，分别求平均周转时间和平均等待时间。</li>
+            <li>画出 RR（q=3）的甘特图，求平均周转时间和平均等待时间。</li>
+            <li>画出抢占式优先级的甘特图，求平均周转时间和平均等待时间。</li>
+            <li>若每次上下文切换需 1 ms，RR 的 9 次切换会带来多少开销？CPU 利用率约为多少？哪种算法可能饿死进程，如何缓解？</li>
+          </ol>
+
+          <div class="solution-toolbar">
+            <button class="solution-toggle" type="button" aria-expanded="false" aria-controls="sol-o2" data-label-closed="展开参考答案" data-label-open="收起参考答案">展开参考答案</button>
+            <span class="solution-hint">抢占式优先级：每次新进程到达都要重新比较</span>
+          </div>
+
+          <div class="solution" id="sol-o2" hidden>
+            <div class="solution-inner">
+              <div class="answer-lead">
+                <span>结论先行</span>
+                <p>平均等待时间：FCFS 8.75，SJF 7.75，RR 13.5，抢占式优先级 4.5。RR 切换开销 9 ms，CPU 利用率约 74.3%。优先级/SJF 可能饿死长作业，可用老化缓解。</p>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">01</span>
+                <div>
+                  <h4>FCFS 与 SJF：先到先服务 vs 短作业优先</h4>
+                  <p><b>FCFS</b> 按到达顺序执行：P1 0—8，P2 8—12，P3 12—21，P4 21—26。</p>
+                  <div class="diagram">
+                    <pre>FCFS
+0        8    12        21      26
+|  P1    | P2 |   P3    |  P4  |
+</pre>
+                  </div>
+                  <p><b>SJF（非抢占）</b>：0 时刻只有 P1，先执行 P1 到 8；此时 P2、P3、P4 都已到达，选最短的 P2（4）到 12；再选 P4（5）到 17；最后 P3（9）到 26。</p>
+                  <div class="diagram">
+                    <pre>SJF（非抢占）
+0        8   12   17        26
+|  P1    | P2 | P4 |   P3   |
+</pre>
+                  </div>
+                  <div class="table-wrap">
+                    <table class="data-table">
+                      <caption>FCFS 与 SJF 的完成时间、周转时间、等待时间</caption>
+                      <thead><tr><th>算法</th><th>进程</th><th>完成</th><th>周转</th><th>等待</th></tr></thead>
+                      <tbody>
+                        <tr><td rowspan="4">FCFS</td><td>P1</td><td>8</td><td>8</td><td>0</td></tr>
+                        <tr><td>P2</td><td>12</td><td>11</td><td>7</td></tr>
+                        <tr><td>P3</td><td>21</td><td>19</td><td>10</td></tr>
+                        <tr><td>P4</td><td>26</td><td>23</td><td>18</td></tr>
+                        <tr><td colspan="2">平均</td><td>—</td><td><b>15.25</b></td><td><b>8.75</b></td></tr>
+                        <tr><td rowspan="4">SJF</td><td>P1</td><td>8</td><td>8</td><td>0</td></tr>
+                        <tr><td>P2</td><td>12</td><td>11</td><td>7</td></tr>
+                        <tr><td>P4</td><td>17</td><td>14</td><td>9</td></tr>
+                        <tr><td>P3</td><td>26</td><td>24</td><td>15</td></tr>
+                        <tr><td colspan="2">平均</td><td>—</td><td><b>14.25</b></td><td><b>7.75</b></td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <p>周转时间 = 完成时间 − 到达时间；等待时间 = 周转时间 − 服务时间。SJF 的平均等待时间比 FCFS 少 1.0 ms，但这组数据里 P3 被推迟到很晚，说明“平均更优”不等于“每个进程都更好”。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">02</span>
+                <div>
+                  <h4>RR（q=3）：每个时间片结束就排队尾</h4>
+                  <div class="diagram">
+                    <pre>RR, q=3
+0  3  6  9 12 15 16 19 21 23 26
+|P1|P2|P3|P4|P1|P2|P3|P4|P1|P3|
+                    ↑  ↑  ↑  ↑
+                    P2  P4  P1  P3
+</pre>
+                  </div>
+                  <p>按轮转顺序：P1（0—3，剩 5），P2（3—6，剩 1），P3（6—9，剩 6），P4（9—12，剩 2），P1（12—15，剩 2），P2（15—16，完成），P3（16—19，剩 3），P4（19—21，完成），P1（21—23，完成），P3（23—26，完成）。</p>
+                  <div class="table-wrap">
+                    <table class="data-table">
+                      <caption>RR 的完成时间、周转时间、等待时间</caption>
+                      <thead><tr><th>进程</th><th>完成</th><th>周转</th><th>等待</th></tr></thead>
+                      <tbody>
+                        <tr><td>P1</td><td>23</td><td>23</td><td>15</td></tr>
+                        <tr><td>P2</td><td>16</td><td>15</td><td>11</td></tr>
+                        <tr><td>P3</td><td>26</td><td>24</td><td>15</td></tr>
+                        <tr><td>P4</td><td>21</td><td>18</td><td>13</td></tr>
+                        <tr><td colspan="2">平均</td><td><b>20.00</b></td><td><b>13.50</b></td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <p>RR 的响应时间更均匀，但周转/等待时间在这组数据上明显变差，因为时间片把长作业切得很碎，短作业也要排队。q 越大越接近 FCFS，q 越小则切换越频繁、开销越大。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">03</span>
+                <div>
+                  <h4>抢占式优先级：每个到达时刻都要比较</h4>
+                  <ul>
+                    <li>0：P1 运行。</li>
+                    <li>1：P2（优先级 1）到达，高于 P1（3），抢占；P1 已运行 1，剩 7。</li>
+                    <li>2：P3（2）到达，低于正在运行的 P2（1），不抢占。</li>
+                    <li>3：P4（4）到达，不抢占。</li>
+                    <li>5：P2 完成。就绪：P3（2）、P1（3）、P4（4），选 P3。</li>
+                    <li>6：P3 完成。就绪：P1（3）、P4（4），选 P1；P1 运行到 13 完成。</li>
+                    <li>13：P4 运行到 18 完成。</li>
+                  </ul>
+                  <div class="diagram">
+                    <pre>抢占式优先级（数字小 = 优先级高）
+0 1    5 6        13        18
+|P1|P2  |P3|  P1   |   P4   |
+  ↑
+  P2 到达并抢占
+</pre>
+                  </div>
+                  <div class="table-wrap">
+                    <table class="data-table">
+                      <caption>抢占式优先级的完成时间、周转时间、等待时间</caption>
+                      <thead><tr><th>进程</th><th>完成</th><th>周转</th><th>等待</th></tr></thead>
+                      <tbody>
+                        <tr><td>P1</td><td>13</td><td>13</td><td>5</td></tr>
+                        <tr><td>P2</td><td>5</td><td>4</td><td>0</td></tr>
+                        <tr><td>P3</td><td>6</td><td>4</td><td>3</td></tr>
+                        <tr><td>P4</td><td>18</td><td>15</td><td>10</td></tr>
+                        <tr><td colspan="2">平均</td><td><b>9.00</b></td><td><b>4.50</b></td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <p>P1 的等待时间 = 13 − 8 = 5；P3 的等待时间 = 6 − 2 − 1 = 3；P4 = 18 − 3 − 5 = 10。抢占式优先级在这组数据上平均等待时间最短，但它对低优先级进程最不友好：P4 一直等到 13 才开始。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">04</span>
+                <div>
+                  <h4>切换开销与饥饿</h4>
+                  <div class="calc">RR 共 10 个时间片，进程之间切换 9 次
+切换开销 = 9 × 1 ms = <b>9 ms</b>
+CPU 忙碌时间 = 26 ms
+CPU 利用率 ≈ 26 / (26 + 9) = <b>74.3%</b></div>
+                  <p>这是“忽略切换导致到达时间/调度顺序变化”的近似值；真实系统中切换会把后续进程整体推后，时间可能略长。时间片太小，切换次数增加，利用率下降；时间片太大，RR 退化为 FCFS，响应变慢。</p>
+                  <p><b>饥饿：</b>抢占式优先级和 SJF 都可能让低优先级/长作业长期得不到 CPU。缓解方法是<b>老化（aging）</b>：随等待时间增加逐步提高优先级，或设置最大等待时间；RR 天然较公平，但也不能保证严格的 bounded waiting。SJF 只在“所有作业同时到达、非抢占”时平均等待时间最优；有到达时间时，最短剩余时间优先（SRTF）才是抢占式的最优策略。</p>
+                </div>
+              </div>
+
+              <div class="result-box">
+                <div><span>最优平均等待</span><b>优先级 4.5</b></div>
+                <div><span>RR 切换开销</span><b>9 ms</b></div>
+                <div><span>RR 利用率</span><b>约 74.3%</b></div>
+              </div>
+
+              <div class="score-grid">
+                <div class="score-box">
+                  <h4>评分点</h4>
+                  <ul>
+                    <li>FCFS/SJF 甘特图与平均周转/等待 4 分。</li>
+                    <li>RR 甘特图与 20.00 / 13.50 共 4 分。</li>
+                    <li>抢占式优先级甘特图与 9.00 / 4.50 共 3 分。</li>
+                    <li>9 ms 开销、74.3% 利用率、饥饿与老化 1 分。</li>
+                  </ul>
+                </div>
+                <div class="score-box score-box--warn">
+                  <h4>易错警报</h4>
+                  <ul>
+                    <li>抢占式优先级只在“更高优先级到达”时切换；同优先级不抢占。</li>
+                    <li>P1 被抢占后剩余 7，不是重新从 8 开始。</li>
+                    <li>RR 中把新到达进程排在被抢占进程前面还是后面，题目未规定时可能影响结果；本题按“新到达先入队，被抢占者再入队”的顺序。</li>
+                    <li>用“服务时间”代替“周转时间”算平均等待。</li>
+                    <li>把 9 次切换算成 10 次；最后一个时间片结束不需要切换。</li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="variant">
+                <h4>考场变式</h4>
+                <p>若题目给“时间片 q=2”，要重新画 RR；若给“优先级数字越大越高”，所有比较方向反过来。遇到“多级反馈队列”，先按队列优先级和时间片逐级下降，再算周转。调度题最稳的做法是画一条时间轴，在每个到达时刻写“当前就绪队列”，不要凭感觉直接排顺序。</p>
+              </div>
+
+              <p class="question-end">对应知识线路图：<a href="map.html#os-schedule">调度与上下文切换 →</a></p>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <!-- ================= O3 ================= -->
+      <article class="question" id="o3">
+        <header class="q-head">
+          <div class="q-id">OS3</div>
+          <div>
+            <div class="q-kicker">题型 C · 同步与互斥 / 12 分</div>
+            <h2>带并发上限的生产者-消费者 PV 设计</h2>
+            <div class="q-meta">
+              <span class="chip chip--red">高频</span>
+              <span class="chip">建议 22 min</span>
+              <span class="chip">列信号量 → 写代码 → 查死锁</span>
+            </div>
+          </div>
+          <label class="mastery"><input type="checkbox" data-mastery="os-o3"> 已掌握</label>
+        </header>
+
+        <div class="q-body">
+          <p class="q-prompt">
+            某工厂有 3 名装配工（生产者）和 2 名质检员（消费者），共享一个可存放 6 件产品的成品箱。每次只能有一个人操作箱子（放入或取出）；装配工在箱满时等待，质检员在箱空时等待。为了安全，任一时刻最多允许 2 名装配工同时装配，最多允许 1 名质检员同时质检。请用信号量实现装配工和质检员的同步。
+          </p>
+
+          <ol class="subq">
+            <li>列出所需的信号量、含义和初值。</li>
+            <li>写出装配工和质检员的伪代码，说明每个 P/V 操作的作用与顺序。</li>
+            <li>如果把生产者中的 <code>P(empty)</code> 与 <code>P(mutex)</code> 对调，消费者中也做类似对调，是否可能死锁？用执行序列说明。</li>
+            <li>这两个并发上限信号量如果去掉，会破坏正确性还是只影响性能？系统是否存在饥饿风险？如何保证有限等待？</li>
+          </ol>
+
+          <div class="solution-toolbar">
+            <button class="solution-toggle" type="button" aria-expanded="false" aria-controls="sol-o3" data-label-closed="展开参考答案" data-label-open="收起参考答案">展开参考答案</button>
+            <span class="solution-hint">先区分“资源计数”与“互斥锁”，再决定 P 的先后</span>
+          </div>
+
+          <div class="solution" id="sol-o3" hidden>
+            <div class="solution-inner">
+              <div class="answer-lead">
+                <span>结论先行</span>
+                <p>需要 empty=6、full=0、mutex=1、prod_limit=2、cons_limit=1。先 P 资源信号量，再 P 互斥锁；若把 mutex 提前，可能死锁。并发上限信号量去掉只会突破“最多 2 人装配/1 人质检”的约束，不会破坏缓冲区互斥，但可能造成质量问题或资源过载。</p>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">01</span>
+                <div>
+                  <h4>信号量清单</h4>
+                  <div class="table-wrap">
+                    <table class="data-table">
+                      <caption>信号量含义与初值</caption>
+                      <thead><tr><th>信号量</th><th>初值</th><th>含义</th><th>作用</th></tr></thead>
+                      <tbody>
+                        <tr><td>empty</td><td>6</td><td>成品箱中的空位数</td><td>生产者等待空位，消费者取走后释放空位</td></tr>
+                        <tr><td>full</td><td>0</td><td>成品箱中的产品数</td><td>消费者等待产品，生产者放入后增加</td></tr>
+                        <tr><td>mutex</td><td>1</td><td>成品箱的互斥锁</td><td>保护 put/take 临界区</td></tr>
+                        <tr><td>prod_limit</td><td>2</td><td>允许同时装配的名额</td><td>限制最多 2 名装配工同时装配</td></tr>
+                        <tr><td>cons_limit</td><td>1</td><td>允许同时质检的名额</td><td>限制最多 1 名质检员同时质检</td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <p>前三个是经典的“空位数 / 产品数 / 互斥锁”组合；后两个是题目额外加的并发上限。不要把 <code>prod_limit</code> 与 <code>mutex</code> 混为一谈：前者限制“同时装配的人数”，后者限制“同时操作箱子的人数”。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">02</span>
+                <div>
+                  <h4>伪代码：先资源，后互斥</h4>
+                  <div class="diagram">
+                    <pre>semaphore empty = 6;       // 空位
+semaphore full = 0;        // 产品
+semaphore mutex = 1;       // 箱子互斥
+semaphore prod_limit = 2;  // 最多 2 人同时装配
+semaphore cons_limit = 1;  // 最多 1 人同时质检
+
+Producer i:
+while (true) {
+    P(empty);          // 1. 预订一个空位；箱满则等待
+    P(prod_limit);     // 2. 申请装配名额；最多 2 人
+    produce();         // 3. 装配（不在临界区内）
+    V(prod_limit);     // 4. 释放装配名额
+    P(mutex);          // 5. 进入箱子临界区
+    put();             // 6. 放入产品
+    V(mutex);          // 7. 离开临界区
+    V(full);           // 8. 产品数 + 1，唤醒消费者
+}
+
+Consumer j:
+while (true) {
+    P(full);           // 1. 等待产品；箱空则等待
+    P(cons_limit);     // 2. 申请质检名额；最多 1 人
+    P(mutex);          // 3. 进入箱子临界区
+    take();            // 4. 取出产品
+    V(mutex);          // 5. 离开临界区
+    V(empty);          // 6. 空位 + 1，唤醒生产者
+    inspect();         // 7. 质检（不在箱子临界区内）
+    V(cons_limit);     // 8. 释放质检名额
+}</pre>
+                  </div>
+                  <p>顺序的理由：<b>先 P 资源信号量，再 P 互斥锁</b>。如果先拿 mutex 再等 empty/full，就会“占着锁等资源”，把对方也挡在锁外。生产者先预订空位再装配，保证不会生产出无处可放的产品；消费者先等到产品再取，保证不会取空。</p>
+                  <p>这里把 <code>produce()</code> 放在 <code>prod_limit</code> 保护内、<code>inspect()</code> 放在 <code>cons_limit</code> 保护内，符合“最多 2 人同时装配、最多 1 人同时质检”的题意。若题目把“装配”定义为仅指放入箱子的动作，则可以把名额保护范围缩小到 put 附近，但必须保持同一临界资源只用一把锁。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">03</span>
+                <div>
+                  <h4>对调 P 的顺序：经典的“占锁等资源”死锁</h4>
+                  <p>错误版本：</p>
+                  <div class="diagram">
+                    <pre>Producer:  P(mutex); P(empty); put; V(mutex); V(full);
+Consumer:  P(mutex); P(full);  take; V(mutex); V(empty);</pre>
+                  </div>
+                  <p>假设成品箱为空，消费者先运行：它拿到 mutex，然后执行 <code>P(full)</code>，因为没有产品而阻塞，但此时它仍持有 mutex。生产者随后运行，执行 <code>P(mutex)</code> 时被阻塞，无法放入产品；消费者又在等产品，形成循环等待——<b>死锁</b>。</p>
+                  <p>同理，若箱子满，生产者先拿 mutex 再等 empty，消费者拿不到 mutex 就无法取走产品，也会死锁。根因不是信号量数量不够，而是<b>持有互斥锁去等待另一个可能永远不被满足的条件</b>。正确做法是让“等待资源”发生在拿锁之前。</p>
+                  <div class="callout callout--warn">
+                    <b>V 的顺序也要检查</b>
+                    <code>V(mutex)</code> 与 <code>V(full)</code> 对调通常不会死锁（最多让被唤醒者先撞一下锁），但可能影响唤醒效率。考试中优先保证“P 资源 → P 互斥”的顺序，V 的顺序按“先释放锁，再发信号”写最稳。
+                  </div>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">04</span>
+                <div>
+                  <h4>并发上限与饥饿</h4>
+                  <p>去掉 <code>prod_limit</code>/<code>cons_limit</code>，缓冲区的互斥和同步仍然正确：不会出现两人同时 put、也不会取空或覆盖。但会有最多 3 名装配工同时装配、2 名质检员同时质检，违反题目的并发安全约束。所以它们影响的是<b>业务约束/性能/质量</b>，不是缓冲区数据一致性。</p>
+                  <p>信号量的 P/V 本身通常不保证 FIFO 唤醒；如果总是有新的生产者插队，某个生产者可能长期抢不到 <code>prod_limit</code> 或 mutex，出现<b>饥饿</b>。可以使用公平信号量（FIFO 等待队列）、票据锁，或在应用层限制每个工人的连续获取次数。死锁与饥饿不同：死锁是互相等待、永远无法推进；饥饿是“理论上能推进，但某个进程长期轮不到”。</p>
+                </div>
+              </div>
+
+              <div class="result-box">
+                <div><span>空位/产品</span><b>6 / 0</b></div>
+                <div><span>箱子互斥</span><b>1</b></div>
+                <div><span>并发上限</span><b>2 / 1</b></div>
+              </div>
+
+              <div class="score-grid">
+                <div class="score-box">
+                  <h4>评分点</h4>
+                  <ul>
+                    <li>五个信号量及初值正确 3 分。</li>
+                    <li>P 资源在 P 互斥之前、put/take 在临界区 4 分。</li>
+                    <li>对调后死锁场景描述清楚 3 分。</li>
+                    <li>上限信号量作用与饥饿/公平性 2 分。</li>
+                  </ul>
+                </div>
+                <div class="score-box score-box--warn">
+                  <h4>易错警报</h4>
+                  <ul>
+                    <li>把 empty 初值写成 0、full 初值写成 6（方向反了）。</li>
+                    <li>生产者先 P(mutex) 再 P(empty)，消费者同理。</li>
+                    <li>把 produce()/inspect() 放进 mutex 临界区，导致并发度不必要地变成 1。</li>
+                    <li>忘记 V(prod_limit)/V(cons_limit)，名额泄漏，最终无人能进入。</li>
+                    <li>认为信号量一定保证 FIFO；未说明公平性就断言“不会饥饿”。</li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="variant">
+                <h4>考场变式</h4>
+                <p>若题目改成“缓冲区容量为 N，生产者与消费者各只有 1 个”，就退化成 empty=N、full=0、mutex=1 的经典模型；若要求“生产者必须等消费者取走上一件才能再放”，要额外加一个同步信号量 <code>can_put</code>，初始为 1，生产前 P、消费后 V。遇到“读者-写者”或“哲学家进餐”，先写资源、再写互斥、最后检查循环等待。</p>
+              </div>
+
+              <p class="question-end">对应知识线路图：<a href="map.html#os-sync">同步与死锁 →</a></p>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <!-- ================= O4 ================= -->
+      <article class="question" id="o4">
+        <header class="q-head">
+          <div class="q-id">OS4</div>
+          <div>
+            <div class="q-kicker">题型 D · 文件系统与磁盘 / 12 分</div>
+            <h2>inode 混合索引与 SCAN/SSTF 磁盘调度</h2>
+            <div class="q-meta">
+              <span class="chip chip--red">高频</span>
+              <span class="chip">建议 24 min</span>
+              <span class="chip">算块号 → 数索引层 → 比寻道</span>
+            </div>
+          </div>
+          <label class="mastery"><input type="checkbox" data-mastery="os-o4"> 已掌握</label>
+        </header>
+
+        <div class="q-body">
+          <p class="q-prompt">
+            某 UNIX 风格文件系统块大小为 4 KiB，磁盘块指针 4 B。inode 中有 10 个直接指针、1 个一级间接指针、1 个二级间接指针、1 个三级间接指针。现有一个 100 MB 的文件（1 MB = 1024 KB）。
+          </p>
+
+          <div class="spec">
+            <span class="spec-title">磁盘请求</span>
+            <p>磁头当前位于 53 号磁道，正向磁道号增大的方向移动。请求序列为：<code>98, 183, 37, 122, 14, 124, 65, 67</code>。本题的 SCAN 按“到达最远请求即反向”的 LOOK 口径计算。</p>
+          </div>
+
+          <ol class="subq">
+            <li>求该 inode 能表示的最大文件大小；100 MB 文件需要多少个数据块、多少个索引块？</li>
+            <li>读取文件偏移 50 MB 处的一个字节，至少需要几次磁盘访问？写出经过的索引层次。</li>
+            <li>分别按 SSTF 和 SCAN 计算磁头移动总距离，并说明哪种更公平。</li>
+            <li>若把文件系统改成 FAT，1 TB 磁盘、4 KiB 簇、每个 FAT 表项 4 B，FAT 表有多大？FAT 与 inode 在随机访问上的主要差别是什么？</li>
+          </ol>
+
+          <div class="solution-toolbar">
+            <button class="solution-toggle" type="button" aria-expanded="false" aria-controls="sol-o4" data-label-closed="展开参考答案" data-label-open="收起参考答案">展开参考答案</button>
+            <span class="solution-hint">先算“数据块数”，再单独算“索引块数”</span>
+          </div>
+
+          <div class="solution" id="sol-o4" hidden>
+            <div class="solution-inner">
+              <div class="answer-lead">
+                <span>结论先行</span>
+                <p>最大文件约 4.004 TB；100 MB 文件有 25 600 个数据块、26 个索引块。读偏移 50 MB 至少 3 次磁盘访问（inode 已缓存）。SSTF 移动 236 道，SCAN 移动 299 道；SSTF 更短但可能饿死远端请求。</p>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">01</span>
+                <div>
+                  <h4>最大文件大小：每个指针能覆盖多少</h4>
+                  <div class="calc">块大小 4 KiB，指针 4 B
+每个索引块可存指针数 = 4 KiB / 4 B = 1024 个
+直接：10 × 4 KiB = 40 KiB
+一级间接：1024 × 4 KiB = 4 MiB
+二级间接：1024² × 4 KiB = 4 GiB
+三级间接：1024³ × 4 KiB = 4 TiB
+
+最大文件 = 4 TiB + 4 GiB + 4 MiB + 40 KiB
+         ≈ <b>4.004 TiB</b>
+         = 4 402 345 713 664 B</div>
+                  <p>这里用 TiB/GiB/MiB 更准确；若题目按 TB/GB 的十进制写，数值会略有差异，但数量级相同。关键是记住“每增加一级间接，指针数乘以 1024，覆盖范围乘以 1024”。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">02</span>
+                <div>
+                  <h4>100 MB 文件：数据块与索引块分开数</h4>
+                  <div class="calc">100 MB = 100 × 1024 KiB = 102 400 KiB
+数据块数 = 102 400 / 4 = <b>25 600 个</b>
+
+直接覆盖 10 个
+一级间接覆盖 1024 个
+前 1034 个块不需要二级间接
+
+剩余 = 25 600 − 1034 = <b>24 566 个数据块</b>
+这些块由二级间接覆盖：
+  顶层二级索引块 1 个
+  二级索引块 = ⌈24 566 / 1024⌉ = 24 个
+  二级间接共 1 + 24 = 25 个索引块
+一级间接 = 1 个索引块
+索引块总数 = 1 + 25 = <b>26 个</b>
+
+文件占用总块数 = 25 600 个数据块 + 26 个索引块
+               = <b>25 626 个块</b>（不计 inode）</div>
+                  <p>注意“二级间接”有一个顶层索引块，它指向 24 个二级索引块，每个二级索引块再指向最多 1024 个数据块。不要只算 24 而漏掉顶层的那 1 个。inode 本身也占磁盘空间，但题目通常单独问“数据块/索引块”，不计 inode。</p>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">03</span>
+                <div>
+                  <h4>读偏移 50 MB：先定位块号</h4>
+                  <div class="calc">偏移 50 MB = 50 × 1024 KiB = 51 200 KiB
+逻辑块号 = 51 200 / 4 = <b>12 800</b>（从 0 开始编号）
+
+前 10 个：直接块，覆盖块号 0—9
+一级间接：覆盖块号 10—1033（1024 个）
+12 800 在二级间接范围内
+
+二级内偏移 = 12 800 − 1034 = <b>11 766</b>
+顶层索引 = ⌊11 766 / 1024⌋ = <b>11</b>
+二级索引 = 11 766 − 11 × 1024 = <b>502</b></div>
+                  <p>若 inode 已在内存中，读数据块需要：① 读二级间接的顶层索引块 → ② 读第 11 个二级索引块 → ③ 读目标数据块，共 <b>3 次磁盘访问</b>。若 inode 也不在内存，还要先读 inode，共 4 次。题目问“至少”，通常默认 inode 已缓存，答 3 次。</p>
+                  <div class="callout callout--tip">
+                    <b>为什么不是 2 次？</b>
+                    二级间接有“顶层索引块 + 二级索引块”两层，加上数据块，一共三层。只有一级间接才是“索引块 + 数据块”两次。
+                  </div>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">04</span>
+                <div>
+                  <h4>SSTF vs SCAN：最短不一定最公平</h4>
+                  <p><b>SSTF</b> 每次选离当前磁头最近的请求：</p>
+                  <div class="calc">53 → 65 → 67 → 37 → 14 → 98 → 122 → 124 → 183
+移动：12 + 2 + 30 + 23 + 84 + 24 + 2 + 59
+    = <b>236 道</b></div>
+                  <p><b>SCAN（LOOK 口径）</b> 先向增大方向服务到最远的 183，再反向到 14：</p>
+                  <div class="calc">53 → 65 → 67 → 98 → 122 → 124 → 183 → 37 → 14
+移动：12 + 2 + 31 + 24 + 2 + 59 + 146 + 23
+    = <b>299 道</b></div>
+                  <p>SSTF 的总移动距离更短，平均寻道时间更小，但它可能让远端请求长期得不到服务（饥饿）。SCAN 的移动距离更大，却提供了更可预测的等待时间，适合繁忙的通用系统。若题目要求 SCAN 到磁盘端点 199 再反向，则总距离为 (199−53)+(199−14)=331 道；本题已明确按“到最远请求即反向”计算。</p>
+                  <div class="callout callout--warn">
+                    <b>方向</b>
+                    题目说“正向磁道号增大的方向移动”，所以先服务 65、67、98……；如果方向反了，SCAN 的路径和总距离都会变。SSTF 不受初始方向影响，但每一步都要重新找最近。
+                  </div>
+                </div>
+              </div>
+
+              <div class="solution-step">
+                <span class="step-no">05</span>
+                <div>
+                  <h4>FAT 的大小与随机访问差别</h4>
+                  <div class="calc">1 TB = 2⁴⁰ B
+簇数 = 2⁴⁰ / 2¹² = 2²⁸ = 268 435 456 个
+FAT 表项 4 B
+FAT 大小 = 2²⁸ × 4 B = 2³⁰ B = <b>1 GiB</b></div>
+                  <p>FAT 用“簇号链表”记录文件块：目录项给出首簇号，FAT 的每个表项存下一簇号。随机访问第 k 个块时，必须沿 FAT 链逐簇跳转，最坏要读 k 次 FAT 表项（虽然 FAT 常缓存在内存中）。inode 的混合索引则可以通过一级/二级/三级间接块直接算出目标块号，随机访问的磁盘访问次数是常数级（3—4 次），更适合大文件和随机访问。</p>
+                  <p>FAT 的优点是结构简单、适合小容量和移动存储；缺点是 FAT 表可能很大、链式访问不利于随机 I/O、没有 inode 那样的权限/时间戳等丰富元数据（具体取决于实现）。</p>
+                </div>
+              </div>
+
+              <div class="result-box">
+                <div><span>SSTF</span><b>236 道</b></div>
+                <div><span>SCAN</span><b>299 道</b></div>
+                <div><span>FAT 大小</span><b>1 GiB</b></div>
+              </div>
+
+              <div class="score-grid">
+                <div class="score-box">
+                  <h4>评分点</h4>
+                  <ul>
+                    <li>最大文件 4 TiB + 4 GiB + 4 MiB + 40 KiB 共 2 分。</li>
+                    <li>25 600 个数据块、26 个索引块 4 分。</li>
+                    <li>块号 12 800、顶层 11、二级 502、3 次访问 3 分。</li>
+                    <li>SSTF 236、SCAN 299 与公平性 2 分。</li>
+                    <li>FAT 1 GiB 与随机访问差异 1 分。</li>
+                  </ul>
+                </div>
+                <div class="score-box score-box--warn">
+                  <h4>易错警报</h4>
+                  <ul>
+                    <li>把 100 MB 直接除以 4 B，而不是除以 4 KiB。</li>
+                    <li>索引块数只算 24，漏掉二级间接的顶层 1 个。</li>
+                    <li>读文件偏移时从 1 开始编号，导致块号差 1（本题按 0 开始）。</li>
+                    <li>SCAN 到 183 后忘记反向，或把 SSTF 的每一步走反。</li>
+                    <li>FAT 表项数用字节数而不是簇数，算出 4 GiB 等错误结果。</li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="variant">
+                <h4>考场变式</h4>
+                <p>若块大小改为 1 KiB、指针仍 4 B，则每个索引块 256 个指针，最大文件约 16 GiB；若 inode 只有 12 个直接指针、没有三级间接，最大文件会小很多。磁盘调度若改成 C-SCAN，磁头只向一个方向服务，回到起点时不服务请求，总距离通常更大但等待更均匀。做题时先把“块大小、指针大小、直接/间接层数”写成一行，再套公式。</p>
+              </div>
+
+              <p class="question-end">对应知识线路图：<a href="map.html#os-file">文件系统 →</a></p>
+            </div>
+          </div>
+        </div>
+      </article>
+
+      <section class="subject-cheatsheet" aria-label="操作系统速查">
+        <div class="cheatsheet-head">
+          <h2>计算机系统 · 速查卡</h2>
+          <a href="map.html#os-vm">回知识线路图 →</a>
+        </div>
+        <div class="cheatsheet-grid">
+          <div class="cheatsheet-card">
+            <span>VM / EAT</span>
+            <b>页目录 + 页表 + offset<br>EAT = 命中率×命中 + 缺失率×缺失代价</b>
+            <p>多级页表只算“用到的页表页”，不是整个地址空间；TLB 命中不查页表。</p>
+          </div>
+          <div class="cheatsheet-card">
+            <span>SCHEDULE / TIME</span>
+            <b>周转 = 完成 − 到达<br>等待 = 周转 − 服务</b>
+            <p>抢占式调度在每个到达时刻检查；RR 的切换次数比时间片数少 1。</p>
+          </div>
+          <div class="cheatsheet-card">
+            <span>PV / DEADLOCK</span>
+            <b>先 P 资源，再 P 互斥<br>互斥、占有并等待、不可剥夺、循环等待</b>
+            <p>占着锁等资源是死锁高发点；信号量不自动保证 FIFO，仍可能饥饿。</p>
+          </div>
+          <div class="cheatsheet-card">
+            <span>INODE / DISK</span>
+            <b>最大文件 = 直接 + 一级 + 二级 + 三级<br>索引块本身也占磁盘块</b>
+            <p>读二级间接数据要经过顶层索引、二级索引、数据块；SSTF 更短但可能饿死。</p>
+          </div>
+        </div>
+      </section>
+
+      <footer class="subject-footer">
+        <a href="index.html">← 返回总览</a>
+        <a href="map.html">把四道题放回知识线路图 →</a>
+        <a href="coa.html">回到计算机组成原理 →</a>
+      </footer>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">408 大题工位</div>
+          <p>题目为依据 408 考纲与近年题型原创改编的仿真题，不是真题原文。解析按 408 常用口径编写，适合自测与复盘。</p>
+        </div>
+        <div class="footer-col">
+          <h3>三条主线</h3>
+          <a href="coa.html">计算机组成原理</a>
+          <a href="network.html">计算机网络</a>
+          <a href="os.html">计算机系统（操作系统）</a>
+        </div>
+        <div class="footer-col">
+          <h3>工具</h3>
+          <a href="map.html">知识线路图</a>
+          <a href="http://127.0.0.1:5001/" data-english-link>英语真题档案 ↗</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>SECTION O · 04 QUESTIONS · STATIC HTML</span>
+        <span>先写状态，再算指标</span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="toast" role="status" aria-live="polite"></div>
+
+  <script src="assets/config.js"></script>
+  <script src="assets/site.js"></script>
+</body>
+</html>

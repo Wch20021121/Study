@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="2021 考研英语一真题拆解：原文、译文、答案逻辑、62 个长难句、189 个核心词与阅读方法。">
+  <title>2021 英语（一）· 真题拆解手册</title>
+  <style>
+{{CSS}}
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到正文</a>
+  <div class="scroll-line" id="scrollLine" aria-hidden="true"></div>
+
+  <div class="mobile-bar">
+    <button class="menu-btn" id="menuBtn" aria-label="打开目录" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <a class="mobile-brand" href="#top">2021 英语一 <em>真题拆解</em></a>
+    <button class="mobile-night" id="mobileNight" aria-label="切换夜读模式">夜读</button>
+  </div>
+
+  <div class="layout">
+    <aside class="rail" id="rail" aria-label="页面目录">
+      <div class="rail-brand">
+        <p class="rail-kicker">全国硕士研究生招生考试</p>
+        <p class="rail-year">2021</p>
+        <p class="rail-subject">英语（一）<span>真题拆解</span></p>
+        <div class="rail-stamp">学习档案 · 01</div>
+      </div>
+
+      <nav class="rail-nav" id="railNav">
+        <p class="rail-label">开始</p>
+        <a href="index.html" style="color:#d3b45e;border-bottom:1px solid #425248;margin-bottom:4px">← 真题总目录</a>
+        <a href="#top" data-nav="top">封面</a>
+        <a href="#map" data-nav="map">试卷地图</a>
+
+        <p class="rail-label">试卷</p>
+        <a href="#cloze" data-nav="cloze"><span>01</span>完形填空</a>
+        <a href="#text1" data-nav="text1"><span>02</span>Text 1</a>
+        <a href="#text2" data-nav="text2"><span>03</span>Text 2</a>
+        <a href="#text3" data-nav="text3"><span>04</span>Text 3</a>
+        <a href="#text4" data-nav="text4"><span>05</span>Text 4</a>
+        <a href="#partb" data-nav="partb"><span>06</span>新题型</a>
+        <a href="#partc" data-nav="partc"><span>07</span>翻译</a>
+        <a href="#writing" data-nav="writing"><span>08</span>写作</a>
+
+        <p class="rail-label">拆解</p>
+        <a href="#sentences" data-nav="sentences"><span>09</span>长难句</a>
+        <a href="#vocab" data-nav="vocab"><span>10</span>核心词汇</a>
+
+        <p class="rail-label">方法</p>
+        <a href="#skills" data-nav="skills"><span>11</span>阅读方法</a>
+        <a href="#plan" data-nav="plan"><span>12</span>7 日计划</a>
+      </nav>
+
+      <div class="rail-progress">
+        <div class="rail-prog-head">
+          <span>学习进度</span>
+          <span id="overallPct">0%</span>
+        </div>
+        <div class="rail-bar"><i id="overallBar"></i></div>
+        <dl class="rail-stats">
+          <div><dt>试卷</dt><dd id="statSections">0/8</dd></div>
+          <div><dt>长难句</dt><dd id="statSentences">0/{{N_SENT}}</dd></div>
+          <div><dt>词汇</dt><dd id="statWords">0/{{N_VOCAB}}</dd></div>
+        </dl>
+      </div>
+
+      <div class="rail-actions">
+        <button class="rail-btn" id="nightBtn" type="button">夜读模式</button>
+        <button class="rail-btn" id="printBtn" type="button">打印 / 存 PDF</button>
+        <button class="rail-btn rail-reset" id="resetBtn" type="button">清除学习记录</button>
+      </div>
+    </aside>
+    <div class="rail-scrim" id="railScrim" aria-hidden="true"></div>
+
+    <main id="main">
+      <header class="hero" id="top">
+        <div class="hero-copy">
+          <p class="hero-kicker">2021 年全国硕士研究生招生考试 · 英语（一）</p>
+          <h1>
+            <span class="hero-line">英语（一）</span>
+            <span class="hero-line hero-line-2">真题拆解手册</span>
+          </h1>
+          <p class="hero-lede">
+            不只对答案。把这一张卷子拆成五层：原文、译文、答案逻辑、句子骨架、可以带进下一套题的阅读动作。
+          </p>
+          <div class="hero-actions">
+            <a class="btn btn-red" href="#map">从试卷地图开始</a>
+            <a class="btn btn-ghost" href="#sentences">先看长难句</a>
+          </div>
+          <div class="hero-stats">
+            <div><strong>100</strong><span>总分</span></div>
+            <div><strong>180</strong><span>分钟</span></div>
+            <div><strong>{{N_SENT}}</strong><span>句长难句</span></div>
+            <div><strong>{{N_VOCAB}}</strong><span>个核心词</span></div>
+          </div>
+        </div>
+
+        <div class="hero-visual" aria-hidden="true">
+          <div class="sheet sheet-back"></div>
+          <div class="sheet sheet-mid"></div>
+          <div class="sheet sheet-front">
+            <div class="sheet-head"><span>Section II</span><span>Reading Comprehension</span></div>
+            <p class="sheet-line">However, those commuters have also experienced some of the worst rail strikes in years.</p>
+            <p class="sheet-line"><span class="pen">while</span> aging is inevitable, certain changes in brain function may not be.</p>
+            <p class="sheet-line"><span class="pen">attributable to</span> changes in immunity that resulted from excess fat.</p>
+            <div class="sheet-margin">转折之后，才是作者真正想说的。</div>
+            <div class="sheet-stamp">拆</div>
+            <div class="sheet-folio">2021 / English I / 01</div>
+          </div>
+        </div>
+      </header>
+
+      <section class="chapter map-chapter" id="map" data-section="map">
+        <header class="section-head">
+          <div class="section-index">00</div>
+          <div class="section-title-wrap">
+            <p class="section-kicker">Before you start</p>
+            <h2>这张卷子，先看地图再动笔</h2>
+            <p class="section-topic">100 分 · 180 分钟 · 五个板块 · 一套完整的时间策略</p>
+          </div>
+        </header>
+        <p class="section-lede">
+          先知道每一块值多少分、该花多久，再决定考场上的做题顺序。下面的时间不是硬性规定，而是你模考后调整的起点。
+        </p>
+        <div class="map-grid" id="mapGrid"></div>
+        <div class="map-note">
+          <p class="map-note-kicker">这份材料怎么用</p>
+          <ol>
+            <li><b>先限时做一遍。</b>不会的词先猜，不要查；作文也要写。</li>
+            <li><b>再对答案。</b>只标错题，不急着看解析，先自己找证据句。</li>
+            <li><b>最后拆解。</b>用长难句和词汇库补基础，用阅读方法把“这一次”变成“下一次”。</li>
+          </ol>
+          <p class="version-note">答案字母按本页选项顺序标注。不同版本的试卷可能调整选项顺序，请以选项内容为准；例如 Q21 的正确内容是 “remains an unreasonable measure”。</p>
+        </div>
+      </section>
+
+      <div id="examMount"></div>
+
+      <section class="chapter" id="sentences" data-section="sentences">
+        <header class="section-head">
+          <div class="section-index">09</div>
+          <div class="section-title-wrap">
+            <p class="section-kicker">Sentence X-Ray</p>
+            <h2>长难句：先看骨架，再看修饰</h2>
+            <p class="section-topic">{{N_SENT}} 句 · 按“主干—结构—关键词—翻译—提醒”拆开</p>
+          </div>
+          <button class="mark-btn" data-mark-section="sentences" type="button">标记完成</button>
+        </header>
+        <p class="section-lede">
+          不要背整句。先遮住解析，自己说出“谁做了什么”，再展开对照。说不出来，说明你缺的是结构，不是词汇。
+        </p>
+        <div class="filter-bar sentence-filters">
+          <label class="search-box">
+            <span>搜索</span>
+            <input type="search" id="sentenceSearch" placeholder="输入英文、中文或语法关键词">
+          </label>
+          <div class="chip-row" id="sentenceSecFilters"></div>
+          <label class="switch-label"><input type="checkbox" id="sentenceUnmastered"> 只看未掌握</label>
+          <button class="tool-btn" id="randomSentence" type="button">随机抽一句</button>
+        </div>
+        <div class="list-count" id="sentenceCount"></div>
+        <div class="sentence-list" id="sentenceList"></div>
+      </section>
+
+      <section class="chapter" id="vocab" data-section="vocab">
+        <header class="section-head">
+          <div class="section-index">10</div>
+          <div class="section-title-wrap">
+            <p class="section-kicker">Word Bank</p>
+            <h2>核心词汇：按考点背，不按字母背</h2>
+            <p class="section-topic">{{N_VOCAB}} 词 · 搭配 + 辨析 + 文中语境</p>
+          </div>
+          <button class="mark-btn" data-mark-section="vocab" type="button">标记完成</button>
+        </header>
+        <p class="section-lede">
+          每个词都放回本卷语境里。先看英文和搭配猜意思，再展开中文；带星号的词可以单独标记“已掌握”。
+        </p>
+        <div class="filter-bar vocab-filters">
+          <label class="search-box">
+            <span>搜索</span>
+            <input type="search" id="vocabSearch" placeholder="输入单词或中文释义">
+          </label>
+          <div class="chip-row" id="vocabSecFilters"></div>
+          <label class="switch-label"><input type="checkbox" id="vocabUnmastered"> 只看未掌握</label>
+          <button class="tool-btn tool-btn-red" id="flashcardBtn" type="button">闪卡模式</button>
+        </div>
+        <div class="list-count" id="vocabCount"></div>
+        <div class="vocab-list" id="vocabList"></div>
+      </section>
+
+      <section class="chapter" id="skills" data-section="skills">
+        <header class="section-head">
+          <div class="section-index">11</div>
+          <div class="section-title-wrap">
+            <p class="section-kicker">Reading Method</p>
+            <h2>阅读方法：把“读懂”拆成可执行的动作</h2>
+            <p class="section-topic">猜词 · 拆句 · 定位 · 排除 · 主旨 · 完形 · 新题型 · 翻译写作</p>
+          </div>
+          <button class="mark-btn" data-mark-section="skills" type="button">标记完成</button>
+        </header>
+        <p class="section-lede">
+          这些方法都从本卷真题里长出来。不要一次背完；先挑你这次错得最多的题型，读对应的一章，然后回到原文验证。
+        </p>
+        <div class="skill-tools">
+          <button class="tool-btn" id="expandSkills" type="button">展开全部</button>
+          <button class="tool-btn" id="collapseSkills" type="button">收起全部</button>
+        </div>
+        <div class="skill-list" id="skillList"></div>
+
+        <div class="quiz-block" id="quizBlock">
+          <div class="quiz-head">
+            <p class="section-kicker">Quick Check</p>
+            <h3>猜词训练：先别查词典</h3>
+            <p>用上面的线索，判断下面 6 个词在本卷语境里的意思。</p>
+          </div>
+          <div id="quizList"></div>
+          <div class="quiz-score" id="quizScore" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section class="chapter" id="plan" data-section="plan">
+        <header class="section-head">
+          <div class="section-index">12</div>
+          <div class="section-title-wrap">
+            <p class="section-kicker">Seven-day Plan</p>
+            <h2>7 日计划：每天只做三件事</h2>
+            <p class="section-topic">模考 → 精读 → 拆句 → 背词 → 翻译写作 → 二轮 → 复盘</p>
+          </div>
+          <button class="mark-btn" data-mark-section="plan" type="button">标记完成</button>
+        </header>
+        <p class="section-lede">
+          计划按“每天 90–120 分钟”设计。完不成不要顺延到第二天堆着；优先完成当天的“精读 + 5 句 + 20 词”。
+        </p>
+        <div class="plan-grid" id="planGrid"></div>
+        <div class="plan-footer">
+          <p>完成一项就勾一项，进度会自动保存在这台设备的浏览器里。</p>
+          <button class="tool-btn" id="resetPlan" type="button">重置 7 日计划</button>
+        </div>
+      </section>
+
+      <footer class="site-footer">
+        <div>
+          <p class="footer-mark">2021 / 英语（一）</p>
+          <p>原文据公开扫描版试卷整理；答案按本页选项顺序标注。个别扫描件中的拼写与标点按通行版本校正。</p>
+        </div>
+        <div class="footer-links">
+          <a href="#top">回到封面</a>
+          <a href="#map">试卷地图</a>
+          <a href="#skills">阅读方法</a>
+        </div>
+      </footer>
+    </main>
+  </div>
+
+  <div id="tip" class="tip" hidden></div>
+
+  <div id="modal" class="modal" hidden>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-label="学习卡片">
+      <button class="modal-close" id="modalClose" aria-label="关闭">×</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <noscript>
+    <div class="noscript">这个学习页需要 JavaScript 才能展开答案、译文和闪卡。请用现代浏览器打开。</div>
+  </noscript>
+
+  <script>
+window.__EXAM_DATA__ = {{DATA}};
+  </script>
+  <script>
+{{JS}}
+  </script>
+</body>
+</html>
