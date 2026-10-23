@@ -128,8 +128,10 @@ curl -I http://127.0.0.1:5000/
 
 关键文件：
 
+- [DEV.md](DEV.md)：英语分支开发、worktree、只启动英语
+- [dev.sh](dev.sh)：只启动 `english` 的模块脚本
 - [run_english.sh](run_english.sh)：Linux 静态服务脚本（`start|stop|restart|status|logs|fg`）
 - [Dockerfile](Dockerfile)：`nginx:1.27-alpine` + 静态站点
-- [compose.yaml](compose.yaml)：宿主机 `5000` → 容器 `80`
+- [compose.yaml](compose.yaml)：英语单站可选编排；宿主机 `5000` → 容器 `80`，不固定容器名
 - [deploy/nginx.conf](deploy/nginx.conf)：Nginx 站点配置
 - [.dockerignore](.dockerignore)：只把 `frontend/` 打进镜像
