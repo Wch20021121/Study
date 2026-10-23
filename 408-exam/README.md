@@ -24,6 +24,18 @@ COMPOSE_PROJECT_NAME=study-408 docker compose up -d --build exam408
 http://127.0.0.1:40810/
 ```
 
+> 如果本地 `main` 的 `study-sites` 项目已经占用了 40810，先停掉它的 408：
+>
+> ```bash
+> docker compose -p study-sites stop exam408
+> ```
+>
+> 或者给这个 worktree 换端口：
+>
+> ```bash
+> EXAM408_PORT=40811 ./408-exam/dev.sh
+> ```
+
 常用命令：
 
 ```bash
