@@ -49,6 +49,9 @@ main
 
 ## 2. 推荐的日常流程
 
+> 下面命令适用于“只有一个工作目录、靠 `git switch` 切换”的模式。
+> 如果你用 worktree，每个目录固定在自己的分支，**不要**在模块目录里 `git switch main`；合并到 main 要回到 main 所在的目录执行。
+
 ### 开发 408
 
 ```bash
@@ -168,6 +171,28 @@ study-english-english-1
 ```
 
 所以可以同时存在。
+
+### worktree 里怎么合并
+
+在 408 worktree 里（已经在 408 分支）：
+
+```bash
+git merge main
+git add 408-exam
+git commit -m "feat(408): ..."
+```
+
+然后回到 main 所在的主目录：
+
+```bash
+cd /Users/wch/workspace/Study
+git switch main
+git merge --no-ff 408
+```
+
+英语同理：在 `Study-English` 里 `git merge main`、提交，回到主目录再 merge `english`。
+
+不要在 408 worktree 里执行 `git switch main`：`main` 正在主目录被检出，Git 会拒绝。
 
 ### 端口注意
 
