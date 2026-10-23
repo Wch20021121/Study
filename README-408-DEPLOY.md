@@ -1,5 +1,7 @@
 # 408 大题工位 + 英语真题档案：Docker 部署说明
 
+> 项目总览、Dockerfile/Compose 入门和日常启停命令见根目录 [README.md](README.md)。本文重点讲阿里云部署。
+
 这个目录现在有两套独立站点，用两个容器、两个宿主机端口运行：
 
 | 站点 | 容器名 | 宿主机端口 | 容器内端口 | 目录 |
@@ -202,6 +204,31 @@ docker compose ps
 ```
 
 > 注意：`English/compose.yaml` 是英语单站原来的编排，默认容器名 `kaoyan-english`、端口 5000；根目录 `compose.yaml` 是两站统一编排，容器名 `study-english`、端口 5001。**只选一套启动**，避免重复容器和端口混乱；如果确实要同时跑，先确认两套编排的宿主机端口不冲突。
+
+### 3.4 只启动一个站点
+
+两个站点是独立容器，可以单独启停。注意命令里用的是 **Compose 服务名**：`exam408`、`english`。
+
+```bash
+cd /opt/study
+
+# 只启动 408
+docker compose up -d exam408
+
+# 只启动英语
+docker compose up -d english
+
+# 只停止 408
+docker compose stop exam408
+
+# 只重启英语
+docker compose restart english
+
+# 只重建 408
+docker compose up -d --build exam408
+```
+
+启动顺序没有依赖，先启哪个都可以。`deploy.sh` 默认会处理两个站点；要单独操作，直接用上面的 Compose 命令。
 
 ---
 
