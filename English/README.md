@@ -4,18 +4,19 @@
 
 考研英语一阅读理解每日一题，包含文章阅读、选择题作答、重难点单词复习。直接双击 HTML 文件即可在浏览器中使用，无需安装任何依赖。
 
-## 真题做题 / 解析双页版
+## 真题 / 解析 / 知识点三视图版
 
-`frontend/` 现在以“每套卷子两个页面”为主入口：
+`frontend/` 现在以“每套卷子一个年度工作区、顶部三个视图”为主入口：
 
-| 页面 | 路径 | 用途 |
+| 视图 | 路径 | 用途 |
 | --- | --- | --- |
-| 做题 | `frontend/practice/<year>.html` | 无答案卷面、自动保存、计时、答题卡 |
-| 解析 | `frontend/analysis/<year>.html` | 自动阅卷、错题定位、全卷解析、词汇和长难句 |
+| 真题 | `frontend/practice/<year>.html` | 默认入口；无答案卷面、自动保存、计时、答题卡 |
+| 真题解析 | `frontend/analysis/<year>.html` | 自动阅卷、错题定位、全卷解析、词汇和长难句 |
+| 知识点分析 | `frontend/knowledge/<year>.html` | 命题结构、题干信号、词汇分布、长难句、写作表达和作答进度 |
 
-总入口：`frontend/index.html`。这里同时保留 `frontend/2021.html` 和 `frontend/years/*.html` 作为旧版长文/方法库。
+顶部工具支持暂存/导入 JSON，以及一键清空本卷作答。总入口：`frontend/index.html`。这里同时保留 `frontend/2021.html` 和 `frontend/years/*.html` 作为旧版长文/方法库。
 
-重新生成做题、解析和总目录：
+重新生成三个视图和总目录：
 
 ```bash
 python3 English/frontend/src/exam/build_exam.py

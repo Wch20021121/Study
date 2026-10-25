@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light">
-  <meta name="description" content="2010—2026 考研英语（一）真题档案：每套卷子分为做题页和解析页，支持在线作答、交卷阅卷、错题定位、全卷解析和重难点词汇。">
-  <title>英语（一）真题档案 · 做题与解析</title>
-  <link rel="stylesheet" href="assets/exam/exam.css">
+  <meta name="description" content="2010—2026 考研英语（一）真题档案：每套卷子分为三个视图：真题、真题解析、知识点分析。支持在线作答、暂存 JSON、交卷阅卷、错题定位、全卷解析和重难点词汇。">
+  <title>英语（一）真题档案 · 真题 / 解析 / 知识点</title>
+  <link rel="stylesheet" href="assets/exam/exam.css?v={{ASSET_VERSION}}">
 </head>
 <body class="portal-page" data-page="portal">
   <a class="skip-link" href="#archive">跳到真题列表</a>
@@ -22,7 +22,7 @@
       <a href="2021.html#skills">方法库</a>
       <a href="#plan">7 日计划</a>
     </nav>
-    <span class="portal-count">{{COUNT}} 套 · 17 年</span>
+    <span class="portal-count">{{COUNT}} 套 · 3 个视图</span>
   </header>
 
   <main>
@@ -30,14 +30,14 @@
       <div class="portal-hero-copy">
         <p class="hero-kicker">NATIONAL POSTGRADUATE ENTRANCE EXAMINATION · ENGLISH I</p>
         <h1>做题是前半场，<br><em>阅卷</em>是后半场。</h1>
-        <p class="hero-lede">每一年拆成两个页面：先在没有答案的卷面上做完，交卷后去看自动阅卷、错题定位、全卷解析和这一年的重难点词汇。</p>
+        <p class="hero-lede">每一年一套卷子、三个视图：先在“真题”里做完，交卷后去“真题解析”看自动阅卷和错题，再去“知识点分析”把这一年的词汇、长难句和命题结构拆开复习。</p>
         <div class="hero-actions">
           <a class="btn btn-red" href="#archive">选一套开始 <span>↓</span></a>
           <a class="btn btn-ghost" href="#how">先看使用说明</a>
         </div>
         <div class="hero-stats">
           <div><strong>{{COUNT}}</strong><span>套真题</span></div>
-          <div><strong>02</strong><span>页面 / 套</span></div>
+          <div><strong>03</strong><span>视图 / 套</span></div>
           <div><strong>45</strong><span>道客观题</span></div>
           <div><strong>2,900+</strong><span>个核心词</span></div>
         </div>
@@ -55,27 +55,27 @@
 
     <section class="portal-how" id="how">
       <div class="section-head">
-        <div><p class="section-kicker">How it works</p><h2>一套卷子，两个页面</h2></div>
-        <p>不要在解析页“顺便”做题；也不要在做题页忍不住对答案。把两个动作分开，正确率才有意义。</p>
+        <div><p class="section-kicker">How it works</p><h2>一套卷子，三个视图</h2></div>
+        <p>不要在解析页“顺便”做题；也不要在真题页忍不住对答案。先做，再阅，再拆。三个视图共用同一份本机作答记录。</p>
       </div>
       <div class="how-grid">
         <div class="how-card">
           <span class="how-no">01</span>
-          <h3>做题页</h3>
-          <p>只有题目和选项，没有答案。自动保存、计时、答题卡；交卷后直接跳到解析页。</p>
-          <b>practice / 做</b>
+          <h3>真题</h3>
+          <p>只有题目和选项，没有答案。自动保存、计时、答题卡；选择只记录，不显示对错。</p>
+          <b>paper / 做</b>
         </div>
         <div class="how-card">
           <span class="how-no">02</span>
-          <h3>交卷</h3>
-          <p>系统按 60 分客观题自动阅卷，列出错题和未答；主观题进入解析页自评。</p>
-          <b>submit / 阅</b>
+          <h3>真题解析</h3>
+          <p>按 60 分客观题自动阅卷，列出错题和未答；答案、证据句、干扰项、翻译、范文都在这里。</p>
+          <b>solutions / 阅</b>
         </div>
         <div class="how-card">
           <span class="how-no">03</span>
-          <h3>解析页</h3>
-          <p>答案、证据句、干扰项、翻译、长难句、范文，以及这一年的全部重难点词汇。</p>
-          <b>analysis / 拆</b>
+          <h3>知识点分析</h3>
+          <p>命题结构、阅读题干信号、词汇分布、长难句难度和写作可迁移表达，单独拆成复习页。</p>
+          <b>knowledge / 拆</b>
         </div>
       </div>
     </section>
@@ -111,7 +111,7 @@
 
     <section class="portal-legacy">
       <div><p class="section-kicker">Elsewhere</p><h2>旧的“长文精讲”还在</h2></div>
-      <p>之前的逐年长页保留为旧版阅读，可继续查翻译和方法；新入口统一从上面的“做题 / 解析”进入。</p>
+      <p>之前的逐年长页保留为旧版阅读，可继续查翻译和方法；新入口统一从上面的“真题 / 解析 / 知识点”进入。</p>
       <div class="legacy-actions">
         <a class="btn btn-ghost btn-small" href="2021.html">2021 全卷旧版</a>
         <a class="btn btn-ghost btn-small" href="years/2010.html">2010 旧版阅读</a>
@@ -121,11 +121,11 @@
   </main>
 
   <footer class="portal-footer">
-    <div><b>英语（一）真题档案</b><span>做题 / 解析双页版 · 2010—2026</span></div>
+    <div><b>英语（一）真题档案</b><span>真题 / 解析 / 知识点三视图 · 2010—2026</span></div>
     <div><a href="#archive">真题列表</a><a href="http://127.0.0.1:40810/" data-408-link>408 大题工位</a></div>
   </footer>
 
   <script>window.__YEARS__ = {{YEARS_DATA}};</script>
-  <script src="assets/exam/portal.js"></script>
+  <script src="assets/exam/portal.js?v={{ASSET_VERSION}}"></script>
 </body>
 </html>

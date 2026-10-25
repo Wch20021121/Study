@@ -131,10 +131,10 @@
     $("#objectiveTotal").textContent = `/ ${fmtScore(objectiveTotal)}`;
     $("#reportLede").textContent = submitted
       ? `客观题 ${fmtScore(objectiveScore)} / ${fmtScore(objectiveTotal)}，答对 ${corrects.length} 题，错 ${wrongs.length} 题，未答 ${unanswered.length} 题。主观题请结合参考译文、范文自评。`
-      : "还没有这套卷子的交卷记录。先去做题页完成并交卷，这里会自动生成成绩单；下面的完整解析仍然可以阅读。";
+      : "还没有这套卷子的交卷记录。先去“真题”完成并交卷，这里会自动生成成绩单；下面的完整解析仍然可以阅读。";
 
     if (!submitted) {
-      $("#reportMount").innerHTML = `<div class="analysis-banner"><b>先做，再看。</b> 打开 <a class="text-link" href="../practice/${meta.year}.html">${meta.year} 做题页</a>，交卷后回到这里看自动阅卷和错题定位。当前页面不会出现你的作答痕迹。</div>`;
+      $("#reportMount").innerHTML = `<div class="analysis-banner"><b>先做，再看。</b> 打开 <a class="text-link" href="../practice/${meta.year}.html">${meta.year} 真题</a>，交卷后回到这里看自动阅卷和错题定位。当前页面不会出现你的作答痕迹。</div>`;
       return;
     }
 

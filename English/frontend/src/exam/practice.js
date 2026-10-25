@@ -110,7 +110,7 @@
       <div class="exam-directions">Read the following text carefully and choose the best answer for each question.</div>
       <article class="passage">${t.paragraphs.map((p, i) => `<div class="para"><span class="para-no">P${i + 1}</span><div><p class="para-en">${esc(p.en)}</p></div></div>`).join("")}</article>
       <div class="question-block">
-        <div class="question-block-head"><b>${qs[0].n}–${qs[qs.length - 1].n}</b><span>每题 2 分 · 选择一个答案</span></div>
+        <div class="question-block-head"><b>${qs[0].n}–${qs[qs.length - 1].n}</b><span>每题 2 分 · 只记录选择，不显示对错</span></div>
         ${qs.map((q) => choiceHtml(q, t.id)).join("")}
       </div>
     </section>`;
@@ -126,7 +126,7 @@
       <div class="exam-directions">${esc(cloze.directions || "Read the following text. Choose the best word for each numbered blank.")}</div>
       ${clozePassage()}
       <div class="question-block">
-        <div class="question-block-head"><b>1–20</b><span>每题 0.5 分 · 点击选项</span></div>
+        <div class="question-block-head"><b>1–20</b><span>每题 0.5 分 · 点击选项，不显示对错</span></div>
         <div class="cloze-grid">${cloze.questions.map((q) => choiceHtml(q, "cloze")).join("")}</div>
       </div>
     </section>`;
@@ -137,7 +137,7 @@
   }
 
   function partbSelects(letters) {
-    return `<div class="question-block"><div class="question-block-head"><b>41–45</b><span>从 ${letters[0]}–${letters[letters.length - 1]} 中选择</span></div>
+    return `<div class="question-block"><div class="question-block-head"><b>41–45</b><span>从 ${letters[0]}–${letters[letters.length - 1]} 中选择 · 交卷后统一阅卷</span></div>
       ${[41, 42, 43, 44, 45].map((n) => {
         const id = qid("partb", n);
         return `<fieldset class="q-item" id="q-${id}" data-qid="${id}">
@@ -240,6 +240,8 @@
     if (partc) mount.push(renderPartC());
     if (writing) mount.push(renderWriting());
     $("#paperMount").innerHTML = mount.join("");
+    const submittedNotice = $("#submittedNotice");
+    if (submittedNotice) submittedNotice.hidden = !state.submittedAt;
     updateAll();
     renderWordCounts();
     startTimer();
@@ -320,7 +322,7 @@
   function openSubmit() {
     const unanswered = objectiveQuestions.filter((q) => !state.answers[q.id]);
     const answered = objectiveQuestions.length - unanswered.length;
-    $("#submitSummary").textContent = `客观题已答 ${answered} / ${objectiveQuestions.length}。交卷后会跳到解析页，自动阅卷并列出错题；主观题请在解析页对照参考答案自评。`;
+    $("#submitSummary").textContent = `客观题已答 ${answered} / ${objectiveQuestions.length}。交卷后会跳到“真题解析”，自动阅卷并列出错题；主观题请在解析页对照参考答案自评。`;
     $("#unansweredList").innerHTML = unanswered.length
       ? unanswered.map((q) => `<span>${q.n}</span>`).join("")
       : '<span class="ok">客观题全部已答</span>';
@@ -392,12 +394,6 @@
     if (event.target.closest("[data-submit]")) { openSubmit(); return; }
     if (event.target.closest("[data-close-modal]")) { closeSubmit(); return; }
     if (event.target.closest("[data-confirm-submit]")) { submit(); return; }
-    if (event.target.closest("#resetPaper")) {
-      if (window.confirm("清空本卷所有作答与计时，重新开始？")) {
-        localStorage.removeItem(KEY);
-        location.reload();
-      }
-    }
   });
 
   document.addEventListener("keydown", (event) => {

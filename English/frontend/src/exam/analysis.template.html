@@ -6,7 +6,7 @@
   <meta name="color-scheme" content="light">
   <meta name="description" content="{{DESC}}">
   <title>{{YEAR}} 英语（一）· 解析与词汇</title>
-  <link rel="stylesheet" href="../assets/exam/exam.css">
+  <link rel="stylesheet" href="../assets/exam/exam.css?v={{ASSET_VERSION}}">
 </head>
 <body class="analysis-page" data-year="{{YEAR}}">
   <a class="skip-link" href="#report">跳到成绩单</a>
@@ -23,13 +23,15 @@
     </div>
   </header>
 
+  {{VIEW_TABS}}
+
   <div class="analysis-layout">
     <aside class="analysis-rail" aria-label="解析导航">
       <div class="analysis-rail-head">
         <p class="rail-kicker">ANSWER KEY</p>
         <p class="rail-year">{{YEAR}}</p>
         <p class="rail-subject">解析与词汇</p>
-        <a class="rail-back" href="../practice/{{YEAR}}.html">← 回到做题页</a>
+        <a class="rail-back" href="../practice/{{YEAR}}.html">← 回到真题</a>
       </div>
       <nav class="analysis-nav" id="analysisNav" aria-label="解析章节"></nav>
       <div class="analysis-rail-foot">
@@ -82,6 +84,7 @@
   <noscript><div class="noscript">这个解析页需要 JavaScript 才能展开答案、词汇和错题报告。</div></noscript>
 
   <script>window.__PAPER__ = {{DATA}};</script>
-  <script src="../assets/exam/analysis.js"></script>
+  <script src="../assets/exam/yearbar.js?v={{ASSET_VERSION}}"></script>
+  <script src="../assets/exam/analysis.js?v={{ASSET_VERSION}}"></script>
 </body>
 </html>
