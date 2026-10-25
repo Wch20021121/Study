@@ -1,0 +1,721 @@
+{
+  "cloze": {
+    "id": "cloze",
+    "kicker": "Section I",
+    "title": "完形填空",
+    "en_title": "Use of English",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "流体智力与腹部脂肪",
+    "directions": "Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on the ANSWER SHEET. (10 points)",
+    "intro": "这篇文章的逻辑很“科研”：先提出流体智力会随年龄下降，再介绍一项把肌肉、腹部脂肪与认知变化联系起来的研究，最后给出可操作的生活方式建议。做完形时，先抓这一条主线，再逐空判断词义和搭配。",
+    "passage": [
+      {
+        "en": "Fluid intelligence is the type of intelligence that has to do with short-term memory and the ability to think quickly, logically, and abstractly in order to solve new problems. It {{1}} in young adulthood, levels out for a period of time, and then {{2}} starts to slowly decline as we age. But {{3}} aging is inevitable, scientists are finding out that certain changes in brain function may not be.",
+        "zh": "流体智力是一种与短时记忆以及快速、逻辑、抽象地思考以解决新问题的能力有关的智力。它在成年早期达到顶峰，随后在一段时间内保持平稳，然后通常随着年龄增长开始缓慢下降。但是，尽管衰老不可避免，科学家们正发现，大脑功能的某些变化也许并非不可避免。"
+      },
+      {
+        "en": "One study found that muscle loss and the {{4}} of body fat around the abdomen are associated with a decline in fluid intelligence. This suggests the {{5}} that lifestyle factors might help prevent or {{6}} this type of decline.",
+        "zh": "一项研究发现，肌肉流失和腹部脂肪的堆积与流体智力下降有关。这表明了一种可能性：生活方式因素也许有助于防止或延缓这类衰退。"
+      },
+      {
+        "en": "The researchers looked at data that {{7}} measurements of lean muscle and abdominal fat from more than 4,000 middle-to-older-aged men and women and {{8}} that data to reported changes in fluid intelligence over a six-year period. They found that middle-aged people {{9}} higher measures of abdominal fat {{10}} worse on measures of fluid intelligence as the years {{11}}.",
+        "zh": "研究人员查看了包含 4,000 多名中老年男女瘦肌肉和腹部脂肪测量数据的数据集，并将这些数据与六年期间报告的流体智力变化进行了比较。他们发现，腹部脂肪指标较高的中年人在岁月流逝中，流体智力测试的表现更差。"
+      },
+      {
+        "en": "For women, the association may be {{12}} to changes in immunity that resulted from excess abdominal fat; in men, the immune system did not appear to be {{13}}. It is hoped that future studies could {{14}} these differences and perhaps lead to different {{15}} for men and women.",
+        "zh": "对女性而言，这种关联或许可归因于腹部脂肪过多所导致的免疫变化；对男性而言，免疫系统似乎并未参与其中。人们希望未来的研究能够解释这些差异，并可能为男性和女性带来不同的治疗方法。"
+      },
+      {
+        "en": "{{16}} there are steps you can {{17}} to help reduce abdominal fat and maintain lean muscle mass as you age in order to protect both your physical and mental {{18}}. The two highly recommended lifestyle approaches are maintaining or increasing your {{19}} of aerobic exercise and following a Mediterranean-style {{20}} that is high in fiber and eliminates highly processed foods.",
+        "zh": "与此同时，你可以采取一些措施，帮助减少腹部脂肪，并在衰老过程中保持瘦肌肉量，从而保护身心健康。两种备受推崇的生活方式是：保持或增加有氧运动的量，以及遵循富含纤维、排除高度加工食品的地中海式饮食。"
+      }
+    ],
+    "questions": [
+      {
+        "n": 1,
+        "answer": "C",
+        "options": [
+          "pauses",
+          "returns",
+          "peaks",
+          "fades"
+        ],
+        "cn": [
+          "暂停",
+          "返回",
+          "达到顶峰",
+          "衰退"
+        ],
+        "explain": "主语 It 指 fluid intelligence。后半句说“保持平稳，然后开始下降”，所以空缺处应是下降之前的最高点。peak 作动词表示“达到顶峰”，与 levels out, decline 构成完整的时间线。",
+        "trap": "fades 也有“衰退”之意，但会与后面的 decline 语义重复，而且顺序不对。",
+        "type": "语义线索 · 时间线"
+      },
+      {
+        "n": 2,
+        "answer": "D",
+        "options": [
+          "alternatively",
+          "formally",
+          "accidentally",
+          "generally"
+        ],
+        "cn": [
+          "或者",
+          "正式地",
+          "偶然地",
+          "通常"
+        ],
+        "explain": "这里修饰 starts to decline，说的是一个普遍规律：流体智力通常随着年龄增长而下降。generally 表示“通常、大体上”，符合科研结论的概括语气。",
+        "trap": "不要因为句中有 and then 就误选表示“替代”的 alternatively；这里不是二选一。",
+        "type": "副词 · 语气"
+      },
+      {
+        "n": 3,
+        "answer": "A",
+        "options": [
+          "while",
+          "since",
+          "once",
+          "until"
+        ],
+        "cn": [
+          "虽然；当……时",
+          "既然；自从",
+          "一旦",
+          "直到"
+        ],
+        "explain": "前半句“衰老不可避免”与后半句“某些大脑变化也许并非不可避免”构成让步转折。while 在此相当于 although，引导让步状语从句。",
+        "trap": "since 表原因时逻辑也通，但语义会变成“既然衰老不可避免，所以科学家发现……”，与后文“may not be”形成的对比不如 while 精确。",
+        "type": "逻辑关系 · 让步"
+      },
+      {
+        "n": 4,
+        "answer": "B",
+        "options": [
+          "detection",
+          "accumulation",
+          "consumption",
+          "separation"
+        ],
+        "cn": [
+          "检测",
+          "积累",
+          "消耗",
+          "分离"
+        ],
+        "explain": "与 muscle loss 并列的是“腹部周围脂肪的____”。accumulation of body fat 是固定搭配，表示脂肪的堆积；后文 excess abdominal fat 也在复现这一含义。",
+        "trap": "consumption 是“消耗”，与脂肪堆积导致健康风险的语境相反。",
+        "type": "名词搭配 · 同义复现"
+      },
+      {
+        "n": 5,
+        "answer": "A",
+        "options": [
+          "possibility",
+          "decision",
+          "goal",
+          "requirement"
+        ],
+        "cn": [
+          "可能性",
+          "决定",
+          "目标",
+          "要求"
+        ],
+        "explain": "This suggests the ____ that... 中的 that 从句解释前面内容，表示研究“提示了一种可能性”：生活方式因素也许能预防或延缓衰退。suggest the possibility that 是常见搭配。",
+        "trap": "decision/goal/requirement 都太确定；原文用的是 might，语气是推测。",
+        "type": "同位语从句 · 语气"
+      },
+      {
+        "n": 6,
+        "answer": "A",
+        "options": [
+          "delay",
+          "ensure",
+          "seek",
+          "utilize"
+        ],
+        "cn": [
+          "延缓",
+          "确保",
+          "寻求",
+          "利用"
+        ],
+        "explain": "prevent or ____ this type of decline：与 prevent（防止）并列，delay（延缓）最自然。整句意思是“防止或延缓这类衰退”。",
+        "trap": "ensure 后不能直接接 decline 表示“确保衰退”；seek 和 utilize 与 decline 搭配不通。",
+        "type": "动词搭配 · 并列结构"
+      },
+      {
+        "n": 7,
+        "answer": "C",
+        "options": [
+          "modified",
+          "supported",
+          "included",
+          "predicted"
+        ],
+        "cn": [
+          "修改",
+          "支持",
+          "包含",
+          "预测"
+        ],
+        "explain": "data that ____ measurements... 是定语从句，说明这份数据“包含”瘦肌肉和腹部脂肪的测量值。include 表示整体包含部分，符合 data 与 measurements 的关系。",
+        "trap": "supported 需要“数据支持测量”这种不合逻辑的关系；predicted 时态和语义都不对。",
+        "type": "定语从句 · 动词辨析"
+      },
+      {
+        "n": 8,
+        "answer": "B",
+        "options": [
+          "devoted",
+          "compared",
+          "converted",
+          "applied"
+        ],
+        "cn": [
+          "致力于",
+          "比较",
+          "转换",
+          "应用"
+        ],
+        "explain": "compared that data to reported changes 是固定搭配 compare A to B，表示“把 A 与 B 比较”。研究人员要把脂肪、肌肉数据与认知变化对照起来。",
+        "trap": "apply...to... 是“把……应用于”，不能表示“与……比较”。",
+        "type": "动词搭配 · 科研动作"
+      },
+      {
+        "n": 9,
+        "answer": "A",
+        "options": [
+          "with",
+          "above",
+          "by",
+          "against"
+        ],
+        "cn": [
+          "具有",
+          "在……上方",
+          "通过",
+          "反对"
+        ],
+        "explain": "people ____ higher measures of abdominal fat 是“腹部脂肪指标较高的人”。with 表示“具有、带有”，修饰 people。",
+        "trap": "above 是方位介词，不能直接说 people above higher measures。",
+        "type": "介词 · 后置定语"
+      },
+      {
+        "n": 10,
+        "answer": "C",
+        "options": [
+          "lived",
+          "managed",
+          "scored",
+          "played"
+        ],
+        "cn": [
+          "生活",
+          "管理",
+          "得分",
+          "玩"
+        ],
+        "explain": "scored worse on measures of fluid intelligence 表示“在流体智力测试中得分更差”。score 与 on a test/measure 搭配，是测试语境的常用动词。",
+        "trap": "live/manage/play 都不能与 worse on measures 构成“得分更差”的意思。",
+        "type": "动词搭配 · 测试语境"
+      },
+      {
+        "n": 11,
+        "answer": "D",
+        "options": [
+          "ran out",
+          "set off",
+          "drew in",
+          "went by"
+        ],
+        "cn": [
+          "用完",
+          "出发",
+          "吸引",
+          "流逝"
+        ],
+        "explain": "as the years ____ 表示“随着岁月流逝”。go by 是“（时间）过去、流逝”的固定表达。",
+        "trap": "run out 是“用完”，主语通常是物；set off 是“出发”，drew in 是“吸引/驶入”。",
+        "type": "短语动词 · 时间"
+      },
+      {
+        "n": 12,
+        "answer": "B",
+        "options": [
+          "superior",
+          "attributable",
+          "parallel",
+          "resistant"
+        ],
+        "cn": [
+          "优于",
+          "可归因于",
+          "平行的",
+          "抵抗的"
+        ],
+        "explain": "be attributable to 表示“可归因于”。女性身上的关联可能源于腹部脂肪过多造成的免疫变化；后文用分号对比男性，说明这是在解释原因。",
+        "trap": "superior to 是“优于”，parallel to 是“与……平行”，resistant to 是“抵抗”，都不能解释 association 的来源。",
+        "type": "形容词搭配 · 因果"
+      },
+      {
+        "n": 13,
+        "answer": "C",
+        "options": [
+          "restored",
+          "isolated",
+          "involved",
+          "controlled"
+        ],
+        "cn": [
+          "恢复",
+          "隔离",
+          "参与；有关",
+          "控制"
+        ],
+        "explain": "the immune system did not appear to be involved 表示“免疫系统似乎没有参与其中”。be involved in 是“参与、与……有关”，与上句女性免疫变化形成对照。",
+        "trap": "isolated 是“被隔离”，restored 是“被恢复”，controlled 是“被控制”，都不符合“是否参与”的对比。",
+        "type": "形容词 · 对比"
+      },
+      {
+        "n": 14,
+        "answer": "D",
+        "options": [
+          "alter",
+          "spread",
+          "remove",
+          "explain"
+        ],
+        "cn": [
+          "改变",
+          "传播",
+          "移除",
+          "解释"
+        ],
+        "explain": "future studies could ____ these differences：未来研究要“解释”这些性别差异。explain 与 differences 搭配自然，也符合科研目的。",
+        "trap": "alter/remove differences 是“改变/消除差异”，语义过强；spread differences 搭配不成立。",
+        "type": "动词辨析 · 科研目的"
+      },
+      {
+        "n": 15,
+        "answer": "D",
+        "options": [
+          "compensations",
+          "symptoms",
+          "demands",
+          "treatments"
+        ],
+        "cn": [
+          "补偿",
+          "症状",
+          "需求",
+          "治疗方法"
+        ],
+        "explain": "lead to different ____ for men and women：既然发现了男女机制不同，就可能带来不同的“治疗方法”。treatment for... 是固定搭配。",
+        "trap": "symptoms 是“症状”，不是研究带来的结果；compensations/demands 与医疗语境不符。",
+        "type": "名词搭配 · 医学语境"
+      },
+      {
+        "n": 16,
+        "answer": "B",
+        "options": [
+          "Likewise",
+          "Meanwhile",
+          "Therefore",
+          "Instead"
+        ],
+        "cn": [
+          "同样地",
+          "与此同时",
+          "因此",
+          "相反"
+        ],
+        "explain": "前面讲研究机制，这里转到“与此同时，你也能采取一些措施”，从科学发现过渡到生活建议。meanwhile 表示话题的并行推进。",
+        "trap": "therefore 会变成“因此你可以采取措施”，但前后不是严格因果；instead 表示替代，逻辑不符。",
+        "type": "逻辑连接 · 话题转换"
+      },
+      {
+        "n": 17,
+        "answer": "D",
+        "options": [
+          "change",
+          "watch",
+          "count",
+          "take"
+        ],
+        "cn": [
+          "改变",
+          "观看",
+          "计数",
+          "采取"
+        ],
+        "explain": "take steps to do sth 是固定搭配，表示“采取措施做某事”。steps 与 take 构成动宾关系。",
+        "trap": "change steps 是“改变步骤”，watch/count steps 是“看/数步骤”，都不符合“采取措施”的意思。",
+        "type": "固定搭配"
+      },
+      {
+        "n": 18,
+        "answer": "A",
+        "options": [
+          "well-being",
+          "process",
+          "formation",
+          "coordination"
+        ],
+        "cn": [
+          "身心健康",
+          "过程",
+          "形成",
+          "协调"
+        ],
+        "explain": "protect both your physical and mental ____：与 physical and mental 搭配的是 well-being，表示“身心健康”。",
+        "trap": "physical and mental process 是“身心过程”，formation/coordination 也不能与“保护”构成自然搭配。",
+        "type": "名词搭配 · 并列"
+      },
+      {
+        "n": 19,
+        "answer": "A",
+        "options": [
+          "level",
+          "love",
+          "knowledge",
+          "space"
+        ],
+        "cn": [
+          "水平；量",
+          "热爱",
+          "知识",
+          "空间"
+        ],
+        "explain": "your ____ of aerobic exercise：level of exercise 表示“运动量/运动水平”。后文 maintaining or increasing 也提示这是一个可以“保持或增加”的量。",
+        "trap": "love/knowledge/space 都不能与 increase 搭配表示“增加运动量”。",
+        "type": "名词搭配 · 量"
+      },
+      {
+        "n": 20,
+        "answer": "C",
+        "options": [
+          "design",
+          "routine",
+          "diet",
+          "prescription"
+        ],
+        "cn": [
+          "设计",
+          "日常安排",
+          "饮食",
+          "处方"
+        ],
+        "explain": "Mediterranean-style ____ that is high in fiber and eliminates highly processed foods：“富含纤维、排除高度加工食品”显然是在描述饮食，diet 最准确。",
+        "trap": "routine 可以指“日常习惯”，但 high in fiber 是描述食物的，diet 更具体。",
+        "type": "名词 · 语义场"
+      }
+    ]
+  },
+  "partb": {
+    "id": "partb",
+    "kicker": "Section II · Part B",
+    "title": "新题型 · 7 选 5",
+    "en_title": "AI at work: seven sentences, five gaps",
+    "cn_title": "人工智能如何帮助公司而不取代员工",
+    "score": 10,
+    "suggest": "15–18 分钟",
+    "topic": "人工智能在招聘、营销、保险、审计和基础设施维护中的应用",
+    "directions": "In the following text, some sentences have been removed. For Questions 41–45, choose the most suitable one from the list A–G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on the ANSWER SHEET. (10 points)",
+    "intro": "7 选 5 不是“把句子读顺”那么简单，而是做“衔接证据”匹配。每个空看三件事：空前一句的关键词、空后一句的指代/转折、以及该段小标题的功能。两个多余选项通常在主题或逻辑上与某个空相近，必须用代词、复现词或段内功能排除。",
+    "blocks": [
+      {
+        "type": "para",
+        "en": "In the movies and on television, artificial intelligence is typically depicted as something sinister that will upend our way of life. When it comes to AI in business, we often hear about it in relation to automation and the impending loss of jobs, but in what ways is AI changing companies and the larger economy that don't involve doom-and-gloom mass unemployment predictions?",
+        "zh": "在电影和电视中，人工智能通常被描绘成某种邪恶的东西，将颠覆我们的生活方式。谈到商业中的人工智能，我们经常听到它与自动化和即将到来的失业有关，但人工智能正在以哪些不涉及悲观的大规模失业预测的方式改变公司和更大的经济呢？"
+      },
+      {
+        "type": "para",
+        "en": "A recent survey of manufacturing and service industries from Tata Consultancy Services found that companies currently use AI more often in computer-to-computer activities than in automating human activities. Here are a few ways AI is aiding companies without replacing employees:",
+        "zh": "塔塔咨询服务公司最近对制造业和服务业进行的一项调查发现，目前公司在计算机对计算机的活动中使用人工智能的频率高于在自动化人类活动中的使用。以下是人工智能在不替代员工的情况下帮助公司的几种方式："
+      },
+      {
+        "type": "heading",
+        "en": "Better hiring practices",
+        "zh": "更好的招聘方式"
+      },
+      {
+        "type": "para",
+        "en": "Companies are using artificial intelligence to remove some of the unconscious bias from hiring decisions. \"There are experiments that show that, naturally, the results of interviews are much more biased than what AI does,\" says Pedro Domingos, author of The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World and a computer science professor at the University of Washington. \"{{41}}\" One company that's doing this is called Blendoor. It uses analytics to help identify where there may be bias in the hiring process.",
+        "zh": "公司正在使用人工智能来消除招聘决策中的一些无意识偏见。佩德罗·多明戈斯说：“有实验表明，自然情况下，面试结果比人工智能的结果偏见大得多。”他是《主算法：终极学习机器的探索将如何重塑我们的世界》一书的作者，也是华盛顿大学计算机科学教授。“{{41}}”一家这样做的公司叫 Blendoor。它使用分析技术帮助识别招聘过程中可能存在偏见的地方。"
+      },
+      {
+        "type": "heading",
+        "en": "More effective marketing",
+        "zh": "更有效的营销"
+      },
+      {
+        "type": "para",
+        "en": "Some AI software can analyze and optimize marketing email subject lines to increase open rates. One company in the UK, Phrasee, claims their software can outperform humans by up to 10 percent when it comes to email open rates. This can mean millions more in revenue. {{42}} These are \"tools that help people use data, not a replacement for people,\" says Patrick H. Winston, a professor of artificial intelligence and computer science at MIT.",
+        "zh": "一些人工智能软件可以分析和优化营销电子邮件的主题行，以提高打开率。英国一家公司 Phrasee 声称，在电子邮件打开率方面，其软件比人类高出 10%。这可能意味着数百万美元的收入。{{42}}这些是“帮助人们使用数据、而不是取代人的工具”，麻省理工学院人工智能和计算机科学教授帕特里克·H·温斯顿说。"
+      },
+      {
+        "type": "heading",
+        "en": "Saving customers money",
+        "zh": "帮客户省钱"
+      },
+      {
+        "type": "para",
+        "en": "Energy companies can use AI to help customers reduce their electricity bills, saving them money while helping the environment. Companies can also optimize their own energy use and cut down on the cost of electricity. Insurance companies, meanwhile, can base their premiums on AI models that more accurately assess risk. Domingos says, \"Before, they might not insure the ones who felt like a high risk or charge them too much,\" {{43}}",
+        "zh": "能源公司可以使用人工智能帮助客户减少电费，既省钱又环保。公司还可以优化自身能源使用，降低电力成本。与此同时，保险公司可以根据人工智能模型更准确地评估风险来确定保费。多明戈斯说：“以前，他们可能不给那些看起来风险高的人投保，或者收费过高，”{{43}}"
+      },
+      {
+        "type": "heading",
+        "en": "Improved accuracy",
+        "zh": "提高准确性"
+      },
+      {
+        "type": "para",
+        "en": "\"Machine learning often provides a more reliable form of statistics, which makes data more valuable,\" says Winston. It \"helps people make smarter decisions.\" {{44}}",
+        "zh": "温斯顿说：“机器学习通常提供更可靠的统计数据形式，使数据更有价值。”它“帮助人们做出更明智的决定”。{{44}}"
+      },
+      {
+        "type": "heading",
+        "en": "Protecting and maintaining infrastructure",
+        "zh": "保护和维护基础设施"
+      },
+      {
+        "type": "para",
+        "en": "A number of companies, particularly in energy and transportation, use AI image processing technology to inspect infrastructure and prevent equipment failure or leaks before they happen. \"If they fail first and then you fix them, it's very expensive,\" says Domingos. \"{{45}}\"",
+        "zh": "许多公司，尤其是能源和运输领域的公司，使用人工智能图像处理技术检查基础设施，在设备故障或泄漏发生前加以预防。多明戈斯说：“如果它们先坏了，你再去修，那非常昂贵。”{{45}}"
+      }
+    ],
+    "options": {
+      "A": {
+        "en": "AI replaces the boring parts of your job. If you're doing research, you can have AI go out and look for relevant sources and information that otherwise you just wouldn't have time for.",
+        "zh": "人工智能替代你工作中枯燥的部分。如果你在做研究，可以让人工智能去寻找相关来源和信息，否则你根本没有时间。"
+      },
+      "B": {
+        "en": "One accounting firm, EY, uses an AI system that helps review contracts during an audit. This process, along with employees reviewing the contracts, is faster and more accurate.",
+        "zh": "一家会计师事务所安永使用人工智能系统，在审计期间帮助审查合同。这个过程与员工审查合同相结合，更快、更准确。"
+      },
+      "C": {
+        "en": "There are also companies like Acquisio, which analyzes advertising performance across multiple channels like Adwords, Bing and social media and makes adjustments or suggestions about where advertising funds will yield best results.",
+        "zh": "还有像 Acquisio 这样的公司，它分析 Adwords、Bing 和社交媒体等多个渠道的广告表现，并就广告资金在哪里产生最佳效果做出调整或建议。"
+      },
+      "D": {
+        "en": "You want to predict if something needs attention now and point to where it's useful for employees to go to.",
+        "zh": "你想预测某件事现在是否需要关注，并指出员工去哪里处理会有用。"
+      },
+      "E": {
+        "en": "Before, they might not insure the ones who felt like a high risk or charge them too much, or they would charge them too little and then it would cost the company money.",
+        "zh": "以前，他们可能不给那些看起来风险高的人投保，或者收费过高，或者收费过低，然后让公司赔钱。"
+      },
+      "F": {
+        "en": "We're also giving our customers better channels versus picking up the phone to accomplish something beyond human scale.",
+        "zh": "我们也在给客户提供更好的渠道，而不是打电话来完成超出人力规模的事情。"
+      },
+      "G": {
+        "en": "AI looks at résumés in greater numbers than humans would be able to, and selects the more promising candidates.",
+        "zh": "人工智能查看简历的数量比人类能看的多得多，并筛选出更有前途的候选人。"
+      }
+    },
+    "answers": [
+      {
+        "n": 41,
+        "answer": "G",
+        "explain": "本段主题是“更好的招聘”。空前说人工智能能减少面试偏见，空后立刻介绍 Blendoor 用分析技术识别招聘偏见。G 讲 AI 看简历、筛选候选人，正好补上“AI 在招聘中具体做什么”，并与下句的 this 形成衔接。",
+        "clue": "hiring decisions → résumés → candidates → Blendoor"
+      },
+      {
+        "n": 42,
+        "answer": "C",
+        "explain": "本段主题是“更有效的营销”。空前讲邮件主题行和打开率，空后说“这些是帮助人们使用数据的工具”。C 中的 Acquisio 分析多个广告渠道并给出投放建议，正是营销场景的另一个例子；these 指代 C 中的分析工具。",
+        "clue": "marketing / advertising → channels → yield best results → These are tools"
+      },
+      {
+        "n": 43,
+        "answer": "E",
+        "explain": "空前是保险语境：AI 模型更准确地评估风险；多明戈斯引用“以前他们可能不给高风险者投保，或收费过高”，E 用 or 接着说“或者收费过低，然后让公司赔钱”，共同构成 before 的完整对比。",
+        "clue": "insurance → premiums → assess risk → Before... charge too much / too little"
+      },
+      {
+        "n": 44,
+        "answer": "B",
+        "explain": "本段主题是“提高准确性”。空前说机器学习让数据更有价值、帮助人们做更明智的决定；B 举安永用 AI 审查合同的例子，并明确说“faster and more accurate”，与段旨形成例证关系。",
+        "clue": "accuracy → more reliable statistics → smarter decisions → faster and more accurate"
+      },
+      {
+        "n": 45,
+        "answer": "D",
+        "explain": "本段讲用 AI 图像处理检查基础设施，在故障发生前预防。空前说“坏了再修很贵”，D 说“你想预测某件事现在是否需要关注，并指出员工去哪里处理”，正好是预测性维护的操作逻辑。",
+        "clue": "prevent failure or leaks before they happen → predict → needs attention now"
+      }
+    ],
+    "extra_note": "多余选项 A 和 F 的排除：A 说“AI 替代你工作中枯燥的部分”，与全文反复强调的“without replacing employees”方向相反；F 说“给客户更好的渠道，而不是打电话”，没有出现在任何一个空的上下文语义链中，且 beyond human scale 太泛，无法与具体段落主题咬合。",
+    "type": "7选5",
+    "fixed_note": "多余选项 A 和 F 的排除：A 说“AI 替代你工作中枯燥的部分”，与全文反复强调的“without replacing employees”方向相反；F 说“给客户更好的渠道，而不是打电话”，没有出现在任何一个空的上下文语义链中，且 beyond human scale 太泛，无法与具体段落主题咬合。"
+  },
+  "partc": {
+    "id": "partc",
+    "kicker": "Section II · Part C",
+    "title": "翻译",
+    "en_title": "Higher education after World War II",
+    "cn_title": "二战之后西方高等教育的大扩张",
+    "score": 10,
+    "suggest": "18–20 分钟",
+    "topic": "二战后的高等教育扩张及其治理问题",
+    "directions": "Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. (10 points)",
+    "intro": "翻译不是逐词替换，而是“先拆结构，再定主干，最后按中文语序重排”。这五句都在考定语从句、介词短语和名词化表达。每句先找主谓，再把修饰成分放到中文合适的位置；遇到抽象名词（enrollment, growth, innovation）要补出动词，句子才像中文。",
+    "paragraphs": [
+      {
+        "en": "World War II was the watershed event for higher education in modern Western societies. [[46]]Those societies came out of the war with levels of enrollment that had been roughly constant at 3–5% of the relevant age groups during the decades before the war.[[/46]] But after the war, great social and political changes arising out of the successful war against Fascism created a growing demand in European and American economies for increasing numbers of graduates with more than a secondary school education. [[47]]And the demand that rose in those societies for entry to higher education extended to groups and social classes that had not thought of attending a university before the war.[[/47]] These demands resulted in a very rapid expansion of the systems of higher education, beginning in the 1960s and developing very rapidly (though unevenly) during the 1970s and 1980s.",
+        "zh": "第二次世界大战是现代西方社会高等教育的分水岭事件。这些社会走出战争时，其入学率在战前几十年里一直大致稳定在相关年龄组的 3%—5%。但战后，战胜法西斯主义所带来的巨大社会和政治变革，使欧美经济体对越来越多受过中学以上教育的毕业生产生了日益增长的需求。而且，这些社会中要求接受高等教育的需求，延伸到了战前从未想过上大学的群体和社会阶层。这些需求导致高等教育体系迅速扩张，从 20 世纪 60 年代开始，并在 70 年代和 80 年代非常迅速地发展（尽管并不均衡）。"
+      },
+      {
+        "en": "The growth of higher education manifests itself in at least three quite different ways, and these in turn have given rise to different sets of problems. There was first the rate of growth: [[48]]in many countries of Western Europe, the numbers of students in higher education doubled within five-year periods during the 1960s and doubled again in seven, eight, or 10 years by the middle of the 1970s.[[/48]] Second, growth obviously affected the absolute size both of systems and individual institutions. And third, growth was reflected in changes in the proportion of the relevant age group enrolled in institutions of higher education.",
+        "zh": "高等教育的增长至少以三种相当不同的方式表现出来，而这些方式又反过来引发了不同的问题。首先是增长率：在西欧许多国家，20 世纪 60 年代，高等教育的学生人数在五年内翻了一番；到 20 世纪 70 年代中期，又在七年、八年或十年内再次翻番。其次，增长显然影响了整个体系以及单个机构的绝对规模。第三，增长还反映在相关年龄组进入高等教育机构的比例变化上。"
+      },
+      {
+        "en": "Each of these manifestations of growth carried its own peculiar problems in its wake. For example, a high growth rate placed great strains on the existing structures of governance, of administration, and above all of socialization. When a faculty or department grows from, say, five to 20 members within three or four years, [[49]]and when the new staff are predominantly young men and women fresh from postgraduate study, they largely define the norms of academic life in that faculty.[[/49]] And if the postgraduate student population also grows rapidly and there is loss of a close apprenticeship relationship between faculty members and students, the student culture becomes the chief socializing force for new postgraduate students, with consequences for the intellectual and academic life of the institution—this was seen in America as well as in France, Italy, West Germany, and Japan. [[50]]High growth rates increased the chances for academic innovation; they also weakened the forms and processes by which teachers and students are admitted into a community of scholars during periods of stability or slow growth.[[/50]] In the 1960s and 1970s, European universities saw marked changes in their governance arrangements, with empowerment of junior faculty and to some degree of students as well.",
+        "zh": "这些增长表现中的每一种，都随之带来了其特有的问题。例如，高增长率给现有的治理结构、管理结构，尤其是社会化结构带来了巨大压力。当一个院系在三四年内从比如五名成员增加到二十名，而且新员工主要是刚完成研究生学业的年轻男女时，他们在很大程度上界定了该院系学术生活的规范。如果研究生人数也迅速增长，教师与学生之间紧密的师徒关系随之消失，那么学生文化就会成为新研究生的主要社会化力量，并对该机构的知识和学术生活产生影响——这种情况在美国以及法国、意大利、西德和日本都曾出现。高增长率增加了学术创新的机会；但它们也削弱了在稳定或缓慢增长时期教师和学生被接纳为学者共同体的形式和程序。在 20 世纪60 年代和 70 年代，欧洲大学的治理安排发生了显著变化，初级教师获得了更多权力，学生也在一定程度上获得了权力。"
+      }
+    ],
+    "segments": {
+      "46": {
+        "en": "Those societies came out of the war with levels of enrollment that had been roughly constant at 3–5% of the relevant age groups during the decades before the war.",
+        "core": "Those societies came out of the war with levels of enrollment.",
+        "structure": "主语 Those societies；谓语 came out of；with levels of enrollment 作伴随状语；that had been... 是定语从句修饰 levels；during the decades before the war 是时间状语。",
+        "key": "come out of the war 不能直译成“从战争里出来”，应译为“战争结束时/走出战争时”；roughly constant 是“大致稳定”；the relevant age groups 是“相关年龄组”。",
+        "translation": "这些社会走出战争时，其入学率在战前几十年里一直大致稳定在相关年龄组的 3%—5%。",
+        "pitfall": "不要把 with levels of enrollment 译成“带着入学率”，它是“具有……入学率”的状态。"
+      },
+      "47": {
+        "en": "And the demand that rose in those societies for entry to higher education extended to groups and social classes that had not thought of attending a university before the war.",
+        "core": "The demand extended to groups and social classes.",
+        "structure": "主语 the demand；that rose in those societies for entry to higher education 是定语从句，其中 for entry... 说明 demand 的内容；谓语 extended to；that had not thought of... 是定语从句修饰 groups and social classes。",
+        "key": "demand for entry to higher education 是“要求接受高等教育的需求”；extend to 是“延伸到”；think of doing sth 是“想到做某事”。",
+        "translation": "而且，这些社会中要求接受高等教育的需求，延伸到了战前从未想过上大学的群体和社会阶层。",
+        "pitfall": "不要把 rise 直译成“上升的需求”；中文更自然的是“日益增长的要求/需求”。"
+      },
+      "48": {
+        "en": "in many countries of Western Europe, the numbers of students in higher education doubled within five-year periods during the 1960s and doubled again in seven, eight, or 10 years by the middle of the 1970s.",
+        "core": "The numbers doubled and doubled again.",
+        "structure": "地点状语 in many countries...；主语 the numbers of students；并列谓语 doubled 与 doubled again；within five-year periods 和 in seven, eight, or 10 years 都是时间状语；by the middle of the 1970s表示“到 70 年代中期为止”。",
+        "key": "double 作动词是“翻倍、翻一番”；five-year periods 是“五年周期”；by 表示“到……时为止”。",
+        "translation": "在西欧许多国家，20 世纪 60 年代，高等教育的学生人数在五年内翻了一番；到 20 世纪 70 年代中期，又在七年、八年或十年内再次翻番。",
+        "pitfall": "doubled again 不是“又翻了一倍”这么含糊，应明确“再次翻番”；by the middle of the 1970s是时间终点，不是“在 70 年代中期”。"
+      },
+      "49": {
+        "en": "and when the new staff are predominantly young men and women fresh from postgraduate study, they largely define the norms of academic life in that faculty.",
+        "core": "They define the norms.",
+        "structure": "when 引导时间/条件状语从句；the new staff 是主语，are 是系动词，young men and women 是表语；fresh from postgraduate study 是形容词短语后置定语；主句 they largely define the norms...。",
+        "key": "predominantly 是“主要地、以……为主”；fresh from 是“刚从……毕业/出来”；norms 是“规范、准则”；faculty 在这里是“院系”，不是“全体教员”。",
+        "translation": "而当新员工主要是刚完成研究生学业的年轻男女时，他们在很大程度上界定了该院系学术生活的规范。",
+        "pitfall": "faculty 不能译成“能力”或“全体教师”；此处指大学的“院系”。"
+      },
+      "50": {
+        "en": "High growth rates increased the chances for academic innovation; they also weakened the forms and processes by which teachers and students are admitted into a community of scholars during periods of stability or slow growth.",
+        "core": "High growth rates increased the chances; they also weakened the forms and processes.",
+        "structure": "分号连接两个并列分句；by which... 是“介词 + which”引导的定语从句，修饰 forms and processes；are admitted into 是被动语态；during periods... 是时间状语。",
+        "key": "chances for 是“……的机会”；weaken 是“削弱”；be admitted into 是“被接纳进入”；a community of scholars 是“学者共同体”。",
+        "translation": "高增长率增加了学术创新的机会；但它们也削弱了在稳定或缓慢增长时期教师和学生被接纳为学者共同体的形式和程序。",
+        "pitfall": "admitted 不是“承认”，而是“准许进入”；by which 不能漏译，它说明“通过哪些形式和程序”。"
+      }
+    }
+  },
+  "writing": {
+    "id": "writing",
+    "kicker": "Section III",
+    "title": "写作",
+    "en_title": "An email of advice & a picture essay",
+    "cn_title": "建议信 + 图画作文",
+    "score": 30,
+    "suggest": "50–55 分钟",
+    "topic": "给外国朋友的中国求职建议；传统戏曲与自信",
+    "intro": "小作文考“信息完整 + 语气得体”，大作文考“描述准确 + 寓意清楚 + 评论有层次”。不要一上来背万能模板；先把题目要求拆成 3 个动作，再为每个动作准备 2—3 个可替换表达。",
+    "partA": {
+      "title": "Part A · 建议信",
+      "score": 10,
+      "words": "约 100 词",
+      "prompt": "A foreign friend of yours has recently graduated from college and intends to find a job in China. Write him/her an email to make some suggestions. You should write about 100 words on the ANSWER SHEET. Do not sign your own name at the end. Use \"Li Ming\" instead. Do not write the address.",
+      "prompt_zh": "你的一位外国朋友最近大学毕业，打算在中国找工作。给他/她写一封邮件，提出一些建议。约 100 词；结尾不要签自己的名字，用“Li Ming”；不要写地址。",
+      "sample": "Dear Alex,\n\nI'm delighted to hear that you've graduated and want to start your career in China. Here are a few suggestions that may help.\n\nFirst, choose a city where your field is growing, since local demand varies greatly. Second, adapt your CV to Chinese employers: keep it concise, include a recent photo if required, and highlight measurable results. Third, learn some basic workplace Chinese, which will make daily communication much easier. Finally, use reputable job platforms and check whether a company is legally registered before you apply.\n\nI'd be happy to introduce you to friends in your industry. Please let me know if you need any help.\n\nBest wishes,\nLi Ming",
+      "sample_zh": "亲爱的 Alex：\n\n很高兴听说你毕业了，并且想在中国开始职业生涯。以下几条建议或许有帮助。\n\n第一，选择你所在领域正在发展的城市，因为各地的用人需求差别很大。第二，按中国雇主的习惯调整简历：保持简洁，必要时附上近期照片，并突出可量化的成果。第三，学一些基本的职场中文，这会让日常沟通容易很多。最后，使用信誉良好的求职平台，并在申请前核实公司是否合法注册。\n\n我很乐意把你介绍给行业内的朋友。如果需要帮助，请告诉我。\n\n祝好，\n李明",
+      "structure": [
+        [
+          "称呼",
+          "Dear Alex, / Dear Mr. Smith,"
+        ],
+        [
+          "开篇目的",
+          "I'm delighted to hear that... Here are a few suggestions that may help."
+        ],
+        [
+          "主体建议",
+          "First... Second... Third... Finally...；每条建议后补一句理由或结果。"
+        ],
+        [
+          "结尾期待",
+          "I'd be happy to... Please let me know if you need any help."
+        ],
+        [
+          "落款",
+          "Best wishes, / Yours sincerely, + Li Ming"
+        ]
+      ],
+      "expressions": [
+        "I'm writing to offer you some practical advice on...",
+        "It would be advisable for you to...",
+        "You may find it helpful to...",
+        "Another point worth considering is...",
+        "I hope these suggestions will be of some help."
+      ],
+      "traps": [
+        "题目要求“不要写地址”，因此不要加地址和日期。",
+        "结尾固定用 Li Ming，不能写自己的真实姓名。",
+        "三条建议要具体，不要只写“learn Chinese”而不解释为什么/怎么做。"
+      ]
+    },
+    "partB": {
+      "title": "Part B · 图画作文",
+      "score": 20,
+      "words": "160–200 词",
+      "prompt": "Write an essay of 160–200 words based on the following picture. In your essay, you should 1) describe the picture briefly, 2) interpret its intended meaning, and 3) give your comments. You should write neatly on the ANSWER SHEET.",
+      "prompt_zh": "根据所给图画写一篇 160—200 词的短文。要求：1）简要描述图画；2）解释其寓意；3）给出你的评论。",
+      "picture": {
+        "child": "爸爸，好多同学觉得学唱戏不好玩",
+        "father": "你自己不是喜欢吗？那就够了",
+        "caption": "2021 · 英语（一）Part B",
+        "note": "图中一位父亲与穿着戏曲服装、拿着道具的孩子对话。孩子担心同学觉得唱戏不好玩，父亲告诉他：只要你自己喜欢就够了。寓意可以落在“自信”“尊重孩子的兴趣”“传统文化的传承”三个方向，写作时选一个主线，不要三个都浅尝辄止。"
+      },
+      "sample": "The cartoon presents a conversation between a father and his son. Dressed in a traditional opera costume and holding a stage prop, the boy says unhappily, \"Dad, many of my classmates think learning Chinese opera is boring.\" The father replies gently, \"But you like it, don't you? That's enough.\"\n\nThe drawing conveys a simple yet powerful message: one's genuine interest should not be silenced by others' opinions. In a world where popularity is often mistaken for value, young people may abandon what they truly love simply because it seems unfashionable. The father's response reminds us that confidence begins with self-acceptance. It also matters for traditional culture: if young people are encouraged to explore opera, calligraphy or folk music, these art forms will remain alive rather than becoming museum exhibits.\n\nIn my view, parents and schools should give children more room to choose their hobbies and respect the interests that make them unique. When a child is allowed to follow his heart, he is more likely to grow into a confident and culturally grounded adult.",
+      "sample_zh": "这幅漫画呈现了一位父亲和儿子之间的对话。男孩穿着传统戏服，拿着舞台道具，不高兴地说：“爸爸，好多同学觉得学唱戏不好玩。”父亲温和地回答：“你自己不是喜欢吗？那就够了。”\n\n这幅画传达了一个简单而有力的信息：一个人真正的兴趣不应被别人的看法所压制。在一个常常把“流行”误当作“价值”的世界里，年轻人可能仅仅因为某件事显得不时髦，就放弃自己真正热爱的东西。父亲的回答提醒我们：自信始于自我接纳。这对传统文化也很重要：如果年轻人被鼓励去接触戏曲、书法或民乐，这些艺术形式就会保持生命力，而不是变成博物馆里的展品。\n\n在我看来，家长和学校应该给孩子更多选择兴趣的空间，尊重那些让他们独特的爱好。当一个孩子被允许追随自己的内心时，他更可能成长为一个自信且有文化根基的人。",
+      "structure": [
+        [
+          "第一段 · 描述",
+          "The cartoon presents... Dressed in..., the boy says... The father replies..."
+        ],
+        [
+          "第二段 · 寓意",
+          "The drawing conveys... one's genuine interest should not be silenced... It also matters for..."
+        ],
+        [
+          "第三段 · 评论",
+          "In my view, parents and schools should... When..., he is more likely to..."
+        ]
+      ],
+      "expressions": [
+        "The cartoon vividly depicts...",
+        "What strikes me most is that...",
+        "The drawing conveys a simple yet powerful message: ...",
+        "This phenomenon can be attributed to...",
+        "It is high time that we attached greater importance to...",
+        "Only by doing so can we..."
+      ],
+      "traps": [
+        "不要花太多笔墨描写人物衣着；描述控制在 2—3 句。",
+        "寓意要明确，不要只写“传统文化很重要”而不解释“为什么/怎么办”。",
+        "评论段要给自己的判断，不要重复第二段。"
+      ]
+    }
+  },
+  "_note": "Extracted from the legacy 2021 full-exam page; reading/sentences/vocab live in exam-data/reading/2021.json."
+}

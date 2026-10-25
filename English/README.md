@@ -4,6 +4,25 @@
 
 考研英语一阅读理解每日一题，包含文章阅读、选择题作答、重难点单词复习。直接双击 HTML 文件即可在浏览器中使用，无需安装任何依赖。
 
+## 真题做题 / 解析双页版
+
+`frontend/` 现在以“每套卷子两个页面”为主入口：
+
+| 页面 | 路径 | 用途 |
+| --- | --- | --- |
+| 做题 | `frontend/practice/<year>.html` | 无答案卷面、自动保存、计时、答题卡 |
+| 解析 | `frontend/analysis/<year>.html` | 自动阅卷、错题定位、全卷解析、词汇和长难句 |
+
+总入口：`frontend/index.html`。这里同时保留 `frontend/2021.html` 和 `frontend/years/*.html` 作为旧版长文/方法库。
+
+重新生成做题、解析和总目录：
+
+```bash
+python3 English/frontend/src/exam/build_exam.py
+```
+
+设计说明、数据来源和旧版入口见 [frontend/README.md](frontend/README.md)；分支/worktree 规则见根目录 [BRANCHING.md](../BRANCHING.md)。
+
 ## 目录结构
 
 ```

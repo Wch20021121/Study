@@ -158,6 +158,16 @@ git merge --no-ff english
 
 ## 6. 英语内容构建
 
+### 新版做题 / 解析页
+
+```bash
+python3 English/frontend/src/exam/build_exam.py
+```
+
+生成 `frontend/practice/*.html`、`frontend/analysis/*.html`、`frontend/index.html` 和 `frontend/assets/exam/`。入口说明见 [frontend/README.md](frontend/README.md)。
+
+### 每日阅读 / 旧版长文
+
 英语阅读文章/词汇的 JSON 和构建流程见 [README.md](README.md)；构建命令：
 
 ```bash

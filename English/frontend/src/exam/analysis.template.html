@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="{{DESC}}">
+  <title>{{YEAR}} 英语（一）· 解析与词汇</title>
+  <link rel="stylesheet" href="../assets/exam/exam.css">
+</head>
+<body class="analysis-page" data-year="{{YEAR}}">
+  <a class="skip-link" href="#report">跳到成绩单</a>
+
+  <header class="exam-bar analysis-bar">
+    <a class="exam-brand" href="../index.html" aria-label="返回真题档案">
+      <span class="brand-seal">英</span>
+      <span class="brand-copy"><b>英语（一）</b><small>真题档案 / 解析模式</small></span>
+    </a>
+    <div class="bar-context"><b>{{YEAR}}</b><span>答案、错题与词汇</span></div>
+    <div class="bar-actions">
+      <a class="btn btn-ghost btn-small" href="../practice/{{YEAR}}.html">重新做题</a>
+      <button class="btn btn-ink btn-small" type="button" id="printPage">打印 / 存 PDF</button>
+    </div>
+  </header>
+
+  <div class="analysis-layout">
+    <aside class="analysis-rail" aria-label="解析导航">
+      <div class="analysis-rail-head">
+        <p class="rail-kicker">ANSWER KEY</p>
+        <p class="rail-year">{{YEAR}}</p>
+        <p class="rail-subject">解析与词汇</p>
+        <a class="rail-back" href="../practice/{{YEAR}}.html">← 回到做题页</a>
+      </div>
+      <nav class="analysis-nav" id="analysisNav" aria-label="解析章节"></nav>
+      <div class="analysis-rail-foot">
+        <a href="../index.html">真题档案</a>
+        <a href="../2021.html#skills">阅读方法</a>
+        <a href="../2021.html#plan">7 日计划</a>
+      </div>
+    </aside>
+
+    <main class="analysis-main">
+      <section class="report-cover" id="report" aria-labelledby="reportTitle">
+        <div class="report-copy">
+          <p class="cover-kicker">MARKED PAPER / 成绩单</p>
+          <h1 id="reportTitle">{{YEAR}}<span>英语（一）</span></h1>
+          <p class="report-lede" id="reportLede">读取本机答题记录中…</p>
+          <div class="report-actions">
+            <a class="btn btn-red" href="../practice/{{YEAR}}.html">再做一遍</a>
+            <a class="btn btn-ghost" href="#analysisStart">直接看解析</a>
+          </div>
+        </div>
+        <div class="score-stamp" id="scoreStamp" aria-live="polite">
+          <span class="stamp-label">OBJECTIVE</span>
+          <strong id="objectiveScore">—</strong>
+          <span id="objectiveTotal">/ 60</span>
+          <small>客观题</small>
+        </div>
+      </section>
+
+      <div id="reportMount"></div>
+
+      <div class="analysis-intro" id="analysisStart">
+        <div>
+          <p class="section-kicker">After the paper</p>
+          <h2>先看错在哪里，再拆为什么错</h2>
+          <p>错题会自动展开；做对的题保留收起状态，避免一页全是字。主观题给出参考译文、范文和自评栏，不能由系统替你打分。</p>
+        </div>
+        <a class="text-link" href="#vocab">直接去背本卷词汇 →</a>
+      </div>
+
+      <div id="analysisMount"></div>
+
+      <footer class="paper-footer analysis-footer">
+        <div><b>{{YEAR}} / 英语（一）</b><span>答案与解析按本页选项顺序整理；作文与翻译为主观题，请结合参考样本自评。</span></div>
+        <a href="#report">回到成绩单 ↑</a>
+      </footer>
+    </main>
+  </div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <noscript><div class="noscript">这个解析页需要 JavaScript 才能展开答案、词汇和错题报告。</div></noscript>
+
+  <script>window.__PAPER__ = {{DATA}};</script>
+  <script src="../assets/exam/analysis.js"></script>
+</body>
+</html>

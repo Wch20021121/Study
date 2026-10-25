@@ -1,5 +1,11 @@
 # -*- coding: utf-8 -*-
-"""Build the 2010-2026 reading archive and the portal index."""
+"""Legacy builder for the long-form years/*.html reader pages.
+
+The canonical index + practice/analysis pages now live in
+``src/exam/build_exam.py``.  This script is kept for regenerating the old
+reader pages only; it writes ``index.legacy.html`` instead of clobbering the
+new portal at ``index.html``.
+"""
 
 from __future__ import annotations
 
@@ -156,8 +162,8 @@ def main() -> None:
     portal = portal.replace("{{CARDS}}", "\n".join(cards))
     full_count = 1 + sum(1 for _, raw in years if raw.get("meta", {}).get("full") and _ != 2021)
     portal = portal.replace("{{FULL_COUNT}}", str(full_count))
-    (ROOT / "index.html").write_text(portal, encoding="utf-8")
-    print("portal", len(portal) // 1024, "KB", "years", len(years))
+    (ROOT / "index.legacy.html").write_text(portal, encoding="utf-8")
+    print("legacy portal", len(portal) // 1024, "KB", "years", len(years))
 
 
 if __name__ == "__main__":
