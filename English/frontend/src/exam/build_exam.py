@@ -357,9 +357,6 @@ def drill_year_payload(year: int, raw: dict) -> tuple[dict, dict, list[dict]]:
     if cloze:
         bank["cloze"] = {
             "title": cloze.get("title", "完形填空"),
-            "directions": cloze.get("directions", ""),
-            "intro": cloze.get("intro", ""),
-            "topic": cloze.get("topic", ""),
             "passage": [{"en": p.get("en", "")} for p in cloze.get("passage", [])],
             "questions": [
                 {"n": q.get("n"), "options": q.get("options", []), "type": q.get("type", "")}
@@ -399,9 +396,6 @@ def drill_year_payload(year: int, raw: dict) -> tuple[dict, dict, list[dict]]:
         topic = topics[i] if i < len(topics) else (text.get("cn_title") or text.get("title") or section_label)
         bank["reading"].append({
             "id": tid,
-            "title": text.get("title", section_label),
-            "cn_title": text.get("cn_title", ""),
-            "intro": text.get("intro", ""),
             "paragraphs": [{"en": p.get("en", "")} for p in text.get("paragraphs", [])],
             "questions": [
                 {
@@ -446,9 +440,6 @@ def drill_year_payload(year: int, raw: dict) -> tuple[dict, dict, list[dict]]:
         bank["partb"] = {
             "type": partb.get("type", "7选5"),
             "title": partb.get("title", "新题型"),
-            "cn_title": partb.get("cn_title", ""),
-            "directions": partb.get("directions", ""),
-            "intro": partb.get("intro", ""),
             "blocks": [
                 {k: b.get(k) for k in ("type", "label", "en") if b.get(k) is not None}
                 for b in partb.get("blocks", [])
@@ -460,7 +451,6 @@ def drill_year_payload(year: int, raw: dict) -> tuple[dict, dict, list[dict]]:
                 k: {"en": v.get("en", ""), "zh": v.get("zh", "")}
                 for k, v in (partb.get("options") or {}).items()
             },
-            "fixed_note": partb.get("fixed_note", ""),
         }
         topic = partb.get("cn_title") or partb.get("title") or "新题型"
         for a in partb.get("answers", []):

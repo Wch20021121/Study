@@ -52,13 +52,6 @@
     }[id] || "随机练";
   }
 
-  function typeLabel(type) {
-    return {
-      ordering: "排序", matching: "匹配", headings: "小标题匹配",
-      "7选5": "7选5",
-    }[type] || type || "客观题";
-  }
-
   async function fetchJSON(url) {
     const response = await fetch(url, { cache: "no-store" });
     if (!response.ok) throw new Error(`请求失败（${response.status}）`);
@@ -104,11 +97,8 @@
     if (!mount) return;
     if (descriptor.kind === "cloze" && bank.cloze) {
       const cloze = bank.cloze;
-      mount.innerHTML = `<div class="drill-paper-head"><span>${esc(cloze.title || "完形填空")}</span><span>${esc(cloze.topic || "Use of English")}</span></div>
-        ${cloze.intro ? `<p class="drill-paper-intro">${esc(cloze.intro)}</p>` : ""}
-        ${cloze.directions ? `<p class="drill-paper-note">${esc(cloze.directions)}</p>` : ""}
-        <div class="drill-paper">${cloze.passage.map((p, i) => `<div class="drill-para"><span class="drill-para-no">P${i + 1}</span><p>${withBlanks(p.en, question.n)}</p></div>`).join("")}</div>
-        <p class="drill-context-note">本题只做第 ${question.n} 空；其他空格只作为上下文。</p>`;
+      mount.innerHTML = `<div class="drill-paper-head"><span>${esc(cloze.title || "完形填空")}</span></div>
+        <div class="drill-paper">${cloze.passage.map((p, i) => `<div class="drill-para"><span class="drill-para-no">P${i + 1}</span><p>${withBlanks(p.en, question.n)}</p></div>`).join("")}</div>`;
       return;
     }
 
@@ -118,9 +108,7 @@
         mount.innerHTML = '<div class="drill-error">原文没有找到。</div>';
         return;
       }
-      mount.innerHTML = `<div class="drill-paper-head"><span>${esc(descriptor.sectionLabel)} · 原文</span><span>${esc(descriptor.topic)}</span></div>
-        ${text.intro ? `<p class="drill-paper-intro">${esc(text.intro)}</p>` : ""}
-        <h2 class="drill-paper-title">${esc(text.cn_title || text.title || descriptor.sectionLabel)}</h2>
+      mount.innerHTML = `<div class="drill-paper-head"><span>${esc(descriptor.sectionLabel)} · 原文</span></div>
         <div class="drill-paper">${text.paragraphs.map((p, i) => `<div class="drill-para"><span class="drill-para-no">P${i + 1}</span><p>${esc(p.en)}</p></div>`).join("")}</div>`;
       return;
     }
@@ -156,11 +144,8 @@
         rows.push(`<div class="drill-para"><span class="drill-para-no">${pad(i + 1)}</span><p>${withBlanks(b.en, question.n)}</p></div>`);
       });
     }
-    return `<div class="drill-paper-head"><span>${esc(partb.title || "新题型")} · 新题型</span><span>${esc(partb.cn_title || partb.type || "")}</span></div>
-      ${partb.directions ? `<p class="drill-paper-note">${esc(partb.directions)}</p>` : ""}
-      ${partb.intro ? `<p class="drill-paper-intro">${esc(partb.intro)}</p>` : ""}
-      <div class="drill-paper">${rows.join("")}</div>
-      ${partb.fixed_note ? `<p class="drill-context-note">${esc(partb.fixed_note)}</p>` : ""}`;
+    return `<div class="drill-paper-head"><span>${esc(partb.title || "新题型")}</span></div>
+      <div class="drill-paper">${rows.join("")}</div>`;
   }
 
   function optionList(descriptor, bank) {
@@ -189,11 +174,11 @@
     const note = submitted && answer && Array.isArray(answer.optionNotes) ? answer.optionNotes : [];
     let prompt = "";
     if (descriptor.kind === "cloze") {
-      prompt = `<p class="drill-prompt">第 ${q.n} 空 · ${esc(q.type || "从下面选出最合适的一项")}</p>`;
+      prompt = `<p class="drill-prompt">第 ${q.n} 空</p>`;
     } else if (descriptor.kind === "reading") {
       prompt = `<p class="drill-stem">${esc(q.stem || `第 ${q.n} 题`)}</p>`;
     } else {
-      prompt = `<p class="drill-stem">第 ${q.n} 空${q.type ? ` · ${esc(typeLabel(q.type))}` : ""}</p>`;
+      prompt = `<p class="drill-stem">第 ${q.n} 空</p>`;
     }
     const opts = list.map((o) => {
       const isCorrect = submitted && answer && o.letter === answer.answer;
@@ -206,8 +191,7 @@
         <span class="drill-option-text">${esc(o.text)}${zh}</span>
       </label>`;
     }).join("");
-    mount.innerHTML = `${prompt}<div class="drill-options" role="radiogroup" aria-label="选项">${opts}</div>
-      ${submitted ? '<p class="drill-choice-hint">正确答案已标出；错选项是你自己的选择。</p>' : '<p class="drill-choice-hint">选择一个答案后可提交；提交前不显示对错。</p>'}`;
+    mount.innerHTML = `${prompt}<div class="drill-options" role="radiogroup" aria-label="选项">${opts}</div>`;
     if (!submitted) {
       $$('input[name="drill-answer"]', mount).forEach((input) => {
         input.addEventListener("change", () => {
@@ -224,11 +208,8 @@
   function setCardMeta(descriptor) {
     $("#metaYear").textContent = descriptor.year;
     $("#metaSection").textContent = descriptor.sectionLabel || "";
-    $("#metaType").textContent = typeLabel(descriptor.type);
     $("#metaMode").textContent = `${modeLabel(state.mode)} · 一题一屏`;
-    $("#metaTopic").textContent = descriptor.topic || "";
     $("#questionNo").textContent = descriptor.kind === "cloze" ? `第 ${descriptor.n} 空` : `第 ${descriptor.n} 题`;
-    $("#questionType").textContent = typeLabel(descriptor.type);
     const full = $("#fullLink");
     if (full) {
       const anchor = descriptor.analysisId || descriptor.id;
@@ -265,6 +246,7 @@
     $("#submitButton").hidden = false;
     $("#submitButton").disabled = true;
     $("#nextButton").hidden = true;
+    $("#fullLink").hidden = true;
     $("#drillLoading").hidden = true;
     $("#drillCard").hidden = false;
     const jump = $("#jumpToQuestion");
@@ -305,6 +287,7 @@
     result.hidden = false;
     $("#submitButton").hidden = true;
     $("#nextButton").hidden = false;
+    $("#fullLink").hidden = false;
     const jump = $("#jumpToQuestion");
     if (jump) jump.textContent = "看解析 ↑";
     result.scrollIntoView({ behavior: "smooth", block: "nearest" });
