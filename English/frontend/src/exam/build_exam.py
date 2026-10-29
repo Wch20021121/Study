@@ -493,12 +493,12 @@ def build_drill(years_raw: list[tuple[int, dict]], version: str) -> dict:
         rows.extend(year_rows)
 
     modes = [
-        ("all", "随机一题", "MIXED", "从全部客观题里抽一道，适合碎片时间。"),
-        ("reading", "随机阅读", "READING", "抽一篇阅读原文，只做其中一道题。"),
-        ("first", "各年首题", "FIRST", "随机年份的整卷第 1 题（完形第 1 题）。"),
-        ("readingFirst", "各年阅读首题", "FIRST READING", "随机年份的 Text 1 第 21 题。"),
-        ("partb", "随机新题型", "PART B", "7选5 / 排序 / 匹配随机一道。"),
-        ("cloze", "随机完形", "CLOZE", "抽一篇完形，只做其中一个空。"),
+        ("all", "随机一题", "MIXED", "从全部客观题里抽一道单题，适合碎片时间。"),
+        ("reading", "随机阅读", "READING", "抽一篇阅读，5 道题一起做，统一提交后看解析。"),
+        ("first", "各年首题", "FIRST", "随机年份的整卷第 1 题（完形第 1 题），单题。"),
+        ("readingFirst", "各年阅读首题", "FIRST READING", "随机年份的 Text 1 第 21 题，单题。"),
+        ("partb", "随机新题型", "PART B", "抽一组新题型，5 道题一起做，统一提交后看解析。"),
+        ("cloze", "随机完形", "CLOZE", "抽一篇完形，20 个空一起做，统一提交后看解析。"),
     ]
     mode_payload = []
     for mode_id, label, tag, desc in modes:

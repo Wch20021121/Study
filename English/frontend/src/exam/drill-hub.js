@@ -108,6 +108,7 @@
     if (!window.confirm("清空本机的随机练记录和“已练过”记录？这不会影响真题作答。")) return;
     localStorage.removeItem(HISTORY_KEY);
     localStorage.removeItem(SEEN_KEY);
+    localStorage.removeItem("dse-drill-seen-sets-v1");
     renderStats();
     renderRecent();
     showToast("练习记录已清空");

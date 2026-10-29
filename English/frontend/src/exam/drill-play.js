@@ -5,22 +5,25 @@
   const DATA = "../assets/drill";
   const HISTORY_KEY = "dse-drill-history-v1";
   const SEEN_KEY = "dse-drill-seen-v1";
+  const SEEN_SETS_KEY = "dse-drill-seen-sets-v1";
+  const SET_MODES = new Set(["reading", "partb", "cloze"]);
   const $ = (s, r = document) => r.querySelector(s);
   const $$ = (s, r = document) => Array.from(r.querySelectorAll(s));
   const esc = (s) => String(s == null ? "" : s)
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
   const nl2br = (s) => esc(s).replace(/\n/g, "<br>");
-  const pad = (n) => String(n).padStart(2, "0");
 
   const state = {
     index: null,
     mode: "all",
     descriptor: null,
+    setKey: "",
+    isSet: false,
     bank: null,
-    question: null,
-    answer: null,
-    selected: "",
+    items: [],
+    selected: {},
+    answerData: null,
     submitted: false,
   };
 
@@ -58,19 +61,32 @@
     return response.json();
   }
 
-  function readSeen() {
-    return readJSON(SEEN_KEY, {});
+  function setKeyFor(descriptor) {
+    if (descriptor.kind === "reading") return `${descriptor.year}-${descriptor.section}`;
+    if (descriptor.kind === "partb") return `${descriptor.year}-partb`;
+    return `${descriptor.year}-cloze`;
   }
 
-  function markSeen(mode, id) {
+  function readSeen() { return readJSON(SEEN_KEY, {}); }
+  function readSeenSets() { return readJSON(SEEN_SETS_KEY, {}); }
+
+  function markSeen(descriptor, setKey, isSet) {
+    if (isSet) {
+      const seen = readSeenSets();
+      const list = Array.isArray(seen[state.mode]) ? seen[state.mode] : [];
+      if (!list.includes(setKey)) list.push(setKey);
+      seen[state.mode] = list;
+      localStorage.setItem(SEEN_SETS_KEY, JSON.stringify(seen));
+      return;
+    }
     const seen = readSeen();
-    const list = Array.isArray(seen[mode]) ? seen[mode] : [];
-    if (!list.includes(id)) list.push(id);
-    seen[mode] = list;
+    const list = Array.isArray(seen[state.mode]) ? seen[state.mode] : [];
+    if (!list.includes(descriptor.id)) list.push(descriptor.id);
+    seen[state.mode] = list;
     localStorage.setItem(SEEN_KEY, JSON.stringify(seen));
   }
 
-  function pickQuestion(index, mode) {
+  function pickSingle(index, mode) {
     const candidates = (index.questions || []).filter((q) => (q.modes || []).includes(mode));
     if (!candidates.length) throw new Error("这个模式暂时没有题目");
     const seen = readSeen();
@@ -84,21 +100,64 @@
     return pool[Math.floor(Math.random() * pool.length)];
   }
 
+  function pickSet(index, mode) {
+    const groups = new Map();
+    (index.questions || []).filter((q) => (q.modes || []).includes(mode)).forEach((q) => {
+      const key = setKeyFor(q);
+      if (!groups.has(key)) groups.set(key, []);
+      groups.get(key).push(q);
+    });
+    if (!groups.size) throw new Error("这个模式暂时没有题组");
+    const seen = readSeenSets();
+    const seenMode = new Set(Array.isArray(seen[mode]) ? seen[mode] : []);
+    let keys = [...groups.keys()].filter((key) => !seenMode.has(key));
+    if (!keys.length) {
+      keys = [...groups.keys()];
+      delete seen[mode];
+      localStorage.setItem(SEEN_SETS_KEY, JSON.stringify(seen));
+    }
+    const key = keys[Math.floor(Math.random() * keys.length)];
+    return { descriptor: groups.get(key)[0], setKey: key, isSet: true };
+  }
+
+  function pickSession(index, mode) {
+    if (SET_MODES.has(mode)) return pickSet(index, mode);
+    return { descriptor: pickSingle(index, mode), setKey: "", isSet: false };
+  }
+
   function setHeader(descriptor) {
     const yearEl = $("#modeYear");
     const nameEl = $("#modeName");
     if (yearEl) yearEl.textContent = descriptor ? descriptor.year : "—";
+    const metaYear = $("#metaYear");
+    if (metaYear) metaYear.textContent = descriptor ? descriptor.year : "—";
     if (nameEl) nameEl.textContent = modeLabel(state.mode);
     if (descriptor) document.title = `${modeLabel(state.mode)} · ${descriptor.year} 英语（一）`;
+    const section = $("#metaSection");
+    if (section) section.textContent = descriptor ? descriptor.sectionLabel : "";
+    const mode = $("#metaMode");
+    if (mode) mode.textContent = `${modeLabel(state.mode)} · 做完再提交`;
+    $("#skipButton").textContent = state.isSet ? "换一套" : "换一题";
   }
 
-  function renderPassage(descriptor, bank, question) {
+  function withBlanks(text, targetN) {
+    return esc(text || "").replace(/\{\{(\d+)\}\}/g, (_, raw) => {
+      const n = Number(raw);
+      const isTarget = targetN != null && n === Number(targetN);
+      return `<span class="drill-blank${isTarget ? " is-target" : ""}">${isTarget ? `第 ${n} 空` : n}</span>`;
+    });
+  }
+
+  function renderPassage() {
     const mount = $("#passagePanel");
-    if (!mount) return;
+    const descriptor = state.descriptor;
+    const bank = state.bank;
+    if (!mount || !bank) return;
+    const target = state.isSet ? null : (state.items[0] ? state.items[0].n : null);
+
     if (descriptor.kind === "cloze" && bank.cloze) {
-      const cloze = bank.cloze;
-      mount.innerHTML = `<div class="drill-paper-head"><span>${esc(cloze.title || "完形填空")}</span></div>
-        <div class="drill-paper">${cloze.passage.map((p, i) => `<div class="drill-para"><span class="drill-para-no">P${i + 1}</span><p>${withBlanks(p.en, question.n)}</p></div>`).join("")}</div>`;
+      mount.innerHTML = `<div class="drill-paper-head"><span>${esc(bank.cloze.title || "完形填空")}</span></div>
+        <div class="drill-paper">${bank.cloze.passage.map((p, i) => `<div class="drill-para"><span class="drill-para-no">P${i + 1}</span><p>${withBlanks(p.en, target)}</p></div>`).join("")}</div>`;
       return;
     }
 
@@ -114,21 +173,14 @@
     }
 
     if (descriptor.kind === "partb" && bank.partb) {
-      mount.innerHTML = renderPartbPassage(bank.partb, question);
+      mount.innerHTML = renderPartbPassage(bank.partb, target);
       return;
     }
 
     mount.innerHTML = '<div class="drill-error">这类题的原文暂时没有找到。</div>';
   }
 
-  function withBlanks(text, targetN) {
-    return esc(text || "").replace(/\{\{(\d+)\}\}/g, (_, raw) => {
-      const n = Number(raw);
-      return `<span class="drill-blank${n === Number(targetN) ? " is-target" : ""}">${n === Number(targetN) ? `第 ${n} 空` : n}</span>`;
-    });
-  }
-
-  function renderPartbPassage(partb, question) {
+  function renderPartbPassage(partb, target) {
     const type = partb.type || "7选5";
     const rows = [];
     if (type === "ordering") {
@@ -141,194 +193,229 @@
       });
     } else {
       (partb.blocks || []).forEach((b, i) => {
-        rows.push(`<div class="drill-para"><span class="drill-para-no">${pad(i + 1)}</span><p>${withBlanks(b.en, question.n)}</p></div>`);
+        rows.push(`<div class="drill-para"><span class="drill-para-no">${String(i + 1).padStart(2, "0")}</span><p>${withBlanks(b.en, target)}</p></div>`);
       });
     }
     return `<div class="drill-paper-head"><span>${esc(partb.title || "新题型")}</span></div>
       <div class="drill-paper">${rows.join("")}</div>`;
   }
 
-  function optionList(descriptor, bank) {
-    if (descriptor.kind === "partb" && bank.partb) {
-      const options = bank.partb.options || {};
-      const entries = Object.entries(options).sort(([a], [b]) => a.localeCompare(b));
-      if (entries.length) {
-        return entries.map(([letter, value]) => ({ letter, text: value.en || "", zh: value.zh || "" }));
-      }
-      return Object.keys(bank.partb.paragraphs || {}).sort().map((letter) => ({ letter, text: `段落 ${letter}` }));
-    }
-    const q = state.question;
-    if (!q) return [];
-    return (q.options || []).map((text, i) => ({ letter: String.fromCharCode(65 + i), text }));
+  function partbOptions(bank) {
+    const options = bank.partb && bank.partb.options ? bank.partb.options : {};
+    const entries = Object.entries(options).sort(([a], [b]) => a.localeCompare(b));
+    if (entries.length) return entries.map(([letter, value]) => ({ letter, text: value.en || "" }));
+    return Object.keys((bank.partb && bank.partb.paragraphs) || {}).sort()
+      .map((letter) => ({ letter, text: `段落 ${letter}` }));
   }
 
-  function renderOptions() {
-    const mount = $("#questionMount");
-    if (!mount) return;
-    const descriptor = state.descriptor;
-    const bank = state.bank;
-    const q = state.question;
-    const submitted = state.submitted;
-    const answer = state.answer;
-    const list = optionList(descriptor, bank);
-    const note = submitted && answer && Array.isArray(answer.optionNotes) ? answer.optionNotes : [];
-    let prompt = "";
-    if (descriptor.kind === "cloze") {
-      prompt = `<p class="drill-prompt">第 ${q.n} 空</p>`;
-    } else if (descriptor.kind === "reading") {
-      prompt = `<p class="drill-stem">${esc(q.stem || `第 ${q.n} 题`)}</p>`;
-    } else {
-      prompt = `<p class="drill-stem">第 ${q.n} 空</p>`;
+  function optionsFor(item) {
+    if (item.kind === "partb") return partbOptions(state.bank);
+    return (item.options || []).map((text, i) => ({ letter: String.fromCharCode(65 + i), text }));
+  }
+
+  function buildItems(descriptor, bank) {
+    const year = descriptor.year;
+    if (descriptor.kind === "reading") {
+      const text = bank.reading.find((t) => t.id === descriptor.section);
+      if (!text) throw new Error("阅读原文没有找到");
+      const questions = state.isSet ? text.questions : text.questions.filter((q) => Number(q.n) === Number(descriptor.n));
+      return questions.map((q) => ({
+        id: `${year}-${text.id}-${q.n}`, n: q.n, kind: "reading",
+        stem: q.stem || `第 ${q.n} 题`, options: q.options || [],
+        label: `${year} · ${descriptor.sectionLabel} · 第 ${q.n} 题`,
+      }));
     }
-    const opts = list.map((o) => {
-      const isCorrect = submitted && answer && o.letter === answer.answer;
-      const isWrong = submitted && o.letter === state.selected && answer && o.letter !== answer.answer;
-      const cls = isCorrect ? " is-correct" : (isWrong ? " is-wrong" : "");
-      const zh = submitted && note[list.indexOf(o)] ? `<span class="drill-option-note">${esc(note[list.indexOf(o)])}</span>` : "";
+    if (descriptor.kind === "cloze") {
+      const questions = state.isSet ? bank.cloze.questions : bank.cloze.questions.filter((q) => Number(q.n) === Number(descriptor.n));
+      return questions.map((q) => ({
+        id: `${year}-cloze-${q.n}`, n: q.n, kind: "cloze",
+        options: q.options || [], label: `${year} · 完形第 ${q.n} 题`,
+      }));
+    }
+    if (descriptor.kind === "partb") {
+      const ns = state.isSet ? [41, 42, 43, 44, 45] : [descriptor.n];
+      return ns.map((n) => ({
+        id: `${year}-partb-${n}`, n, kind: "partb",
+        options: [], label: `${year} · 新题型 · 第 ${n} 题`,
+      }));
+    }
+    throw new Error("未知题型");
+  }
+
+  function renderOptions(item) {
+    const answer = state.answerData ? state.answerData[item.id] : null;
+    const selected = state.selected[item.id] || "";
+    const list = optionsFor(item);
+    const note = state.submitted && answer && Array.isArray(answer.optionNotes) ? answer.optionNotes : [];
+    return list.map((o, i) => {
+      const isCorrect = state.submitted && answer && o.letter === answer.answer;
+      const isWrong = state.submitted && o.letter === selected && answer && o.letter !== answer.answer;
+      const cls = isCorrect ? " is-correct" : (isWrong ? " is-wrong" : (selected === o.letter ? " is-selected" : ""));
+      const noteHtml = state.submitted && note[i] ? `<span class="drill-option-note">${esc(note[i])}</span>` : "";
       return `<label class="drill-option${cls}">
-        <input type="radio" name="drill-answer" value="${o.letter}"${state.selected === o.letter ? " checked" : ""}${submitted ? " disabled" : ""}>
+        <input type="radio" name="ans-${esc(item.id)}" value="${o.letter}"${selected === o.letter ? " checked" : ""}${state.submitted ? " disabled" : ""}>
         <span class="drill-letter">${o.letter}</span>
-        <span class="drill-option-text">${esc(o.text)}${zh}</span>
+        <span class="drill-option-text">${esc(o.text)}${noteHtml}</span>
       </label>`;
     }).join("");
-    mount.innerHTML = `${prompt}<div class="drill-options" role="radiogroup" aria-label="选项">${opts}</div>`;
-    if (!submitted) {
-      $$('input[name="drill-answer"]', mount).forEach((input) => {
+  }
+
+  function renderItemResult(item) {
+    const answer = state.answerData ? state.answerData[item.id] : null;
+    if (!answer) return '<p class="drill-trap">答案解析暂时没有找到。</p>';
+    const selected = state.selected[item.id] || "";
+    const correct = selected === answer.answer;
+    const evidence = answer.evidence ? `<div class="drill-evidence"><b>证据句</b>${esc(answer.evidence)}</div>` : "";
+    const trap = answer.trap ? `<p class="drill-trap"><b>干扰项</b>${nl2br(answer.trap)}</p>` : "";
+    const clue = answer.clue ? `<p class="drill-clue"><b>衔接线索</b>${esc(answer.clue)}</p>` : "";
+    return `<div class="drill-item-result ${correct ? "is-correct" : "is-wrong"}">
+      <div class="drill-item-verdict"><b>${correct ? "正确" : "错误"}</b><span>正确答案 ${esc(answer.answer)}${selected ? ` · 你选 ${esc(selected)}` : " · 未作答"}</span></div>
+      <p class="drill-explanation"><b>解析</b>${nl2br(answer.explain || "暂无文字解析。")}</p>
+      ${evidence}${trap}${clue}
+    </div>`;
+  }
+
+  function renderQuestionSheet() {
+    const mount = $("#questionMount");
+    mount.className = `drill-set-list${state.isSet && state.descriptor.kind === "cloze" ? " is-cloze" : ""}`;
+    mount.innerHTML = state.items.map((item) => {
+      const prompt = item.kind === "reading"
+        ? `<p class="drill-stem">${esc(item.stem)}</p>`
+        : "";
+      return `<article class="drill-item" data-id="${esc(item.id)}">
+        <div class="drill-item-head"><span class="drill-item-no">${item.kind === "reading" ? `第 ${item.n} 题` : `第 ${item.n} 空`}</span></div>
+        ${prompt}
+        <div class="drill-options" role="radiogroup" aria-label="${item.kind === "reading" ? `第 ${item.n} 题` : `第 ${item.n} 空`}">${renderOptions(item)}</div>
+        ${state.submitted ? renderItemResult(item) : ""}
+      </article>`;
+    }).join("");
+    if (!state.submitted) {
+      $$('input[type="radio"]', mount).forEach((input) => {
         input.addEventListener("change", () => {
-          state.selected = input.value;
-          $$(".drill-option", mount).forEach((label) => {
+          const card = input.closest(".drill-item");
+          const id = card.dataset.id;
+          state.selected[id] = input.value;
+          $$(".drill-option", card).forEach((label) => {
             label.classList.toggle("is-selected", Boolean(label.querySelector("input:checked")));
           });
-          $("#submitButton").disabled = false;
+          updateProgress();
         });
       });
     }
   }
 
-  function setCardMeta(descriptor) {
-    $("#metaYear").textContent = descriptor.year;
-    $("#metaSection").textContent = descriptor.sectionLabel || "";
-    $("#metaMode").textContent = `${modeLabel(state.mode)} · 一题一屏`;
-    $("#questionNo").textContent = descriptor.kind === "cloze" ? `第 ${descriptor.n} 空` : `第 ${descriptor.n} 题`;
-    const full = $("#fullLink");
-    if (full) {
-      const anchor = descriptor.analysisId || descriptor.id;
-      full.href = `../analysis/${descriptor.year}.html#ans-${encodeURIComponent(anchor)}`;
-    }
+  function updateProgress() {
+    const total = state.items.length;
+    const done = state.items.filter((item) => state.selected[item.id]).length;
+    const setCount = $("#setCount");
+    if (setCount) setCount.textContent = `${done} / ${total}`;
+    const submit = $("#submitButton");
+    if (submit) submit.disabled = done === 0;
   }
 
-  function renderQuestion() {
-    const descriptor = state.descriptor;
-    const bank = state.bank;
-    if (!descriptor || !bank) return;
-    let q = null;
-    if (descriptor.kind === "cloze" && bank.cloze) {
-      q = bank.cloze.questions.find((x) => Number(x.n) === Number(descriptor.n));
-    } else if (descriptor.kind === "reading") {
-      const text = bank.reading.find((t) => t.id === descriptor.section);
-      q = text && text.questions.find((x) => Number(x.n) === Number(descriptor.n));
-    } else if (descriptor.kind === "partb" && bank.partb) {
-      q = { n: descriptor.n, type: bank.partb.type || "", stem: "" };
-    }
-    if (!q) {
-      $("#drillLoading").textContent = "这道题的数据没有找到，换一题试试。";
-      return;
-    }
-    state.question = q;
-    state.answer = null;
-    state.selected = "";
-    state.submitted = false;
-    setCardMeta(descriptor);
-    renderPassage(descriptor, bank, q);
-    renderOptions();
-    $("#resultMount").hidden = true;
-    $("#resultMount").innerHTML = "";
-    $("#submitButton").hidden = false;
-    $("#submitButton").disabled = true;
-    $("#nextButton").hidden = true;
-    $("#fullLink").hidden = true;
-    $("#drillLoading").hidden = true;
-    $("#drillCard").hidden = false;
-    const jump = $("#jumpToQuestion");
-    if (jump) jump.textContent = "去答题 ↓";
-  }
-
-  function saveHistory(correct) {
-    const history = readJSON(HISTORY_KEY, []);
-    history.push({
-      id: state.descriptor.id,
-      mode: state.mode,
-      modeLabel: modeLabel(state.mode),
-      label: state.descriptor.label,
-      correct: Boolean(correct),
-      chosen: state.selected,
-      answer: state.answer ? state.answer.answer : "",
-      at: new Date().toISOString(),
+  function renderSummary() {
+    const total = state.items.length;
+    let correct = 0;
+    let wrong = 0;
+    let unanswered = 0;
+    state.items.forEach((item) => {
+      const selected = state.selected[item.id];
+      const answer = state.answerData[item.id];
+      if (!selected) unanswered += 1;
+      else if (answer && selected === answer.answer) correct += 1;
+      else wrong += 1;
     });
-    localStorage.setItem(HISTORY_KEY, JSON.stringify(history.slice(-300)));
-  }
-
-  function renderResult() {
-    const ans = state.answer;
-    if (!ans) return;
-    const correct = state.selected === ans.answer;
-    saveHistory(correct);
-    const evidence = ans.evidence ? `<div class="drill-evidence"><b>证据句</b>${esc(ans.evidence)}</div>` : "";
-    const trap = ans.trap ? `<p class="drill-trap"><b>干扰项</b>${nl2br(ans.trap)}</p>` : "";
-    const clue = ans.clue ? `<p class="drill-clue"><b>衔接线索</b>${esc(ans.clue)}</p>` : "";
     const result = $("#resultMount");
-    result.innerHTML = `<div class="drill-result-head ${correct ? "is-correct" : "is-wrong"}">
-        <div><p class="drill-result-kicker">${correct ? "CORRECT" : "REVIEW"}</p><h2>${correct ? "答对了" : "再看一遍"}</h2><p>你选 ${esc(state.selected)} · 正确答案 ${esc(ans.answer)}</p></div>
-        <div class="drill-answer-stamp"><span>ANSWER</span><b>${esc(ans.answer)}</b></div>
-      </div>
-      <p class="drill-explanation"><b>解析</b>${nl2br(ans.explain || "这道题暂时没有文字解析。")}</p>
-      ${evidence}${trap}${clue}
-      <p class="drill-result-next">可以继续下一题，或者去整卷解析里看这道题的上下文。</p>`;
+    result.innerHTML = `<div class="drill-summary-head"><div><p class="drill-result-kicker">${state.isSet ? "SET RESULT" : "RESULT"}</p><h2>${state.isSet ? "本套成绩" : "本题结果"}</h2></div>
+      <div class="drill-summary-score"><b>${correct}</b><span>/ ${total}</span></div></div>
+      <div class="drill-summary-stats"><span>正确 <b>${correct}</b></span><span>错误 <b>${wrong}</b></span><span>未答 <b>${unanswered}</b></span></div>`;
     result.hidden = false;
     $("#submitButton").hidden = true;
     $("#nextButton").hidden = false;
     $("#fullLink").hidden = false;
-    const jump = $("#jumpToQuestion");
-    if (jump) jump.textContent = "看解析 ↑";
-    result.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    $("#fullLink").href = `../analysis/${state.descriptor.year}.html`;
+    $("#nextButton").textContent = state.isSet ? "下一套" : "下一题";
+    result.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  function saveHistory() {
+    const history = readJSON(HISTORY_KEY, []);
+    state.items.forEach((item) => {
+      const selected = state.selected[item.id] || "";
+      const answer = state.answerData[item.id] || {};
+      history.push({
+        id: item.id,
+        mode: state.mode,
+        modeLabel: modeLabel(state.mode),
+        label: item.label,
+        correct: Boolean(answer.answer && selected === answer.answer),
+        chosen: selected,
+        answer: answer.answer || "",
+        at: new Date().toISOString(),
+      });
+    });
+    localStorage.setItem(HISTORY_KEY, JSON.stringify(history.slice(-400)));
   }
 
   async function submit() {
-    if (!state.selected || state.submitted) return;
+    if (state.submitted) return;
+    const total = state.items.length;
+    const done = state.items.filter((item) => state.selected[item.id]).length;
+    if (!done) {
+      showToast("先至少选一道题");
+      return;
+    }
+    if (done < total && !window.confirm(`还有 ${total - done} 题未作答，仍然提交并看答案吗？`)) return;
     const button = $("#submitButton");
     button.disabled = true;
-    button.textContent = "正在取解析…";
+    button.textContent = "正在取答案…";
     try {
       const data = await fetchJSON(`${DATA}/answers/${state.descriptor.year}.json?v=${VERSION}`);
-      const answer = data[state.descriptor.id];
-      if (!answer) throw new Error("这道题的答案解析暂时没有找到");
-      state.answer = answer;
+      state.answerData = data;
       state.submitted = true;
-      renderOptions();
-      renderResult();
-      button.textContent = "提交答案";
+      renderQuestionSheet();
+      renderSummary();
+      saveHistory();
+      updateProgress();
     } catch (error) {
       button.disabled = false;
-      button.textContent = "提交答案";
+      button.textContent = state.isSet ? "提交整套" : "提交答案";
       showToast(`提交失败：${error.message}`);
     }
   }
 
-  async function load(descriptor) {
+  async function load(session) {
+    const { descriptor, setKey, isSet } = session;
     state.descriptor = descriptor;
+    state.setKey = setKey;
+    state.isSet = Boolean(isSet);
     state.bank = null;
-    state.question = null;
-    state.answer = null;
-    state.selected = "";
+    state.items = [];
+    state.selected = {};
+    state.answerData = null;
     state.submitted = false;
     $("#drillCard").hidden = true;
     $("#drillLoading").hidden = false;
     $("#drillLoading").textContent = "正在抽题…";
     setHeader(descriptor);
-    markSeen(state.mode, descriptor.id);
+    markSeen(descriptor, setKey, state.isSet);
     try {
       state.bank = await fetchJSON(`${DATA}/questions/${descriptor.year}.json?v=${VERSION}`);
-      renderQuestion();
+      state.items = buildItems(descriptor, state.bank);
+      renderPassage();
+      renderQuestionSheet();
+      updateProgress();
+      $("#submitButton").hidden = false;
+      $("#submitButton").disabled = true;
+      $("#submitButton").textContent = state.isSet ? "提交整套" : "提交答案";
+      $("#nextButton").hidden = true;
+      $("#fullLink").hidden = true;
+      $("#resultMount").hidden = true;
+      $("#resultMount").innerHTML = "";
+      $("#drillCard").hidden = false;
+      $("#drillLoading").hidden = true;
+      const jump = $("#jumpToQuestion");
+      if (jump) jump.textContent = "去答题 ↓";
     } catch (error) {
       $("#drillLoading").textContent = `题目读取失败：${error.message}`;
     }
@@ -337,12 +424,12 @@
   function next() {
     if (!state.index) return;
     try {
-      const descriptor = pickQuestion(state.index, state.mode);
+      const session = pickSession(state.index, state.mode);
       const url = new URL(location.href);
       url.searchParams.delete("id");
       url.searchParams.set("mode", state.mode);
       history.replaceState(null, "", url);
-      load(descriptor);
+      load(session);
       window.scrollTo({ top: 0, behavior: "smooth" });
     } catch (error) {
       showToast(error.message);
@@ -356,12 +443,17 @@
     try {
       const index = await fetchJSON(`${DATA}/index.json?v=${VERSION}`);
       state.index = index;
-      const validMode = (index.modes || []).some((m) => m.id === requestedMode) ? requestedMode : "all";
-      state.mode = validMode;
-      let descriptor = null;
-      if (explicitId) descriptor = (index.questions || []).find((q) => q.id === explicitId) || null;
-      if (!descriptor) descriptor = pickQuestion(index, state.mode);
-      await load(descriptor);
+      state.mode = (index.modes || []).some((m) => m.id === requestedMode) ? requestedMode : "all";
+      let session = null;
+      if (explicitId) {
+        const descriptor = (index.questions || []).find((q) => q.id === explicitId);
+        if (descriptor) {
+          const isSet = SET_MODES.has(state.mode);
+          session = { descriptor, setKey: isSet ? setKeyFor(descriptor) : "", isSet };
+        }
+      }
+      if (!session) session = pickSession(index, state.mode);
+      await load(session);
     } catch (error) {
       $("#drillLoading").textContent = `抽题失败：${error.message}。请确认页面通过 HTTP 打开。`;
     }
@@ -369,28 +461,10 @@
 
   $("#submitButton")?.addEventListener("click", submit);
   $("#nextButton")?.addEventListener("click", next);
+  $("#skipButton")?.addEventListener("click", next);
   $("#jumpToQuestion")?.addEventListener("click", () => {
     const target = state.submitted ? $("#resultMount") : $("#questionMount");
     if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
-  });
-  $("#skipButton")?.addEventListener("click", () => {
-    if (state.submitted) next();
-    else next();
-  });
-
-  document.addEventListener("keydown", (event) => {
-    if (event.target.matches("input, textarea, select")) return;
-    if (state.submitted && (event.key === "n" || event.key === "N")) {
-      next();
-      return;
-    }
-    if (!state.submitted && /^[1-8]$/.test(event.key)) {
-      const inputs = $$('input[name="drill-answer"]');
-      const input = inputs[Number(event.key) - 1];
-      if (input) { input.click(); }
-      return;
-    }
-    if (!state.submitted && event.key === "Enter" && state.selected) submit();
   });
 
   init();

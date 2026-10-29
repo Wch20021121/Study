@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light">
-  <meta name="description" content="考研英语（一）随机练单题页：一题一屏，提交后查看答案、证据句和解析。">
-  <title>随机练 · 单题</title>
+  <meta name="description" content="考研英语（一）随机练做题页：阅读 5 题、新题型 5 题、完形 20 空为一套，做完统一提交后查看答案和解析。">
+  <title>随机练 · 做题</title>
   <link rel="stylesheet" href="../assets/exam/exam.css?v={{ASSET_VERSION}}">
   <link rel="stylesheet" href="../assets/drill/drill.css?v={{ASSET_VERSION}}">
 </head>
@@ -40,17 +40,16 @@
 
         <section class="drill-question-panel" aria-label="题目">
           <div class="drill-qhead">
-            <span class="q-no" id="questionNo">—</span>
+            <span class="q-no" id="setCount">—</span>
           </div>
+          <div class="drill-set-summary" id="resultMount" hidden aria-live="polite"></div>
           <div id="questionMount"></div>
 
           <div class="drill-actions">
             <button class="btn btn-red" type="button" id="submitButton" disabled>提交答案</button>
             <button class="btn btn-ghost" type="button" id="nextButton" hidden>下一题</button>
-            <a class="text-link" id="fullLink" href="../index.html" target="_blank" rel="noopener" hidden>在整卷解析中看 →</a>
+            <a class="text-link" id="fullLink" href="../index.html" target="_blank" rel="noopener" hidden>看整卷解析 →</a>
           </div>
-
-          <div class="drill-result" id="resultMount" hidden aria-live="polite"></div>
         </section>
       </div>
     </article>
@@ -59,7 +58,7 @@
   <button class="drill-jump" type="button" id="jumpToQuestion">去答题 ↓</button>
 
   <footer class="drill-footer">
-    <div><b>一题一屏</b><span>提交前不显示答案；解析在本机浏览器里记录。</span></div>
+    <div><b>按套做题</b><span>做完这一组再提交；提交前不显示答案。</span></div>
     <a href="index.html">再选一个模式</a>
   </footer>
 
