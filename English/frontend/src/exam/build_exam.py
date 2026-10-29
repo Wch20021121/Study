@@ -7,8 +7,13 @@ For each year:
   knowledge/YYYY.html  -- answer-free knowledge map: structure, patterns, vocab,
                           long sentences, writing moves and study progress
 
+Plus one standalone module:
+  drill/               -- one-question random practice; answer bank is fetched
+                          only on submit.  Data is split by year under
+                          assets/drill/questions and assets/drill/answers.
+
 The old years/*.html reader pages are intentionally left in place as a legacy
-long-form edition.  This builder owns index.html and the new assets/exam files.
+long-form edition.  This builder owns index.html and the new assets.
 """
 from __future__ import annotations
 
@@ -25,14 +30,31 @@ YEARS = ROOT.parent / "exam-data" / "years"
 OUT_PRACTICE = ROOT / "practice"
 OUT_ANALYSIS = ROOT / "analysis"
 OUT_KNOWLEDGE = ROOT / "knowledge"
+OUT_DRILL = ROOT / "drill"
 ASSETS = ROOT / "assets" / "exam"
+ASSETS_DRILL = ROOT / "assets" / "drill"
 
 
 def asset_version() -> str:
     digest = hashlib.sha256()
-    for name in ("exam.css", "practice.js", "analysis.js", "knowledge.js", "yearbar.js", "portal.js"):
+    for name in ("exam.css", "practice.js", "analysis.js", "knowledge.js", "yearbar.js",
+                 "portal.js", "drill.css", "drill-hub.js", "drill-play.js"):
         digest.update((SRC / name).read_bytes())
     return digest.hexdigest()[:10]
+
+
+def drill_version() -> str:
+    """Version the question data independently from the page assets."""
+    digest = hashlib.sha256()
+    for path in sorted(READING.glob("*.json")) + sorted(YEARS.glob("*.json")):
+        digest.update(path.read_bytes())
+    return digest.hexdigest()[:10]
+
+
+def as_text(value: object) -> str:
+    if isinstance(value, (list, tuple)):
+        return "\n".join(str(x).strip() for x in value if str(x).strip())
+    return str(value or "").strip()
 
 
 def esc(value: object) -> str:
@@ -316,6 +338,204 @@ def view_tabs(year: int, active: str) -> str:
 </nav>'''
 
 
+def drill_year_payload(year: int, raw: dict) -> tuple[dict, dict, list[dict]]:
+    """Build the answer-free bank, answer key and index rows for one year."""
+    meta = raw.get("meta", {})
+    topics = meta.get("topics", [])
+    bank = {
+        "year": year,
+        "exam": meta.get("exam", ""),
+        "topics": topics,
+        "cloze": None,
+        "reading": [],
+        "partb": None,
+    }
+    answers: dict[str, dict] = {}
+    rows: list[dict] = []
+
+    cloze = raw.get("cloze")
+    if cloze:
+        bank["cloze"] = {
+            "title": cloze.get("title", "完形填空"),
+            "directions": cloze.get("directions", ""),
+            "intro": cloze.get("intro", ""),
+            "topic": cloze.get("topic", ""),
+            "passage": [{"en": p.get("en", "")} for p in cloze.get("passage", [])],
+            "questions": [
+                {"n": q.get("n"), "options": q.get("options", []), "type": q.get("type", "")}
+                for q in cloze.get("questions", [])
+            ],
+        }
+        for q in cloze.get("questions", []):
+            n = q.get("n")
+            qid = f"{year}-cloze-{n}"
+            modes = ["all", "cloze"]
+            if n == 1:
+                modes.append("first")
+            answers[qid] = {
+                "kind": "choice",
+                "answer": q.get("answer", ""),
+                "explain": as_text(q.get("explain")),
+                "trap": as_text(q.get("trap")),
+                "optionNotes": q.get("cn", []),
+            }
+            rows.append({
+                "id": qid,
+                "year": year,
+                "section": "cloze",
+                "sectionLabel": "完形填空",
+                "n": n,
+                "kind": "cloze",
+                "topic": cloze.get("topic", "完形填空") or "完形填空",
+                "type": q.get("type", ""),
+                "label": f"{year} · 完形第 {n} 题",
+                "analysisId": f"cloze-{n}",
+                "modes": modes,
+            })
+
+    for i, text in enumerate(raw.get("reading", [])):
+        tid = text.get("id") or f"text{i + 1}"
+        section_label = f"Text {i + 1}"
+        topic = topics[i] if i < len(topics) else (text.get("cn_title") or text.get("title") or section_label)
+        bank["reading"].append({
+            "id": tid,
+            "title": text.get("title", section_label),
+            "cn_title": text.get("cn_title", ""),
+            "intro": text.get("intro", ""),
+            "paragraphs": [{"en": p.get("en", "")} for p in text.get("paragraphs", [])],
+            "questions": [
+                {
+                    "n": q.get("n"),
+                    "stem": q.get("stem", ""),
+                    "options": q.get("options", []),
+                    "type": q.get("type", ""),
+                }
+                for q in text.get("questions", [])
+            ],
+        })
+        first_n = (text.get("questions") or [{}])[0].get("n")
+        for q in text.get("questions", []):
+            n = q.get("n")
+            qid = f"{year}-{tid}-{n}"
+            modes = ["all", "reading"]
+            if i == 0 and n == first_n:
+                modes.append("readingFirst")
+            answers[qid] = {
+                "kind": "choice",
+                "answer": q.get("answer", ""),
+                "explain": as_text(q.get("explain")),
+                "evidence": q.get("evidence", ""),
+                "trap": as_text(q.get("trap")),
+            }
+            rows.append({
+                "id": qid,
+                "year": year,
+                "section": tid,
+                "sectionLabel": section_label,
+                "n": n,
+                "kind": "reading",
+                "topic": topic,
+                "type": q.get("type", ""),
+                "label": f"{year} · {section_label} · 第 {n} 题",
+                "analysisId": f"{tid}-{n}",
+                "modes": modes,
+            })
+
+    partb = raw.get("partb")
+    if partb:
+        bank["partb"] = {
+            "type": partb.get("type", "7选5"),
+            "title": partb.get("title", "新题型"),
+            "cn_title": partb.get("cn_title", ""),
+            "directions": partb.get("directions", ""),
+            "intro": partb.get("intro", ""),
+            "blocks": [
+                {k: b.get(k) for k in ("type", "label", "en") if b.get(k) is not None}
+                for b in partb.get("blocks", [])
+            ],
+            "paragraphs": {
+                k: {"en": v.get("en", "")} for k, v in (partb.get("paragraphs") or {}).items()
+            },
+            "options": {
+                k: {"en": v.get("en", ""), "zh": v.get("zh", "")}
+                for k, v in (partb.get("options") or {}).items()
+            },
+            "fixed_note": partb.get("fixed_note", ""),
+        }
+        topic = partb.get("cn_title") or partb.get("title") or "新题型"
+        for a in partb.get("answers", []):
+            n = a.get("n")
+            qid = f"{year}-partb-{n}"
+            answers[qid] = {
+                "kind": "choice",
+                "answer": a.get("answer", ""),
+                "explain": as_text(a.get("explain")),
+                "clue": a.get("clue", ""),
+            }
+            rows.append({
+                "id": qid,
+                "year": year,
+                "section": "partb",
+                "sectionLabel": "新题型",
+                "n": n,
+                "kind": "partb",
+                "topic": topic,
+                "type": partb.get("type", ""),
+                "label": f"{year} · 新题型 · 第 {n} 题",
+                "analysisId": f"partb-{n}",
+                "modes": ["all", "partb"],
+            })
+
+    return bank, answers, rows
+
+
+def build_drill(years_raw: list[tuple[int, dict]], version: str) -> dict:
+    """Write the per-year banks/keys and the lightweight drill index."""
+    (ASSETS_DRILL / "questions").mkdir(parents=True, exist_ok=True)
+    (ASSETS_DRILL / "answers").mkdir(parents=True, exist_ok=True)
+    rows: list[dict] = []
+    for year, raw in years_raw:
+        bank, answers, year_rows = drill_year_payload(year, raw)
+        (ASSETS_DRILL / "questions" / f"{year}.json").write_text(
+            json.dumps(bank, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        (ASSETS_DRILL / "answers" / f"{year}.json").write_text(
+            json.dumps(answers, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        rows.extend(year_rows)
+
+    modes = [
+        ("all", "随机一题", "MIXED", "从全部客观题里抽一道，适合碎片时间。"),
+        ("reading", "随机阅读", "READING", "抽一篇阅读原文，只做其中一道题。"),
+        ("first", "各年首题", "FIRST", "随机年份的整卷第 1 题（完形第 1 题）。"),
+        ("readingFirst", "各年阅读首题", "FIRST READING", "随机年份的 Text 1 第 21 题。"),
+        ("partb", "随机新题型", "PART B", "7选5 / 排序 / 匹配随机一道。"),
+        ("cloze", "随机完形", "CLOZE", "抽一篇完形，只做其中一个空。"),
+    ]
+    mode_payload = []
+    for mode_id, label, tag, desc in modes:
+        count = sum(1 for row in rows if mode_id in row["modes"])
+        mode_payload.append({"id": mode_id, "label": label, "tag": tag, "desc": desc, "count": count})
+    index = {
+        "version": version,
+        "modes": mode_payload,
+        "counts": {m["id"]: m["count"] for m in mode_payload},
+        "questions": rows,
+    }
+    (ASSETS_DRILL / "index.json").write_text(
+        json.dumps(index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    return index
+
+
+def build_drill_pages(version: str) -> None:
+    asset = asset_version()
+    for name, out in (("drill-hub.template.html", "index.html"),
+                      ("drill-play.template.html", "play.html")):
+        page = (SRC / name).read_text(encoding="utf-8")
+        page = (page
+                .replace("{{ASSET_VERSION}}", asset)
+                .replace("{{DRILL_VERSION}}", version))
+        (OUT_DRILL / out).write_text(page, encoding="utf-8")
+
+
 def json_for_script(value: object) -> str:
     return json.dumps(value, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 
@@ -380,15 +600,27 @@ def main() -> None:
     OUT_PRACTICE.mkdir(parents=True, exist_ok=True)
     OUT_ANALYSIS.mkdir(parents=True, exist_ok=True)
     OUT_KNOWLEDGE.mkdir(parents=True, exist_ok=True)
+    OUT_DRILL.mkdir(parents=True, exist_ok=True)
     ASSETS.mkdir(parents=True, exist_ok=True)
+    ASSETS_DRILL.mkdir(parents=True, exist_ok=True)
     for name in ("exam.css", "practice.js", "analysis.js", "knowledge.js", "yearbar.js", "portal.js"):
         shutil.copyfile(SRC / name, ASSETS / name)
+    for name in ("drill.css", "drill-hub.js", "drill-play.js"):
+        shutil.copyfile(SRC / name, ASSETS_DRILL / name)
 
     years = []
+    drill_raw = []
     for year in range(2010, 2027):
         raw = load_year(year)
         years.append(build_year(year, raw))
+        drill_raw.append((year, raw))
         print(year, "practice + analysis + knowledge")
+
+    drill_ver = drill_version()
+    drill_index = build_drill(drill_raw, drill_ver)
+    build_drill_pages(drill_ver)
+    print("drill", len(drill_index["questions"]), "questions",
+          {m["id"]: m["count"] for m in drill_index["modes"]})
 
     portal_data = [
         {

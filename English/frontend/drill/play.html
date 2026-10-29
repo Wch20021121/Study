@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="考研英语（一）随机练单题页：一题一屏，提交后查看答案、证据句和解析。">
+  <title>随机练 · 单题</title>
+  <link rel="stylesheet" href="../assets/exam/exam.css?v=036c059ebd">
+  <link rel="stylesheet" href="../assets/drill/drill.css?v=036c059ebd">
+</head>
+<body class="drill-page drill-play-page" data-version="8f5f4d2c67">
+  <a class="skip-link" href="#drillCard">跳到题目</a>
+
+  <header class="exam-bar drill-bar">
+    <a class="exam-brand" href="../index.html" aria-label="返回真题档案">
+      <span class="brand-seal">英</span>
+      <span class="brand-copy"><b>英语（一）</b><small>真题档案 / 随机练</small></span>
+    </a>
+    <div class="bar-context"><b id="modeYear">—</b><span id="modeName">随机练</span></div>
+    <div class="bar-actions">
+      <a class="btn btn-ghost btn-small" href="index.html">选题型</a>
+      <button class="btn btn-ghost btn-small" type="button" id="skipButton">换一题</button>
+    </div>
+  </header>
+
+  <main class="drill-play-shell">
+    <div class="drill-loading" id="drillLoading">正在抽题…</div>
+
+    <article class="drill-question-card" id="drillCard" hidden>
+      <header class="drill-question-head">
+        <div class="drill-meta">
+          <span class="drill-year" id="metaYear">—</span>
+          <span id="metaSection">—</span>
+          <span id="metaType">—</span>
+        </div>
+        <span class="drill-mode-label" id="metaMode">—</span>
+      </header>
+      <p class="drill-topic" id="metaTopic"></p>
+
+      <div class="drill-body">
+        <section class="drill-passage-panel" id="passagePanel" aria-label="原文与上下文"></section>
+
+        <section class="drill-question-panel" aria-label="题目">
+          <div class="drill-qhead">
+            <span class="q-no" id="questionNo">—</span>
+            <span class="q-type" id="questionType"></span>
+          </div>
+          <div id="questionMount"></div>
+
+          <div class="drill-actions">
+            <button class="btn btn-red" type="button" id="submitButton" disabled>提交答案</button>
+            <button class="btn btn-ghost" type="button" id="nextButton" hidden>下一题</button>
+            <a class="text-link" id="fullLink" href="../index.html" target="_blank" rel="noopener">在整卷解析中看 →</a>
+          </div>
+
+          <div class="drill-result" id="resultMount" hidden aria-live="polite"></div>
+        </section>
+      </div>
+    </article>
+  </main>
+
+  <button class="drill-jump" type="button" id="jumpToQuestion">去答题 ↓</button>
+
+  <footer class="drill-footer">
+    <div><b>一题一屏</b><span>提交前不显示答案；解析在本机浏览器里记录。</span></div>
+    <a href="index.html">再选一个模式</a>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <noscript><div class="noscript">单题页需要 JavaScript 才能抽题和显示解析。</div></noscript>
+
+  <script>window.__DRILL_VERSION__ = "8f5f4d2c67";</script>
+  <script src="../assets/drill/drill-play.js?v=036c059ebd"></script>
+</body>
+</html>

@@ -164,7 +164,7 @@ git merge --no-ff english
 python3 English/frontend/src/exam/build_exam.py
 ```
 
-生成 `frontend/practice/*.html`、`frontend/analysis/*.html`、`frontend/knowledge/*.html`、`frontend/index.html` 和 `frontend/assets/exam/`。入口说明见 [frontend/README.md](frontend/README.md)。
+生成 `frontend/practice/*.html`、`frontend/analysis/*.html`、`frontend/knowledge/*.html`、`frontend/drill/`、`frontend/index.html`、`frontend/assets/exam/` 和 `frontend/assets/drill/`。入口说明见 [frontend/README.md](frontend/README.md)。
 
 ### 每日阅读 / 旧版长文
 

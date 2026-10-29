@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="考研英语（一）随机练：随机一题、随机阅读、各年首题、随机新题型。一题一屏，提交后看解析。">
+  <title>随机练 · 英语（一）一题一屏</title>
+  <link rel="stylesheet" href="../assets/exam/exam.css?v={{ASSET_VERSION}}">
+  <link rel="stylesheet" href="../assets/drill/drill.css?v={{ASSET_VERSION}}">
+</head>
+<body class="drill-page drill-hub-page" data-version="{{DRILL_VERSION}}">
+  <a class="skip-link" href="#modes">跳到题型</a>
+
+  <header class="exam-bar drill-bar">
+    <a class="exam-brand" href="../index.html" aria-label="返回真题档案">
+      <span class="brand-seal">英</span>
+      <span class="brand-copy"><b>英语（一）</b><small>真题档案 / 随机练</small></span>
+    </a>
+    <div class="bar-context"><b>DRILL</b><span>一题一屏 · 提交后看解析</span></div>
+    <div class="bar-actions">
+      <a class="btn btn-ghost btn-small" href="../index.html">返回真题档案</a>
+    </div>
+  </header>
+
+  <main class="drill-shell">
+    <section class="drill-hero">
+      <div class="drill-hero-copy">
+        <p class="hero-kicker">ONE QUESTION AT A TIME · 随机练</p>
+        <h1>一次只做<br><em>一道题。</em></h1>
+        <p class="drill-lede">不想展开整套卷子的时候，从 17 年里随机抽一题。先做完，再提交；答案和解析在提交之后才出现。</p>
+        <div class="drill-hero-actions">
+          <a class="btn btn-red" href="play.html?mode=all">随机抽一题 <span>→</span></a>
+          <a class="btn btn-ghost" href="play.html?mode=reading">抽一篇阅读</a>
+          <a class="btn btn-quiet" href="#modes">选题型</a>
+        </div>
+        <div class="drill-hero-stats" aria-label="本机练习统计">
+          <div><strong id="statDone">0</strong><span>已练</span></div>
+          <div><strong id="statRate">—</strong><span>正确率</span></div>
+          <div><strong id="statStreak">0</strong><span>连续答对</span></div>
+        </div>
+      </div>
+      <div class="drill-hero-mark" aria-hidden="true">
+        <span>RANDOM<br>DRILL</span>
+        <b>01</b>
+        <small>ONE QUESTION<br>AT A TIME</small>
+      </div>
+    </section>
+
+    <section class="drill-modes" id="modes" aria-labelledby="modesTitle">
+      <div class="drill-section-head">
+        <div>
+          <p class="section-kicker">Choose a drill</p>
+          <h2 id="modesTitle">从哪种题开始</h2>
+        </div>
+        <p>各年首题是整张卷子的第 1 题；各年阅读首题是每年 Text 1 的第 21 题。</p>
+      </div>
+      <div class="drill-mode-grid" id="drillModes" aria-live="polite">
+        <div class="drill-loading">正在读取题库…</div>
+      </div>
+    </section>
+
+    <section class="drill-recent" aria-labelledby="recentTitle">
+      <div class="drill-section-head">
+        <div>
+          <p class="section-kicker">Recent drills</p>
+          <h2 id="recentTitle">最近练过</h2>
+        </div>
+        <button class="text-btn" type="button" id="clearDrillHistory">清空练习记录</button>
+      </div>
+      <div class="drill-recent-list" id="drillRecent">
+        <div class="drill-empty">还没有练习记录。从上面选一个模式开始。</div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="drill-footer">
+    <div><b>英语（一）随机练</b><span>记录只保存在本机浏览器；答案在提交后请求。</span></div>
+    <a href="../index.html">返回真题档案</a>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <noscript><div class="noscript">随机练需要 JavaScript 才能抽题、保存记录和显示解析。</div></noscript>
+
+  <script>window.__DRILL_VERSION__ = "{{DRILL_VERSION}}";</script>
+  <script src="../assets/drill/drill-hub.js?v={{ASSET_VERSION}}"></script>
+</body>
+</html>

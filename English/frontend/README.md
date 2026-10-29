@@ -16,12 +16,18 @@
 
 总入口是 `index.html`，支持筛选“未交卷 / 已交卷”。
 
+另有独立的 **随机练** 模块 `/drill/`：一次只做一道客观题，提交后才请求答案和解析。支持随机一题、随机阅读、各年首题、各年阅读首题、随机新题型、随机完形；练习记录只保存在本机。
+
+> 随机练的答案数据按年份放在 `assets/drill/answers/`，页面初次打开只加载 `index.json` 和对应年份的 `questions/*.json`，提交时才请求答案文件。
+
 ## 现在有什么
 
 - `index.html`：17 套卷子的真题 / 解析 / 知识点入口。
 - `practice/2010.html`—`practice/2026.html`：真题视图。
 - `analysis/2010.html`—`analysis/2026.html`：真题解析视图。
 - `knowledge/2010.html`—`knowledge/2026.html`：知识点分析视图。
+- `drill/index.html`、`drill/play.html`：随机练入口和单题作答页。
+- `assets/drill/index.json`、`questions/*.json`、`answers/*.json`：随机练题库、无答案题面和提交后才读取的答案解析。
 - `2021.html`：2021 旧版全卷长文，保留作为方法库（阅读方法、7 日计划等）。
 - `years/2010.html`—`years/2026.html`：旧版逐年长页，保留作为旧版阅读入口。
 
@@ -49,8 +55,10 @@ python3 English/frontend/src/exam/build_exam.py
 - `practice/*.html`
 - `analysis/*.html`
 - `knowledge/*.html`
+- `drill/index.html`、`drill/play.html`
 - `index.html`
 - `assets/exam/exam.css`、`practice.js`、`analysis.js`、`knowledge.js`、`yearbar.js`、`portal.js`
+- `assets/drill/*`
 
 旧版长页（可选，只有需要改旧版阅读时才运行）：
 

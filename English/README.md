@@ -14,7 +14,9 @@
 | 真题解析 | `frontend/analysis/<year>.html` | 自动阅卷、错题定位、全卷解析、词汇和长难句 |
 | 知识点分析 | `frontend/knowledge/<year>.html` | 命题结构、题干信号、词汇分布、长难句、写作表达和作答进度 |
 
-顶部工具支持暂存/导入 JSON，以及一键清空本卷作答。总入口：`frontend/index.html`。这里同时保留 `frontend/2021.html` 和 `frontend/years/*.html` 作为旧版长文/方法库。
+顶部工具支持暂存/导入 JSON，以及一键清空本卷作答。
+
+另有独立的 **随机练**：`frontend/drill/`。随机一题、随机阅读、各年首题、各年阅读首题、随机新题型、随机完形；一次只做一道，提交后才加载答案解析。总入口：`frontend/index.html`。这里同时保留 `frontend/2021.html` 和 `frontend/years/*.html` 作为旧版长文/方法库。
 
 重新生成三个视图和总目录：
 
