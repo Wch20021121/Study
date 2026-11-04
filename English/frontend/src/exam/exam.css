@@ -724,8 +724,8 @@ img { max-width: 100%; height: auto; }
   margin: 0;
   color: var(--ink-2);
   font-family: var(--serif);
-  font-size: 17px;
-  line-height: 1.86;
+  font-size: 18px;
+  line-height: 1.92;
 }
 .para-zh {
   margin: 9px 0 0;
@@ -1361,7 +1361,7 @@ img { max-width: 100%; height: auto; }
 
 .analysis-paper { padding: 20px; border: 1px solid var(--rule); background: var(--paper); }
 .analysis-paper + .question-block { margin-top: 14px; }
-.analysis-passage .para-en { font-size: 15px; line-height: 1.8; }
+.analysis-passage .para-en { font-size: 18px; line-height: 1.9; }
 .translation-toggle {
   margin-top: 8px;
   padding: 0;
@@ -2147,7 +2147,7 @@ img { max-width: 100%; height: auto; }
   .exam-section-head { grid-template-columns: 30px minmax(0, 1fr); gap: 9px; }
   .exam-section-score { grid-column: 2; text-align: left; }
   .passage { padding: 15px; }
-  .para-en { font-size: 16px; }
+  .para-en { font-size: 18px; }
   .cloze-grid { grid-template-columns: 1fr; }
   .q-item { padding: 13px 12px; }
   .q-item legend { display: block; }

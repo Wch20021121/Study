@@ -20,14 +20,23 @@
 
 > 随机练的答案数据按年份放在 `assets/drill/answers/`，页面初次打开只加载 `index.json` 和对应年份的 `questions/*.json`，提交时才请求答案文件。
 
+另有 **作文模板库与随机作文** 模块 `/writing/`：
+
+- 总结应用文、通知、备忘录、图画作文、图表/表格、图画+图表、提纲议论文等类型；
+- 提供 7 个通用骨架、题型替换句、10 条写作技巧；
+- 支持“背诵模式”：遮住模板，逐条核对；
+- 随机抽取 34 道真题作文，写完提交后显示标准参考范文、模板拆解、可替换表达、易错点和自评栏。
+
 ## 现在有什么
 
 - `index.html`：17 套卷子的真题 / 解析 / 知识点入口。
 - `practice/2010.html`—`practice/2026.html`：真题视图。
 - `analysis/2010.html`—`analysis/2026.html`：真题解析视图。
 - `knowledge/2010.html`—`knowledge/2026.html`：知识点分析视图。
-- `drill/index.html`、`drill/play.html`：随机练入口和单题作答页。
+- `drill/index.html`、`drill/play.html`：随机练入口和按套作答页。
 - `assets/drill/index.json`、`questions/*.json`、`answers/*.json`：随机练题库、无答案题面和提交后才读取的答案解析。
+- `writing/index.html`、`writing/play.html`：作文模板库和随机作文练习。
+- `assets/writing-bank/prompts.json`：34 道作文题、参考范文、模板拆解和表达。
 - `2021.html`：2021 旧版全卷长文，保留作为方法库（阅读方法、7 日计划等）。
 - `years/2010.html`—`years/2026.html`：旧版逐年长页，保留作为旧版阅读入口。
 
@@ -56,9 +65,11 @@ python3 English/frontend/src/exam/build_exam.py
 - `analysis/*.html`
 - `knowledge/*.html`
 - `drill/index.html`、`drill/play.html`
+- `writing/index.html`、`writing/play.html`
 - `index.html`
 - `assets/exam/exam.css`、`practice.js`、`analysis.js`、`knowledge.js`、`yearbar.js`、`portal.js`
 - `assets/drill/*`
+- `assets/writing-bank/*`
 
 旧版长页（可选，只有需要改旧版阅读时才运行）：
 

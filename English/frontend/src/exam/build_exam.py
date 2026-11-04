@@ -7,10 +7,11 @@ For each year:
   knowledge/YYYY.html  -- answer-free knowledge map: structure, patterns, vocab,
                           long sentences, writing moves and study progress
 
-Plus one standalone module:
-  drill/               -- one-question random practice; answer bank is fetched
-                          only on submit.  Data is split by year under
-                          assets/drill/questions and assets/drill/answers.
+Plus two standalone modules:
+  drill/               -- random practice sets; answer bank is fetched only
+                          on submit.  Data is under assets/drill/.
+  writing/             -- writing template library and random composition
+                          practice.  Data is under assets/writing-bank/.
 
 The old years/*.html reader pages are intentionally left in place as a legacy
 long-form edition.  This builder owns index.html and the new assets.
@@ -31,14 +32,17 @@ OUT_PRACTICE = ROOT / "practice"
 OUT_ANALYSIS = ROOT / "analysis"
 OUT_KNOWLEDGE = ROOT / "knowledge"
 OUT_DRILL = ROOT / "drill"
+OUT_WRITING = ROOT / "writing"
 ASSETS = ROOT / "assets" / "exam"
 ASSETS_DRILL = ROOT / "assets" / "drill"
+ASSETS_WRITING = ROOT / "assets" / "writing-bank"
 
 
 def asset_version() -> str:
     digest = hashlib.sha256()
     for name in ("exam.css", "practice.js", "analysis.js", "knowledge.js", "yearbar.js",
-                 "portal.js", "drill.css", "drill-hub.js", "drill-play.js"):
+                 "portal.js", "drill.css", "drill-hub.js", "drill-play.js",
+                 "writing.css", "writing-library.js", "writing-play.js"):
         digest.update((SRC / name).read_bytes())
     return digest.hexdigest()[:10]
 
@@ -526,6 +530,121 @@ def build_drill_pages(version: str) -> None:
         (OUT_DRILL / out).write_text(page, encoding="utf-8")
 
 
+def writing_type_info(part: str, data: dict) -> tuple[str, str, str, str]:
+    """Return type id, template id, type label and template name."""
+    title = data.get("title", "")
+    label = title.split("·", 1)[-1].strip() if "·" in title else title.strip()
+    if part == "A":
+        if "通知" in label or "告示" in label:
+            return "notice", "notice", label or "通知", "通知 / 告示模板"
+        if "备忘录" in label:
+            return "memo", "memo", label or "备忘录", "备忘录模板"
+        mapping = [
+            ("建议", "letter-suggestion"), ("推荐", "letter-recommendation"),
+            ("邀请", "letter-invitation"), ("感谢", "letter-thanks"),
+            ("道歉", "letter-apology"), ("申请", "letter-application"),
+            ("投诉", "letter-complaint"), ("咨询", "letter-inquiry"),
+            ("回复", "letter-reply"), ("邮件", "letter-email"),
+            ("书信", "letter-general"),
+        ]
+        type_id = "letter-general"
+        for key, value in mapping:
+            if key in label:
+                type_id = value
+                break
+        return type_id, "letter", label or "书信 / 邮件", "书信 / 邮件通用模板"
+
+    if "图画" in label and "图表" in label:
+        return "picture-chart", "picture-chart", label, "图画 + 图表模板"
+    if "图表" in label or "表格" in label:
+        return "chart", "chart", label or "图表作文", "图表 / 表格模板"
+    if "提纲" in label or "情景" in label:
+        return "outline", "argument", label or "提纲作文", "提纲 / 议论文模板"
+    return "picture", "picture", label or "图画作文", "图画作文通用模板"
+
+
+def build_writing(years_raw: list[tuple[int, dict]]) -> dict:
+    prompts = []
+    for year, raw in years_raw:
+        writing = raw.get("writing") or {}
+        for part, key in (("A", "partA"), ("B", "partB")):
+            data = writing.get(key) or {}
+            if not data:
+                continue
+            type_id, template_id, type_label, template_name = writing_type_info(part, data)
+            picture = data.get("picture") or {}
+            prompts.append({
+                "id": f"{year}-part{part}",
+                "year": year,
+                "part": part,
+                "typeId": type_id,
+                "templateId": template_id,
+                "typeLabel": type_label,
+                "templateName": template_name,
+                "title": data.get("title", ""),
+                "score": data.get("score", 10 if part == "A" else 20),
+                "words": data.get("words", ""),
+                "prompt": data.get("prompt", ""),
+                "prompt_zh": data.get("prompt_zh", ""),
+                "picture": {k: picture.get(k) for k in ("src", "caption", "child", "father", "note") if picture.get(k)},
+                "sample": data.get("sample", ""),
+                "sample_zh": data.get("sample_zh", ""),
+                "structure": data.get("structure", []),
+                "expressions": data.get("expressions", []),
+                "traps": data.get("traps", []),
+            })
+    version = hashlib.sha256(
+        json.dumps(prompts, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+    ).hexdigest()[:10]
+    modes = [
+        ("all", "随机作文", "MIXED", "34 道真题随机抽一道，涵盖应用文和短文写作。"),
+        ("partA", "应用文", "PART A", "书信 / 邮件、通知、告示等 100 词应用文。"),
+        ("partB", "短文写作", "PART B", "图画、图表、图画+图表，160—200 词。"),
+        ("picture", "图画作文", "PICTURE", "图画描述 + 寓意解释 + 评论。"),
+        ("chart", "图表作文", "CHART", "图表 / 表格的数据描述、原因和结论。"),
+        ("letter", "书信 / 邮件", "LETTER", "建议、推荐、邀请、感谢、道歉、申请、投诉、咨询、回复。"),
+        ("notice", "通知 / 告示", "NOTICE", "通知、告示、活动安排。"),
+    ]
+    mode_payload = []
+    for mode_id, label, tag, desc in modes:
+        if mode_id == "all":
+            count = len(prompts)
+        elif mode_id == "partA":
+            count = sum(1 for p in prompts if p["part"] == "A")
+        elif mode_id == "partB":
+            count = sum(1 for p in prompts if p["part"] == "B")
+        elif mode_id == "picture":
+            count = sum(1 for p in prompts if p["templateId"] == "picture")
+        elif mode_id == "chart":
+            count = sum(1 for p in prompts if p["templateId"] in ("chart", "picture-chart"))
+        elif mode_id == "letter":
+            count = sum(1 for p in prompts if p["templateId"] == "letter")
+        else:
+            count = sum(1 for p in prompts if p["templateId"] == "notice")
+        mode_payload.append({"id": mode_id, "label": label, "tag": tag, "desc": desc, "count": count})
+    payload = {
+        "version": version,
+        "modes": mode_payload,
+        "counts": {m["id"]: m["count"] for m in mode_payload},
+        "prompts": prompts,
+    }
+    ASSETS_WRITING.mkdir(parents=True, exist_ok=True)
+    (ASSETS_WRITING / "prompts.json").write_text(
+        json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    return payload
+
+
+def build_writing_pages(version: str) -> None:
+    asset = asset_version()
+    for name, out in (("writing-library.template.html", "index.html"),
+                      ("writing-play.template.html", "play.html")):
+        page = (SRC / name).read_text(encoding="utf-8")
+        page = (page
+                .replace("{{ASSET_VERSION}}", asset)
+                .replace("{{WRITING_VERSION}}", version))
+        (OUT_WRITING / out).write_text(page, encoding="utf-8")
+
+
 def json_for_script(value: object) -> str:
     return json.dumps(value, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
 
@@ -591,12 +710,16 @@ def main() -> None:
     OUT_ANALYSIS.mkdir(parents=True, exist_ok=True)
     OUT_KNOWLEDGE.mkdir(parents=True, exist_ok=True)
     OUT_DRILL.mkdir(parents=True, exist_ok=True)
+    OUT_WRITING.mkdir(parents=True, exist_ok=True)
     ASSETS.mkdir(parents=True, exist_ok=True)
     ASSETS_DRILL.mkdir(parents=True, exist_ok=True)
+    ASSETS_WRITING.mkdir(parents=True, exist_ok=True)
     for name in ("exam.css", "practice.js", "analysis.js", "knowledge.js", "yearbar.js", "portal.js"):
         shutil.copyfile(SRC / name, ASSETS / name)
     for name in ("drill.css", "drill-hub.js", "drill-play.js"):
         shutil.copyfile(SRC / name, ASSETS_DRILL / name)
+    for name in ("writing.css", "writing-library.js", "writing-play.js"):
+        shutil.copyfile(SRC / name, ASSETS_WRITING / name)
 
     years = []
     drill_raw = []
@@ -611,6 +734,11 @@ def main() -> None:
     build_drill_pages(drill_ver)
     print("drill", len(drill_index["questions"]), "questions",
           {m["id"]: m["count"] for m in drill_index["modes"]})
+
+    writing_index = build_writing(drill_raw)
+    build_writing_pages(writing_index["version"])
+    print("writing", len(writing_index["prompts"]), "prompts",
+          writing_index["counts"])
 
     portal_data = [
         {
