@@ -3,9 +3,9 @@
 #   docker compose -f compose.yaml -f compose.dev.yaml up -d --build
 # 生产环境不要用这个文件，生产请直接用 compose.yaml（文件已打进镜像）。
 services:
-  exam408:
+  politics:
     volumes:
-      - ./408-exam/site:/usr/share/nginx/html:ro
+      - ./politics-site/site:/usr/share/nginx/html:ro
 
   english:
     volumes:

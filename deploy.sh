@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
-# 408 大题工位 + 英语真题档案：一键构建 / 启动 / 查看状态
+# 政治一页纸 + 英语真题档案：一键构建 / 启动 / 查看状态
 # 用法：
 #   sudo bash deploy.sh                 首次部署（Docker 已安装）
 #   sudo bash deploy.sh --install-docker 先安装 Docker（阿里云镜像），再部署
 #   sudo bash deploy.sh status|logs|down|restart
 #
-# 说明：脚本默认使用 40810（408）和 5001（英语）两个宿主机端口。
-# 可在项目根目录 .env 中改 EXAM408_PORT / ENGLISH_PORT。
+# 说明：脚本默认使用 40810（政治）和 5001（英语）两个宿主机端口。
+# 可在项目根目录 .env 中改 POLITICS_PORT / ENGLISH_PORT。
 
 set -euo pipefail
 
@@ -20,14 +20,14 @@ if [[ -f "$ROOT/.env" ]]; then
   set +a
 fi
 
-EXAM408_PORT="${EXAM408_PORT:-40810}"
+POLITICS_PORT="${POLITICS_PORT:-40810}"
 ENGLISH_PORT="${ENGLISH_PORT:-5001}"
 
 ACTION="${1:-up}"
 
 usage() {
   cat <<'USAGE'
-408 大题工位 · Docker 一键部署
+政治一页纸 · Docker 一键部署
 
 用法：
   sudo bash deploy.sh                  构建并启动两个站点
@@ -39,7 +39,7 @@ usage() {
   bash deploy.sh config               查看最终 compose 配置
 
 端口（可在 .env 修改）：
-  408 大题工位   -> 宿主机 40810
+  政治一页纸     -> 宿主机 40810
   英语真题档案   -> 宿主机 5001
 
 公网访问前，请在阿里云安全组放行这两个 TCP 端口。
@@ -136,11 +136,11 @@ ensure_docker() {
 }
 
 validate_ports() {
-  [[ "$EXAM408_PORT" =~ ^[0-9]+$ ]] || die "EXAM408_PORT 必须是数字：$EXAM408_PORT"
+  [[ "$POLITICS_PORT" =~ ^[0-9]+$ ]] || die "POLITICS_PORT 必须是数字：$POLITICS_PORT"
   [[ "$ENGLISH_PORT" =~ ^[0-9]+$ ]] || die "ENGLISH_PORT 必须是数字：$ENGLISH_PORT"
-  (( EXAM408_PORT >= 1 && EXAM408_PORT <= 65535 )) || die "EXAM408_PORT 越界：$EXAM408_PORT"
+  (( POLITICS_PORT >= 1 && POLITICS_PORT <= 65535 )) || die "POLITICS_PORT 越界：$POLITICS_PORT"
   (( ENGLISH_PORT >= 1 && ENGLISH_PORT <= 65535 )) || die "ENGLISH_PORT 越界：$ENGLISH_PORT"
-  [[ "$EXAM408_PORT" != "$ENGLISH_PORT" ]] || die "两个站点不能使用同一个宿主机端口"
+  [[ "$POLITICS_PORT" != "$ENGLISH_PORT" ]] || die "两个站点不能使用同一个宿主机端口"
 }
 
 http_ok() {
@@ -186,12 +186,12 @@ print_urls() {
   ip="$(public_ip)"
   echo
   echo "============================================================"
-  echo " 408 大题工位"
-  echo "   本机：http://127.0.0.1:${EXAM408_PORT}/"
+  echo " 政治一页纸"
+  echo "   本机：http://127.0.0.1:${POLITICS_PORT}/"
   if [[ -n "$ip" ]]; then
-    echo "   公网：http://${ip}:${EXAM408_PORT}/"
+    echo "   公网：http://${ip}:${POLITICS_PORT}/"
   else
-    echo "   公网：http://<服务器公网IP>:${EXAM408_PORT}/"
+    echo "   公网：http://<服务器公网IP>:${POLITICS_PORT}/"
   fi
   echo
   echo " 英语真题档案"
@@ -202,7 +202,7 @@ print_urls() {
     echo "   公网：http://<服务器公网IP>:${ENGLISH_PORT}/"
   fi
   echo
-  echo " 阿里云安全组需放行入方向 TCP ${EXAM408_PORT} 和 ${ENGLISH_PORT}"
+  echo " 阿里云安全组需放行入方向 TCP ${POLITICS_PORT} 和 ${ENGLISH_PORT}"
   echo " 服务器本机防火墙（如有）也要放行这两个端口"
   echo "============================================================"
 }
@@ -210,12 +210,13 @@ print_urls() {
 up() {
   ensure_docker
   validate_ports
-  log "构建并启动：408 -> ${EXAM408_PORT}，英语 -> ${ENGLISH_PORT}"
-  "${COMPOSE[@]}" -f "$ROOT/compose.yaml" up -d --build
+  log "构建并启动：政治 -> ${POLITICS_PORT}，英语 -> ${ENGLISH_PORT}"
+  # --remove-orphans 会清掉旧 408 service 留下的容器。
+  "${COMPOSE[@]}" -f "$ROOT/compose.yaml" up -d --build --remove-orphans
   "${COMPOSE[@]}" -f "$ROOT/compose.yaml" ps
 
   local ok=1
-  wait_http "408 大题工位" "http://127.0.0.1:${EXAM408_PORT}/healthz" 60 || ok=0
+  wait_http "政治一页纸" "http://127.0.0.1:${POLITICS_PORT}/healthz" 60 || ok=0
   wait_http "英语真题档案" "http://127.0.0.1:${ENGLISH_PORT}/healthz" 60 || ok=0
 
   if [[ "$ok" -eq 0 ]]; then
@@ -233,8 +234,8 @@ status() {
   validate_ports
   "${COMPOSE[@]}" -f "$ROOT/compose.yaml" ps
   echo
-  printf '408  /healthz : '
-  http_ok "http://127.0.0.1:${EXAM408_PORT}/healthz" && echo "ok" || echo "FAIL"
+  printf '政治 /healthz : '
+  http_ok "http://127.0.0.1:${POLITICS_PORT}/healthz" && echo "ok" || echo "FAIL"
   printf '英语 /healthz : '
   http_ok "http://127.0.0.1:${ENGLISH_PORT}/healthz" && echo "ok" || echo "FAIL"
 }

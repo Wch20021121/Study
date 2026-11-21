@@ -1,18 +1,18 @@
-# 学习站点统一编排：408 大题工位 + 英语真题档案
+# 学习站点统一编排：政治一页纸 + 英语真题档案
 # 用法：docker compose up -d --build
-# 端口：408 -> 宿主机 40810；英语 -> 宿主机 5001
+# 端口：政治 -> 宿主机 40810；英语 -> 宿主机 5001
 name: study-sites
 
 # 不固定 container_name：Compose 会按项目名自动生成容器名，
 # 这样多个 worktree 可以用不同 COMPOSE_PROJECT_NAME 并行开发。
 services:
-  exam408:
+  politics:
     build:
-      context: ./408-exam
+      context: ./politics-site
       dockerfile: Dockerfile
-    image: study-408-exam:local
+    image: study-politics:local
     ports:
-      - "${EXAM408_PORT:-40810}:80"
+      - "${POLITICS_PORT:-40810}:80"
     restart: unless-stopped
     security_opt:
       - no-new-privileges:true

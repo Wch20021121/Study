@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f2ede3">
+  <meta name="description" content="2027 考研政治《一页纸》知识点手册，按页翻阅，适合平时反复翻看。">
+  <title>一页纸 · 2027 考研政治知识点手册</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="pages/01.webp" as="image" type="image/webp">
+  <link rel="stylesheet" href="assets/reader.css">
+</head>
+<body>
+  <div class="progress" aria-hidden="true">
+    <span id="progressFill"></span>
+  </div>
+
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="一页纸，回到阅读页">
+      <span class="brand-mark" aria-hidden="true">页</span>
+      <span class="brand-copy">
+        <span class="brand-title">一页纸</span>
+        <span class="brand-sub">2027 考研政治 · 知识点手册</span>
+      </span>
+    </a>
+
+    <div class="chapter">
+      <span class="chapter-dot" aria-hidden="true"></span>
+      <span id="chapterName">封面</span>
+    </div>
+
+    <div class="topbar-actions">
+      <button class="btn-toc" id="tocOpen" type="button" aria-haspopup="dialog" aria-controls="tocDialog">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="M4 5.5h6.5M4 12h6.5M4 18.5h6.5M14 5.5h6M14 12h6M14 18.5h6"/>
+        </svg>
+        <span>目录</span>
+      </button>
+      <button class="btn-icon" id="fullscreenToggle" type="button" aria-label="进入全屏" aria-pressed="false" title="全屏（F）">
+        <svg class="icon-expand" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="M8.5 4H4v4.5M15.5 4H20v4.5M20 15.5V20h-4.5M4 15.5V20h4.5"/>
+        </svg>
+        <svg class="icon-compress" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="M4 8.5h4.5V4M20 8.5h-4.5V4M15.5 20v-4.5H20M8.5 20v-4.5H4"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <main class="reader" id="reader">
+    <button class="edge edge-prev" id="prevEdge" type="button" aria-label="上一页">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M15 5l-7 7 7 7"/></svg>
+    </button>
+
+    <div class="stage" id="stage">
+      <div class="paper" id="paper">
+        <img id="pageImage" width="1654" height="2339" alt="" draggable="false">
+      </div>
+      <div class="loader" id="loader">
+        <span class="spinner" aria-hidden="true"></span>
+        <p id="loaderText">正在翻开…</p>
+        <button id="retry" type="button" hidden>重新载入</button>
+      </div>
+    </div>
+
+    <button class="edge edge-next" id="nextEdge" type="button" aria-label="下一页">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9 5l7 7-7 7"/></svg>
+    </button>
+  </main>
+
+  <footer class="foot">
+    <div class="foot-inner">
+      <button class="turn turn-prev" id="prevButton" type="button">
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14.5 5l-7 7 7 7"/></svg>
+        <span>上一页</span>
+      </button>
+
+      <button class="counter" id="counter" type="button" aria-haspopup="dialog" aria-controls="tocDialog" aria-label="打开目录">
+        <b id="pageNow">01</b>
+        <span class="counter-slash">/</span>
+        <span id="pageAll">36</span>
+      </button>
+
+      <button class="turn turn-next" id="nextButton" type="button">
+        <span>下一页</span>
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M9.5 5l7 7-7 7"/></svg>
+      </button>
+    </div>
+    <p class="foot-hint">
+      <span class="keys">← →</span> 翻页
+      <span class="sep" aria-hidden="true">·</span> 空格 下一页
+      <span class="sep" aria-hidden="true">·</span> M 目录
+    </p>
+  </footer>
+
+  <dialog class="toc-dialog" id="tocDialog" aria-labelledby="tocTitle">
+    <div class="toc-shell">
+      <header class="toc-head">
+        <div>
+          <p class="toc-kicker">CONTENTS</p>
+          <h2 id="tocTitle">目录</h2>
+        </div>
+        <button class="btn-icon toc-close" id="tocClose" type="button" aria-label="关闭目录">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 6l12 12M18 6L6 18"/></svg>
+        </button>
+      </header>
+
+      <div class="toc-body">
+        <nav class="toc-nav" id="tocNav" aria-label="按章节跳转"></nav>
+        <section class="toc-pages" aria-labelledby="tocPagesTitle">
+          <div class="toc-pages-head">
+            <h3 id="tocPagesTitle">全部页面</h3>
+            <span>36 页</span>
+          </div>
+          <div class="toc-grid" id="tocGrid"></div>
+        </section>
+      </div>
+
+      <footer class="toc-foot">
+        <span>页码按阅读顺序 · 点击直接跳转</span>
+        <span>M 关闭</span>
+      </footer>
+    </div>
+  </dialog>
+
+  <p class="sr-only" id="pageStatus" aria-live="polite"></p>
+
+  <noscript>
+    <div class="noscript">这个阅读页需要启用 JavaScript 才能翻页。</div>
+  </noscript>
+
+  <script src="assets/reader.js"></script>
+</body>
+</html>
