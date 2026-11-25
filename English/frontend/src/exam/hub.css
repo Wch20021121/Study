@@ -516,558 +516,264 @@ body[data-module="math"] {
   line-height: 1.7;
 }
 
-/* ---------- math module ---------- */
+/* ---------- math module: LaTeX handout ---------- */
 
 .hub-panel--math {
+  padding: 42px 0 66px;
   background:
-    radial-gradient(760px 440px at 86% 10%, rgba(45, 85, 104, 0.1), transparent 68%),
+    radial-gradient(760px 440px at 86% 8%, rgba(45, 85, 104, 0.09), transparent 68%),
     var(--desk);
 }
 
-.hub-panel--math .hub-kicker {
-  color: var(--math);
-}
-
-.math-hero {
-  display: grid;
-  grid-template-columns: minmax(0, 1.08fr) minmax(310px, 0.58fr);
-  gap: clamp(34px, 7vw, 100px);
-  align-items: center;
-  width: min(calc(100% - 48px), var(--max));
+.math-paper {
+  width: min(calc(100% - 48px), 980px);
   margin: 0 auto;
-  padding: 58px 0 46px;
+  padding: clamp(32px, 5vw, 58px) clamp(22px, 6vw, 68px) clamp(38px, 5vw, 64px);
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--rule-dark);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.8) inset,
+    0 34px 80px -52px rgba(19, 33, 29, 0.56);
 }
 
-.math-hero h1 {
-  margin: 14px 0 0;
+.math-paper-head {
+  padding-bottom: 24px;
+  text-align: center;
+  border-bottom: 2px solid var(--ink);
+}
+
+.math-paper-head h1 {
+  margin: 0;
   font-family: var(--song);
-  font-size: clamp(58px, 8.4vw, 106px);
+  font-size: clamp(30px, 4vw, 44px);
   font-weight: 700;
-  line-height: 0.98;
-  letter-spacing: -0.08em;
+  line-height: 1.3;
+  letter-spacing: -0.035em;
 }
 
-.math-hero h1 em {
-  color: var(--math);
-  font-style: normal;
+.math-paper-head p {
+  margin: 11px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.8;
+  letter-spacing: 0.05em;
 }
 
-.math-lede {
-  max-width: 620px;
-  margin: 22px 0 0;
+.math-chapter {
+  padding-top: 30px;
+}
+
+.math-chapter + .math-chapter {
+  margin-top: 12px;
+  border-top: 1px solid var(--rule);
+}
+
+.math-chapter h2 {
+  margin: 0 0 3px;
+  padding-bottom: 9px;
+  font-family: var(--song);
+  font-size: clamp(25px, 3vw, 32px);
+  font-weight: 700;
+  line-height: 1.25;
+  border-bottom: 1px solid var(--rule-dark);
+}
+
+.math-chapter h3 {
+  margin: 25px 0 7px;
+  font-family: var(--song);
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 1.55;
+}
+
+.math-paper p {
+  margin: 8px 0;
   color: var(--ink-2);
   font-size: 14px;
   line-height: 1.95;
 }
 
-.math-stats {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1px;
-  max-width: 470px;
-  margin-top: 26px;
-  border: 1px solid var(--rule-dark);
-  background: var(--rule);
-}
-
-.math-stats div {
-  padding: 11px 13px;
-  background: var(--paper);
-}
-
-.math-stats b {
-  display: block;
-  font-family: var(--serif);
-  font-size: 25px;
-  font-weight: 500;
-  line-height: 1.05;
-}
-
-.math-stats span {
-  display: block;
-  margin-top: 3px;
-  color: var(--muted);
-  font-size: 9px;
-}
-
-.math-index-card {
-  padding: 17px;
-  color: var(--ink);
-  background: var(--paper);
-  border: 1px solid var(--rule-dark);
-  box-shadow:
-    12px 12px 0 rgba(19, 33, 29, 0.07),
-    0 28px 54px -36px rgba(19, 33, 29, 0.48);
-  transform: rotate(1.2deg);
-}
-
-.math-index-kicker {
-  margin: 0 0 10px;
-  color: var(--math);
-  font-family: var(--mono);
-  font-size: 9px;
-  letter-spacing: 0.08em;
-}
-
-.math-index-card a {
-  display: grid;
-  grid-template-columns: 25px minmax(0, 1fr) auto;
-  gap: 8px;
-  align-items: baseline;
-  padding: 10px 0;
-  color: inherit;
-  text-decoration: none;
-  border-top: 1px solid var(--rule);
-}
-
-.math-index-card a:hover b {
-  color: var(--math);
-}
-
-.math-index-card a span {
-  color: var(--gold);
-  font-family: var(--mono);
-  font-size: 9px;
-}
-
-.math-index-card a b {
-  font-family: var(--song);
-  font-size: 17px;
-  transition: color 150ms ease;
-}
-
-.math-index-card a em {
-  color: var(--muted);
-  font-family: var(--mono);
-  font-size: 8px;
-  font-style: normal;
-  text-align: right;
-}
-
-.math-index-note {
-  margin: 12px 0 0;
-  color: var(--muted);
-  font-family: var(--mono);
-  font-size: 8px;
-  line-height: 1.6;
-}
-
-.math-body {
-  width: min(calc(100% - 48px), var(--max));
-  margin: 0 auto;
-}
-
-.math-section {
-  padding: 38px 0 44px;
-  border-top: 1px solid var(--rule-dark);
-}
-
-.math-section:first-child {
-  border-top: 0;
-}
-
-.math-section-head {
-  display: grid;
-  grid-template-columns: 72px minmax(0, 1fr) auto;
-  gap: 12px 18px;
-  align-items: end;
-  margin-bottom: 18px;
-}
-
-.math-no {
-  color: var(--math);
-  font-family: var(--serif);
-  font-size: 44px;
-  font-weight: 500;
-  line-height: 0.8;
-}
-
-.math-section-head p {
-  margin: 0;
-  color: var(--muted);
-  font-family: var(--mono);
-  font-size: 8.5px;
-  letter-spacing: 0.06em;
-}
-
-.math-section-head h2 {
-  margin: 7px 0 0;
-  font-family: var(--song);
-  font-size: 36px;
-  line-height: 1.08;
-}
-
-.math-section-head small {
-  color: var(--muted);
-  font-family: var(--mono);
-  font-size: 8.5px;
-  letter-spacing: 0.03em;
-  white-space: nowrap;
-}
-
-.math-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1px;
-  border: 1px solid var(--rule);
-  background: var(--rule);
-}
-
-.math-card {
-  min-width: 0;
-  padding: 20px;
-  background: var(--paper);
-}
-
-.math-card--wide {
-  grid-column: 1 / -1;
-}
-
-.math-card--warn {
-  background: #fbf2ee;
-}
-
-.math-card-head {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 6px 12px;
-  margin-bottom: 10px;
-}
-
-.math-card h3 {
-  margin: 0;
-  font-family: var(--song);
-  font-size: 20px;
-  line-height: 1.35;
-}
-
-.math-tag {
-  padding: 2px 6px;
-  color: var(--math);
-  border: 1px solid rgba(45, 85, 104, 0.32);
-  font-family: var(--mono);
-  font-size: 8px;
-  line-height: 1.5;
-  white-space: nowrap;
-}
-
-.math-lead {
-  margin: 0 0 8px;
-  color: var(--ink-2);
-  font-size: 12px;
-  line-height: 1.7;
-}
-
-.math-equation {
-  margin: 7px 0;
-  padding: 8px 10px;
+.math-result {
+  margin: 11px 0 15px;
+  padding: 2px 0;
   overflow-x: auto;
+  overflow-y: hidden;
   color: var(--ink);
-  background: var(--math-soft);
-  border-left: 2px solid var(--math);
-  font-family: var(--mono);
-  font-size: 11.5px;
-  line-height: 1.75;
-  white-space: nowrap;
+  text-align: center;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
 }
 
-.math-equation b {
-  margin: 0 3px;
-  color: var(--politics);
-  font-weight: 700;
+.math-result .katex-display {
+  margin: 0;
 }
 
-.math-chain {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 7px 10px;
-  align-items: baseline;
-  padding: 10px 12px;
-  background: var(--math-soft);
-  border-left: 2px solid var(--math);
-  font-family: var(--mono);
-  font-size: 12px;
-  line-height: 1.7;
+.math-result::-webkit-scrollbar {
+  display: none;
 }
 
-.math-chain b {
-  color: var(--politics);
+.math-paper .katex {
+  font-size: 1.07em;
 }
 
-.math-warn {
-  margin: 9px 0 0;
-  padding: 8px 10px;
+.math-paper .katex-display {
+  font-size: 1.02em;
+}
+
+.math-warning {
+  margin: 13px 0;
+  padding: 9px 12px;
   color: var(--politics-dark);
   background: var(--politics-soft);
   border-left: 3px solid var(--politics);
-  font-size: 11.5px;
-  line-height: 1.7;
+  font-size: 13px;
+  line-height: 1.85;
 }
 
-.math-note {
+.math-list {
   margin: 8px 0 0;
-  color: var(--muted);
-  font-size: 10.5px;
-  line-height: 1.7;
+  padding-left: 1.35em;
 }
 
-.math-note code,
-.math-lead code,
-.math-bullets code,
-.math-stack code {
-  color: var(--ink);
-  font-family: var(--mono);
-  font-size: 0.94em;
-  background: rgba(45, 85, 104, 0.07);
-  padding: 0 3px;
-}
-
-.math-param {
-  margin: 0 0 8px;
+.math-list li {
+  margin: 5px 0;
+  padding-left: 2px;
   color: var(--ink-2);
-  font-size: 11px;
+  font-size: 14px;
+  line-height: 1.95;
 }
 
-.math-param code {
-  font-family: var(--mono);
-  font-size: 11.5px;
-}
-
-.math-formula {
-  margin: 8px 0;
-  padding: 13px 15px;
-  overflow-x: auto;
-  color: #f5efe3;
-  background: #18231f;
-  border-left: 2px solid var(--gold);
-  font-family: var(--mono);
-  font-size: 11.5px;
-  line-height: 1.7;
-  white-space: pre;
-}
-
-.math-rank-table {
-  border-top: 1px solid var(--rule);
-}
-
-.math-rank-table div {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
-  gap: 8px;
-  align-items: baseline;
-  padding: 8px 0;
-  border-bottom: 1px solid var(--rule);
-}
-
-.math-rank-table code {
-  font-family: var(--mono);
-  font-size: 11.5px;
-}
-
-.math-rank-table span {
-  color: var(--muted);
-}
-
-.math-rank-table b {
+.math-list li::marker {
   color: var(--math);
-  font-family: var(--mono);
-  font-size: 11.5px;
-  text-align: right;
 }
 
-.math-compare {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1px;
-  border: 1px solid var(--rule);
-  background: var(--rule);
-}
-
-.math-compare div {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  padding: 10px;
-  background: var(--paper);
-}
-
-.math-compare code {
-  color: var(--ink);
-  font-family: var(--mono);
-  font-size: 11px;
-}
-
-.math-compare b {
-  color: var(--math);
-  font-size: 12px;
-}
-
-.math-compare span {
-  color: var(--muted);
-  font-size: 9.5px;
-  line-height: 1.6;
-}
-
-.math-bullets {
-  display: grid;
-  gap: 7px;
-  margin: 0;
-  padding: 0;
+.math-list-result {
+  margin-top: 9px;
   list-style: none;
 }
 
-.math-bullets li {
+.math-list-result .math-result,
+.math-list-result > .katex-display {
+  margin: 4px 0;
+}
+
+.math-traps {
+  display: grid;
+  gap: 1px;
+  margin: 16px 0 0;
+  padding: 0;
+  list-style: none;
+  border: 1px solid var(--rule);
+  background: var(--rule);
+}
+
+.math-traps li {
   position: relative;
-  padding-left: 14px;
+  padding: 12px 15px 12px 43px;
   color: var(--ink-2);
-  font-size: 11.5px;
-  line-height: 1.75;
+  background: var(--paper);
+  font-size: 13.5px;
+  line-height: 1.9;
 }
 
-.math-bullets li::before {
+.math-traps li::before {
   position: absolute;
-  top: 0.72em;
-  left: 0;
-  width: 5px;
-  height: 5px;
-  background: var(--math);
-  content: "";
-}
-
-.math-bullets--two {
-  grid-template-columns: 1fr 1fr;
-  gap: 7px 24px;
-}
-
-.math-bullets--three {
-  grid-template-columns: repeat(3, 1fr);
-  gap: 7px 24px;
-}
-
-.math-split {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 10px;
-  margin-top: 9px;
-}
-
-.math-split .math-warn {
-  margin: 0;
-}
-
-.math-split p {
-  margin: 0;
-  color: var(--ink-2);
-  font-size: 11.5px;
-  line-height: 1.7;
-}
-
-.math-operator-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1px;
-  margin-bottom: 8px;
-  border: 1px solid var(--rule);
-  background: var(--rule);
-}
-
-.math-operator-grid div {
-  padding: 8px 9px;
-  background: var(--paper);
-}
-
-.math-operator-grid code {
-  display: block;
-  color: var(--ink);
-  font-family: var(--mono);
-  font-size: 10.5px;
-  white-space: nowrap;
-}
-
-.math-operator-grid span {
-  display: block;
-  margin-top: 2px;
-  color: var(--muted);
-  font-size: 9px;
-}
-
-.math-stack {
-  display: grid;
-  gap: 7px;
-}
-
-.math-stack p {
-  display: grid;
-  grid-template-columns: 66px minmax(0, 1fr);
-  gap: 9px;
-  align-items: baseline;
-  margin: 0;
-}
-
-.math-stack span {
-  color: var(--muted);
-  font-size: 10px;
-}
-
-.math-stack code {
-  font-family: var(--mono);
-  font-size: 11px;
-  line-height: 1.7;
-}
-
-.pitfall-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1px;
-  border: 1px solid var(--rule);
-  background: var(--rule);
-}
-
-.pitfall {
-  display: grid;
-  grid-template-columns: 32px minmax(0, 1fr);
-  gap: 10px;
-  padding: 16px;
-  background: var(--paper);
-}
-
-.pitfall > span {
+  top: 13px;
+  left: 15px;
   color: var(--gold);
   font-family: var(--mono);
-  font-size: 10px;
+  font-size: 9px;
+  content: "0" counter(math-trap);
+  counter-increment: math-trap;
 }
 
-.pitfall h3 {
-  margin: 0;
-  font-family: var(--song);
-  font-size: 18px;
-  line-height: 1.4;
+.math-traps {
+  counter-reset: math-trap;
 }
 
-.pitfall p {
-  margin: 6px 0 0;
-  color: var(--muted);
-  font-size: 11px;
-  line-height: 1.75;
+/* KaTeX display blocks can be wider than the paper on small screens. */
+.math-paper .katex-display > .katex {
+  max-width: none;
 }
 
-.pitfall--key {
-  background: var(--politics-soft);
-  box-shadow: inset 3px 0 0 var(--politics);
+@media (max-width: 900px) {
+  .hub-panel--math {
+    padding: 28px 0 44px;
+  }
+
+  .math-paper {
+    width: min(calc(100% - 32px), 760px);
+    padding: 32px 24px 42px;
+  }
 }
 
-.pitfall--key b {
-  display: inline-block;
-  margin-top: 8px;
-  padding: 2px 6px;
-  color: var(--white);
-  background: var(--politics);
-  font-family: var(--mono);
-  font-size: 8px;
-  font-weight: 500;
-  letter-spacing: 0.04em;
+@media (max-width: 640px) {
+  .hub-panel--math {
+    padding: 16px 0 30px;
+  }
+
+  .math-paper {
+    width: calc(100% - 20px);
+    padding: 25px 15px 32px;
+  }
+
+  .math-paper-head {
+    padding-bottom: 18px;
+  }
+
+  .math-paper-head h1 {
+    font-size: 27px;
+    letter-spacing: -0.03em;
+  }
+
+  .math-paper-head p {
+    margin-top: 8px;
+    font-size: 11px;
+  }
+
+  .math-chapter {
+    padding-top: 24px;
+  }
+
+  .math-chapter h2 {
+    font-size: 23px;
+  }
+
+  .math-chapter h3 {
+    margin-top: 21px;
+    font-size: 17px;
+  }
+
+  .math-paper p,
+  .math-list li {
+    font-size: 13px;
+    line-height: 1.9;
+  }
+
+  .math-warning {
+    padding: 8px 10px;
+    font-size: 12px;
+  }
+
+  .math-traps li {
+    padding: 11px 12px 11px 38px;
+    font-size: 12.5px;
+  }
+
+  .math-traps li::before {
+    top: 12px;
+    left: 12px;
+  }
+
+  .math-result {
+    margin: 9px 0 12px;
+    text-align: left;
+  }
+
+  .math-paper .katex-display {
+    font-size: 0.96em;
+  }
 }
 
 /* ---------- footer ---------- */
@@ -1168,15 +874,13 @@ body[data-module="math"] {
     padding-top: 36px;
   }
 
-  .politics-hero,
-  .math-hero {
+  .politics-hero {
     grid-template-columns: 1fr;
     width: min(calc(100% - 32px), 760px);
     padding: 40px 0 32px;
   }
 
-  .politics-copy h1,
-  .math-hero h1 {
+  .politics-copy h1 {
     font-size: clamp(54px, 10vw, 82px);
   }
 
@@ -1186,8 +890,7 @@ body[data-module="math"] {
     margin-top: 6px;
   }
 
-  .politics-sections,
-  .math-body {
+  .politics-sections {
     width: min(calc(100% - 32px), 760px);
   }
 
@@ -1195,38 +898,8 @@ body[data-module="math"] {
     grid-template-columns: 1fr 1fr;
   }
 
-  .politics-section-head h2,
-  .math-section-head h2 {
+  .politics-section-head h2 {
     font-size: 30px;
-  }
-
-  .math-index-card {
-    transform: none;
-  }
-
-  .math-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .math-card--wide {
-    grid-column: auto;
-  }
-
-  .math-compare {
-    grid-template-columns: 1fr;
-  }
-
-  .math-bullets--two,
-  .math-bullets--three {
-    grid-template-columns: 1fr;
-  }
-
-  .math-split {
-    grid-template-columns: 1fr;
-  }
-
-  .pitfall-grid {
-    grid-template-columns: 1fr;
   }
 }
 
@@ -1286,23 +959,15 @@ body[data-module="math"] {
     font-size: 56px;
   }
 
-  .math-hero h1 {
-    font-size: 44px;
-    letter-spacing: -0.06em;
-  }
-
-  .politics-lede,
-  .math-lede {
+  .politics-lede {
     font-size: 13px;
   }
 
-  .politics-stats,
-  .math-stats {
+  .politics-stats {
     margin-top: 20px;
   }
 
-  .politics-stats b,
-  .math-stats b {
+  .politics-stats b {
     font-size: 22px;
   }
 
@@ -1312,65 +977,6 @@ body[data-module="math"] {
 
   .politics-section-head > p {
     display: none;
-  }
-
-  .math-section-head {
-    grid-template-columns: 46px minmax(0, 1fr);
-    gap: 8px 10px;
-  }
-
-  .math-no {
-    font-size: 32px;
-  }
-
-  .math-section-head h2 {
-    font-size: 27px;
-  }
-
-  .math-section-head small {
-    grid-column: 2;
-    white-space: normal;
-  }
-
-  .math-card {
-    padding: 16px 14px;
-  }
-
-  .math-card h3 {
-    font-size: 18px;
-  }
-
-  .math-equation {
-    font-size: 10.5px;
-    white-space: normal;
-    word-break: break-word;
-  }
-
-  .math-chain {
-    font-size: 10.5px;
-  }
-
-  .math-formula {
-    padding: 11px;
-    font-size: 10px;
-  }
-
-  .math-operator-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .math-stack p {
-    grid-template-columns: 1fr;
-    gap: 2px;
-  }
-
-  .math-stack span {
-    font-size: 9.5px;
-  }
-
-  .pitfall {
-    grid-template-columns: 26px minmax(0, 1fr);
-    padding: 14px;
   }
 }
 

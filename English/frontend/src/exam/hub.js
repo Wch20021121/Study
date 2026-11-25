@@ -21,6 +21,25 @@
     window.scrollTo({ top: 0, left: 0, behavior: reduceMotion ? "auto" : "smooth" });
   }
 
+  let mathRendered = false;
+
+  function renderMath() {
+    const panel = document.getElementById("panel-math");
+    if (mathRendered || !panel || typeof window.renderMathInElement !== "function") return;
+
+    window.renderMathInElement(panel, {
+      delimiters: [
+        { left: "$$", right: "$$", display: true },
+        { left: "\\[", right: "\\]", display: true },
+        { left: "$", right: "$", display: false },
+        { left: "\\(", right: "\\)", display: false },
+      ],
+      throwOnError: false,
+      strict: false,
+    });
+    mathRendered = true;
+  }
+
   function activate(name, options = {}) {
     const module = MODULES.includes(name) ? name : DEFAULT_MODULE;
 
@@ -37,6 +56,7 @@
     document.body.dataset.module = module;
     document.title = MODULE_TITLES[module] || MODULE_TITLES[DEFAULT_MODULE];
 
+    if (module === "math") renderMath();
     if (options.focus) tabFor(module).focus();
   }
 

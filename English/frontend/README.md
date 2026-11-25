@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | 政治 | 2027《一页纸》知识点手册，36 页单页阅读版 | `politics/index.html` |
 | 英语 | 2010—2026 英语（一）真题、随机练、作文模板 | 本页的“英语”标签 |
-| 数学 | 数一易忘 & 易错速记清单 | 本页的“数学”标签 |
+| 数学 | 数一易忘 & 易错速记清单，KaTeX 渲染 | 本页的“数学”标签 |
 
 政治阅读器是从 `../../politics-site/site/` 复制生成的，构建时同步；阅读器的品牌链接会返回学习台政治模块。
 
@@ -82,6 +82,7 @@ python3 English/frontend/src/exam/build_exam.py
 - `index.html`
 - `assets/exam/exam.css`、`hub.css`、`practice.js`、`analysis.js`、`knowledge.js`、`yearbar.js`、`portal.js`、`hub.js`
 - `politics/`：从 `politics-site/site/` 同步的政治阅读器和页面图
+- `assets/katex/`：本地 KaTeX（CSS、JS、字体），数学公式离线渲染
 - `assets/drill/*`
 - `assets/writing-bank/*`
 

@@ -25,7 +25,7 @@
 | 内容 | 位置 | 说明 |
 | --- | --- | --- |
 | 学习台首页 | [English/frontend/index.html](English/frontend/index.html) | 政治 / 英语 / 数学三个模块，顶部标签切换 |
-| 数学速记 | [English/frontend/src/exam/math-notes.template.html](English/frontend/src/exam/math-notes.template.html) | 数一判定、公式、结论与考场避坑 |
+| 数学速记 | [English/frontend/src/exam/math-notes.template.html](English/frontend/src/exam/math-notes.template.html) | 数一判定、公式、结论与考场避坑，KaTeX 渲染 |
 | 政治阅读器 | [politics-site/site/index.html](politics-site/site/index.html) | 单页翻阅、目录跳转、键盘与滑动翻页 |
 | 政治页图 | [politics-site/site/pages/](politics-site/site/pages/) | 由 39 页 PDF 渲染的 WebP 页面 |
 | 学习台镜像 | [English/Dockerfile](English/Dockerfile) | Nginx + 英语 / 政治 / 数学静态产物 |

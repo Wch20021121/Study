@@ -1,295 +1,200 @@
-<div class="math-hero">
-  <div class="math-hero-copy">
-    <p class="hub-kicker">MATH I · QUICK SHEET</p>
-    <h1 id="mathTitle">数一<br><em>易忘 &amp; 易错</em>速记</h1>
-    <p class="math-lede">精简版，只留判定、公式、结论。考前快速翻看，不从头推导；看到题，先认出它考的是哪一条。</p>
-    <div class="math-stats" aria-label="速记清单规模">
-      <div><b>04</b><span>大块</span></div>
-      <div><b>22</b><span>条结论</span></div>
-      <div><b>04</b><span>个避坑</span></div>
-    </div>
-  </div>
+<article class="math-paper" id="mathPaper">
+  <header class="math-paper-head">
+    <h1>数一易忘 &amp; 易错速记清单</h1>
+    <p>精简版，保留判定、公式、结论，考前快速翻看。</p>
+  </header>
 
-  <nav class="math-index-card" aria-label="数学速记索引">
-    <p class="math-index-kicker">QUICK INDEX</p>
-    <a href="#math-linear"><span>01</span><b>线性代数</b><em>判定 / 秩 / 合同</em></a>
-    <a href="#math-prob"><span>02</span><b>概率统计</b><em>分布 / 卷积 / 数字特征</em></a>
-    <a href="#math-calc"><span>03</span><b>高等数学</b><em>场论 / 方程 / 几何</em></a>
-    <a href="#math-pitfalls"><span>04</span><b>考场避坑</b><em>四个高频混淆</em></a>
-    <p class="math-index-note">公式为纯文本写法，可直接复制到笔记。</p>
-  </nav>
-</div>
+  <section class="math-chapter" id="math-linear">
+    <h2>线性代数</h2>
 
-<div class="math-body">
-  <section class="math-section" id="math-linear" aria-labelledby="mathLinearTitle">
-    <header class="math-section-head">
-      <span class="math-no">01</span>
-      <div><p>LINEAR ALGEBRA</p><h2 id="mathLinearTitle">线性代数</h2></div>
-      <small>判定 · 秩 · 合同</small>
-    </header>
+    <h3>行向量组等价（A、B 同列数）</h3>
+    <p class="math-result">\[Ax=0 \text{ 与 } Bx=0 \text{ 同解} \iff A、B \text{ 行向量组等价}\]</p>
+    <p>定义：两组向量可以互相线性表出。</p>
+    <p class="math-warning">⚠️ 同解 \(\Rightarrow\) 等价，不是向量组相等。</p>
 
-    <div class="math-grid">
-      <article class="math-card">
-        <header class="math-card-head">
-          <h3>行向量组等价</h3>
-          <span class="math-tag">A、B 同列数</span>
-        </header>
-        <p class="math-lead">两组向量可以互相线性表出。</p>
-        <div class="math-equation">Ax=0 与 Bx=0 同解 <b>⇔</b> A、B 行向量组等价</div>
-        <p class="math-warn">⚠️ 同解 ⇒ 等价，不是向量组相等。</p>
-      </article>
+    <h3>列向量组等价（A、B 同行数）</h3>
+    <p class="math-result">\[A、B \text{ 列向量组等价} \iff A^{T}x=0 \text{ 与 } B^{T}x=0 \text{ 同解}\]</p>
 
-      <article class="math-card">
-        <header class="math-card-head">
-          <h3>列向量组等价</h3>
-          <span class="math-tag">A、B 同行数</span>
-        </header>
-        <p class="math-lead">转置后看零空间，结论与行情形对称。</p>
-        <div class="math-equation">A、B 列向量组等价 <b>⇔</b> A<sup>T</sup>x=0 与 B<sup>T</sup>x=0 同解</div>
-      </article>
+    <h3>方阵结论</h3>
+    <p class="math-result">\[
+      \begin{aligned}
+        r(A)=r(A^{2})
+        &\iff Ax=0 \text{ 与 } A^{2}x=0 \text{ 同解}\\
+        &\iff A \text{ 与 } A^{2} \text{ 行向量组等价}
+      \end{aligned}
+    \]</p>
 
-      <article class="math-card math-card--wide">
-        <header class="math-card-head">
-          <h3>方阵结论</h3>
-          <span class="math-tag">A 为方阵</span>
-        </header>
-        <div class="math-chain">
-          <span>r(A)=r(A²)</span><b>⇔</b>
-          <span>Ax=0 与 A²x=0 同解</span><b>⇔</b>
-          <span>A 与 A² 行向量组等价</span>
-        </div>
-      </article>
+    <h3>伴随矩阵秩 \(r(A^{*})\)</h3>
+    <p class="math-result">\[
+      \begin{cases}
+        r(A)=n, & r(A^{*})=n\\
+        r(A)=n-1, & r(A^{*})=1\\
+        r(A)\le n-2, & r(A^{*})=0
+      \end{cases}
+    \]</p>
 
-      <article class="math-card">
-        <header class="math-card-head">
-          <h3>伴随矩阵的秩 r(A*)</h3>
-          <span class="math-tag">按 r(A) 分三档</span>
-        </header>
-        <div class="math-rank-table">
-          <div><code>r(A)=n</code><span>→</span><b>r(A*)=n</b></div>
-          <div><code>r(A)=n−1</code><span>→</span><b>r(A*)=1</b></div>
-          <div><code>r(A)≤n−2</code><span>→</span><b>r(A*)=0</b></div>
-        </div>
-      </article>
+    <h3>相似 / 合同 / 正交相似</h3>
+    <p class="math-result">\[P^{-1}AP=B\]</p>
+    <p>相似，保特征值。</p>
+    <p class="math-result">\[P^{T}AP=B\quad(P\text{ 可逆})\]</p>
+    <p>合同，保正负惯性指数。</p>
+    <p class="math-result">\[Q^{T}AQ=B\quad(Q\text{ 正交})\]</p>
+    <p>正交相似：\(Q^{T}=Q^{-1}\)，同时相似 + 合同。</p>
+    <p>实对称矩阵：合同 \(\iff\) 正负惯性指数相同；合同不一定相似；相似一定合同。</p>
 
-      <article class="math-card">
-        <header class="math-card-head">
-          <h3>相似 / 合同 / 正交相似</h3>
-          <span class="math-tag">看变换矩阵</span>
-        </header>
-        <div class="math-compare">
-          <div><code>P⁻¹AP=B</code><b>相似</b><span>保特征值</span></div>
-          <div><code>PᵀAP=B</code><b>合同</b><span>P 可逆；保正负惯性指数</span></div>
-          <div><code>QᵀAQ=B</code><b>正交相似</b><span>Q 正交，Qᵀ=Q⁻¹；同时相似 + 合同</span></div>
-        </div>
-        <p class="math-note">实对称矩阵：合同 ⇔ 正负惯性指数相同；合同不一定相似；相似一定合同。</p>
-      </article>
-
-      <article class="math-card math-card--wide">
-        <header class="math-card-head">
-          <h3>正定矩阵判定</h3>
-          <span class="math-tag">任选一条即可</span>
-        </header>
-        <ul class="math-bullets math-bullets--three">
-          <li>顺序主子式全 <b>&gt; 0</b></li>
-          <li>特征值全 <b>&gt; 0</b></li>
-          <li>存在可逆矩阵 C，使 <code>A=CᵀC</code></li>
-        </ul>
-      </article>
-    </div>
+    <h3>正定矩阵判定</h3>
+    <ul class="math-list">
+      <li>顺序主子式全 \(>0\)；</li>
+      <li>特征值全 \(>0\)；</li>
+      <li>存在可逆矩阵 \(C\)，使 \(A=C^{T}C\)。</li>
+    </ul>
   </section>
 
-  <section class="math-section" id="math-prob" aria-labelledby="mathProbTitle">
-    <header class="math-section-head">
-      <span class="math-no">02</span>
-      <div><p>PROBABILITY &amp; STATISTICS</p><h2 id="mathProbTitle">概率论与数理统计</h2></div>
-      <small>分布 · 卷积 · 数字特征</small>
-    </header>
+  <section class="math-chapter" id="math-prob">
+    <h2>概率论与数理统计</h2>
 
-    <div class="math-grid">
-      <article class="math-card math-card--wide">
-        <header class="math-card-head">
-          <h3>二维正态分布</h3>
-          <span class="math-tag">五个参数</span>
-        </header>
-        <p class="math-param"><code>(X,Y) ~ N(μ₁, μ₂, σ₁², σ₂², ρ)</code></p>
-        <pre class="math-formula">f(x,y) = 1 / [ 2π σ₁ σ₂ √(1−ρ²) ]
-         · exp{ −1/[2(1−ρ²)] · [
-             ((x−μ₁)/σ₁)²
-             − 2ρ·((x−μ₁)/σ₁)·((y−μ₂)/σ₂)
-             + ((y−μ₂)/σ₂)²
-           ] }</pre>
-        <div class="math-split">
-          <p><b>ρ=0</b> 时交叉项消失；二维正态下，<b>独立 ⇔ 不相关</b>。</p>
-          <p class="math-warn">⚠️ 边缘都是正态，联合不一定是二维正态。</p>
-        </div>
-      </article>
+    <h3>二维正态分布</h3>
+    <p class="math-result">\[(X,Y)\sim N(\mu_{1},\mu_{2},\sigma_{1}^{2},\sigma_{2}^{2},\rho)\]</p>
+    <p>联合密度：</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        f(x,y)={}&\frac{1}{2\pi\sigma_{1}\sigma_{2}\sqrt{1-\rho^{2}}}\\
+        &\cdot\exp\Biggl\{-\frac{1}{2(1-\rho^{2})}\Biggl[\\
+        &\qquad\left(\frac{x-\mu_{1}}{\sigma_{1}}\right)^{2}\\
+        &\qquad-2\rho\,\frac{x-\mu_{1}}{\sigma_{1}}\,\frac{y-\mu_{2}}{\sigma_{2}}\\
+        &\qquad+\left(\frac{y-\mu_{2}}{\sigma_{2}}\right)^{2}\Biggr]\Biggr\}
+      \end{aligned}
+    \]</p>
+    <p>\(\rho=0\) 时交叉项消失；二维正态：独立 \(\iff\) 不相关。</p>
+    <p class="math-warning">⚠️ 边缘都是正态，联合不一定是二维正态。</p>
 
-      <article class="math-card">
-        <header class="math-card-head">
-          <h3>二维连续型：边缘与条件</h3>
-          <span class="math-tag">积分限 −∞ 到 +∞</span>
-        </header>
-        <div class="math-equation">f<sub>X</sub>(x) = ∫ f(x,y) dy</div>
-        <div class="math-equation">f<sub>Y</sub>(y) = ∫ f(x,y) dx</div>
-        <div class="math-equation">f<sub>X|Y</sub>(x|y) = f(x,y) / f<sub>Y</sub>(y)</div>
-        <p class="math-note">条件密度要求 f<sub>Y</sub>(y) &gt; 0。</p>
-      </article>
+    <h3>二维连续型</h3>
+    <p>边缘密度（积分限 \(-\infty\) 到 \(+\infty\)）：</p>
+    <p class="math-result">\[
+      f_{X}(x)=\int_{-\infty}^{+\infty} f(x,y)\,\mathrm{d}y,
+      \qquad
+      f_{Y}(y)=\int_{-\infty}^{+\infty} f(x,y)\,\mathrm{d}x
+    \]</p>
+    <p>条件密度（\(f_{Y}(y)>0\)）：</p>
+    <p class="math-result">\[
+      f_{X\mid Y}(x\mid y)=\frac{f(x,y)}{f_{Y}(y)}
+    \]</p>
 
-      <article class="math-card">
-        <header class="math-card-head">
-          <h3>Z=X+Y 与极值分布</h3>
-          <span class="math-tag">卷积 / 极值</span>
-        </header>
-        <div class="math-equation">f<sub>Z</sub>(z) = ∫ f(x, z−x) dx</div>
-        <p class="math-note">卷积公式，积分限 −∞ 到 +∞；独立时 f(x, z−x) = f<sub>X</sub>(x)·f<sub>Y</sub>(z−x)。</p>
-        <p class="math-note">下面两条 max / min 分布要求 X、Y 独立。</p>
-        <div class="math-equation">F<sub>max</sub>(z) = F<sub>X</sub>(z) · F<sub>Y</sub>(z)</div>
-        <div class="math-equation">F<sub>min</sub>(z) = 1 − [1−F<sub>X</sub>(z)]·[1−F<sub>Y</sub>(z)]</div>
-      </article>
+    <h3>\(Z=X+Y\) 卷积公式</h3>
+    <p class="math-result">\[
+      f_{Z}(z)=\int_{-\infty}^{+\infty} f(x,z-x)\,\mathrm{d}x
+    \]</p>
 
-      <article class="math-card math-card--wide">
-        <header class="math-card-head">
-          <h3>协方差与相关系数</h3>
-          <span class="math-tag">数字特征</span>
-        </header>
-        <div class="math-equation">Cov(X,Y) = E(XY) − E(X)E(Y)</div>
-        <div class="math-equation">ρ<sub>XY</sub> = Cov(X,Y) / [ √D(X) · √D(Y) ]</div>
-        <div class="math-equation">D(X±Y) = D(X) + D(Y) ± 2Cov(X,Y)</div>
-        <p class="math-note">独立 ⇒ 不相关；一般不相关推不出独立，仅二维正态等价。</p>
-      </article>
+    <h3>独立时 max、min 分布</h3>
+    <p class="math-result">\[
+      F_{\max}(z)=F_{X}(z)\cdot F_{Y}(z)
+    \]</p>
+    <p class="math-result">\[
+      F_{\min}(z)=1-\bigl[1-F_{X}(z)\bigr]\cdot\bigl[1-F_{Y}(z)\bigr]
+    \]</p>
 
-      <article class="math-card math-card--wide">
-        <header class="math-card-head">
-          <h3>统计冷门结论</h3>
-          <span class="math-tag">考前扫一眼</span>
-        </header>
-        <ul class="math-bullets math-bullets--two">
-          <li><b>辛钦大数定律</b>：独立同分布、期望存在，不需要方差存在。</li>
-          <li><code>F<sub>(1−α)</sub>(n₁,n₂) = 1 / F<sub>α</sub>(n₂,n₁)</code></li>
-        </ul>
-      </article>
-    </div>
+    <h3>协方差、相关系数</h3>
+    <p class="math-result">\[
+      \operatorname{Cov}(X,Y)=E(XY)-E(X)E(Y)
+    \]</p>
+    <p class="math-result">\[
+      \rho_{XY}=\frac{\operatorname{Cov}(X,Y)}{\sqrt{D(X)}\,\sqrt{D(Y)}}
+    \]</p>
+    <p class="math-result">\[
+      D(X\pm Y)=D(X)+D(Y)\pm 2\operatorname{Cov}(X,Y)
+    \]</p>
+    <p>独立 \(\Rightarrow\) 不相关；一般不相关推不出独立，仅二维正态等价。</p>
+
+    <h3>统计冷门结论</h3>
+    <ul class="math-list">
+      <li>辛钦大数定律：独立同分布、期望存在，不需要方差存在。</li>
+      <li class="math-list-result">\[
+        F_{1-\alpha}(n_{1},n_{2})=\frac{1}{F_{\alpha}(n_{2},n_{1})}
+      \]</li>
+    </ul>
   </section>
 
-  <section class="math-section" id="math-calc" aria-labelledby="mathCalcTitle">
-    <header class="math-section-head">
-      <span class="math-no">03</span>
-      <div><p>CALCULUS · MATH I ONLY</p><h2 id="mathCalcTitle">高等数学（数一专属）</h2></div>
-      <small>场论 · 方程 · 几何</small>
-    </header>
+  <section class="math-chapter" id="math-calc">
+    <h2>高等数学（数一专属）</h2>
 
-    <div class="math-grid">
-      <article class="math-card math-card--wide">
-        <header class="math-card-head">
-          <h3>梯度、散度、旋度</h3>
-          <span class="math-tag">场论</span>
-        </header>
-        <div class="math-operator-grid">
-          <div><code>grad u = ∇u</code><span>梯度</span></div>
-          <div><code>div A = ∇·A</code><span>散度</span></div>
-          <div><code>rot A = ∇×A</code><span>旋度</span></div>
-        </div>
-        <div class="math-equation">rot(grad u) = 0　　div(rot A) = 0</div>
-        <p class="math-note">通量：∬<sub>Σ</sub> A·n dS　环量：∮<sub>L</sub> A·τ ds</p>
-      </article>
+    <h3>梯度、散度、旋度</h3>
+    <p class="math-result">\[
+      \operatorname{grad}u=\nabla u,
+      \qquad
+      \operatorname{div}\mathbf{A}=\nabla\cdot\mathbf{A},
+      \qquad
+      \operatorname{rot}\mathbf{A}=\nabla\times\mathbf{A}
+    \]</p>
+    <p>结论：\(\operatorname{rot}(\operatorname{grad}u)=0\)；\(\operatorname{div}(\operatorname{rot}\mathbf{A})=0\)。</p>
+    <p>通量：\(\displaystyle\iint_{\Sigma}\mathbf{A}\cdot\mathbf{n}\,\mathrm{d}S\)　　环量：\(\displaystyle\oint_{L}\mathbf{A}\cdot\tau\,\mathrm{d}s\)</p>
 
-      <article class="math-card math-card--wide">
-        <header class="math-card-head">
-          <h3>斯托克斯公式</h3>
-          <span class="math-tag">右手螺旋</span>
-        </header>
-        <pre class="math-formula">∮L P dx + Q dy + R dz
- = ∬Σ | dy dz   dz dx   dx dy |
-       | ∂/∂x    ∂/∂y    ∂/∂z  |
-       | P       Q       R     |</pre>
-        <p class="math-warn">L 与曲面 Σ 满足右手螺旋。</p>
-      </article>
+    <h3>斯托克斯公式</h3>
+    <p class="math-result">\[
+      \oint_{L}P\,\mathrm{d}x+Q\,\mathrm{d}y+R\,\mathrm{d}z
+      =
+      \iint_{\Sigma}
+      \begin{vmatrix}
+        \mathrm{d}y\,\mathrm{d}z & \mathrm{d}z\,\mathrm{d}x & \mathrm{d}x\,\mathrm{d}y\\
+        \dfrac{\partial}{\partial x} & \dfrac{\partial}{\partial y} & \dfrac{\partial}{\partial z}\\
+        P & Q & R
+      \end{vmatrix}
+    \]</p>
+    <p>\(L\) 与曲面 \(\Sigma\) 满足右手螺旋。</p>
 
-      <article class="math-card">
-        <header class="math-card-head">
-          <h3>欧拉方程</h3>
-          <span class="math-tag">x=e^t</span>
-        </header>
-        <div class="math-equation">x²y'' + pxy' + qy = f(x)</div>
-        <p class="math-note">令 <code>x=e^t</code>，则：</p>
-        <div class="math-equation">xy' = dy/dt</div>
-        <div class="math-equation">x²y'' = d²y/dt² − dy/dt</div>
-      </article>
+    <h3>欧拉方程</h3>
+    <p class="math-result">\[
+      x^{2}y''+pxy'+qy=f(x)
+    \]</p>
+    <p>代换 \(x=e^{t}\)：</p>
+    <p class="math-result">\[
+      xy'=\frac{\mathrm{d}y}{\mathrm{d}t}
+    \]</p>
+    <p class="math-result">\[
+      x^{2}y''=\frac{\mathrm{d}^{2}y}{\mathrm{d}t^{2}}-\frac{\mathrm{d}y}{\mathrm{d}t}
+    \]</p>
 
-      <article class="math-card">
-        <header class="math-card-head">
-          <h3>伯努利方程</h3>
-          <span class="math-tag">n≠0,1</span>
-        </header>
-        <div class="math-equation">y' + P(x)y = Q(x)·yⁿ</div>
-        <p class="math-note">令 <code>z=y^(1−n)</code>，化为一阶线性微分方程。</p>
-      </article>
+    <h3>伯努利方程</h3>
+    <p class="math-result">\[
+      y'+P(x)y=Q(x)y^{n}\quad(n\ne 0,1)
+    \]</p>
+    <p>令 \(z=y^{1-n}\)，化为一阶线性微分方程。</p>
 
-      <article class="math-card math-card--wide">
-        <header class="math-card-head">
-          <h3>傅里叶级数 · 狄利克雷收敛定理</h3>
-          <span class="math-tag">分段光滑</span>
-        </header>
-        <ul class="math-bullets math-bullets--two">
-          <li>连续点：收敛于 <code>f(x)</code></li>
-          <li>间断点：收敛于 <code>[f(x⁺)+f(x⁻)] / 2</code></li>
-          <li>端点 <code>x=±l</code>：收敛于 <code>[f(−l⁺)+f(l⁻)] / 2</code></li>
-        </ul>
-        <p class="math-note">奇延拓 → 正弦级数；偶延拓 → 余弦级数。</p>
-      </article>
+    <h3>傅里叶级数（狄利克雷收敛定理）</h3>
+    <p>分段光滑：</p>
+    <ul class="math-list">
+      <li>连续点：收敛于 \(f(x)\)</li>
+      <li>间断点：收敛于 \(\dfrac{f(x^{+})+f(x^{-})}{2}\)</li>
+      <li>端点 \(x=\pm l\)：收敛于 \(\dfrac{f(-l^{+})+f(l^{-})}{2}\)</li>
+    </ul>
+    <p>奇延拓 \(\to\) 正弦级数；偶延拓 \(\to\) 余弦级数。</p>
 
-      <article class="math-card math-card--wide">
-        <header class="math-card-head">
-          <h3>空间解析几何</h3>
-          <span class="math-tag">距离与共面</span>
-        </header>
-        <div class="math-stack">
-          <p><span>点到平面</span><code>d = |Ax₀+By₀+Cz₀+D| / √(A²+B²+C²)</code></p>
-          <p><span>点到直线</span><code>d = |M₀M₁ × s| / |s|</code></p>
-          <p><span>异面直线</span><code>d = |M₁M₂ · (s₁×s₂)| / |s₁×s₂|</code></p>
-        </div>
-        <p class="math-note">混合积 <code>[a,b,c] = a·(b×c)</code>；三向量共面 ⇔ 混合积 = 0。</p>
-      </article>
+    <h3>空间解析几何</h3>
+    <p>点到平面距离：</p>
+    <p class="math-result">\[
+      d=\frac{|Ax_{0}+By_{0}+Cz_{0}+D|}{\sqrt{A^{2}+B^{2}+C^{2}}}
+    \]</p>
+    <p>点到直线距离：</p>
+    <p class="math-result">\[
+      d=\frac{|\overrightarrow{M_{0}M_{1}}\times\mathbf{s}|}{|\mathbf{s}|}
+    \]</p>
+    <p>异面直线距离：</p>
+    <p class="math-result">\[
+      d=\frac{|\overrightarrow{M_{1}M_{2}}\cdot(\mathbf{s}_{1}\times\mathbf{s}_{2})|}
+      {|\mathbf{s}_{1}\times\mathbf{s}_{2}|}
+    \]</p>
+    <p>混合积 \([a,b,c]=a\cdot(b\times c)\)；三向量共面 \(\iff\) 混合积 \(=0\)。</p>
 
-      <article class="math-card math-card--wide math-card--warn">
-        <header class="math-card-head">
-          <h3>曲面积分坑</h3>
-          <span class="math-tag">别套二重积分的奇偶性</span>
-        </header>
-        <p class="math-warn">对坐标的曲面积分，奇偶性和二重积分不同，必须结合曲面侧判断。</p>
-      </article>
-    </div>
+    <h3>曲面积分坑</h3>
+    <p class="math-warning">对坐标的曲面积分，奇偶性和二重积分不同，必须结合曲面侧判断。</p>
   </section>
 
-  <section class="math-section" id="math-pitfalls" aria-labelledby="mathPitfallsTitle">
-    <header class="math-section-head">
-      <span class="math-no">04</span>
-      <div><p>EXAM TRAPS</p><h2 id="mathPitfallsTitle">通用考场避坑</h2></div>
-      <small>四个高频混淆</small>
-    </header>
-
-    <div class="pitfall-grid">
-      <article class="pitfall">
-        <span>01</span>
-        <div><h3>秩相等 ≠ 向量组等价</h3><p>秩相等是向量组等价的必要条件，不是充分条件。</p></div>
-      </article>
-      <article class="pitfall">
-        <span>02</span>
-        <div><h3>矩阵等价 ≠ 向量组等价</h3><p>矩阵等价 ⇔ 秩相等；矩阵等价与向量组等价不是一回事。</p></div>
-      </article>
-      <article class="pitfall">
-        <span>03</span>
-        <div><h3>正交变换与普通合同</h3><p>正交变换保长度、保特征值；普通合同变换只保惯性指数。</p></div>
-      </article>
-      <article class="pitfall pitfall--key">
-        <span>04</span>
-        <div>
-          <h3>配方法系数 ≠ 特征值</h3>
-          <p>配方法得到的标准形系数不一定是特征值；正交变换化标准形，系数才等于特征值。</p>
-          <b>最易忘</b>
-        </div>
-      </article>
-    </div>
+  <section class="math-chapter" id="math-pitfalls">
+    <h2>通用考场避坑</h2>
+    <ol class="math-traps">
+      <li>秩相等：向量组等价的必要条件，不是充分条件。</li>
+      <li>矩阵等价 \(\iff\) 秩相等；矩阵等价 \(\ne\) 向量组等价。</li>
+      <li>正交变换：保长度、保特征值；普通合同变换只保惯性指数。</li>
+      <li>配方法得到的标准形系数不一定是特征值；正交变换化标准形系数 \(=\) 特征值。</li>
+    </ol>
   </section>
-</div>
+</article>
