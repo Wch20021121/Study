@@ -10,7 +10,7 @@
   <title>考研学习台 · 政治 / 英语 / 数学</title>
   <link rel="stylesheet" href="assets/katex/katex.min.css">
   <link rel="stylesheet" href="assets/exam/exam.css?v=bd5f521f1f">
-  <link rel="stylesheet" href="assets/exam/hub.css?v=db90246eed">
+  <link rel="stylesheet" href="assets/exam/hub.css?v=d6bd50e5dc">
   <link rel="stylesheet" href="assets/drill/drill.css?v=bd5f521f1f">
   <link rel="stylesheet" href="assets/writing-bank/writing.css?v=bd5f521f1f">
 </head>
@@ -343,6 +343,48 @@
         F_{1-\alpha}(n_{1},n_{2})=\frac{1}{F_{\alpha}(n_{2},n_{1})}
       \]</li>
     </ul>
+
+    <h3>点估计评价标准</h3>
+    <ul class="math-list">
+      <li>无偏：\(E(\hat\theta)=\theta\)；</li>
+      <li>有效：同是无偏估计时，方差更小者更有效；</li>
+      <li>相合（一致）：\(n\to\infty\) 时 \(\hat\theta\xrightarrow{P}\theta\)。</li>
+    </ul>
+
+    <h3>置信区间、假设检验</h3>
+    <p>两类错误：第一类（弃真）、第二类（取伪）；<span class="math-nowrap">显著性水平 \(\alpha\)</span> 是弃真概率。</p>
+    <p>正态总体，均值 \(\mu\)、方差 \(\sigma^{2}\)，样本量 \(n\)，样本均值 \(\bar X\)、样本方差 \(S^{2}\)。</p>
+    <p>均值检验（\(\sigma\) 已知，Z 检验）：</p>
+    <p class="math-result">\[
+      Z=\frac{\bar X-\mu_{0}}{\sigma/\sqrt n}\sim N(0,1),
+      \qquad |Z|>z_{\alpha/2}
+    \]</p>
+    <p>均值检验（\(\sigma\) 未知，t 检验）：</p>
+    <p class="math-result">\[
+      t=\frac{\bar X-\mu_{0}}{S/\sqrt n}\sim t(n-1),
+      \qquad |t|>t_{\alpha/2}(n-1)
+    \]</p>
+    <p>方差检验（\(\chi^{2}\) 检验）：</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        \chi^{2}&=\frac{(n-1)S^{2}}{\sigma_{0}^{2}}\sim\chi^{2}(n-1),\\
+        \chi^{2}&<\chi^{2}_{1-\alpha/2}(n-1)\\
+        &\text{或}\quad \chi^{2}>\chi^{2}_{\alpha/2}(n-1).
+      \end{aligned}
+    \]</p>
+    <p>对应的置信区间：</p>
+    <p class="math-result">\[
+      \bar X\pm z_{\alpha/2}\frac{\sigma}{\sqrt n},
+      \qquad
+      \bar X\pm t_{\alpha/2}(n-1)\frac{S}{\sqrt n}
+    \]</p>
+    <p class="math-result">\[
+      \left[
+        \frac{(n-1)S^{2}}{\chi^{2}_{\alpha/2}(n-1)},
+        \frac{(n-1)S^{2}}{\chi^{2}_{1-\alpha/2}(n-1)}
+      \right]
+    \]</p>
+    <p>单侧检验把 \(\alpha/2\) 换成 \(\alpha\)，拒绝域方向随备择假设改变。</p>
   </section>
 
   <section class="math-chapter" id="math-calc">
@@ -350,14 +392,31 @@
 
     <h3>梯度、散度、旋度</h3>
     <p class="math-result">\[
-      \operatorname{grad}u=\nabla u,
-      \qquad
-      \operatorname{div}\mathbf{A}=\nabla\cdot\mathbf{A},
-      \qquad
-      \operatorname{rot}\mathbf{A}=\nabla\times\mathbf{A}
+      \operatorname{grad}u=\nabla u
+      =(\partial_{x}u,\partial_{y}u,\partial_{z}u)
     \]</p>
-    <p>结论：\(\operatorname{rot}(\operatorname{grad}u)=0\)；\(\operatorname{div}(\operatorname{rot}\mathbf{A})=0\)。</p>
-    <p>通量：\(\displaystyle\iint_{\Sigma}\mathbf{A}\cdot\mathbf{n}\,\mathrm{d}S\)　　环量：\(\displaystyle\oint_{L}\mathbf{A}\cdot\tau\,\mathrm{d}s\)</p>
+    <p>方向导数：\(\partial_{\mathbf l}u=\nabla u\cdot\mathbf l\)（\(\mathbf l\) 为单位向量）；梯度方向是函数增长最快的方向，\(\nabla u\) 垂直于等值面。</p>
+    <p class="math-result">\[
+      \operatorname{div}\mathbf A
+      =\partial_{x}A_{x}+\partial_{y}A_{y}+\partial_{z}A_{z}
+    \]</p>
+    <p>散度是通量的体密度：\(\operatorname{div}\mathbf A>0\) 为源，\(<0\) 为汇。</p>
+    <p class="math-result">\[
+      \operatorname{rot}\mathbf A=
+      \begin{vmatrix}
+        \mathbf i & \mathbf j & \mathbf k\\
+        \partial_{x} & \partial_{y} & \partial_{z}\\
+        A_{x} & A_{y} & A_{z}
+      \end{vmatrix}
+    \]</p>
+    <p>旋度是环量的面密度；\(\operatorname{rot}\mathbf A=0\) 为无旋场。</p>
+    <p>恒等式：\(\operatorname{rot}(\operatorname{grad}u)=0\)，\(\operatorname{div}(\operatorname{rot}\mathbf A)=0\)。</p>
+    <p>通量：\(\displaystyle\iint_{\Sigma}\mathbf A\cdot\mathbf n\,\mathrm dS\)；环量：\(\displaystyle\oint_{L}\mathbf A\cdot\tau\,\mathrm ds\)。</p>
+    <p>高斯公式（闭曲面取外侧）：</p>
+    <p class="math-result">\[
+      \iint_{\Sigma}\mathbf A\cdot\mathbf n\,\mathrm dS
+      =\iiint_{\Omega}\operatorname{div}\mathbf A\,\mathrm dV
+    \]</p>
 
     <h3>斯托克斯公式</h3>
     <p class="math-result">\[
@@ -391,13 +450,44 @@
     <p>令 \(z=y^{1-n}\)，化为一阶线性微分方程。</p>
 
     <h3>傅里叶级数（狄利克雷收敛定理）</h3>
+    <p>周期为 \(2l\) 的傅里叶系数：</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        a_{0}&=\frac{1}{l}\int_{-l}^{l}f(x)\,\mathrm dx,\\
+        a_{n}&=\frac{1}{l}\int_{-l}^{l}f(x)\cos\frac{n\pi x}{l}\,\mathrm dx,\\
+        b_{n}&=\frac{1}{l}\int_{-l}^{l}f(x)\sin\frac{n\pi x}{l}\,\mathrm dx.
+      \end{aligned}
+    \]</p>
+    <p>傅里叶级数：</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        f(x)\sim{}&\frac{a_{0}}{2}\\
+        &+\sum_{n=1}^{\infty}\left(
+          a_{n}\cos\frac{n\pi x}{l}
+          +b_{n}\sin\frac{n\pi x}{l}
+        \right).
+      \end{aligned}
+    \]</p>
+    <p>周期为 \(2\pi\) 时取 \(l=\pi\)。</p>
     <p>分段光滑：</p>
     <ul class="math-list">
       <li>连续点：收敛于 \(f(x)\)</li>
       <li>间断点：收敛于 \(\dfrac{f(x^{+})+f(x^{-})}{2}\)</li>
       <li>端点 \(x=\pm l\)：收敛于 \(\dfrac{f(-l^{+})+f(l^{-})}{2}\)</li>
     </ul>
-    <p>奇延拓 \(\to\) 正弦级数；偶延拓 \(\to\) 余弦级数。</p>
+    <p>奇延拓（正弦级数）：</p>
+    <p class="math-result">\[
+      a_{0}=a_{n}=0,\qquad
+      b_{n}=\frac{2}{l}\int_{0}^{l}f(x)\sin\frac{n\pi x}{l}\,\mathrm dx
+    \]</p>
+    <p>偶延拓（余弦级数）：</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        b_{n}&=0,\\
+        a_{0}&=\frac{2}{l}\int_{0}^{l}f(x)\,\mathrm dx,\\
+        a_{n}&=\frac{2}{l}\int_{0}^{l}f(x)\cos\frac{n\pi x}{l}\,\mathrm dx.
+      \end{aligned}
+    \]</p>
 
     <h3>空间解析几何</h3>
     <p>点到平面距离：</p>
@@ -417,17 +507,68 @@
 
     <h3>曲面积分坑</h3>
     <p class="math-warning">对坐标的曲面积分，奇偶性和二重积分不同，必须结合曲面侧判断。</p>
+
+    <h3>特殊积分与冷门补充</h3>
+    <p>\(\dfrac{1}{\cos x}=\sec x\)，\(\dfrac{1}{\sin x}=\csc x\)。</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        \int\sec x\,\mathrm dx&=\ln|\sec x+\tan x|+C,\\
+        \int\csc x\,\mathrm dx&=\ln|\csc x-\cot x|+C.
+      \end{aligned}
+    \]</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        \int\frac{\mathrm dx}{\sqrt{a^{2}-x^{2}}}
+        &=\arcsin\frac{x}{a}+C,\\
+        \int\frac{\mathrm dx}{\sqrt{x^{2}+a^{2}}}
+        &=\ln\left(x+\sqrt{x^{2}+a^{2}}\right)+C.
+      \end{aligned}
+    \]</p>
+    <p class="math-result">\[
+      \int\frac{\mathrm dx}{\sqrt{x^{2}-a^{2}}}
+      =\ln\left|x+\sqrt{x^{2}-a^{2}}\right|+C
+    \]</p>
+    <p class="math-result">\[
+      \int\sqrt{a^{2}-x^{2}}\,\mathrm dx
+      =\frac{x}{2}\sqrt{a^{2}-x^{2}}
+      +\frac{a^{2}}{2}\arcsin\frac{x}{a}+C
+    \]</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        \int\sqrt{x^{2}\pm a^{2}}\,\mathrm dx
+        &=\frac{x}{2}\sqrt{x^{2}\pm a^{2}}\\
+        &\quad\pm\frac{a^{2}}{2}
+        \ln\left|x+\sqrt{x^{2}\pm a^{2}}\right|+C.
+      \end{aligned}
+    \]</p>
+    <p class="math-result">\[
+      \int_{0}^{+\infty}e^{-x^{2}}\,\mathrm dx=\frac{\sqrt\pi}{2},
+      \qquad
+      \int_{0}^{+\infty}x^{n}e^{-x}\,\mathrm dx=n!
+    \]</p>
+    <p>Wallis 公式：</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        \int_{0}^{\pi/2}\sin^{n}x\,\mathrm dx
+        &=\int_{0}^{\pi/2}\cos^{n}x\,\mathrm dx\\
+        &=
+        \begin{cases}
+          \dfrac{(n-1)!!}{n!!}\dfrac{\pi}{2}, & n\text{ 为偶数},\\[4pt]
+          \dfrac{(n-1)!!}{n!!}, & n\text{ 为奇数}.
+        \end{cases}
+      \end{aligned}
+    \]</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        \int_{0}^{\pi/2}\frac{\sin x}{\sin x+\cos x}\,\mathrm dx
+        &=\frac{\pi}{4},\\
+        \int_{0}^{+\infty}\frac{\sin x}{x}\,\mathrm dx
+        &=\frac{\pi}{2}.
+      \end{aligned}
+    \]</p>
+    <p>曲线积分与路径无关（单连通区域）：\(\dfrac{\partial P}{\partial y}=\dfrac{\partial Q}{\partial x}\)。</p>
   </section>
 
-  <section class="math-chapter" id="math-pitfalls">
-    <h2>通用考场避坑</h2>
-    <ol class="math-traps">
-      <li>秩相等：向量组等价的必要条件，不是充分条件。</li>
-      <li>矩阵等价 \(\iff\) 秩相等；矩阵等价 \(\ne\) 向量组等价。</li>
-      <li>正交变换：保长度、保特征值；普通合同变换只保惯性指数。</li>
-      <li>配方法得到的标准形系数不一定是特征值；正交变换化标准形系数 \(=\) 特征值。</li>
-    </ol>
-  </section>
 </article>
 
     </section>
@@ -447,6 +588,6 @@
   <script src="assets/katex/katex.min.js"></script>
   <script src="assets/katex/auto-render.min.js"></script>
   <script src="assets/exam/portal.js?v=bd5f521f1f"></script>
-  <script src="assets/exam/hub.js?v=db90246eed"></script>
+  <script src="assets/exam/hub.js?v=d6bd50e5dc"></script>
 </body>
 </html>

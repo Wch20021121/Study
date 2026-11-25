@@ -587,6 +587,10 @@ body[data-module="math"] {
   line-height: 1.55;
 }
 
+.math-nowrap {
+  white-space: nowrap;
+}
+
 .math-paper p {
   margin: 8px 0;
   color: var(--ink-2);
@@ -658,40 +662,6 @@ body[data-module="math"] {
   margin: 4px 0;
 }
 
-.math-traps {
-  display: grid;
-  gap: 1px;
-  margin: 16px 0 0;
-  padding: 0;
-  list-style: none;
-  border: 1px solid var(--rule);
-  background: var(--rule);
-}
-
-.math-traps li {
-  position: relative;
-  padding: 12px 15px 12px 43px;
-  color: var(--ink-2);
-  background: var(--paper);
-  font-size: 13.5px;
-  line-height: 1.9;
-}
-
-.math-traps li::before {
-  position: absolute;
-  top: 13px;
-  left: 15px;
-  color: var(--gold);
-  font-family: var(--mono);
-  font-size: 9px;
-  content: "0" counter(math-trap);
-  counter-increment: math-trap;
-}
-
-.math-traps {
-  counter-reset: math-trap;
-}
-
 /* KaTeX display blocks can be wider than the paper on small screens. */
 .math-paper .katex-display > .katex {
   max-width: none;
@@ -754,16 +724,6 @@ body[data-module="math"] {
   .math-warning {
     padding: 8px 10px;
     font-size: 12px;
-  }
-
-  .math-traps li {
-    padding: 11px 12px 11px 38px;
-    font-size: 12.5px;
-  }
-
-  .math-traps li::before {
-    top: 12px;
-    left: 12px;
   }
 
   .math-result {
