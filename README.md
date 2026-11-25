@@ -1,22 +1,22 @@
-# Study · 政治一页纸与英语真题档案
+# Study · 考研学习台
 
-> **2026-11 更新**：原 408 大题工位已下线，`40810` 端口现在运行“政治一页纸”单页阅读站。
-> 新站点在 [politics-site/](politics-site/)，由《27考研一页纸-知识点手册（最新）.pdf》逐页渲染而成。
+> **2026-11 更新**：原 408 大题工位已下线。`5001` 现在是“考研学习台”，一个入口切换政治、英语、数学三个模块；
+> `40810` 仍保留政治一页纸的直达阅读器。
 > 下文凡涉及 408 的章节均为历史存档，不再对应当前 Compose 服务。
 
 这个仓库里现在有两个可以直接运行的 Docker 静态站点：
 
-- **政治一页纸**：2027 考研政治知识点手册，按页翻阅，支持键盘、滑动和目录跳转；
-- **英语真题档案**：2010—2026 考研英语（一）真题总目录和逐年全卷精讲；
+- **考研学习台（5001）**：政治一页纸、英语（一）真题档案、数一易忘易错速记，顶部标签切换；
+- **政治阅读器（40810）**：同一份政治一页纸的直达入口，按页翻阅；
 - 两个站点各自构建镜像、各自运行容器、各自监听端口，但用**同一份 Compose 文件**管理。
 
-> 政治一页纸：<http://127.0.0.1:40810/>
+> 考研学习台：<http://127.0.0.1:5001/>
 >
-> 英语站点：<http://127.0.0.1:5001/>
+> 政治直达：<http://127.0.0.1:40810/>
 >
 > 详细阿里云部署步骤：[README-408-DEPLOY.md](README-408-DEPLOY.md)
 
-> **端口说明**：TCP 端口范围是 1—65535，`408100` 超出范围，Docker 会报 `invalid hostPort`。所以本项目用 **40810** 作为政治站的默认端口。如果确实希望 URL 里出现 `408100`，只能用反向代理路径，不能作为真实端口监听。
+> **端口说明**：TCP 端口范围是 1—65535。`40810` 是政治阅读器的直达端口；日常从 `5001` 的学习台进入即可。
 
 ---
 
@@ -24,14 +24,15 @@
 
 | 内容 | 位置 | 说明 |
 | --- | --- | --- |
-| 政治站首页 | [politics-site/site/index.html](politics-site/site/index.html) | 单页翻阅、目录跳转、键盘与滑动翻页 |
+| 学习台首页 | [English/frontend/index.html](English/frontend/index.html) | 政治 / 英语 / 数学三个模块，顶部标签切换 |
+| 数学速记 | [English/frontend/src/exam/math-notes.template.html](English/frontend/src/exam/math-notes.template.html) | 数一判定、公式、结论与考场避坑 |
+| 政治阅读器 | [politics-site/site/index.html](politics-site/site/index.html) | 单页翻阅、目录跳转、键盘与滑动翻页 |
 | 政治页图 | [politics-site/site/pages/](politics-site/site/pages/) | 由 39 页 PDF 渲染的 WebP 页面 |
-| 政治镜像 | [politics-site/Dockerfile](politics-site/Dockerfile) | Nginx + 静态文件 |
-| 政治 Nginx 配置 | [politics-site/deploy/nginx.conf](politics-site/deploy/nginx.conf) | 健康检查、缓存、压缩、安全响应头 |
-| 两站编排 | [compose.yaml](compose.yaml) | 政治 + 英语两个 service |
+| 学习台镜像 | [English/Dockerfile](English/Dockerfile) | Nginx + 英语 / 政治 / 数学静态产物 |
+| 政治镜像 | [politics-site/Dockerfile](politics-site/Dockerfile) | 政治阅读器直达站 |
+| 两站编排 | [compose.yaml](compose.yaml) | politics + english 两个 service |
 | 本地开发挂载 | [compose.dev.yaml](compose.dev.yaml) | 改文件不用重新 build |
 | 一键部署脚本 | [deploy.sh](deploy.sh) | 构建、启动、检查健康、状态、日志、停止 |
-| 英语站 | [English/](English/) | 已有静态站，单独镜像、单独端口 |
 | 历史归档 | [408-exam/](408-exam/) | 已下线的 408 大题工位，保留代码备查 |
 | 大体积资料 | `cs-408/`、`考研数学/`、`政治/` | 不进 Docker，也不建议进 Git |
 
@@ -56,8 +57,8 @@ docker compose ps
 访问：
 
 ```text
-http://127.0.0.1:40810/
-http://127.0.0.1:5001/
+http://127.0.0.1:5001/    # 考研学习台（政治 / 英语 / 数学）
+http://127.0.0.1:40810/   # 政治一页纸直达
 ```
 
 停止：
@@ -87,7 +88,7 @@ docker compose up -d english
 
 是“独立容器、独立镜像、独立端口”，但共用一份 Compose 项目。
 
-| | 政治 | 英语 |
+| | 政治阅读器 | 学习台 |
 | --- | --- | --- |
 | Compose service | `politics` | `english` |
 | 容器名 | Compose 自动生成 | Compose 自动生成 |

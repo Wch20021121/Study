@@ -4,33 +4,111 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light">
-  <meta name="description" content="2010—2026 考研英语（一）真题档案：每套卷子分为三个视图：真题、真题解析、知识点分析；另有随机练模块。支持在线作答、暂存 JSON、交卷阅卷、错题定位、全卷解析、重难点词汇、随机练和作文模板。">
-  <title>英语（一）真题档案 · 真题 / 解析 / 知识点</title>
+  <meta name="theme-color" content="#13211d">
+  <link rel="icon" href="assets/exam/favicon.svg" type="image/svg+xml">
+  <meta name="description" content="2027 考研学习台：政治一页纸、英语（一）真题档案与数一易忘易错速记，一个入口切换三个模块。">
+  <title>考研学习台 · 政治 / 英语 / 数学</title>
   <link rel="stylesheet" href="assets/exam/exam.css?v=bd5f521f1f">
+  <link rel="stylesheet" href="assets/exam/hub.css?v=140b90dfc4">
   <link rel="stylesheet" href="assets/drill/drill.css?v=bd5f521f1f">
   <link rel="stylesheet" href="assets/writing-bank/writing.css?v=bd5f521f1f">
 </head>
-<body class="portal-page" data-page="portal">
-  <a class="skip-link" href="#archive">跳到真题列表</a>
+<body class="portal-page hub-page" data-page="portal">
+  <a class="skip-link" href="#hub-main">跳到主要内容</a>
 
-  <header class="portal-bar">
-    <a class="exam-brand" href="index.html" aria-label="英语真题档案首页">
-      <span class="brand-seal">英</span>
-      <span class="brand-copy"><b>英语（一）</b><small>真题档案 / 2010—2026</small></span>
+  <header class="hub-bar">
+    <a class="hub-brand" href="#english" aria-label="考研学习台，回到英语模块">
+      <span class="hub-seal" aria-hidden="true">研</span>
+      <span class="hub-brand-copy">
+        <b>考研学习台</b>
+        <small>2027 · 政治 / 英语 / 数学</small>
+      </span>
     </a>
-    <nav class="portal-nav" aria-label="首页导航">
-      <a href="#archive">真题</a>
-      <a href="drill/index.html">随机练</a>
-      <a href="writing/index.html">作文模板</a>
-      <a href="#how">怎么用</a>
-      <a href="2021.html#skills">方法库</a>
-      <a href="#plan">7 日计划</a>
+
+    <nav class="hub-tabs" role="tablist" aria-label="学习模块">
+      <button class="hub-tab hub-tab--politics" id="tab-politics" type="button" role="tab"
+              aria-selected="false" aria-controls="panel-politics" tabindex="-1" data-module="politics">
+        <span class="hub-tab-dot" aria-hidden="true"></span>
+        <span class="hub-tab-label">政治</span>
+        <small>一页纸</small>
+      </button>
+      <button class="hub-tab hub-tab--english" id="tab-english" type="button" role="tab"
+              aria-selected="true" aria-controls="panel-english" tabindex="0" data-module="english">
+        <span class="hub-tab-dot" aria-hidden="true"></span>
+        <span class="hub-tab-label">英语</span>
+        <small>真题 / 作文</small>
+      </button>
+      <button class="hub-tab hub-tab--math" id="tab-math" type="button" role="tab"
+              aria-selected="false" aria-controls="panel-math" tabindex="-1" data-module="math">
+        <span class="hub-tab-dot" aria-hidden="true"></span>
+        <span class="hub-tab-label">数学</span>
+        <small>数一速记</small>
+      </button>
     </nav>
-    <span class="portal-count">17 套 · 3 个视图</span>
+
+    <div class="hub-bar-meta">
+      <span class="hub-meta-dot" aria-hidden="true"></span>
+      <span>三科 · 一个入口</span>
+    </div>
   </header>
 
-  <main>
-    <section class="portal-hero">
+  <main class="hub-main" id="hub-main" tabindex="-1">
+    <section class="hub-panel hub-panel--politics" id="panel-politics" data-panel="politics"
+             role="tabpanel" aria-labelledby="tab-politics" hidden>
+      <div class="politics-hero">
+        <div class="politics-copy">
+          <p class="hub-kicker">POLITICS · 2027</p>
+          <h1>政治<br><em>一页纸</em></h1>
+          <p class="politics-lede">2027 考研政治知识点手册。把 39 页 PDF 变成一屏一页的翻页阅读，重点用颜色标出；每天翻几页，比从头背更轻。</p>
+          <div class="hub-actions">
+            <a class="btn btn-red" href="politics/index.html">翻开一页纸 <span>→</span></a>
+            <a class="btn btn-ghost" href="politics/index.html#p=30">直奔会议大观</a>
+          </div>
+          <p class="politics-resume" id="politicsResume">从封面开始 · 阅读位置会自动记住</p>
+          <div class="politics-stats">
+            <div><b>36</b><span>页阅读版</span></div>
+            <div><b>06</b><span>个章节</span></div>
+            <div><b>1</b><span>页一屏</span></div>
+          </div>
+        </div>
+        <a class="politics-cover" href="politics/index.html" aria-label="打开政治一页纸">
+          <img src="politics/pages/01.webp" alt="2027 一页纸知识点手册封面" width="1654" height="2339">
+          <span>2027 · 知识点手册</span>
+        </a>
+      </div>
+
+      <div class="politics-sections">
+        <div class="politics-section-head">
+          <div><p class="hub-kicker">CHAPTERS</p><h2>按章节跳进去</h2></div>
+          <p>页码为阅读器顺序，原书页脚可能不同。</p>
+        </div>
+        <div class="politics-grid">
+          <a href="politics/index.html#p=10"><span>01</span><b>马原</b><small>基本知识 / 资本主义 / 政经</small><em>10—16</em></a>
+          <a href="politics/index.html#p=17"><span>02</span><b>史纲</b><small>早期 / 大革命 / 土地革命 / 抗战</small><em>17—22</em></a>
+          <a href="politics/index.html#p=23"><span>03</span><b>建国后</b><small>社会主义改造 / 建设 / 理论</small><em>23—28</em></a>
+          <a href="politics/index.html#p=29"><span>04</span><b>三大辨析</b><small>作风 / 活的灵魂 / 思想路线</small><em>29</em></a>
+          <a href="politics/index.html#p=30"><span>05</span><b>会议大观</b><small>一大到十八届三中全会</small><em>30—33</em></a>
+          <a href="politics/index.html#p=34"><span>06</span><b>其他</b><small>高质量发展 / 法治体系</small><em>34</em></a>
+        </div>
+        <p class="politics-note">原 PDF 共 39 页，阅读版跳过 3 张空白页。翻页、目录、手机滑动都在阅读器里。</p>
+      </div>
+    </section>
+
+    <section class="hub-panel hub-panel--english" id="panel-english" data-panel="english"
+             role="tabpanel" aria-labelledby="tab-english">
+      <nav class="english-subnav" aria-label="英语模块导航">
+        <div class="english-subnav-title"><b>英语（一）</b><span>2010—2026 · 17 套</span></div>
+        <div class="english-subnav-links">
+          <a href="#archive">真题</a>
+          <a href="drill/index.html">随机练</a>
+          <a href="writing/index.html">作文模板</a>
+          <a href="#how">怎么用</a>
+          <a href="2021.html#skills">方法库</a>
+          <a href="#plan">7 日计划</a>
+        </div>
+      </nav>
+
+      <section class="portal-hero">
       <div class="portal-hero-copy">
         <p class="hero-kicker">NATIONAL POSTGRADUATE ENTRANCE EXAMINATION · ENGLISH I</p>
         <h1>做题是前半场，<br><em>阅卷</em>是后半场。</h1>
@@ -146,14 +224,321 @@
         <a class="btn btn-ghost btn-small" href="2021.html#skills">阅读方法</a>
       </div>
     </section>
+    </section>
+
+    <section class="hub-panel hub-panel--math" id="panel-math" data-panel="math"
+             role="tabpanel" aria-labelledby="tab-math" hidden>
+      <div class="math-hero">
+  <div class="math-hero-copy">
+    <p class="hub-kicker">MATH I · QUICK SHEET</p>
+    <h1 id="mathTitle">数一<br><em>易忘 &amp; 易错</em>速记</h1>
+    <p class="math-lede">精简版，只留判定、公式、结论。考前快速翻看，不从头推导；看到题，先认出它考的是哪一条。</p>
+    <div class="math-stats" aria-label="速记清单规模">
+      <div><b>04</b><span>大块</span></div>
+      <div><b>22</b><span>条结论</span></div>
+      <div><b>04</b><span>个避坑</span></div>
+    </div>
+  </div>
+
+  <nav class="math-index-card" aria-label="数学速记索引">
+    <p class="math-index-kicker">QUICK INDEX</p>
+    <a href="#math-linear"><span>01</span><b>线性代数</b><em>判定 / 秩 / 合同</em></a>
+    <a href="#math-prob"><span>02</span><b>概率统计</b><em>分布 / 卷积 / 数字特征</em></a>
+    <a href="#math-calc"><span>03</span><b>高等数学</b><em>场论 / 方程 / 几何</em></a>
+    <a href="#math-pitfalls"><span>04</span><b>考场避坑</b><em>四个高频混淆</em></a>
+    <p class="math-index-note">公式为纯文本写法，可直接复制到笔记。</p>
+  </nav>
+</div>
+
+<div class="math-body">
+  <section class="math-section" id="math-linear" aria-labelledby="mathLinearTitle">
+    <header class="math-section-head">
+      <span class="math-no">01</span>
+      <div><p>LINEAR ALGEBRA</p><h2 id="mathLinearTitle">线性代数</h2></div>
+      <small>判定 · 秩 · 合同</small>
+    </header>
+
+    <div class="math-grid">
+      <article class="math-card">
+        <header class="math-card-head">
+          <h3>行向量组等价</h3>
+          <span class="math-tag">A、B 同列数</span>
+        </header>
+        <p class="math-lead">两组向量可以互相线性表出。</p>
+        <div class="math-equation">Ax=0 与 Bx=0 同解 <b>⇔</b> A、B 行向量组等价</div>
+        <p class="math-warn">⚠️ 同解 ⇒ 等价，不是向量组相等。</p>
+      </article>
+
+      <article class="math-card">
+        <header class="math-card-head">
+          <h3>列向量组等价</h3>
+          <span class="math-tag">A、B 同行数</span>
+        </header>
+        <p class="math-lead">转置后看零空间，结论与行情形对称。</p>
+        <div class="math-equation">A、B 列向量组等价 <b>⇔</b> A<sup>T</sup>x=0 与 B<sup>T</sup>x=0 同解</div>
+      </article>
+
+      <article class="math-card math-card--wide">
+        <header class="math-card-head">
+          <h3>方阵结论</h3>
+          <span class="math-tag">A 为方阵</span>
+        </header>
+        <div class="math-chain">
+          <span>r(A)=r(A²)</span><b>⇔</b>
+          <span>Ax=0 与 A²x=0 同解</span><b>⇔</b>
+          <span>A 与 A² 行向量组等价</span>
+        </div>
+      </article>
+
+      <article class="math-card">
+        <header class="math-card-head">
+          <h3>伴随矩阵的秩 r(A*)</h3>
+          <span class="math-tag">按 r(A) 分三档</span>
+        </header>
+        <div class="math-rank-table">
+          <div><code>r(A)=n</code><span>→</span><b>r(A*)=n</b></div>
+          <div><code>r(A)=n−1</code><span>→</span><b>r(A*)=1</b></div>
+          <div><code>r(A)≤n−2</code><span>→</span><b>r(A*)=0</b></div>
+        </div>
+      </article>
+
+      <article class="math-card">
+        <header class="math-card-head">
+          <h3>相似 / 合同 / 正交相似</h3>
+          <span class="math-tag">看变换矩阵</span>
+        </header>
+        <div class="math-compare">
+          <div><code>P⁻¹AP=B</code><b>相似</b><span>保特征值</span></div>
+          <div><code>PᵀAP=B</code><b>合同</b><span>P 可逆；保正负惯性指数</span></div>
+          <div><code>QᵀAQ=B</code><b>正交相似</b><span>Q 正交，Qᵀ=Q⁻¹；同时相似 + 合同</span></div>
+        </div>
+        <p class="math-note">实对称矩阵：合同 ⇔ 正负惯性指数相同；合同不一定相似；相似一定合同。</p>
+      </article>
+
+      <article class="math-card math-card--wide">
+        <header class="math-card-head">
+          <h3>正定矩阵判定</h3>
+          <span class="math-tag">任选一条即可</span>
+        </header>
+        <ul class="math-bullets math-bullets--three">
+          <li>顺序主子式全 <b>&gt; 0</b></li>
+          <li>特征值全 <b>&gt; 0</b></li>
+          <li>存在可逆矩阵 C，使 <code>A=CᵀC</code></li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <section class="math-section" id="math-prob" aria-labelledby="mathProbTitle">
+    <header class="math-section-head">
+      <span class="math-no">02</span>
+      <div><p>PROBABILITY &amp; STATISTICS</p><h2 id="mathProbTitle">概率论与数理统计</h2></div>
+      <small>分布 · 卷积 · 数字特征</small>
+    </header>
+
+    <div class="math-grid">
+      <article class="math-card math-card--wide">
+        <header class="math-card-head">
+          <h3>二维正态分布</h3>
+          <span class="math-tag">五个参数</span>
+        </header>
+        <p class="math-param"><code>(X,Y) ~ N(μ₁, μ₂, σ₁², σ₂², ρ)</code></p>
+        <pre class="math-formula">f(x,y) = 1 / [ 2π σ₁ σ₂ √(1−ρ²) ]
+         · exp{ −1/[2(1−ρ²)] · [
+             ((x−μ₁)/σ₁)²
+             − 2ρ·((x−μ₁)/σ₁)·((y−μ₂)/σ₂)
+             + ((y−μ₂)/σ₂)²
+           ] }</pre>
+        <div class="math-split">
+          <p><b>ρ=0</b> 时交叉项消失；二维正态下，<b>独立 ⇔ 不相关</b>。</p>
+          <p class="math-warn">⚠️ 边缘都是正态，联合不一定是二维正态。</p>
+        </div>
+      </article>
+
+      <article class="math-card">
+        <header class="math-card-head">
+          <h3>二维连续型：边缘与条件</h3>
+          <span class="math-tag">积分限 −∞ 到 +∞</span>
+        </header>
+        <div class="math-equation">f<sub>X</sub>(x) = ∫ f(x,y) dy</div>
+        <div class="math-equation">f<sub>Y</sub>(y) = ∫ f(x,y) dx</div>
+        <div class="math-equation">f<sub>X|Y</sub>(x|y) = f(x,y) / f<sub>Y</sub>(y)</div>
+        <p class="math-note">条件密度要求 f<sub>Y</sub>(y) &gt; 0。</p>
+      </article>
+
+      <article class="math-card">
+        <header class="math-card-head">
+          <h3>Z=X+Y 与极值分布</h3>
+          <span class="math-tag">卷积 / 极值</span>
+        </header>
+        <div class="math-equation">f<sub>Z</sub>(z) = ∫ f(x, z−x) dx</div>
+        <p class="math-note">卷积公式，积分限 −∞ 到 +∞；独立时 f(x, z−x) = f<sub>X</sub>(x)·f<sub>Y</sub>(z−x)。</p>
+        <p class="math-note">下面两条 max / min 分布要求 X、Y 独立。</p>
+        <div class="math-equation">F<sub>max</sub>(z) = F<sub>X</sub>(z) · F<sub>Y</sub>(z)</div>
+        <div class="math-equation">F<sub>min</sub>(z) = 1 − [1−F<sub>X</sub>(z)]·[1−F<sub>Y</sub>(z)]</div>
+      </article>
+
+      <article class="math-card math-card--wide">
+        <header class="math-card-head">
+          <h3>协方差与相关系数</h3>
+          <span class="math-tag">数字特征</span>
+        </header>
+        <div class="math-equation">Cov(X,Y) = E(XY) − E(X)E(Y)</div>
+        <div class="math-equation">ρ<sub>XY</sub> = Cov(X,Y) / [ √D(X) · √D(Y) ]</div>
+        <div class="math-equation">D(X±Y) = D(X) + D(Y) ± 2Cov(X,Y)</div>
+        <p class="math-note">独立 ⇒ 不相关；一般不相关推不出独立，仅二维正态等价。</p>
+      </article>
+
+      <article class="math-card math-card--wide">
+        <header class="math-card-head">
+          <h3>统计冷门结论</h3>
+          <span class="math-tag">考前扫一眼</span>
+        </header>
+        <ul class="math-bullets math-bullets--two">
+          <li><b>辛钦大数定律</b>：独立同分布、期望存在，不需要方差存在。</li>
+          <li><code>F<sub>(1−α)</sub>(n₁,n₂) = 1 / F<sub>α</sub>(n₂,n₁)</code></li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <section class="math-section" id="math-calc" aria-labelledby="mathCalcTitle">
+    <header class="math-section-head">
+      <span class="math-no">03</span>
+      <div><p>CALCULUS · MATH I ONLY</p><h2 id="mathCalcTitle">高等数学（数一专属）</h2></div>
+      <small>场论 · 方程 · 几何</small>
+    </header>
+
+    <div class="math-grid">
+      <article class="math-card math-card--wide">
+        <header class="math-card-head">
+          <h3>梯度、散度、旋度</h3>
+          <span class="math-tag">场论</span>
+        </header>
+        <div class="math-operator-grid">
+          <div><code>grad u = ∇u</code><span>梯度</span></div>
+          <div><code>div A = ∇·A</code><span>散度</span></div>
+          <div><code>rot A = ∇×A</code><span>旋度</span></div>
+        </div>
+        <div class="math-equation">rot(grad u) = 0　　div(rot A) = 0</div>
+        <p class="math-note">通量：∬<sub>Σ</sub> A·n dS　环量：∮<sub>L</sub> A·τ ds</p>
+      </article>
+
+      <article class="math-card math-card--wide">
+        <header class="math-card-head">
+          <h3>斯托克斯公式</h3>
+          <span class="math-tag">右手螺旋</span>
+        </header>
+        <pre class="math-formula">∮L P dx + Q dy + R dz
+ = ∬Σ | dy dz   dz dx   dx dy |
+       | ∂/∂x    ∂/∂y    ∂/∂z  |
+       | P       Q       R     |</pre>
+        <p class="math-warn">L 与曲面 Σ 满足右手螺旋。</p>
+      </article>
+
+      <article class="math-card">
+        <header class="math-card-head">
+          <h3>欧拉方程</h3>
+          <span class="math-tag">x=e^t</span>
+        </header>
+        <div class="math-equation">x²y'' + pxy' + qy = f(x)</div>
+        <p class="math-note">令 <code>x=e^t</code>，则：</p>
+        <div class="math-equation">xy' = dy/dt</div>
+        <div class="math-equation">x²y'' = d²y/dt² − dy/dt</div>
+      </article>
+
+      <article class="math-card">
+        <header class="math-card-head">
+          <h3>伯努利方程</h3>
+          <span class="math-tag">n≠0,1</span>
+        </header>
+        <div class="math-equation">y' + P(x)y = Q(x)·yⁿ</div>
+        <p class="math-note">令 <code>z=y^(1−n)</code>，化为一阶线性微分方程。</p>
+      </article>
+
+      <article class="math-card math-card--wide">
+        <header class="math-card-head">
+          <h3>傅里叶级数 · 狄利克雷收敛定理</h3>
+          <span class="math-tag">分段光滑</span>
+        </header>
+        <ul class="math-bullets math-bullets--two">
+          <li>连续点：收敛于 <code>f(x)</code></li>
+          <li>间断点：收敛于 <code>[f(x⁺)+f(x⁻)] / 2</code></li>
+          <li>端点 <code>x=±l</code>：收敛于 <code>[f(−l⁺)+f(l⁻)] / 2</code></li>
+        </ul>
+        <p class="math-note">奇延拓 → 正弦级数；偶延拓 → 余弦级数。</p>
+      </article>
+
+      <article class="math-card math-card--wide">
+        <header class="math-card-head">
+          <h3>空间解析几何</h3>
+          <span class="math-tag">距离与共面</span>
+        </header>
+        <div class="math-stack">
+          <p><span>点到平面</span><code>d = |Ax₀+By₀+Cz₀+D| / √(A²+B²+C²)</code></p>
+          <p><span>点到直线</span><code>d = |M₀M₁ × s| / |s|</code></p>
+          <p><span>异面直线</span><code>d = |M₁M₂ · (s₁×s₂)| / |s₁×s₂|</code></p>
+        </div>
+        <p class="math-note">混合积 <code>[a,b,c] = a·(b×c)</code>；三向量共面 ⇔ 混合积 = 0。</p>
+      </article>
+
+      <article class="math-card math-card--wide math-card--warn">
+        <header class="math-card-head">
+          <h3>曲面积分坑</h3>
+          <span class="math-tag">别套二重积分的奇偶性</span>
+        </header>
+        <p class="math-warn">对坐标的曲面积分，奇偶性和二重积分不同，必须结合曲面侧判断。</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="math-section" id="math-pitfalls" aria-labelledby="mathPitfallsTitle">
+    <header class="math-section-head">
+      <span class="math-no">04</span>
+      <div><p>EXAM TRAPS</p><h2 id="mathPitfallsTitle">通用考场避坑</h2></div>
+      <small>四个高频混淆</small>
+    </header>
+
+    <div class="pitfall-grid">
+      <article class="pitfall">
+        <span>01</span>
+        <div><h3>秩相等 ≠ 向量组等价</h3><p>秩相等是向量组等价的必要条件，不是充分条件。</p></div>
+      </article>
+      <article class="pitfall">
+        <span>02</span>
+        <div><h3>矩阵等价 ≠ 向量组等价</h3><p>矩阵等价 ⇔ 秩相等；矩阵等价与向量组等价不是一回事。</p></div>
+      </article>
+      <article class="pitfall">
+        <span>03</span>
+        <div><h3>正交变换与普通合同</h3><p>正交变换保长度、保特征值；普通合同变换只保惯性指数。</p></div>
+      </article>
+      <article class="pitfall pitfall--key">
+        <span>04</span>
+        <div>
+          <h3>配方法系数 ≠ 特征值</h3>
+          <p>配方法得到的标准形系数不一定是特征值；正交变换化标准形，系数才等于特征值。</p>
+          <b>最易忘</b>
+        </div>
+      </article>
+    </div>
+  </section>
+</div>
+
+    </section>
   </main>
 
-  <footer class="portal-footer">
-    <div><b>英语（一）真题档案</b><span>真题 / 解析 / 知识点三视图 · 2010—2026</span></div>
-    <div><a href="#archive">真题列表</a><a href="http://127.0.0.1:40810/" data-408-link>408 大题工位</a></div>
+  <footer class="portal-footer hub-footer">
+    <div><b>考研学习台</b><span>政治一页纸 · 英语真题 · 数一速记</span></div>
+    <div>
+      <a href="#politics">政治</a>
+      <a href="#english">英语</a>
+      <a href="#math">数学</a>
+      <a href="politics/index.html">一页纸阅读</a>
+    </div>
   </footer>
 
   <script>window.__YEARS__ = [{"year":2010,"title":"2010 英语（一）阅读精讲","topics":["报纸艺术评论的衰落","商业方法专利面临的司法收紧","社会流行现象中“意见领袖”的真实作用","银行游说对会计准则制定独立性的侵蚀"],"full":true,"objectiveCount":45,"vocabCount":139,"sentenceCount":51,"readingCount":4},{"year":2011,"title":"2011 英语（一）阅读精讲","topics":["纽约爱乐乐团如何应对录制音乐带来的现场音乐会危机","高管主动裸辞求职的新趋势","传统付费媒体之外的新型营销媒介","明星媒体所塑造的育儿幸福想象"],"full":true,"objectiveCount":45,"vocabCount":118,"sentenceCount":35,"readingCount":4},{"year":2012,"title":"2012 英语（一）阅读精讲","topics":["同伴压力能否被改造为改善行为的“社会疗法”","能源企业违背核电站关闭承诺所暴露的公司治理问题","科学研究中选择性发表造成的认知偏差","美国公共部门工会扩张带来的政治与财政影响"],"full":true,"objectiveCount":45,"vocabCount":161,"sentenceCount":61,"readingCount":4},{"year":2013,"title":"2013 英语（一）阅读精讲","topics":["快时尚的消费与环境代价","互联网行为定向广告引发的隐私争议","技术进步观从乐观转向忧虑的原因","美国最高法院对亚利桑那州移民法的裁决"],"full":true,"objectiveCount":45,"vocabCount":135,"sentenceCount":58,"readingCount":4},{"year":2014,"title":"2014 英语（一）阅读精讲","topics":["英国失业救济改革的真实逻辑","美国法律教育与法律服务的成本困境","巨额科学奖项的利弊","人文学科应如何证明自身的公共价值"],"full":true,"objectiveCount":45,"vocabCount":124,"sentenceCount":50,"readingCount":4},{"year":2015,"title":"2015 英语（一）阅读精讲","topics":["欧洲君主制的现实处境","数字时代手机数据的搜查边界","科研期刊加强统计审查的必要性","媒体窃听丑闻背后诚信缺失与唯利润导向的道德危机"],"full":true,"objectiveCount":45,"vocabCount":142,"sentenceCount":52,"readingCount":4},{"year":2016,"title":"2016 英语（一）阅读精讲","topics":["时尚业的畸形审美及其治理","英国乡村保护与住房开发的冲突","企业社会责任在腐败案件中的声誉价值","报业从纸质版向数字化转型的路径"],"full":true,"objectiveCount":45,"vocabCount":208,"sentenceCount":75,"readingCount":4},{"year":2017,"title":"2017 英语（一）阅读精讲","topics":["美国机场安检拥堵与 PreCheck 改革","夏威夷天文研究和原住民文化之间的冲突","GDP 与国民福祉衡量方式","美国最高法院判例对反腐败执法的影响"],"full":true,"objectiveCount":45,"vocabCount":136,"sentenceCount":56,"readingCount":4},{"year":2018,"title":"2018 英语（一）阅读精讲","topics":["自动化对中产阶层就业的冲击及政策应对","年轻人对政治信息传播渠道的态度","医疗数据共享中的隐私与监管问题","美国邮政系统的财务困境与改革方向"],"full":true,"objectiveCount":45,"vocabCount":184,"sentenceCount":60,"readingCount":4},{"year":2019,"title":"2019 英语（一）阅读精讲","topics":["企业“短期主义”及长期激励","大学成绩膨胀的成因","人工智能发展中的伦理治理","美国最高法院关于网络销售税的裁决"],"full":true,"objectiveCount":45,"vocabCount":154,"sentenceCount":59,"readingCount":4},{"year":2020,"title":"2020 英语（一）阅读精讲","topics":["英国“文化之镇”奖项能否推动城镇复兴","科学出版的暴利模式与开放获取","董事会性别配额的实际受益者","法国数字服务税与国际税制改革"],"full":true,"objectiveCount":45,"vocabCount":170,"sentenceCount":56,"readingCount":4},{"year":2021,"title":"2021 英语（一）阅读精讲","topics":["英国铁路票价上涨与服务责任","附条件现金转移项目的扶贫和环保效果","维多利亚时代肖像不露笑容的原因","网络中立规则的监管与立法困境"],"full":true,"objectiveCount":45,"vocabCount":258,"sentenceCount":58,"readingCount":4},{"year":2022,"title":"2022 英语（一）阅读精讲","topics":["塑料藏品的保存难题","Z 世代是否仍应把大学学历视为默认选择","艺术与科学合作的价值","新西兰解雇保护制度对劳动力市场的影响"],"full":true,"objectiveCount":45,"vocabCount":143,"sentenceCount":46,"readingCount":4},{"year":2023,"title":"2023 英语（一）阅读精讲","topics":["美国学校气候变化教育的争议","新英格兰地区短租监管与住房压力","英国大型出版商与连锁书店之间的供货冲突","科学评价体系中的引用操纵及其识别与应对"],"full":true,"objectiveCount":45,"vocabCount":206,"sentenceCount":56,"readingCount":4},{"year":2024,"title":"2024 英语（一）阅读精讲","topics":["低成本技术的变革力量","从狩猎采集社会借鉴共同养育","艺术家对生成式 AI 版权与隐私风险的回应","美国最高法院裁决后切萨皮克湾湿地保护面临的跨州治理问题"],"full":true,"objectiveCount":45,"vocabCount":191,"sentenceCount":64,"readingCount":4},{"year":2025,"title":"2025 英语（一）阅读精讲","topics":["戏剧化教学对儿童语言与情感发展的促进作用","科研活动的碳排放与绿色转型","流媒体时代的数字盗版治理","数字资料长期保存所面临的技术与制度难题"],"full":true,"objectiveCount":45,"vocabCount":154,"sentenceCount":62,"readingCount":4},{"year":2026,"title":"2026 英语（一）阅读精讲","topics":["驴的驯化史及基因研究价值","好莱坞影视制作外流与加州的应对","无线电带来的偶然收获及数字时代的技术反思","低强度火灾的生态益处与计划性燃烧的必要性"],"full":true,"objectiveCount":45,"vocabCount":271,"sentenceCount":57,"readingCount":4}];</script>
   <script src="assets/exam/portal.js?v=bd5f521f1f"></script>
+  <script src="assets/exam/hub.js?v=140b90dfc4"></script>
 </body>
 </html>

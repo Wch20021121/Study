@@ -1,6 +1,16 @@
-# 2010—2026 英语（一）真题档案
+# 考研学习台：政治 / 英语 / 数学
 
-每套卷子现在是一个年度工作区，顶部固定三个视图：
+`index.html` 现在是统一入口，顶部三个标签切换模块：
+
+| 模块 | 内容 | 入口 |
+| --- | --- | --- |
+| 政治 | 2027《一页纸》知识点手册，36 页单页阅读版 | `politics/index.html` |
+| 英语 | 2010—2026 英语（一）真题、随机练、作文模板 | 本页的“英语”标签 |
+| 数学 | 数一易忘 & 易错速记清单 | 本页的“数学”标签 |
+
+政治阅读器是从 `../../politics-site/site/` 复制生成的，构建时同步；阅读器的品牌链接会返回学习台政治模块。
+
+英语部分仍然是一个年度工作区，顶部固定三个视图：
 
 | 视图 | 路径 | 用途 |
 | --- | --- | --- |
@@ -14,7 +24,7 @@
 - **导入**：恢复同一年的 JSON 暂存；
 - **清空**：确认后清空本卷作答、计时、交卷记录和主观题自评，回到“真题”；词汇掌握标记保留。
 
-总入口是 `index.html`，支持筛选“未交卷 / 已交卷”。
+英语模块的入口是 `index.html` 的“英语”标签，真题列表支持筛选“未交卷 / 已交卷”。
 
 另有独立的 **随机练** 模块 `/drill/`：按套做题，做完统一提交后才请求答案和解析。随机阅读为一篇 5 题，随机新题型为一组 5 题，随机完形为一篇 20 空；随机一题、各年首题、各年阅读首题为单题。练习记录只保存在本机。
 
@@ -29,7 +39,10 @@
 
 ## 现在有什么
 
-- `index.html`：17 套卷子的真题 / 解析 / 知识点入口。
+- `index.html`：统一学习台，政治 / 英语 / 数学三个标签。
+- `politics/index.html`：政治一页纸单页阅读器（构建时从 `politics-site/site/` 同步）。
+- `politics/pages/*.webp`：政治 PDF 渲染页。
+- 英语模块：17 套卷子的真题 / 解析 / 知识点入口。
 - `practice/2010.html`—`practice/2026.html`：真题视图。
 - `analysis/2010.html`—`analysis/2026.html`：真题解析视图。
 - `knowledge/2010.html`—`knowledge/2026.html`：知识点分析视图。
@@ -67,7 +80,8 @@ python3 English/frontend/src/exam/build_exam.py
 - `drill/index.html`、`drill/play.html`
 - `writing/index.html`、`writing/play.html`
 - `index.html`
-- `assets/exam/exam.css`、`practice.js`、`analysis.js`、`knowledge.js`、`yearbar.js`、`portal.js`
+- `assets/exam/exam.css`、`hub.css`、`practice.js`、`analysis.js`、`knowledge.js`、`yearbar.js`、`portal.js`、`hub.js`
+- `politics/`：从 `politics-site/site/` 同步的政治阅读器和页面图
 - `assets/drill/*`
 - `assets/writing-bank/*`
 

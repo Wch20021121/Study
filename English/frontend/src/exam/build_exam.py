@@ -36,6 +36,8 @@ OUT_WRITING = ROOT / "writing"
 ASSETS = ROOT / "assets" / "exam"
 ASSETS_DRILL = ROOT / "assets" / "drill"
 ASSETS_WRITING = ROOT / "assets" / "writing-bank"
+POLITICS_SRC = ROOT.parents[1] / "politics-site" / "site"
+POLITICS_OUT = ROOT / "politics"
 
 
 def asset_version() -> str:
@@ -43,6 +45,14 @@ def asset_version() -> str:
     for name in ("exam.css", "practice.js", "analysis.js", "knowledge.js", "yearbar.js",
                  "portal.js", "drill.css", "drill-hub.js", "drill-play.js",
                  "writing.css", "writing-library.js", "writing-play.js"):
+        digest.update((SRC / name).read_bytes())
+    return digest.hexdigest()[:10]
+
+
+def hub_version() -> str:
+    """Version only the unified-hub assets so other pages do not churn."""
+    digest = hashlib.sha256()
+    for name in ("hub.css", "hub.js"):
         digest.update((SRC / name).read_bytes())
     return digest.hexdigest()[:10]
 
@@ -714,7 +724,8 @@ def main() -> None:
     ASSETS.mkdir(parents=True, exist_ok=True)
     ASSETS_DRILL.mkdir(parents=True, exist_ok=True)
     ASSETS_WRITING.mkdir(parents=True, exist_ok=True)
-    for name in ("exam.css", "practice.js", "analysis.js", "knowledge.js", "yearbar.js", "portal.js"):
+    for name in ("exam.css", "hub.css", "practice.js", "analysis.js", "knowledge.js",
+                 "yearbar.js", "portal.js", "hub.js", "favicon.svg"):
         shutil.copyfile(SRC / name, ASSETS / name)
     for name in ("drill.css", "drill-hub.js", "drill-play.js"):
         shutil.copyfile(SRC / name, ASSETS_DRILL / name)
@@ -740,6 +751,20 @@ def main() -> None:
     print("writing", len(writing_index["prompts"]), "prompts",
           writing_index["counts"])
 
+    if POLITICS_SRC.exists():
+        shutil.copytree(POLITICS_SRC, POLITICS_OUT, dirs_exist_ok=True)
+        reader_index = POLITICS_OUT / "index.html"
+        if reader_index.exists():
+            reader_html = reader_index.read_text(encoding="utf-8")
+            reader_html = reader_html.replace(
+                '<a class="brand" href="./" aria-label="一页纸，回到阅读页">',
+                '<a class="brand" href="../#politics" aria-label="一页纸，返回考研学习台政治模块">',
+            )
+            reader_index.write_text(reader_html, encoding="utf-8")
+        print("politics", len(list((POLITICS_OUT / "pages").glob("*.webp"))), "pages")
+    else:
+        print("warning: politics-site/site not found; /politics/ was not refreshed")
+
     portal_data = [
         {
             "year": y["year"],
@@ -753,10 +778,13 @@ def main() -> None:
         }
         for y in years
     ]
+    math_notes = (SRC / "math-notes.template.html").read_text(encoding="utf-8")
     portal = (SRC / "portal.template.html").read_text(encoding="utf-8")
     portal = (portal
               .replace("{{COUNT}}", str(len(years)))
               .replace("{{ASSET_VERSION}}", asset_version())
+              .replace("{{HUB_VERSION}}", hub_version())
+              .replace("{{MATH_NOTES}}", math_notes)
               .replace("{{YEARS_DATA}}", json_for_script(portal_data)))
     (ROOT / "index.html").write_text(portal, encoding="utf-8")
     print("portal", len(portal) // 1024, "KB", "years", len(years))

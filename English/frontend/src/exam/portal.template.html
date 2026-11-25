@@ -4,33 +4,111 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light">
-  <meta name="description" content="2010—2026 考研英语（一）真题档案：每套卷子分为三个视图：真题、真题解析、知识点分析；另有随机练模块。支持在线作答、暂存 JSON、交卷阅卷、错题定位、全卷解析、重难点词汇、随机练和作文模板。">
-  <title>英语（一）真题档案 · 真题 / 解析 / 知识点</title>
+  <meta name="theme-color" content="#13211d">
+  <link rel="icon" href="assets/exam/favicon.svg" type="image/svg+xml">
+  <meta name="description" content="2027 考研学习台：政治一页纸、英语（一）真题档案与数一易忘易错速记，一个入口切换三个模块。">
+  <title>考研学习台 · 政治 / 英语 / 数学</title>
   <link rel="stylesheet" href="assets/exam/exam.css?v={{ASSET_VERSION}}">
+  <link rel="stylesheet" href="assets/exam/hub.css?v={{HUB_VERSION}}">
   <link rel="stylesheet" href="assets/drill/drill.css?v={{ASSET_VERSION}}">
   <link rel="stylesheet" href="assets/writing-bank/writing.css?v={{ASSET_VERSION}}">
 </head>
-<body class="portal-page" data-page="portal">
-  <a class="skip-link" href="#archive">跳到真题列表</a>
+<body class="portal-page hub-page" data-page="portal">
+  <a class="skip-link" href="#hub-main">跳到主要内容</a>
 
-  <header class="portal-bar">
-    <a class="exam-brand" href="index.html" aria-label="英语真题档案首页">
-      <span class="brand-seal">英</span>
-      <span class="brand-copy"><b>英语（一）</b><small>真题档案 / 2010—2026</small></span>
+  <header class="hub-bar">
+    <a class="hub-brand" href="#english" aria-label="考研学习台，回到英语模块">
+      <span class="hub-seal" aria-hidden="true">研</span>
+      <span class="hub-brand-copy">
+        <b>考研学习台</b>
+        <small>2027 · 政治 / 英语 / 数学</small>
+      </span>
     </a>
-    <nav class="portal-nav" aria-label="首页导航">
-      <a href="#archive">真题</a>
-      <a href="drill/index.html">随机练</a>
-      <a href="writing/index.html">作文模板</a>
-      <a href="#how">怎么用</a>
-      <a href="2021.html#skills">方法库</a>
-      <a href="#plan">7 日计划</a>
+
+    <nav class="hub-tabs" role="tablist" aria-label="学习模块">
+      <button class="hub-tab hub-tab--politics" id="tab-politics" type="button" role="tab"
+              aria-selected="false" aria-controls="panel-politics" tabindex="-1" data-module="politics">
+        <span class="hub-tab-dot" aria-hidden="true"></span>
+        <span class="hub-tab-label">政治</span>
+        <small>一页纸</small>
+      </button>
+      <button class="hub-tab hub-tab--english" id="tab-english" type="button" role="tab"
+              aria-selected="true" aria-controls="panel-english" tabindex="0" data-module="english">
+        <span class="hub-tab-dot" aria-hidden="true"></span>
+        <span class="hub-tab-label">英语</span>
+        <small>真题 / 作文</small>
+      </button>
+      <button class="hub-tab hub-tab--math" id="tab-math" type="button" role="tab"
+              aria-selected="false" aria-controls="panel-math" tabindex="-1" data-module="math">
+        <span class="hub-tab-dot" aria-hidden="true"></span>
+        <span class="hub-tab-label">数学</span>
+        <small>数一速记</small>
+      </button>
     </nav>
-    <span class="portal-count">{{COUNT}} 套 · 3 个视图</span>
+
+    <div class="hub-bar-meta">
+      <span class="hub-meta-dot" aria-hidden="true"></span>
+      <span>三科 · 一个入口</span>
+    </div>
   </header>
 
-  <main>
-    <section class="portal-hero">
+  <main class="hub-main" id="hub-main" tabindex="-1">
+    <section class="hub-panel hub-panel--politics" id="panel-politics" data-panel="politics"
+             role="tabpanel" aria-labelledby="tab-politics" hidden>
+      <div class="politics-hero">
+        <div class="politics-copy">
+          <p class="hub-kicker">POLITICS · 2027</p>
+          <h1>政治<br><em>一页纸</em></h1>
+          <p class="politics-lede">2027 考研政治知识点手册。把 39 页 PDF 变成一屏一页的翻页阅读，重点用颜色标出；每天翻几页，比从头背更轻。</p>
+          <div class="hub-actions">
+            <a class="btn btn-red" href="politics/index.html">翻开一页纸 <span>→</span></a>
+            <a class="btn btn-ghost" href="politics/index.html#p=30">直奔会议大观</a>
+          </div>
+          <p class="politics-resume" id="politicsResume">从封面开始 · 阅读位置会自动记住</p>
+          <div class="politics-stats">
+            <div><b>36</b><span>页阅读版</span></div>
+            <div><b>06</b><span>个章节</span></div>
+            <div><b>1</b><span>页一屏</span></div>
+          </div>
+        </div>
+        <a class="politics-cover" href="politics/index.html" aria-label="打开政治一页纸">
+          <img src="politics/pages/01.webp" alt="2027 一页纸知识点手册封面" width="1654" height="2339">
+          <span>2027 · 知识点手册</span>
+        </a>
+      </div>
+
+      <div class="politics-sections">
+        <div class="politics-section-head">
+          <div><p class="hub-kicker">CHAPTERS</p><h2>按章节跳进去</h2></div>
+          <p>页码为阅读器顺序，原书页脚可能不同。</p>
+        </div>
+        <div class="politics-grid">
+          <a href="politics/index.html#p=10"><span>01</span><b>马原</b><small>基本知识 / 资本主义 / 政经</small><em>10—16</em></a>
+          <a href="politics/index.html#p=17"><span>02</span><b>史纲</b><small>早期 / 大革命 / 土地革命 / 抗战</small><em>17—22</em></a>
+          <a href="politics/index.html#p=23"><span>03</span><b>建国后</b><small>社会主义改造 / 建设 / 理论</small><em>23—28</em></a>
+          <a href="politics/index.html#p=29"><span>04</span><b>三大辨析</b><small>作风 / 活的灵魂 / 思想路线</small><em>29</em></a>
+          <a href="politics/index.html#p=30"><span>05</span><b>会议大观</b><small>一大到十八届三中全会</small><em>30—33</em></a>
+          <a href="politics/index.html#p=34"><span>06</span><b>其他</b><small>高质量发展 / 法治体系</small><em>34</em></a>
+        </div>
+        <p class="politics-note">原 PDF 共 39 页，阅读版跳过 3 张空白页。翻页、目录、手机滑动都在阅读器里。</p>
+      </div>
+    </section>
+
+    <section class="hub-panel hub-panel--english" id="panel-english" data-panel="english"
+             role="tabpanel" aria-labelledby="tab-english">
+      <nav class="english-subnav" aria-label="英语模块导航">
+        <div class="english-subnav-title"><b>英语（一）</b><span>2010—2026 · {{COUNT}} 套</span></div>
+        <div class="english-subnav-links">
+          <a href="#archive">真题</a>
+          <a href="drill/index.html">随机练</a>
+          <a href="writing/index.html">作文模板</a>
+          <a href="#how">怎么用</a>
+          <a href="2021.html#skills">方法库</a>
+          <a href="#plan">7 日计划</a>
+        </div>
+      </nav>
+
+      <section class="portal-hero">
       <div class="portal-hero-copy">
         <p class="hero-kicker">NATIONAL POSTGRADUATE ENTRANCE EXAMINATION · ENGLISH I</p>
         <h1>做题是前半场，<br><em>阅卷</em>是后半场。</h1>
@@ -146,14 +224,26 @@
         <a class="btn btn-ghost btn-small" href="2021.html#skills">阅读方法</a>
       </div>
     </section>
+    </section>
+
+    <section class="hub-panel hub-panel--math" id="panel-math" data-panel="math"
+             role="tabpanel" aria-labelledby="tab-math" hidden>
+      {{MATH_NOTES}}
+    </section>
   </main>
 
-  <footer class="portal-footer">
-    <div><b>英语（一）真题档案</b><span>真题 / 解析 / 知识点三视图 · 2010—2026</span></div>
-    <div><a href="#archive">真题列表</a><a href="http://127.0.0.1:40810/" data-408-link>408 大题工位</a></div>
+  <footer class="portal-footer hub-footer">
+    <div><b>考研学习台</b><span>政治一页纸 · 英语真题 · 数一速记</span></div>
+    <div>
+      <a href="#politics">政治</a>
+      <a href="#english">英语</a>
+      <a href="#math">数学</a>
+      <a href="politics/index.html">一页纸阅读</a>
+    </div>
   </footer>
 
   <script>window.__YEARS__ = {{YEARS_DATA}};</script>
   <script src="assets/exam/portal.js?v={{ASSET_VERSION}}"></script>
+  <script src="assets/exam/hub.js?v={{HUB_VERSION}}"></script>
 </body>
 </html>
