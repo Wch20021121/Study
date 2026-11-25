@@ -160,45 +160,129 @@
     <h2>高等数学（数一专属）</h2>
 
     <h3>梯度、散度、旋度</h3>
+    <p>记 \(\nabla=(\partial_{x},\partial_{y},\partial_{z})\)。三者作用对象不同：\(\operatorname{grad}\) 把数量场变成向量场，\(\operatorname{div}\) 把向量场变成数量场，\(\operatorname{rot}\) 把向量场变成向量场。</p>
     <p class="math-result">\[
       \operatorname{grad}u=\nabla u
       =(\partial_{x}u,\partial_{y}u,\partial_{z}u)
     \]</p>
-    <p>方向导数：\(\partial_{\mathbf l}u=\nabla u\cdot\mathbf l\)（\(\mathbf l\) 为单位向量）；梯度方向是函数增长最快的方向，\(\nabla u\) 垂直于等值面。</p>
+    <p>全微分与方向导数：</p>
+    <p class="math-result">\[
+      \mathrm du=\nabla u\cdot\mathrm d\mathbf r
+      =\partial_{x}u\,\mathrm dx
+      +\partial_{y}u\,\mathrm dy
+      +\partial_{z}u\,\mathrm dz
+    \]</p>
+    <p class="math-result">\[
+      \partial_{\mathbf l}u=\nabla u\cdot\mathbf l
+      \quad(|\mathbf l|=1)
+    \]</p>
+    <p>梯度方向是 \(u\) 增长最快的方向，\(|\nabla u|\) 是最大变化率；\(\nabla u\) 是等值面 \(u=C\) 的法向量。单位法向量与切平面：</p>
+    <p class="math-result">\[
+      \mathbf n=\frac{\nabla u}{|\nabla u|},
+      \qquad
+      \nabla u(M_{0})\cdot(\mathbf r-\mathbf r_{0})=0
+    \]</p>
     <p class="math-result">\[
       \operatorname{div}\mathbf A
+      =\nabla\cdot\mathbf A
       =\partial_{x}A_{x}+\partial_{y}A_{y}+\partial_{z}A_{z}
     \]</p>
-    <p>散度是通量的体密度：\(\operatorname{div}\mathbf A>0\) 为源，\(<0\) 为汇。</p>
+    <p>散度是通量的体密度：</p>
     <p class="math-result">\[
-      \operatorname{rot}\mathbf A=
+      \operatorname{div}\mathbf A(M)
+      =\lim_{V\to0}\frac{1}{V}
+      \iint_{\partial V}\mathbf A\cdot\mathbf n\,\mathrm dS
+    \]</p>
+    <p>\(\operatorname{div}\mathbf A>0\) 为源，\(<0\) 为汇；\(\operatorname{div}\mathbf A=0\) 为无源场。</p>
+    <p class="math-result">\[
+      \operatorname{rot}\mathbf A
+      =\nabla\times\mathbf A
+      =
       \begin{vmatrix}
         \mathbf i & \mathbf j & \mathbf k\\
         \partial_{x} & \partial_{y} & \partial_{z}\\
         A_{x} & A_{y} & A_{z}
       \end{vmatrix}
     \]</p>
-    <p>旋度是环量的面密度；\(\operatorname{rot}\mathbf A=0\) 为无旋场。</p>
-    <p>恒等式：\(\operatorname{rot}(\operatorname{grad}u)=0\)，\(\operatorname{div}(\operatorname{rot}\mathbf A)=0\)。</p>
-    <p>通量：\(\displaystyle\iint_{\Sigma}\mathbf A\cdot\mathbf n\,\mathrm dS\)；环量：\(\displaystyle\oint_{L}\mathbf A\cdot\tau\,\mathrm ds\)。</p>
-    <p>高斯公式（闭曲面取外侧）：</p>
+    <p>旋度是环量的面密度：</p>
     <p class="math-result">\[
-      \iint_{\Sigma}\mathbf A\cdot\mathbf n\,\mathrm dS
-      =\iiint_{\Omega}\operatorname{div}\mathbf A\,\mathrm dV
+      (\operatorname{rot}\mathbf A\cdot\mathbf n)(M)
+      =\lim_{S\to0}\frac{1}{S}
+      \oint_{\partial S}\mathbf A\cdot\tau\,\mathrm ds
+    \]</p>
+    <p>\(\operatorname{rot}\mathbf A=0\) 为无旋场；单连通区域上无旋等价于保守场。</p>
+    <p>恒等式：</p>
+    <p class="math-result">\[
+      \operatorname{rot}(\operatorname{grad}u)=0,
+      \qquad
+      \operatorname{div}(\operatorname{rot}\mathbf A)=0
+    \]</p>
+    <p class="math-result">\[
+      \operatorname{div}(\operatorname{grad}u)=\Delta u,
+      \qquad
+      \operatorname{rot}(\operatorname{rot}\mathbf A)
+      =\operatorname{grad}(\operatorname{div}\mathbf A)
+      -\Delta\mathbf A
+    \]</p>
+    <p>乘积法则：</p>
+    <p class="math-result">\[
+      \operatorname{div}(u\mathbf A)
+      =u\operatorname{div}\mathbf A+\nabla u\cdot\mathbf A
+    \]</p>
+    <p class="math-result">\[
+      \operatorname{rot}(u\mathbf A)
+      =u\operatorname{rot}\mathbf A+\nabla u\times\mathbf A
     \]</p>
 
-    <h3>斯托克斯公式</h3>
+    <h3>通量与高斯公式</h3>
+    <p>向量场 \(\mathbf A=(P,Q,R)\) 通过定向曲面 \(\Sigma\) 的通量：</p>
     <p class="math-result">\[
-      \oint_{L}P\,\mathrm{d}x+Q\,\mathrm{d}y+R\,\mathrm{d}z
+      \Phi=\iint_{\Sigma}\mathbf A\cdot\mathbf n\,\mathrm dS
+      =\iint_{\Sigma}\mathbf A\cdot\mathrm d\mathbf S
+    \]</p>
+    <p>若 \(\Sigma:z=z(x,y)\)，取上侧：</p>
+    <p class="math-result">\[
+      \mathrm d\mathbf S=(-z_{x},-z_{y},1)\,\mathrm dx\,\mathrm dy
+    \]</p>
+    <p class="math-result">\[
+      \Phi=\iint_{D}
+      (-Pz_{x}-Qz_{y}+R)\,\mathrm dx\,\mathrm dy
+    \]</p>
+    <p>若 \(\Sigma:\mathbf r(u,v)\)，则 \(\mathrm d\mathbf S=(\mathbf r_{u}\times\mathbf r_{v})\,\mathrm du\,\mathrm dv\)，方向由参数顺序决定。</p>
+    <p>高斯公式（\(\Sigma\) 为闭曲面外侧，\(\Omega\) 为内部）：</p>
+    <p class="math-result">\[
+      \iint_{\Sigma}\mathbf A\cdot\mathrm d\mathbf S
+      =\iiint_{\Omega}\operatorname{div}\mathbf A\,\mathrm dV
+    \]</p>
+    <p>这是“曲面积分 \(\leftrightarrow\) 三重积分”的转换；\(\operatorname{div}\mathbf A=0\) 时闭曲面通量为 0。</p>
+
+    <h3>环量与斯托克斯公式</h3>
+    <p>沿有向闭曲线 \(L\) 的环量：</p>
+    <p class="math-result">\[
+      \Gamma=\oint_{L}\mathbf A\cdot\tau\,\mathrm ds
+      =\oint_{L}P\,\mathrm dx+Q\,\mathrm dy+R\,\mathrm dz
+    \]</p>
+    <p>斯托克斯公式：</p>
+    <p class="math-result">\[
+      \oint_{L}P\,\mathrm dx+Q\,\mathrm dy+R\,\mathrm dz
       =
       \iint_{\Sigma}
       \begin{vmatrix}
-        \mathrm{d}y\,\mathrm{d}z & \mathrm{d}z\,\mathrm{d}x & \mathrm{d}x\,\mathrm{d}y\\
+        \mathrm dy\,\mathrm dz & \mathrm dz\,\mathrm dx & \mathrm dx\,\mathrm dy\\
         \dfrac{\partial}{\partial x} & \dfrac{\partial}{\partial y} & \dfrac{\partial}{\partial z}\\
         P & Q & R
       \end{vmatrix}
     \]</p>
-    <p>\(L\) 与曲面 \(\Sigma\) 满足右手螺旋。</p>
+    <p>\(L\) 与 \(\Sigma\) 满足右手螺旋；这是“曲线积分 \(\leftrightarrow\) 曲面积分”的转换。</p>
+    <p>平面情形即格林公式：</p>
+    <p class="math-result">\[
+      \oint_{L}P\,\mathrm dx+Q\,\mathrm dy
+      =\iint_{D}
+      \left(\frac{\partial Q}{\partial x}
+      -\frac{\partial P}{\partial y}\right)
+      \mathrm dx\,\mathrm dy
+    \]</p>
+    <p>三种积分公式的边界对应：格林 \(L=\partial D\)，斯托克斯 \(L=\partial\Sigma\)，高斯 \(\Sigma=\partial\Omega\)。</p>
 
     <h3>欧拉方程</h3>
     <p class="math-result">\[
