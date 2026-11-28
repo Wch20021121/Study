@@ -610,6 +610,79 @@
     <h3>曲面积分坑</h3>
     <p class="math-warning">对坐标的曲面积分，奇偶性和二重积分不同，必须结合曲面侧判断。</p>
 
+    <h3 id="math-fractions">有理函数积分：部分分式拆分</h3>
+    <p>被积函数为 \(\dfrac{P(x)}{Q(x)}\)，拆分步骤：</p>
+    <ol class="math-list">
+      <li>若 \(\deg P\ge\deg Q\)，先做多项式除法，写成“多项式 + 真分式”。例如
+        \[\frac{x^{3}+1}{x^{2}+1}=x+\frac{1-x}{x^{2}+1}.\]</li>
+      <li>把 \(Q(x)\) 在实数范围内分解为一次因式与不可约二次因式。</li>
+      <li>按因子类型设部分分式，通分后比较系数；单根也可用代入法（遮蔽法）直接求系数。</li>
+      <li>逐项积分；二次因式先配方。</li>
+    </ol>
+    <p>以下设已化成真分式（分子次数低于分母）。常见拆分形式：</p>
+    <p class="math-result">\[
+      \frac{P(x)}{(x-a)(x-b)}
+      =\frac{A}{x-a}+\frac{B}{x-b}
+    \]</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        \frac{P(x)}{(x-a)^{k}}
+        ={}&\frac{A_{1}}{x-a}+\frac{A_{2}}{(x-a)^{2}}\\
+        &+\cdots+\frac{A_{k}}{(x-a)^{k}}
+      \end{aligned}
+    \]</p>
+    <p class="math-result">\[
+      \frac{P(x)}{x^{2}+px+q}
+      =\frac{Bx+C}{x^{2}+px+q}
+      \quad(p^{2}-4q<0)
+    \]</p>
+    <p>若分母含 \((x^{2}+px+q)^{m}\)，对 \(j=1,\dots,m\) 各设一项 \(\dfrac{B_{j}x+C_{j}}{(x^{2}+px+q)^{j}}\)。</p>
+    <p>单根用遮蔽法：</p>
+    <p class="math-result">\[
+      \frac{1}{x(x+1)}=\frac{A}{x}+\frac{B}{x+1}
+    \]</p>
+    <p class="math-result">\[
+      A=\left.\frac{1}{x+1}\right|_{x=0}=1,
+      \qquad
+      B=\left.\frac{1}{x}\right|_{x=-1}=-1
+    \]</p>
+    <p class="math-result">\[
+      \int\frac{\mathrm dx}{x(x+1)}
+      =\ln|x|-\ln|x+1|+C
+      =\ln\left|\frac{x}{x+1}\right|+C
+    \]</p>
+    <p>重根示例：</p>
+    <p class="math-result">\[
+      \frac{1}{x(x-1)^{2}}
+      =\frac{A}{x}+\frac{B}{x-1}+\frac{C}{(x-1)^{2}}
+    \]</p>
+    <p class="math-result">\[
+      A=1,\qquad B=-1,\qquad C=1
+    \]</p>
+    <p>含不可约二次因式：</p>
+    <p class="math-result">\[
+      \frac{1}{x(x^{2}+1)}=\frac{A}{x}+\frac{Bx+C}{x^{2}+1}
+      \;\Longrightarrow\;
+      A=1,\ B=-1,\ C=0
+    \]</p>
+    <p class="math-result">\[
+      \int\frac{\mathrm dx}{x(x^{2}+1)}
+      =\ln|x|-\frac{1}{2}\ln(x^{2}+1)+C
+    \]</p>
+    <p>二次因式配方：\(x^{2}+px+q=\left(x+\dfrac p2\right)^{2}+q-\dfrac{p^{2}}4\)，再拆成 \(\dfrac{2x+p}{x^{2}+px+q}\) 与常数项。</p>
+    <p>常用积分：</p>
+    <p class="math-result">\[
+      \begin{aligned}
+        \int\frac{\mathrm dx}{x-a}&=\ln|x-a|+C,\\
+        \int\frac{\mathrm dx}{(x-a)^{k}}
+        &=\frac{(x-a)^{1-k}}{1-k}+C\quad(k\ne1),\\
+        \int\frac{\mathrm dx}{x^{2}+a^{2}}
+        &=\frac{1}{a}\arctan\frac{x}{a}+C,\\
+        \int\frac{x\,\mathrm dx}{x^{2}+a^{2}}
+        &=\frac{1}{2}\ln(x^{2}+a^{2})+C.
+      \end{aligned}
+    \]</p>
+
     <h3>特殊积分与冷门补充</h3>
     <p>\(\dfrac{1}{\cos x}=\sec x\)，\(\dfrac{1}{\sin x}=\csc x\)。</p>
     <p class="math-result">\[
